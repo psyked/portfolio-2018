@@ -1,0 +1,13 @@
+---
+path: /imagesizer-reviewed-on-refreshingappscom/
+layout: post
+title: ImageSizer reviewed on RefreshingApps.com
+date: 2009-03-20T19:34:41Z
+tags:
+- imagesizer
+---
+
+<a href="http://refreshingapps.com/showcase/app/imagesizer/" target="_blank"><img class="alignnone size-full wp-image-814" title="Refreshing Apps Review" src="http://uploads.psyked.co.uk/2009/03/refreshingapps.jpg" alt="Refreshing Apps Review" width="500" height="280" /></a>
+
+ImageSizer has been reviewed over at RefreshingApps.com. It's a pretty good review, so go check it out at: <a href="http://refreshingapps.com/showcase/app/imagesizer/" target="_blank">http://refreshingapps.com/showcase/app/imagesizer/</a>. You can of course <a href="http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&amp;offeringid=10740&amp;marketplaceid=1" target="_blank">download ImageSizer from the Adobe AIR Marketplace</a>, or via the install badge below;
+<p style="text-align: center;"><object width="215" height="180" data="/airapps/AIRInstallBadge.swf" type="application/x-shockwave-flash"><param name="flashvars" value="airversion=1.5&amp;appname=ImageSizer&amp;appurl=http://psyked.co.uk/airapps/ImageSizer0468m.air&amp;image=http://psyked.co.uk/airapps/imagesizerbadge.jpg&amp;appid=couk.psyked.ImageSizer&amp;pubid=07510AB144CCA2FB1C33EE50283E9A7AD43F7966.1&amp;appversion=0.4.6.8&amp;titlecolor=#339999" /><param name="src" value="/airapps/AIRInstallBadge.swf" /></object>
