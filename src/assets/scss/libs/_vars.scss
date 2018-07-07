@@ -30,18 +30,19 @@
 
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
-		accent1:			#6fc3df,
-		accent2:			#8d82c4,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		bg:					hsl(240, 14%, 99%),
+		// bg-alt:				repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px),
+		bg-alt:				hsl(240, 14%, 94%),
+		fg:					hsl(240, 14%, 19%),
+		fg-bold:			hsl(240, 14%, 14%),
+		fg-light:			hsl(240, 100%, 18%),
+		border:				hsl(240, 100%, 12%),
+		border-bg:			hsl(240, 14%, 92%),
+		highlight:			#4cd137,
+		accent1:			hsl(195, 64%, 65%),
+		accent2:			hsl(250, 36%, 64%),
+		accent3:			hsl(7, 74%, 72%),
+		accent4:			hsl(30, 66%, 72%),
+		accent5:			hsl(222, 66%, 73%),
+		accent6:			hsl(148, 35%, 65%)
 	);

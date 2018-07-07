@@ -18,13 +18,13 @@ class Template extends React.Component {
         this.handleToggleMenu = this.handleToggleMenu.bind(this)
     }
 
-    componentDidMount () {
+    componentDidMount() {
         this.timeoutId = setTimeout(() => {
-            this.setState({loading: ''});
+            this.setState({ loading: '' });
         }, 100);
     }
 
-    componentWillUnmount () {
+    componentWillUnmount() {
         if (this.timeoutId) {
             clearTimeout(this.timeoutId);
         }
@@ -47,7 +47,7 @@ class Template extends React.Component {
                 <div id="wrapper">
                     <Header onToggleMenu={this.handleToggleMenu} />
                     {children()}
-                    <Contact />
+                    {/* <Contact /> */}
                     <Footer />
                 </div>
                 <Menu onToggleMenu={this.handleToggleMenu} />
