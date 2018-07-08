@@ -5,26 +5,28 @@
 
 .profileImage {
     border-radius: 50%;
+    border: 1px solid _palette(fg);
 }
 
 .container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 736px) {
     .container {
-        flex-direction: row;
+        flex-direction: column;
+        align-items: flex-start;
     }
 }
 
 .profileImageContainer {
     margin-right: 1.5em;
     padding: .5em;
-    background: repeating-linear-gradient(45deg, _palette(bg), _palette(bg) 10px, _palette(bg-alt) 10px, _palette(bg-alt) 20px);
+    // background: repeating-linear-gradient(45deg, _palette(bg), _palette(bg) 10px, _palette(bg-alt) 10px, _palette(bg-alt) 20px);
+    background: _palette(highlight);
     border-radius: 50%;
-    height: calc(122px + 1em);
-    border: 1px solid;
+    height: calc(120px + 1em);
     box-sizing: border-box;
 }
 

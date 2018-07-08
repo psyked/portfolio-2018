@@ -1,5 +1,6 @@
 import React from 'react'
 import ProfileImage from '../assets/images/profile-image.jpg'
+import Link from 'gatsby-link';
 
 import styles from './Banner.module.scss'
 
@@ -16,8 +17,11 @@ const Banner = (props) => (
                     </header>
                     <div className="content">
                         <p>
-                            Finely-honed elevator pitch goes here.<br />
-                            Something something awesome words something.
+                            Technical Lead at comparethemarket.com
+                        </p>
+                        <p>
+                            I make things using <Link to={'/tag/javascript'}>Javascript</Link> and <Link to={'/tag/html5'}>HTML5.</Link><br />
+                            I particularly care about &ldquo;delightful details&rdquo; and working with visuals.
                         </p>
                     </div>
                     <div className="content">
@@ -32,7 +36,7 @@ const Banner = (props) => (
                 </div>
             </div>
         </div>
-    </section>
+    </section >
 )
 
 export default Banner
