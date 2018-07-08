@@ -1,0 +1,35 @@
+@import '../assets/scss/libs/vars';
+@import '../assets/scss/libs/functions';
+@import '../assets/scss/libs/mixins';
+@import '../assets/scss/libs/skel';
+
+.profileImage {
+    border-radius: 50%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1280px) {
+    .container {
+        flex-direction: row;
+    }
+}
+
+.profileImageContainer {
+    margin-right: 1.5em;
+    padding: .5em;
+    background: repeating-linear-gradient(45deg, _palette(bg), _palette(bg) 10px, _palette(bg-alt) 10px, _palette(bg-alt) 20px);
+    border-radius: 50%;
+    height: calc(122px + 1em);
+    border: 1px solid;
+    box-sizing: border-box;
+}
+
+.textContainer {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
