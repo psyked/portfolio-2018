@@ -6,7 +6,7 @@ date: 2009-07-05T20:22:23Z
 tags:
 - actionscript
 - twitter
-- actionscript-3
+- actionscript
 - twitpic
 ---
 

@@ -5,7 +5,7 @@ title: Fish Eye Menu in ActionScript 2.0
 date: 2008-10-12T13:01:05Z
 tags:
 - flash
-- actionscript-2
+- actionscript
 ---
 
 A little while ago we had to do a Fish Eye menu - the magnification effect you see on the Mac OSX dock menu - but we had to do it in ActionScript 2.0, rather than ActionScript 3.0.

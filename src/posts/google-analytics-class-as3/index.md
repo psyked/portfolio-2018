@@ -5,7 +5,7 @@ title: Google Analytics Class - AS3
 date: 2008-03-01T17:25:24Z
 tags:
 - actionscript
-- actionscript-3
+- actionscript
 - as3
 - externalinterface
 ---

@@ -5,7 +5,7 @@ title: Red Interactive
 date: 2008-05-07T22:30:48Z
 tags:
 - external-links
-- actionscript-3
+- actionscript
 - chat
 - full-browser-flash
 - sockets

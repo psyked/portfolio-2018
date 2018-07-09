@@ -6,7 +6,7 @@ date: 2009-02-10T09:05:09Z
 tags:
 - flash
 - flex
-- actionscript-3
+- actionscript
 - air
 - google-analytics
 ---

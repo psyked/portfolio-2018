@@ -4,7 +4,7 @@ layout: post
 title: 'Link: Name your loops'
 date: 2009-12-04T08:05:25Z
 tags:
-- actionscript-3
+- actionscript
 ---
 
 <a href="http://blogs.adobe.com/cantrell/archives/2009/12/labels_in_actionscript_3.html" target="_blank"><img class="alignnone size-full wp-image-1048" title="Name your loops" src="http://uploads.psyked.co.uk/2009/12/nameyourloops.jpg" alt="Name your loops" width="500" height="280" /></a>

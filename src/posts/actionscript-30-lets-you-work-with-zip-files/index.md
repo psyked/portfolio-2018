@@ -6,7 +6,7 @@ date: 2007-08-09T13:06:03Z
 tags:
 - actionscript
 - external-links
-- actionscript-3
+- actionscript
 - zip
 ---
 

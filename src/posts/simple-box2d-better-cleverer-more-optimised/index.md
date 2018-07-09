@@ -5,7 +5,7 @@ title: Simple Box2D - Better, cleverer, more optimised.
 date: 2010-02-03T08:29:44Z
 tags:
 - box2d
-- actionscript-30
+- actionscript
 ---
 
 <img class="alignnone size-full wp-image-1170" title="box2d-shapes-2" src="http://uploads.psyked.co.uk/2010/02/box2d-shapes-2.jpg" alt="" width="500" height="280" />

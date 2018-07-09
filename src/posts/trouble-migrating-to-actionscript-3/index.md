@@ -5,7 +5,7 @@ title: Trouble migrating to Actionscript 3?
 date: 2008-02-27T08:00:35Z
 tags:
 - actionscript
-- actionscript-3
+- actionscript
 - as3
 - as3-migration
 ---

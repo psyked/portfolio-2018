@@ -5,7 +5,7 @@ title: Work in progress...
 date: 2008-02-10T01:00:17Z
 tags:
 - flash
-- actionscript-2
+- actionscript
 - university-projects
 ---
 

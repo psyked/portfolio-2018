@@ -5,7 +5,7 @@ title: Syncronising ScrollPane Components in ActionScript 2.
 date: 2007-11-04T14:21:57Z
 tags:
 - actionscript
-- actionscript-2
+- actionscript
 - component
 - scrollpane-component
 ---

@@ -5,7 +5,7 @@ title: AS3 ISO Library
 date: 2009-01-09T11:45:17Z
 tags:
 - actionscript
-- actionscript-30
+- actionscript
 ---
 
 <p><a href="http://code.google.com/p/as3isolib/" target="_blank">http://code.google.com/p/as3isolib/</a> </p>

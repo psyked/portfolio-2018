@@ -5,8 +5,8 @@ title: 'Exempli Gratia : Using Tweener'
 date: 2008-07-18T18:53:31Z
 tags:
 - flash
-- actionscript-2
-- actionscript-3
+- actionscript
+- actionscript
 - animation
 - google-code
 - open-source

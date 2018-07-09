@@ -6,7 +6,7 @@ date: 2007-09-23T09:37:31Z
 tags:
 - actionscript
 - javascript
-- actionscript-2
+- actionscript
 ---
 
 This post all stems from a project I've been working on very recently, making a drop-down menu in flash, that sits in a HTML page.  <em><strong>What we're talking in relation to here is, getting flash to execute JavaScript DOM functions.</strong></em>

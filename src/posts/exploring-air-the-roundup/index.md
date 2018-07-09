@@ -5,7 +5,7 @@ title: Exploring .air - the roundup.
 date: 2007-08-04T13:41:34Z
 tags:
 - flex
-- actionscript-3
+- actionscript
 - air
 ---
 

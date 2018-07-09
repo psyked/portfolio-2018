@@ -6,7 +6,7 @@ date: 2009-11-05T08:47:52Z
 tags:
 - actionscript
 - box2d
-- actionscript-3
+- actionscript
 - collision-detection-kit
 - timeline
 - tweening

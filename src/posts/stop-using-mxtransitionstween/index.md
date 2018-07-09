@@ -5,8 +5,8 @@ title: Stop using mx.transitions.Tween;
 date: 2008-07-12T16:15:16Z
 tags:
 - flash
-- actionscript-2
-- actionscript-3
+- actionscript
+- actionscript
 - classes
 ---
 

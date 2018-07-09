@@ -5,7 +5,7 @@ title: One week get to grips with Adobe AIR...
 date: 2007-08-01T20:32:30Z
 tags:
 - flex
-- actionscript-3
+- actionscript
 - air
 ---
 

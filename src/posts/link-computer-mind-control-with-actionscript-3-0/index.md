@@ -5,7 +5,7 @@ title: 'Link: Computer mind control with ActionScript 3.0'
 date: 2010-01-20T08:30:32Z
 tags:
 - actionscript
-- actionscript-30
+- actionscript
 - bci
 - mind-control
 ---

@@ -4,7 +4,7 @@ layout: post
 title: More development peeky-sneaks…
 date: 2007-11-18T00:27:43Z
 tags:
-- actionscript-3
+- actionscript
 - mdm-zinc
 - soundmixer
 ---

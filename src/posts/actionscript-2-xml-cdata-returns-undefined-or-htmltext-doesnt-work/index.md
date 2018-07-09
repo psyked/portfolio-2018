@@ -6,7 +6,7 @@ date: 2008-09-17T07:40:13Z
 tags:
 - actionscript
 - flash
-- actionscript-2
+- actionscript
 - cdata
 - quirks
 - xml

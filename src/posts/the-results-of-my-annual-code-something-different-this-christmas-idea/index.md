@@ -6,7 +6,7 @@ date: 2010-01-04T08:23:39Z
 tags:
 - actionscript
 - box2d
-- actionscript-3
+- actionscript
 ---
 
 It's becoming something of a tradition now I guess, but once I've allocated that extra Christmas holiday time appropriately, I find I have that little bit of extra time to devote to trying something new.  This year, I thought I'd try rewriting (again) one of my old university experiments.

@@ -6,7 +6,7 @@ date: 2010-01-11T08:09:33Z
 tags:
 - actionscript
 - box2d
-- actionscript-3
+- actionscript
 ---
 
 I've been working on some classes to simplify Box2D for Actionscript developers (See <a href="http://www.psyked.co.uk/actionscript/simplifying-box2das3.htm" target="_self">previous post</a> for a quick intro).  The latest update to these classes introduces couple of minor ideas, and one gosh-darned awesome idea, if I do say so myself.  Let's start with the awesome things, and move on from there...
