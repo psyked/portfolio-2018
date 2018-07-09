@@ -4,7 +4,7 @@ layout: post
 title: Creating a PDF Widget on Acrobat.com
 date: 2009-02-02T09:02:28Z
 tags:
-- flashpaper
+- flash
 - pdf
 ---
 

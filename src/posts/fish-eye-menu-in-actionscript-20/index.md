@@ -26,7 +26,7 @@ Actually, it wasn't too hard to backwards convert the AS3 version - the three ma
 There's a little bit of code commenting in there, but if you're interested in seeing how the two compare, I would suggest you head over to Shine Draw, download the AS3 version, download this version, and look at them side-by-side.
 <h2>Resources;</h2>
 <ul>
-	<li><a href="http://www.shinedraw.com/animation-effect/flash-and-silverlight-fish-eye-menu/" target="_blank">Shine Draw - Flash and Silverlight: Fish Eye Menu</a>
+	<li><a href="http://www.shinedraw.com/animation-effect/flash-and-silverlight-fish-eye-menu/" target="_blank">Shine Draw - flash and Silverlight: Fish Eye Menu</a>
 (yes, there's a Silverlight equivilent!)</li>
 	<li><strong>Update:</strong> <a href="http://gist.github.com/518634" target="_blank">The timeline code, available on GitHub</a></li>
 </ul>

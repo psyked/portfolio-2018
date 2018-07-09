@@ -13,7 +13,7 @@ Well, it's gone Friday, so where's my new AIR app?  Unfortunately, I can't give 
 
 Nevermind, eh?  I certainly learnt a lot playing with Flex builder / Air / AS3, and here's hoping that I'll have some spare time to do a few articles on what I've learnt - pitfalls, theory, code snippets, that kind of thing.
 
-One thing I realised is that your intrinsic knowledge of Flash and it's specialised coding methods mean very little working in Flex, but that certainly doesn't mean it's bad - Flash programming is probably a bit of a niché market in how it's done and works, and I get the impression that the Flex approach is a lot more mainstream theory-wise, so I'm prepared to put the effort into learning to code properly.
+One thing I realised is that your intrinsic knowledge of Flash and it's specialised coding methods mean very little working in Flex, but that certainly doesn't mean it's bad - flash programming is probably a bit of a niché market in how it's done and works, and I get the impression that the Flex approach is a lot more mainstream theory-wise, so I'm prepared to put the effort into learning to code properly.
 
 I <strike> perhaps </strike> should have put more effort into recording how I got on over the week, but that's hindsight for you.  Here's a brief overview of what I got up too, generally just to prove that the longer you work on something, the more progress you make, and the faster you make it.
 

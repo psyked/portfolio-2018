@@ -5,7 +5,6 @@ title: Flash Camp Birmingham
 date: 2009-05-07T20:12:50Z
 tags:
 - flash
-- flashcamp
 ---
 
 <a href="http://flashcamp.co.uk/" target="_blank"><img class="alignnone size-full wp-image-871" title="Flash Camp - Birmingham" src="http://uploads.psyked.co.uk/2009/05/flashcampbirmingham.jpg" alt="Flash Camp - Birmingham" width="500" height="280" /></a>

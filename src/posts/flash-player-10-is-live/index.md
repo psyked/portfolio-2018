@@ -5,7 +5,6 @@ title: Flash Player 10 is Live
 date: 2008-10-15T12:20:15Z
 tags:
 - flash
-- flash-player
 ---
 
 Yes, <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank">Flash Player 10 is now live</a>.

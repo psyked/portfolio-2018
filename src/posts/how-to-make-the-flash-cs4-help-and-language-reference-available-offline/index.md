@@ -5,8 +5,6 @@ title: How to make the Flash CS4 Help and Language reference available offline.
 date: 2008-12-10T14:00:41Z
 tags:
 - flash
-- cs4
-- flash-help
 ---
 
 In CS4, the help system in Flash is set to online by default, which means pressing F1 opens a new browser window, takes you to LiveDocs and, most of the time, gives you no useful information whatsoever - and takes over half a minute to load.  Luckily I came across the following comment in the article <a href="http://labs.bigspaceship.com/2008/12/09/air-app-as3-language-reference/">http://labs.bigspaceship.com/2008/12/09/air-app-as3-language-reference/</a>;

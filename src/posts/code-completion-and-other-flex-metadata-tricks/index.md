@@ -6,8 +6,7 @@ date: 2009-01-12T14:08:08Z
 tags:
 - actionscript
 - flex
-- cs4
-- flash-cs4
+- flash
 - metadata
 ---
 

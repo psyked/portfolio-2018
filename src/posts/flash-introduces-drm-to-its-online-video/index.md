@@ -6,7 +6,6 @@ date: 2009-09-16T11:25:43Z
 tags:
 - flash
 - drm
-- flash-video
 ---
 
 <img class="alignnone size-full wp-image-961" title="flashdrm" src="http://uploads.psyked.co.uk/2009/09/flashdrm.png" alt="flashdrm" width="500" height="280" />

@@ -5,7 +5,6 @@ title: Custom character-set embedding in Flash
 date: 2008-03-25T22:13:11Z
 tags:
 - flash
-- flash-hacks
 - fonts
 ---
 

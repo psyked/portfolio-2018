@@ -5,7 +5,6 @@ title: 'Link: FlashSURF - complex image recognition in Flash Player'
 date: 2010-02-24T08:47:59Z
 tags:
 - flash
-- flashsurf
 - webcam
 ---
 

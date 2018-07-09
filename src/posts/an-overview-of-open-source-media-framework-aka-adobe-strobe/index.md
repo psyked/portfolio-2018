@@ -4,7 +4,7 @@ layout: post
 title: An overview of Open Source Media Framework (aka. Adobe Strobe)
 date: 2009-08-12T18:47:59Z
 tags:
-- flash-platform
+- flash
 - framework
 - osmf
 ---

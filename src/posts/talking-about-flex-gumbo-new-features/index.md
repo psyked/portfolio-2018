@@ -20,7 +20,7 @@ Flex 4 has a whole load of new wizard-type processes for automatically generatin
 Data models are basically classes in actionscript that represent objects stored in other places/locations.  I spent days putting together data models manually for my side-project on the Unfuddle API, so to hear that Flex 4 can autogenerate these is really cool (and slightly disheartening).
 
 <h3>Flash CS4 support</h3>
-Another biggie as far as my workflow is concerned - Flash CS4 and Flex play well together.  Both in terms of the display of custom Flash components in the Design view, and also for switching between Flex and Flash - there's gonna be a button for moving between the two really easily.
+Another biggie as far as my workflow is concerned - flash CS4 and Flex play well together.  Both in terms of the display of custom Flash components in the Design view, and also for switching between Flex and Flash - there's gonna be a button for moving between the two really easily.
 <h3>Event handler autogeneration</h3>
 Not a massive change, but Flex 4 can now generate event handler functions.  Instead of having to create your function when you create or setup an event listener, Flex 4 can generate these functions for you, just like it autocompletes your function or variable names.
 <h3>Declarative graphics</h3>

@@ -18,7 +18,7 @@ Nice, eh?  You should be able to see that, in the ActionScript 3 version of the 
 
 Getting all excited about nothing much, you think?  Well, it gets better - for fullscreen mode, in any case;
 <blockquote> Assuming that Flash Player 9 Update 3 has been applied, the prerequisites are met, and the <code>FLVPlayback.fullScreenTakeOver</code> property is set to <code>true</code>, which is the default setting, Flash Player uses hardware acceleration to scale the video file, rather than scaling it through software.</blockquote>
-If you tried watching Flash Videos in large or FullScreen modes before, you might've noticed tearing in the image - Flash (and your computer / browser / flash plugin) not being able to scale the video at a fast enough rate.  Lucky then, that hardware scaling support will/should solve this issue.  Because, you know hardware scaling is much better than software scaling.  There's practically no difference between performance when you compare the fullscreen mode to the smallscreen mode.  Huzzah!
+If you tried watching Flash Videos in large or FullScreen modes before, you might've noticed tearing in the image - flash (and your computer / browser / flash plugin) not being able to scale the video at a fast enough rate.  Lucky then, that hardware scaling support will/should solve this issue.  Because, you know hardware scaling is much better than software scaling.  There's practically no difference between performance when you compare the fullscreen mode to the smallscreen mode.  Huzzah!
 <h2>Resources / sources;</h2>
 <ul>
 	<li><a href="http://www.adobe.com/devnet/flash/articles/flvplayback_fplayer9u3_02.html" title="Open link in a new window" target="_blank">Adobe : Using the FLVPlayback component with Flash Player 9 Update 3</a></li>

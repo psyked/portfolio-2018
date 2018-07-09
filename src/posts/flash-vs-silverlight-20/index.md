@@ -5,7 +5,6 @@ title: Flash vs. Silverlight 2.0
 date: 2008-09-27T11:57:55Z
 tags:
 - flash
-- flash-vs-silverlight
 - silverlight
 ---
 

@@ -6,8 +6,6 @@ date: 2008-05-27T14:56:30Z
 tags:
 - external-links
 - flash
-- 3d-flash
-- flash-video
 ---
 
 <a href="http://www.immersivemedia.com/" target="_blank">Immersive Media</a>, who I gather are also responsible for a lot of the <a href="http://maps.google.com/maps?cbp=1,604.9510351572545,,0,4.667259779493725&amp;cbll=41.359305,-81.598362&amp;ll=41.359305,-81.598362&amp;layer=c" target="_blank">Google Streetview images</a>, have taken the 'interactive panorama' idea a little further than most, and introduced 'Immersive Video'.  Sound interesting?  Indeed it is.

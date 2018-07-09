@@ -6,7 +6,6 @@ date: 2011-03-28T07:56:05Z
 tags:
 - external-links
 - flash
-- 3d-flash
 - face-detection
 - webcam
 ---

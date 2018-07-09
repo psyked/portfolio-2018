@@ -5,7 +5,6 @@ title: Packaging Pixel Bender filters in SWC files
 date: 2008-12-18T12:20:28Z
 tags:
 - flash
-- cs4
 - pixel-bender
 ---
 

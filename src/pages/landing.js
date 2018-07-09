@@ -3,10 +3,6 @@ import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import BannerLanding from '../components/BannerLanding'
 
-import pic08 from '../assets/images/pic08.jpg'
-import pic09 from '../assets/images/pic09.jpg'
-import pic10 from '../assets/images/pic10.jpg'
-
 const Landing = (props) => (
     <div>
         <Helmet>
@@ -28,7 +24,7 @@ const Landing = (props) => (
             <section id="two" className="spotlights">
                 <section>
                     <Link to="/generic" className="image">
-                        <img src={pic08} alt="" />
+                        <img src={'http://via.placeholder.com/350x150'} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">

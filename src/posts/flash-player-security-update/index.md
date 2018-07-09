@@ -7,8 +7,6 @@ tags:
 - flash
 - javascript
 - externalinterface
-- flash-player-security
-- flash-to-javascript-communication
 - geturl
 ---
 
