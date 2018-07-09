@@ -13,6 +13,30 @@ So I'm hacking together a simple client-side AJAX - based on <a href="http://en.
 
 The problem it turned out, was as a simple as the latter requests replacing the newer request, because their references were being overwritten.  So instead of using a single variable, I figured "why not pass the references around in the functions".  Here it is then, an AHAH-based set of AJAX functions, that works for multiple simultaneous function calls.
 
-Source code doesn't really work very well in my blog template, so I've put the functions in an external javascript file...
-
-<a href="http://uploads.psyked.co.uk/2008/12/loadexternalcontent.js">Click here to download the javascript file.</a>
+    function loadExternalContentDone(req, url, target) {
+        if (req.readyState == 4) { 
+            if (req.status == 200) { 
+                document.getElementById(target).innerHTML = req.responseText;
+            } else {
+                document.getElementById(target).innerHTML=" loadExternalContent Error:\n"+ req.status + "\n" +req.statusText;
+            }
+        }
+    }
+    function loadExternalContent(url, target) {
+        var req;
+        document.getElementById(target).innerHTML = ' Fetching data...';
+        if (window.XMLHttpRequest) {
+            req = new XMLHttpRequest();
+        } else if (window.ActiveXObject) {
+            req = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        if (req !== undefined) {
+            req.onreadystatechange = function() {loadExternalContentDone(req, url, target);};
+            req.open("GET", url, true);
+            req.send("");
+        }
+    }
+    function loadContent(name, div) {
+        loadExternalContent(name,div);
+        return false;
+    }

@@ -13,12 +13,16 @@ class BlogPostTemplate extends React.Component {
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
         <header className="major">
           <h1>{post.frontmatter.title}</h1>
-          Tagged as:
-          {post.frontmatter.tags.map(tag => {
-            return (
-              <span><Link to={`/tag/${tag}`}>{tag}</Link> </span>
-            )
-          })}
+          {post.frontmatter.tags &&
+            <div>
+              Tagged as:
+              {post.frontmatter.tags.map(tag => {
+                return (
+                  <span><Link to={`/tag/${tag}`}>{tag}</Link> </span>
+                )
+              })}
+            </div>
+          }
         </header>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
