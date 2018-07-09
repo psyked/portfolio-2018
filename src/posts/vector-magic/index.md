@@ -1,5 +1,5 @@
 ---
-path: /vector-magic/
+path: /blog/vector-magic/
 layout: post
 title: Vector Magic
 date: 2007-11-11T23:56:08Z

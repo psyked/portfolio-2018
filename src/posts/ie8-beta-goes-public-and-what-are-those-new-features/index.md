@@ -1,5 +1,5 @@
 ---
-path: /ie8-beta-goes-public-and-what-are-those-new-features/
+path: /blog/ie8-beta-goes-public-and-what-are-those-new-features/
 layout: post
 title: IE8 Beta goes public - and what are those new features?
 date: 2008-12-18T08:46:44Z
@@ -19,7 +19,7 @@ tags:
 
 You can download the Internet Explorer 8 Beta from <a href="http://www.microsoft.com/windows/internet-explorer/beta/default.aspx">http://www.microsoft.com/windows/internet-explorer/beta/default.aspx</a>.  Overall, it's quite an interesting update - and most noticeably it shows a distinct push on the innovation front.  Since I'm talking about it, I'll go over a few of the noticeable new features, and then get onto the specifics of the "accelerator" and "web slices" features.
 
-<!--more-->
+
 <h3>Imitation</h3>
 Is the sincerest form of flattery, you know.  IE8 maintains a lot of the IE7 layout, but it has a lot of features that look like they've been ripped right out of Google Chrome - right down to the naming conventions and feature sets.  They've even toned down the shiny 'Web 2.0' graphics for more flat graphics, and used colour-coded tabs and warnings.  It's looking promising for developers too - instead of the development tools being an add-on, they're built into the application.  There's a developer panel with the hierarchical information and inheritance patterns like which Firebug gives Firefox, and the system memory profiling that Chrome offers users.  It's like Christmas come early.
 

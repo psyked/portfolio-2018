@@ -1,5 +1,5 @@
 ---
-path: /google-analytics-tracking-for-adobe-flash/
+path: /blog/google-analytics-tracking-for-adobe-flash/
 layout: post
 title: Google Analytics Tracking for Adobe Flash
 date: 2009-02-10T09:05:09Z

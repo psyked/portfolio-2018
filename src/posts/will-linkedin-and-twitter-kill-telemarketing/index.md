@@ -1,5 +1,5 @@
 ---
-path: /will-linkedin-and-twitter-kill-telemarketing/
+path: /blog/will-linkedin-and-twitter-kill-telemarketing/
 layout: post
 title: Will LinkedIn and Twitter kill telemarketing?
 date: 2009-01-15T12:53:43Z

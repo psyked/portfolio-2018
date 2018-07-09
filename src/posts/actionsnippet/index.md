@@ -1,5 +1,5 @@
 ---
-path: /actionsnippet/
+path: /blog/actionsnippet/
 layout: post
 title: ActionSnippet
 date: 2009-03-23T08:12:56Z

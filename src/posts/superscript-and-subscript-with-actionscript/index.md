@@ -1,5 +1,5 @@
 ---
-path: /superscript-and-subscript-with-actionscript/
+path: /blog/superscript-and-subscript-with-actionscript/
 layout: post
 title: Superscript and Subscript - with Actionscript*
 date: 2008-03-30T21:11:21Z
@@ -15,7 +15,7 @@ tags:
 <h3><strong>*</strong><strong>And a little bit of custom-font magic...</strong></h3>
 <h3><img src="/content/images/2008/03/johnny.jpg" alt="johnny.jpg" /></h3>
 Although I do like writing lovely elegant code I'm also a big fan of 'the cheap hack'! Here's one I used last week to get round the age old problem of dynamic text boxes in Flash not supporting superscript and subscript. You need to do the following:
-<!--more-->
+
 <ol>
 	<li>Install the ggsuperscript and ggsubscript fonts, available from <a href="http://blog.ggshow.com/index.php/reference?cat=121" title="Open link in a new window">GG's Flash Blog</a></li>
 	<li>Make sure that you have 2 dynamic text boxes offstage with the 2 fonts embedded.</li>

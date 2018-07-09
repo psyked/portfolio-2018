@@ -1,5 +1,5 @@
 ---
-path: /executing-multiple-xmlhttprequests-successfully/
+path: /blog/executing-multiple-xmlhttprequests-successfully/
 layout: post
 title: Executing multiple XMLHTTPRequests - successfully.
 date: 2008-12-03T12:15:30Z

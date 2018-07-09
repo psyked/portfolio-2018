@@ -1,5 +1,5 @@
 ---
-path: /link-actionscript-3-dont-user-the-timer-to-make-timers/
+path: /blog/link-actionscript-3-dont-user-the-timer-to-make-timers/
 layout: post
 title: 'Link: Actionscript 3 - Don’t User the Timer to Make Timers'
 date: 2009-02-27T09:23:47Z

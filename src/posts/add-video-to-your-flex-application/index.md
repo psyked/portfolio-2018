@@ -1,5 +1,5 @@
 ---
-path: /add-video-to-your-flex-application/
+path: /blog/add-video-to-your-flex-application/
 layout: post
 title: Add video to your Flex application
 date: 2009-01-06T12:30:48Z

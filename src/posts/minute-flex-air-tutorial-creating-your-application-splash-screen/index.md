@@ -1,5 +1,5 @@
 ---
-path: /minute-flex-air-tutorial-creating-your-application-splash-screen/
+path: /blog/minute-flex-air-tutorial-creating-your-application-splash-screen/
 layout: post
 title: 10 minute Flex / AIR tutorial - Creating your Application Splash Screen.
 date: 2008-11-26T15:30:10Z
@@ -16,7 +16,7 @@ Ah, the old splash screen - a familiar thing for anyone using Adobe products, I 
 
 I'm going to skip the arguements for and against a splash screen on your application, and assume there's a valid reason for having one - this is mainly a 'show and tell' with my code, followed by a few technical musings, and links to the project files.
 
-<!--more-->
+
 <h3>Show and tell.</h3>
 As Flex / AIR applications go, this is very basic.  We're using the default WindowedApplication because it's easy, adding a transparent-backgrounded png image to the stage, and a small ActionScript function, which positions the window in the centre of the users' main screen.
 <pre><span style="line-height: 19px; white-space: normal; font-family: 'Lucida Grande';">&lt;</span>?xml version="1.0" encoding="utf-8"?&gt;

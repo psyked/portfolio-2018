@@ -1,5 +1,5 @@
 ---
-path: /need-some-glossy-icons/
+path: /blog/need-some-glossy-icons/
 layout: post
 title: Need some glossy icons?
 date: 2008-12-19T13:18:35Z

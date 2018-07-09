@@ -1,5 +1,5 @@
 ---
-path: /flashcamp-09-london/
+path: /blog/flashcamp-09-london/
 layout: post
 title: FlashCamp '09 - London
 date: 2009-02-05T13:05:34Z

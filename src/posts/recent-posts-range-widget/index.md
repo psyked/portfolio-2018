@@ -1,5 +1,5 @@
 ---
-path: /recent-posts-range-widget/
+path: /blog/recent-posts-range-widget/
 layout: post
 title: Recent Posts Range Widget
 date: 2007-11-11T00:58:51Z

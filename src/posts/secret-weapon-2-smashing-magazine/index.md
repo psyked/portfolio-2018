@@ -1,5 +1,5 @@
 ---
-path: /secret-weapon-2-smashing-magazine/
+path: /blog/secret-weapon-2-smashing-magazine/
 layout: post
 title: Keeping your finger on the pulse with Smashing Magazine
 date: 2007-05-16T22:05:51Z

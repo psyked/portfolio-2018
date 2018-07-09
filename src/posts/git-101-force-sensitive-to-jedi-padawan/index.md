@@ -1,5 +1,5 @@
 ---
-path: /git-101-force-sensitive-to-jedi-padawan/
+path: /blog/git-101-force-sensitive-to-jedi-padawan/
 layout: post
 title: 'Git 101: Force-sensitive to Jedi padawan'
 date: 2014-04-11T12:00:07Z

@@ -1,5 +1,5 @@
 ---
-path: /essential-actionscript-3-classes-1/
+path: /blog/essential-actionscript-3-classes-1/
 layout: post
 title: 'Essential ActionScript 3 Classes #1'
 date: 2008-05-09T08:30:48Z

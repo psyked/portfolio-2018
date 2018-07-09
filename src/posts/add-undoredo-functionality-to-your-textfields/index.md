@@ -1,5 +1,5 @@
 ---
-path: /add-undoredo-functionality-to-your-textfields/
+path: /blog/add-undoredo-functionality-to-your-textfields/
 layout: post
 title: Add undo/redo functionality to your textfields
 date: 2009-02-06T13:47:04Z

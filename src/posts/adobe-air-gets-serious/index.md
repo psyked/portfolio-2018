@@ -1,5 +1,5 @@
 ---
-path: /adobe-air-gets-serious/
+path: /blog/adobe-air-gets-serious/
 layout: post
 title: Adobe AIR gets serious?
 date: 2008-06-18T22:01:16Z
@@ -13,7 +13,7 @@ Aside from a few tweaks and general updates, and a few requested features making
 <blockquote>Brazilian Portuguese, Chinese (Traditional and Simplified), French, German, Italian, Japanese, Korean, Russian and Spanish.</blockquote>
 Strangely enough, that's not very exciting. Well, I guess it makes up a large proportion of the target markets, and covers most of the character sets - but 10 languages seems a little low. Meh.
 
-<!--more-->
+
 
 Releasing a product (of this sort) to a global market - without multilingual support - seemed a bit strange, (or maybe it just highlighted how much we take for granted the features of established products), but now we have those important capabilities. Releasing AIR was always going to be a balancing act for Adobe - you want to release a market-ready product, but also get the product out of the realm of Beta.
 <h2>Getting serious?</h2>

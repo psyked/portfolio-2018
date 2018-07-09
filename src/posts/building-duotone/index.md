@@ -1,5 +1,5 @@
 ---
-path: /building-duotone/
+path: /blog/building-duotone/
 layout: post
 title: Building “duotone”
 date: 2018-06-09T21:43:11Z

@@ -1,5 +1,5 @@
 ---
-path: /just-how-easy-can-you-make-an-air-application-installation/
+path: /blog/just-how-easy-can-you-make-an-air-application-installation/
 layout: post
 title: Just how easy can you make an AIR application installation?
 date: 2008-08-23T21:00:54Z

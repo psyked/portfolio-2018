@@ -1,5 +1,5 @@
 ---
-path: /exploring-the-flash-cs3-flvplayback-component/
+path: /blog/exploring-the-flash-cs3-flvplayback-component/
 layout: post
 title: Exploring the Flash CS3 FLVPlayback component
 date: 2008-04-04T22:55:09Z
@@ -14,7 +14,7 @@ Both versions have support for FullScreen, High-Def video and embedded Captionin
 <img src="http://uploads.psyked.co.uk/2008/04/blog-post-flvplayback.jpg" alt="blog-post-flvplayback.jpg" />
 
 Nice, eh?  You should be able to see that, in the ActionScript 3 version of the component, you are able to pick the background colour and opacity of the skin - no more messing around with custom skins for simple jobs - as well as the new component buttons in your Flash Video arsenal.
-<!--more-->
+
 
 Getting all excited about nothing much, you think?  Well, it gets better - for fullscreen mode, in any case;
 <blockquote> Assuming that Flash Player 9 Update 3 has been applied, the prerequisites are met, and the <code>FLVPlayback.fullScreenTakeOver</code> property is set to <code>true</code>, which is the default setting, Flash Player uses hardware acceleration to scale the video file, rather than scaling it through software.</blockquote>

@@ -1,5 +1,5 @@
 ---
-path: /tutorial-link-getting-started-in-papervision-3d/
+path: /blog/tutorial-link-getting-started-in-papervision-3d/
 layout: post
 title: 'Tutorial link: Getting started in Papervision 3D'
 date: 2009-02-16T08:20:32Z

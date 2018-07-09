@@ -1,5 +1,5 @@
 ---
-path: /the-holy-grail-cross-browser-javascript-unit-testing-with-code-coverage-metrics/
+path: /blog/the-holy-grail-cross-browser-javascript-unit-testing-with-code-coverage-metrics/
 layout: post
 title: 'The Holy Grail: Cross-browser JavaScript Unit Testing with Code Coverage Metrics'
 date: 2013-10-02T12:00:45Z

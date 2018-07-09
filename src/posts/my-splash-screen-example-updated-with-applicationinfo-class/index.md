@@ -1,5 +1,5 @@
 ---
-path: /my-splash-screen-example-updated-with-applicationinfo-class/
+path: /blog/my-splash-screen-example-updated-with-applicationinfo-class/
 layout: post
 title: My Splash Screen example - updated with ApplicationInfo class
 date: 2008-12-02T12:30:50Z

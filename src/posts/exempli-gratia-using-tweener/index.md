@@ -1,5 +1,5 @@
 ---
-path: /exempli-gratia-using-tweener/
+path: /blog/exempli-gratia-using-tweener/
 layout: post
 title: 'Exempli Gratia : Using Tweener'
 date: 2008-07-18T18:53:31Z
@@ -17,7 +17,7 @@ To use Tweener in your projects, the first step is to download the class files t
 <h2>Download Tweener</h2>
 <a href="http://code.google.com/p/tweener/" target="_blank"><img class="alignnone size-full wp-image-271" title="googelcode" src="http://uploads.psyked.co.uk/2008/07/googelcode.jpg" alt="" width="500" height="280" /></a>
 
-<!--more-->There are currently 3 versions of the Tweener class, one for (AS2) Flash player 7 &amp; Flash Lite 2, one for (AS2) Flash Player 8, and one for (AS3) Flash Player 9. For which one you download is down to your project, but the interface and implimentation is pretty much the same across each of the versions.
+There are currently 3 versions of the Tweener class, one for (AS2) Flash player 7 &amp; Flash Lite 2, one for (AS2) Flash Player 8, and one for (AS3) Flash Player 9. For which one you download is down to your project, but the interface and implimentation is pretty much the same across each of the versions.
 
 I'm going to assume we're working with the Actionscript 2 version of Tweener for these demonstrations.
 <h2>Add Tweener to your project</h2>

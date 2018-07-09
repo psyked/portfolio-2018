@@ -1,5 +1,5 @@
 ---
-path: /flash-introduces-drm-to-its-online-video/
+path: /blog/flash-introduces-drm-to-its-online-video/
 layout: post
 title: Flash introduces DRM to its online video
 date: 2009-09-16T11:25:43Z

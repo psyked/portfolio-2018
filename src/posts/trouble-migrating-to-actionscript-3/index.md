@@ -1,5 +1,5 @@
 ---
-path: /trouble-migrating-to-actionscript-3/
+path: /blog/trouble-migrating-to-actionscript-3/
 layout: post
 title: Trouble migrating to Actionscript 3?
 date: 2008-02-27T08:00:35Z

@@ -1,5 +1,5 @@
 ---
-path: /getting-started-with-ajax-prototype/
+path: /blog/getting-started-with-ajax-prototype/
 layout: post
 title: Getting started with AJAX / Prototype
 date: 2008-01-28T00:40:01Z

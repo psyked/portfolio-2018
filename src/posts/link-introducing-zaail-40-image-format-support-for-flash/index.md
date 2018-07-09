@@ -1,5 +1,5 @@
 ---
-path: /link-introducing-zaail-40-image-format-support-for-flash/
+path: /blog/link-introducing-zaail-40-image-format-support-for-flash/
 layout: post
 title: 'Link: Introducing ZaaIL – 40+ Image format support for Flash'
 date: 2010-04-28T07:55:13Z

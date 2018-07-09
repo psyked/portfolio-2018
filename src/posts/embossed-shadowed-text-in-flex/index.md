@@ -1,5 +1,5 @@
 ---
-path: /embossed-shadowed-text-in-flex/
+path: /blog/embossed-shadowed-text-in-flex/
 layout: post
 title: Embossed / Shadowed text in Flex
 date: 2009-11-09T08:00:38Z
@@ -25,7 +25,7 @@ shadowColor: #ffffff;
 shadowColor: #333333;
 }</code></pre>
 
-<!--more-->Aside from changing the background colour to make it all a little easier to see the final result, that's just a single variable in the CSS we've changed.
+Aside from changing the background colour to make it all a little easier to see the final result, that's just a single variable in the CSS we've changed.
 All we're actually doing is adding a Flash Player filter to the text objects, but we've extended and hooked into the Flex component lifecycle to make things a little more flexible and reusable.
 <h3>ShadowLabel</h3>
 <pre><code>package couk.psyked

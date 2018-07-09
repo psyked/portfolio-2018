@@ -1,5 +1,5 @@
 ---
-path: /flash-camp-birmingham/
+path: /blog/flash-camp-birmingham/
 layout: post
 title: Flash Camp Birmingham
 date: 2009-05-07T20:12:50Z

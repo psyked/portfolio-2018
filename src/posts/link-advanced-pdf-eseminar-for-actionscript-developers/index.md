@@ -1,5 +1,5 @@
 ---
-path: /link-advanced-pdf-eseminar-for-actionscript-developers/
+path: /blog/link-advanced-pdf-eseminar-for-actionscript-developers/
 layout: post
 title: 'Link: Advanced PDF eSeminar for ActionScript developers'
 date: 2009-12-07T08:56:46Z

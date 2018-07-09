@@ -1,5 +1,5 @@
 ---
-path: /air-iphone-application/
+path: /blog/air-iphone-application/
 layout: post
 title: AIR iPhone Application
 date: 2009-01-22T09:48:51Z

@@ -1,5 +1,5 @@
 ---
-path: /webcam-face-detection-spooky-goings-on/
+path: /blog/webcam-face-detection-spooky-goings-on/
 layout: post
 title: Webcam + face detection = Spooky goings on...
 date: 2009-10-23T13:27:16Z

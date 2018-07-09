@@ -1,5 +1,5 @@
 ---
-path: /automatic-link-icons-v20/
+path: /blog/automatic-link-icons-v20/
 layout: post
 title: Automatic Link Icons v2.0
 date: 2008-01-08T20:20:05Z
@@ -14,7 +14,7 @@ Wow.  My previous post, <a href="/css/auto-matic-link-icons.htm" title="Open lin
 
 <strong>Improving the Icon Display; </strong>
 
-In the original post, I put forward the following code for adding link icons;<!--more-->
+In the original post, I put forward the following code for adding link icons;
 <blockquote> <code>a[href$='.pdf'] {
 display:inline-block;
 padding-left:20px;

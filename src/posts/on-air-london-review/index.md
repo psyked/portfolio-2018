@@ -1,5 +1,5 @@
 ---
-path: /on-air-london-review/
+path: /blog/on-air-london-review/
 layout: post
 title: on AIR London / Review
 date: 2008-04-11T07:30:35Z
@@ -14,7 +14,7 @@ tags:
 Well, despite coming down with a killer headache 1/2 way through the event, I thoroughly enjoyed the London leg of the on AIR tour.  All the guys from Adobe and [most of] the 'guest speakers' were really interesting.  Toying around with AIR before the event helped understand things a little better, but looking up stuff on the 'net just doesn't compare to having it demonstrated on the tour.  Like the <a href="http://www.webkitchen.be/2008/03/07/play-video-in-your-dock-with-air/" title="Open link in a new window" target="_blank">worlds smallest video player</a>.
 
 I think you can tell something's good if the event-hype subsides and you still find yourself dreaming up ideas.
-<!--more-->
+
 
 I believe that the whole day was being recorded - there was certainly some notices up about it, and a DV-Cam setup at the back.  Doesn't appear to be online yet, though if I spot it, i'll let you know.  In the meantime, here's a flickr image that I found with the MMT Digital lot in...
 

@@ -1,5 +1,5 @@
 ---
-path: /imagesizer-updated-again/
+path: /blog/imagesizer-updated-again/
 layout: post
 title: ImageSizer updated! (again)
 date: 2009-07-24T16:27:03Z
@@ -13,7 +13,7 @@ ImageSizer version 0.4.12.4 is <a href="http://www.adobe.com/cfusion/marketplace
 
 If you've tried to use ImageSizer and found that it didn't work then I apologise, and encourage you to download the latest version of ImageSizer from the AIR Marketplace and give it another shot! I've improved my pre-release testing process and am in the process of refactoring the internal code - which should both stop bugs like this from occuring again and also improve the extensibility of ImageSizer and make everything faster and a little more robust!
 
-<!--more-->
+
 <h3>So, what happened?</h3>
 <ul>
 	<li>Version 0.4.12 changed the installation directory - which meant people who used the Automatic Update framework to upgrade had problems - source files for the application were pointing to invalid directories.  To be honest, this was flawed code that caused this issue as much as anything else.

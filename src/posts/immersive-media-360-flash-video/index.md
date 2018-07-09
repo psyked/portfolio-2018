@@ -1,5 +1,5 @@
 ---
-path: /immersive-media-360-flash-video/
+path: /blog/immersive-media-360-flash-video/
 layout: post
 title: 'Immersive Media : 360° Flash Video'
 date: 2008-05-27T14:56:30Z
@@ -14,7 +14,7 @@ tags:
 
 <img class="alignnone size-full wp-image-237" title="360degreeflash" src="/content/images/2008/05/360degreeflash.jpg" alt="" width="500" height="280" />
 
-<!--more-->
+
 <h2>What is it?</h2>
 Well it's a Flash Video, but with an extra interactive element - you can move the viewpoint around. So you're not confined to following the camera's viewpoint, but can focus on whatever you choose as the action progresses around you.
 

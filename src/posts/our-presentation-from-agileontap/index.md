@@ -1,5 +1,5 @@
 ---
-path: /our-presentation-from-agileontap/
+path: /blog/our-presentation-from-agileontap/
 layout: post
 title: 'Our presentation from #AgileOnTap'
 date: 2013-05-15T20:17:29Z

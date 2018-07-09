@@ -1,5 +1,5 @@
 ---
-path: /flash-video-the-solution/
+path: /blog/flash-video-the-solution/
 layout: post
 title: Flash Video - the Solution?
 date: 2007-05-28T15:08:31Z

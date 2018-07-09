@@ -1,5 +1,5 @@
 ---
-path: /fowa-08-future-of-web-apps-conference-videos/
+path: /blog/fowa-08-future-of-web-apps-conference-videos/
 layout: post
 title: FOWA '08 (Future of Web Apps conference) - Videos
 date: 2008-10-16T08:30:11Z

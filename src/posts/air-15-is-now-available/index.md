@@ -1,5 +1,5 @@
 ---
-path: /air-15-is-now-available/
+path: /blog/air-15-is-now-available/
 layout: post
 title: AIR 1.5 is now available!
 date: 2008-11-17T09:00:11Z

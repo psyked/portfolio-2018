@@ -1,5 +1,5 @@
 ---
-path: /about/
+path: /blog/about/
 layout: post
 title: About
 date: 2007-07-12T22:01:26Z

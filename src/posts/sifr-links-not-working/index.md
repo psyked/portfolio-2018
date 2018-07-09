@@ -1,5 +1,5 @@
 ---
-path: /sifr-links-not-working/
+path: /blog/sifr-links-not-working/
 layout: post
 title: sIFR links not working?
 date: 2008-03-07T21:30:24Z

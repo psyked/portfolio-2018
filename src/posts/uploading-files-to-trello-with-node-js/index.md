@@ -1,5 +1,5 @@
 ---
-path: /uploading-files-to-trello-with-node-js/
+path: /blog/uploading-files-to-trello-with-node-js/
 layout: post
 title: Uploading files to Trello with Node.js
 date: 2017-05-18T20:38:43Z

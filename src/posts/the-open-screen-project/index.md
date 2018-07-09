@@ -1,5 +1,5 @@
 ---
-path: /the-open-screen-project/
+path: /blog/the-open-screen-project/
 layout: post
 title: The Open Screen Project
 date: 2009-02-17T09:05:26Z

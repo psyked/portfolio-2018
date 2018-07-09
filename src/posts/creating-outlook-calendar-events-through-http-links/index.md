@@ -1,5 +1,5 @@
 ---
-path: /creating-outlook-calendar-events-through-http-links/
+path: /blog/creating-outlook-calendar-events-through-http-links/
 layout: post
 title: Creating Outlook Calendar events through hyperlinks
 date: 2008-08-07T22:45:02Z
@@ -20,7 +20,7 @@ From the developers' point of view, once you have your server configured correct
 <h2>Does it work for me?</h2>
 I don't know - try clicking on <a href="http://www.psyked.co.uk/icalendar.ics" target="_blank">this link</a>.  If MIME types are incorrectly set you'll probably see a plain text file, and if you don't have an application setup that's compatable with iCalendar events, you'll probably just be asked to save the file to your hard drive.
 
-<!--more-->
+
 <h2>How do you create a Calendar event then?</h2>
 First up, you need to sort out your MIME-types.  I'm not going into that because it can get a little too complex, but just make sure you have the file extension .ics registered under the MIME-type "<strong>text/calendar</strong>" - if you're lucky it might already be setup!
 

@@ -1,5 +1,5 @@
 ---
-path: /cynin-desktop/
+path: /blog/cynin-desktop/
 layout: post
 title: Cyn.in Desktop
 date: 2009-01-08T10:00:28Z

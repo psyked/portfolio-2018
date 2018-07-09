@@ -1,5 +1,5 @@
 ---
-path: /the-terminator-fiction/
+path: /blog/the-terminator-fiction/
 layout: post
 title: 'The Terminator: Fiction?'
 date: 2008-06-07T19:35:52Z

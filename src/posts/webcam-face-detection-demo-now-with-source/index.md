@@ -1,5 +1,5 @@
 ---
-path: /webcam-face-detection-demo-now-with-source/
+path: /blog/webcam-face-detection-demo-now-with-source/
 layout: post
 title: 'Webcam Face detection demo: Now with source!'
 date: 2010-01-22T08:07:43Z
@@ -13,7 +13,7 @@ So a little while ago, Halloween in fact, I threw together a demo of some face-d
 
 <a href="http://www.mmtdigital.co.uk/RVEc4d1cd790afe4ac4be58071a72c98148,,.aspx" target="_blank"><img title="Augmented Reality Halloween" src="http://uploads.psyked.co.uk/2009/10/halloween.jpg" alt="Augmented Reality Halloween" width="500" height="280" /></a>
 
-<!--more-->
+
 
 So, here it is: the live demo and underneath, a link to the source code for it.
 

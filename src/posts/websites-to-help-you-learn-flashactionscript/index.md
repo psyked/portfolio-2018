@@ -1,5 +1,5 @@
 ---
-path: /websites-to-help-you-learn-flashactionscript/
+path: /blog/websites-to-help-you-learn-flashactionscript/
 layout: post
 title: 12 Websites To Help You Learn Flash/ActionScript
 date: 2009-01-29T13:20:14Z

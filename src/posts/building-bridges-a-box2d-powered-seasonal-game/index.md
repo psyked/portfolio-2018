@@ -1,5 +1,5 @@
 ---
-path: /building-bridges-a-box2d-powered-seasonal-game/
+path: /blog/building-bridges-a-box2d-powered-seasonal-game/
 layout: post
 title: '"Building Bridges", a Box2D - powered Seasonal Game'
 date: 2009-12-18T13:47:54Z
@@ -15,7 +15,7 @@ You can check it out here: <a href="http://www.mmtdigital.co.uk/Flash/ChristmasG
 
 <a href="http://www.mmtdigital.co.uk/Flash/ChristmasGame2009/Building_Bridges.html" target="_blank"><img class="alignnone size-full wp-image-1070" title="Building Bridges -  a Box2D Christmas Game" src="http://uploads.psyked.co.uk/2009/12/buildingbridges.png" alt="Building Bridges -  a Box2D Christmas Game" width="500" height="280" /></a>
 
-<!--more-->This years' game is a bit of a geeky dream – and luckily one that also makes for a fun end game.  Under the hood, you see, ‘Building Bridges’ is all based off a realistic world physics simulator - called <a href="http://box2dflash.sourceforge.net/" target="_blank">Box2D</a>.  All of the interaction between the elves, bridges and environment is handled by the sort of physics engine you’d find in a proper Games Console game, and all of that is based on what would happen in a real Newtonian world.
+This years' game is a bit of a geeky dream – and luckily one that also makes for a fun end game.  Under the hood, you see, ‘Building Bridges’ is all based off a realistic world physics simulator - called <a href="http://box2dflash.sourceforge.net/" target="_blank">Box2D</a>.  All of the interaction between the elves, bridges and environment is handled by the sort of physics engine you’d find in a proper Games Console game, and all of that is based on what would happen in a real Newtonian world.
 
 <a href="http://www.mmtdigital.co.uk/Flash/ChristmasGame2009/Building_Bridges.html" target="_blank"><img class="alignnone size-full wp-image-1072" title="Building Bridges Title Screen" src="http://uploads.psyked.co.uk/2009/12/bbtitlescreen.png" alt="Building Bridges Title Screen" width="500" height="280" /></a>
 

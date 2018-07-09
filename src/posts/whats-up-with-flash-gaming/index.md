@@ -1,5 +1,5 @@
 ---
-path: /whats-up-with-flash-gaming/
+path: /blog/whats-up-with-flash-gaming/
 layout: post
 title: What's up with Flash gaming?
 date: 2008-06-11T22:01:16Z
@@ -19,7 +19,7 @@ Well, <a href="http://www.newgrounds.com/">Newgrounds</a> is the old one I remem
 
 <a href="None"><img class="alignnone size-full wp-image-249" title="newgrounds" src="/content/images/2008/06/newgrounds.jpg" alt="" width="500" height="280" /></a>
 
-<!--more-->Back when I first started seeing Flash the best stuff was animations and games - often simple graphics and animations, but they trumped anything that businesses and promotional websites had. 5 years on and the commercial world of Flash is on the cutting edge - not <em>quite</em> developing - but certainly making use of the latest and greatest visual effects, things like Papervision3D.  The stuff on Newgrounds? That's like, so 2003.
+Back when I first started seeing Flash the best stuff was animations and games - often simple graphics and animations, but they trumped anything that businesses and promotional websites had. 5 years on and the commercial world of Flash is on the cutting edge - not <em>quite</em> developing - but certainly making use of the latest and greatest visual effects, things like Papervision3D.  The stuff on Newgrounds? That's like, so 2003.
 
 Does this mean Flash games are going out of fashion?  Unlikely - It's probably just my age (and by that I mean I'm no longer surfing the internet while I'm bored in lectures). But it would seem that the community-driven Flash game development has progressed at a much slower rate than the commerical games - but then maybe that's just because people have different motivations!
 <h2>(Commercial) Flash game example;</h2>

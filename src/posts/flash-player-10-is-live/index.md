@@ -1,5 +1,5 @@
 ---
-path: /flash-player-10-is-live/
+path: /blog/flash-player-10-is-live/
 layout: post
 title: Flash Player 10 is Live
 date: 2008-10-15T12:20:15Z

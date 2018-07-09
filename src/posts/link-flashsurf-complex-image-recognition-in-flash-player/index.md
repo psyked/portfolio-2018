@@ -1,5 +1,5 @@
 ---
-path: /link-flashsurf-complex-image-recognition-in-flash-player/
+path: /blog/link-flashsurf-complex-image-recognition-in-flash-player/
 layout: post
 title: 'Link: FlashSURF - complex image recognition in Flash Player'
 date: 2010-02-24T08:47:59Z

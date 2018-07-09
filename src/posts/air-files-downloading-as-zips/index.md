@@ -1,5 +1,5 @@
 ---
-path: /air-files-downloading-as-zips/
+path: /blog/air-files-downloading-as-zips/
 layout: post
 title: AIR files downloading as .zips?
 date: 2008-04-11T21:19:05Z

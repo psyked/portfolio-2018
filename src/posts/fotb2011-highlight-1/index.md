@@ -1,5 +1,5 @@
 ---
-path: /fotb2011-highlight-1/
+path: /blog/fotb2011-highlight-1/
 layout: post
 title: 'FOTB2011 Highlight #1: HiSlope'
 date: 2011-09-15T19:43:55Z

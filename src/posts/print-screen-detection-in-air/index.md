@@ -1,5 +1,5 @@
 ---
-path: /print-screen-detection-in-air/
+path: /blog/print-screen-detection-in-air/
 layout: post
 title: Print Screen detection in AIR
 date: 2009-04-17T08:23:06Z
@@ -8,7 +8,7 @@ date: 2009-04-17T08:23:06Z
 Here's a little something I've been working on recently - Print Screen support in AIR. It has to be AIR because only AIR allows you to access the OS clipboard, and only AIR seems to have access to the full keyboard.  There's a few things I've looked at and various snippets of code, so I'll cover them in roughly the order I figured it all out...
 
 <img class="alignnone size-full wp-image-867" title="Print Screen Monitor" src="http://uploads.psyked.co.uk/2009/04/printscreenmonitor.jpg" alt="Print Screen Monitor" width="500" height="280" />
-<!--more-->
+
 <h3>Getting your Print Screen data.</h3>
 This is actually easy enough - use the Clipboard class (available in AIR) .
 

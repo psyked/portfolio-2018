@@ -1,5 +1,5 @@
 ---
-path: /displaying-link-locations-with-css/
+path: /blog/displaying-link-locations-with-css/
 layout: post
 title: Displaying Link locations with CSS
 date: 2007-11-27T08:01:15Z
@@ -14,7 +14,7 @@ tags:
 <h3>Why would you want too?</h3>
 How often is it the case that you're not <em>quite</em> sure where a link is going to take you?  Ok, so it's not a major issue for mainstream browsers - after all, that's what the "Status bar" is for.  But beyond your normal browser operation - say on an unusual machine or if you're looking at a print-off - just how can you tell where a link should be going?  If the link text is good, you might be able to track down the target page, but that's nothing compared to the usefullness of a full URL.
 
-Luckily with a smidgen of CSS and an up-to-date browser, you can solve at least a few of these problems in a nice, clever way.  A List Apart covered this in the misty old era of 2002, back when I was still making HTML pages with notepad and cobbling together images with Trial versions of Paint Shop Pro.  In the article, <a href="http://www.alistapart.com/articles/goingtoprint/" title="Open link in a new window" target="_blank">CSS Design: Going to Print</a>, they Eric Meyer covers - amongst other things - the issue of displaying 'Printed links', making links that are as useful in print as they are functional onscreen.<!--more-->
+Luckily with a smidgen of CSS and an up-to-date browser, you can solve at least a few of these problems in a nice, clever way.  A List Apart covered this in the misty old era of 2002, back when I was still making HTML pages with notepad and cobbling together images with Trial versions of Paint Shop Pro.  In the article, <a href="http://www.alistapart.com/articles/goingtoprint/" title="Open link in a new window" target="_blank">CSS Design: Going to Print</a>, they Eric Meyer covers - amongst other things - the issue of displaying 'Printed links', making links that are as useful in print as they are functional onscreen.
 <h3>What do I have to do?</h3>
 The long and short of it is this snippet of code;
 

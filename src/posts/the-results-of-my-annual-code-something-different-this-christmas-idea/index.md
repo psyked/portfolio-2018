@@ -1,5 +1,5 @@
 ---
-path: /the-results-of-my-annual-code-something-different-this-christmas-idea/
+path: /blog/the-results-of-my-annual-code-something-different-this-christmas-idea/
 layout: post
 title: The results of my annual "code something different this Christmas" idea.
 date: 2010-01-04T08:23:39Z

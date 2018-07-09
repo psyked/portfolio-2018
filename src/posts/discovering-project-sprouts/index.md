@@ -1,5 +1,5 @@
 ---
-path: /discovering-project-sprouts/
+path: /blog/discovering-project-sprouts/
 layout: post
 title: 'Discovering: Project Sprouts'
 date: 2011-07-22T09:49:53Z

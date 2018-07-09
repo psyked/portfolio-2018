@@ -1,5 +1,5 @@
 ---
-path: /link-experiments-with-canvas-and-the-hype-framework/
+path: /blog/link-experiments-with-canvas-and-the-hype-framework/
 layout: post
 title: 'Link: Experiments with Canvas and the HYPE Framework'
 date: 2011-03-16T21:40:02Z

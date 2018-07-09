@@ -1,5 +1,5 @@
 ---
-path: /more-development-peeky-sneaks/
+path: /blog/more-development-peeky-sneaks/
 layout: post
 title: More development peeky-sneaks…
 date: 2007-11-18T00:27:43Z

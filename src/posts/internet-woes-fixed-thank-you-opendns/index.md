@@ -1,5 +1,5 @@
 ---
-path: /internet-woes-fixed-thank-you-opendns/
+path: /blog/internet-woes-fixed-thank-you-opendns/
 layout: post
 title: Internet woes fixed - thank you OpenDNS!
 date: 2008-06-20T21:43:58Z
@@ -15,7 +15,7 @@ Well, a bit of Googling into traceroutes, pings, hostnames and general techie mu
 
 There's a lot written about a lot of things (namely problems with Virgin broadband, and some contention over the OpenDNS project).  Here's a few links I picked up, if you're interested;
 
-<!--more-->
+
 <ul>
 	<li><a href="https://www.opendns.com/start#" target="_blank">OpenDNS main website</a></li>
 	<li><a href="http://www.techcrunch.com/2006/07/18/opendns-wants-to-watch-the-web-for-you/" target="_blank">Techcrunch on OpenDNS</a> (cagey about OpenDNS)</li>

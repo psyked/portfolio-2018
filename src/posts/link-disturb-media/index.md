@@ -1,5 +1,5 @@
 ---
-path: /link-disturb-media/
+path: /blog/link-disturb-media/
 layout: post
 title: 'Link: disturb media'
 date: 2009-09-17T10:56:18Z

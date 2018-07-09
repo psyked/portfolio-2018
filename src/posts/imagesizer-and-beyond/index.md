@@ -1,5 +1,5 @@
 ---
-path: /imagesizer-and-beyond/
+path: /blog/imagesizer-and-beyond/
 layout: post
 title: ImageSizer -- and beyond(!)
 date: 2010-07-28T23:10:06Z
@@ -12,7 +12,7 @@ It's been a couple of years since I either started working on <a href="http://ww
 <h3>ImageSizer, now.</h3>
 <span style="font-weight: normal; font-size: 13px;"><img class="alignnone size-full wp-image-1252" title="ImageSizer 0.6.1 screenshot" src="http://uploads.psyked.co.uk/2010/07/imagesizer-screenshot.jpg" alt="" width="520" height="405" /></span>
 
-ImageSizer is now up to version 0.6.1 - not that the version numbers are anything but arbitrary, of course.  You can import images, rotate them, crop them and resize the lot and output them to your machine.  It works, but the code is a little out of date now, my code-signing certificates are out of date, and I really want to try something new.  So... <!--more-->
+ImageSizer is now up to version 0.6.1 - not that the version numbers are anything but arbitrary, of course.  You can import images, rotate them, crop them and resize the lot and output them to your machine.  It works, but the code is a little out of date now, my code-signing certificates are out of date, and I really want to try something new.  So... 
 <h3>ImageSizer, future.</h3>
 Time to create ImageSizer, version 2.  Going for a full re-write on the code side of things means I'm going to try one cool thing - a desktop version and a web-based version.  The reason for the desktop version is obvious, but having a web-based version should make the functionality behind ImageSizer available for people who can't (or don't want to) install the desktop application.  Plus, trial version, and that sort of thing.
 

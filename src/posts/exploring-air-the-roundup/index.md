@@ -1,5 +1,5 @@
 ---
-path: /exploring-air-the-roundup/
+path: /blog/exploring-air-the-roundup/
 layout: post
 title: Exploring .air - the roundup.
 date: 2007-08-04T13:41:34Z
@@ -15,7 +15,7 @@ Nevermind, eh?  I certainly learnt a lot playing with Flex builder / Air / AS3, 
 
 One thing I realised is that your intrinsic knowledge of Flash and it's specialised coding methods mean very little working in Flex, but that certainly doesn't mean it's bad - Flash programming is probably a bit of a niché market in how it's done and works, and I get the impression that the Flex approach is a lot more mainstream theory-wise, so I'm prepared to put the effort into learning to code properly.
 
-<!--more-->I <strike> perhaps </strike> should have put more effort into recording how I got on over the week, but that's hindsight for you.  Here's a brief overview of what I got up too, generally just to prove that the longer you work on something, the more progress you make, and the faster you make it.
+I <strike> perhaps </strike> should have put more effort into recording how I got on over the week, but that's hindsight for you.  Here's a brief overview of what I got up too, generally just to prove that the longer you work on something, the more progress you make, and the faster you make it.
 
 <strong>Day 01 -</strong>
 

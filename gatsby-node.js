@@ -10,6 +10,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise((resolve, reject) => {
     const pages = []
     const blogPost = path.resolve("./src/templates/blog-post.js")
+    const tagTemplate = path.resolve("./src/templates/tag.js")
+
     resolve(
       graphql(
         `
@@ -18,7 +20,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           edges {
             node {
               frontmatter {
-                path
+                path,
+                tags
               }
             }
           }
@@ -38,6 +41,28 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             component: blogPost
           })
         })
+
+        // Tag pages:
+        let tags = [];
+        // Iterate through each post, putting all found tags into `tags`
+        _.each(result.data.allMarkdownRemark.edges, edge => {
+          if (_.get(edge, "node.frontmatter.tags")) {
+            tags = tags.concat(edge.node.frontmatter.tags);
+          }
+        });
+        // Eliminate duplicate tags
+        tags = _.uniq(tags);
+
+        // Make tag pages
+        tags.forEach(tag => {
+          createPage({
+            path: `/tag/${_.kebabCase(tag)}/`,
+            component: tagTemplate,
+            context: {
+              tag,
+            },
+          });
+        });
       })
     )
   })

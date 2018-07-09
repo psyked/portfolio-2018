@@ -1,5 +1,5 @@
 ---
-path: /imagesizer-updated-and-now-with-a-crop-tool/
+path: /blog/imagesizer-updated-and-now-with-a-crop-tool/
 layout: post
 title: ImageSizer updated, and now with a Crop tool.
 date: 2009-03-15T16:28:50Z
@@ -13,7 +13,7 @@ If you've been running ImageSizer then hopefully you'll have seen the automatic 
 <h2>General updates:</h2>
 <img class="alignnone size-full wp-image-802" title="ImageSizer version 0.4.6" src="http://uploads.psyked.co.uk/2009/03/imagesizer_main.jpg" alt="ImageSizer version 0.4.6" width="500" height="375" />
 
-<!--more-->The first thing you'll notice is that the interface is looking a little bit brighter - with those helpful #1, #2, #3 markers. They're designed to make it easier to identify the process you need to take to use the application.  We've also added more instructions to the application, in a simpler language (hopefully).
+The first thing you'll notice is that the interface is looking a little bit brighter - with those helpful #1, #2, #3 markers. They're designed to make it easier to identify the process you need to take to use the application.  We've also added more instructions to the application, in a simpler language (hopefully).
 
 <img class="alignnone size-full wp-image-803" title="ImageSizer - encoding screen" src="http://uploads.psyked.co.uk/2009/03/imagesizer_encoding.jpg" alt="ImageSizer - encoding screen" width="500" height="375" />
 

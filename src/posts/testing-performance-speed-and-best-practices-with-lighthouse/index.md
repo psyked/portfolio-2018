@@ -1,5 +1,5 @@
 ---
-path: /testing-performance-speed-and-best-practices-with-lighthouse/
+path: /blog/testing-performance-speed-and-best-practices-with-lighthouse/
 layout: post
 title: Testing Performance, Speed and Best Practices with Lighthouse
 date: 2017-01-28T20:31:07Z

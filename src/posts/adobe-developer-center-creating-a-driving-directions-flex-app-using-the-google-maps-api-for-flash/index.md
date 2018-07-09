@@ -1,5 +1,5 @@
 ---
-path: /adobe-developer-center-creating-a-driving-directions-flex-app-using-the-google-maps-api-for-flash/
+path: /blog/adobe-developer-center-creating-a-driving-directions-flex-app-using-the-google-maps-api-for-flash/
 layout: post
 title: Adobe Developer Center - Creating a driving directions Flex app using the Google
   Maps API for Flash

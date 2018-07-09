@@ -1,5 +1,5 @@
 ---
-path: /best-practice-for-air-applications-1-of-7/
+path: /blog/best-practice-for-air-applications-1-of-7/
 layout: post
 title: Best Practice for AIR applications (1 of 7)
 date: 2009-02-15T23:53:08Z
@@ -13,7 +13,7 @@ One thing that could severely affect peoples' general opinion of a technology is
 Guidelines, or Best Practice, should be pretty familiar to Flash/Flex developers - a lot of what we do is made for the web, and the web has guidelines (in the form of the <a href="http://www.w3.org/" target="_blank">W3C</a>). AIR is a newish development platform, so a lot of the elements here represent a lot of work initally, but I'm trying to ignore the development it represents and imagine where things should be in a year or so. I have seven rough 'categories' with about 20 points total - too much to write in one night, so here's the first of several posts on the subject.
 
 Any suggestions, leave a comment.
-<!--more--><h2>Best Practice for AIR applications</h2>
+<h2>Best Practice for AIR applications</h2>
 These aren't really in an order of severity or importance, by the way - just the order they occured to me.
 <h3>General Best Practice</h3>
 <strong>Remember user preferences

@@ -1,5 +1,5 @@
 ---
-path: /targeting-multiple-browsers-with-css-and-some-javascript-trickery/
+path: /blog/targeting-multiple-browsers-with-css-and-some-javascript-trickery/
 layout: post
 title: Targeting multiple browsers with CSS... and some Javascript trickery.
 date: 2009-11-28T08:00:19Z

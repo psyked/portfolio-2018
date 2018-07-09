@@ -1,5 +1,5 @@
 ---
-path: /actionscript-2-xml-cdata-returns-undefined-or-htmltext-doesnt-work/
+path: /blog/actionscript-2-xml-cdata-returns-undefined-or-htmltext-doesnt-work/
 layout: post
 title: ActionScript 2 - XML CDATA returns undefined, or htmlText doesn't work!
 date: 2008-09-17T07:40:13Z
@@ -24,7 +24,7 @@ tags:
 <li>Being tripped up by the Flash players' slightly dodgy XML parsing.</li>
 </ul>
 <h3>Accessing CDATA correctly</h3>
-<p>Now, the way that you should be accessing<!--more--> CDATA in Flash is perhaps a little different to what you'd expect.  CDATA should have no effect on how you access your XML - it's a parsing instruction, right?.  Well Flash treats it as part of the XML structure, so if you want to access the data inside the CDATA element, you have to treat the CDATA as a node in itself.  Its actually quite easy though.  Instead of accessing the contents of CDATA with childNode.nodeValue or childNodes, you should be using <strong>childNode.firstChild.nodeValue</strong>.</p>
+<p>Now, the way that you should be accessing CDATA in Flash is perhaps a little different to what you'd expect.  CDATA should have no effect on how you access your XML - it's a parsing instruction, right?.  Well Flash treats it as part of the XML structure, so if you want to access the data inside the CDATA element, you have to treat the CDATA as a node in itself.  Its actually quite easy though.  Instead of accessing the contents of CDATA with childNode.nodeValue or childNodes, you should be using <strong>childNode.firstChild.nodeValue</strong>.</p>
 <p>So childNode is the parent node of the CDATA element, firstChild is the actual CDATA instruction, and nodeValue extracts everything that's inside the CDATA element.</p>
 <p>That hopefully, will solve any problems with 'undefined' appearing when you try to access data inside a CDATA element.</p>
 <h3>Flash players' dodgy XML parsing?</h3>

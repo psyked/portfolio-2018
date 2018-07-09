@@ -1,5 +1,5 @@
 ---
-path: /hobnox-audiotool/
+path: /blog/hobnox-audiotool/
 layout: post
 title: Hobnox AudioTool
 date: 2008-12-19T09:00:37Z

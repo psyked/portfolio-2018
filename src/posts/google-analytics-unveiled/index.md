@@ -1,5 +1,5 @@
 ---
-path: /google-analytics-unveiled/
+path: /blog/google-analytics-unveiled/
 layout: post
 title: Google Analytics — Unveiled.
 date: 2008-09-12T10:00:10Z

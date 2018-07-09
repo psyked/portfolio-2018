@@ -1,12 +1,10 @@
 ---
-path: /desktop-mashups/
+path: /blog/desktop-mashups/
 layout: post
 title: Desktop Mashups?
 date: 2008-11-25T09:45:27Z
 tags:
-- adobe-creative-suite
 - macros
-- mashups
 - microsoft-office
 - vba
 ---
@@ -17,7 +15,7 @@ It's a fast-paced industry, with Digital Production studios (like us) transformi
 
 Most companies have crossed into the realms of digital (who even works with paper anymore?) but that doesn't mean that they are using formats that are compatable with web development - quite the opposite - they'll mostly be Word documents, Excel spreadsheets or Powerpoint presentations. Likewise, images you're supplied will be full-resolution megapixel camera shots, not web-optimised graphics. So, just how do you turn work around in an efficent, reliable way - in the easiest way possible for both you <em>and</em> the client?
 
-<!--more-->
+
 <h3>[What is a] desktop mashup?</h3>
 Well technically, I just made the term up.  Everyone's banging on about online mashups - connecting data services to this and that, to do something new or special.  A desktop mashup is the same idea, connecting Visual Basic macros authored in Microsoft Office or the .Net framework to applications and scripts written in Adobe Bridge, ExtendScript or just plain old (Flash/Flex/AIR/Director) to whatever other format you require.
 

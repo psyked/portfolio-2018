@@ -1,5 +1,5 @@
 ---
-path: /viewing-flash-flex-air-documentation-offline-with-doc/
+path: /blog/viewing-flash-flex-air-documentation-offline-with-doc/
 layout: post
 title: Viewing Flash / Flex / AIR documentation offline with "Doc?"
 date: 2009-03-04T08:30:17Z

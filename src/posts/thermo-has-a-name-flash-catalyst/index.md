@@ -1,5 +1,5 @@
 ---
-path: /thermo-has-a-name-flash-catalyst/
+path: /blog/thermo-has-a-name-flash-catalyst/
 layout: post
 title: Thermo has a name... Flash Catalyst
 date: 2008-11-17T10:00:33Z

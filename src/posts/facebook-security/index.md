@@ -1,5 +1,5 @@
 ---
-path: /facebook-security/
+path: /blog/facebook-security/
 layout: post
 title: Facebook security?!
 date: 2008-05-30T21:10:51Z

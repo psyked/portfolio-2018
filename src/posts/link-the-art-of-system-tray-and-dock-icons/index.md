@@ -1,5 +1,5 @@
 ---
-path: /link-the-art-of-system-tray-and-dock-icons/
+path: /blog/link-the-art-of-system-tray-and-dock-icons/
 layout: post
 title: 'Link: The Art of System Tray and Dock Icons'
 date: 2009-02-19T11:25:15Z

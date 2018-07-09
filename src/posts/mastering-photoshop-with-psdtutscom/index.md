@@ -1,5 +1,5 @@
 ---
-path: /mastering-photoshop-with-psdtutscom/
+path: /blog/mastering-photoshop-with-psdtutscom/
 layout: post
 title: Mastering Photoshop with psdtuts.com
 date: 2007-10-08T20:55:26Z
@@ -13,7 +13,7 @@ tags:
 
 Now, my knowledge of Photoshop is ok, certainly on-par with those I work with,  but Psdtuts? I'm a complete novice against them.  I tried to do a couple of their tutorials as a demonstration, but they didn't turn out so good.  They make it look so easy, but I guess you need some mystical, innate knowledge if you're going to compete.
 <p style="text-align: center;"><a title="Open link in a new window" href="http://psdtuts.com/" target="_blank"><img src="/content/images/2007/10/11.jpg" alt="A sample improvement from photoshop" width="470" height="312" /></a></p>
-<!--more-->
+
 My favourates have got to be;
 <ul>
 	<li><a title="Open link in a new window" href="http://psdtuts.com/photo-effects-tutorials/souping-up-a-photo/" target="_blank">Souping up a photo.</a></li>

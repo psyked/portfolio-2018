@@ -1,5 +1,5 @@
 ---
-path: /introducing-real-time-social-networking-capabilities-to-the-flash-platform/
+path: /blog/introducing-real-time-social-networking-capabilities-to-the-flash-platform/
 layout: post
 title: Introducing real-time social networking capabilities to the Flash Platform.
 date: 2009-02-17T10:13:49Z

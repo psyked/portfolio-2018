@@ -1,5 +1,5 @@
 ---
-path: /max-2008-na-videos-online/
+path: /blog/max-2008-na-videos-online/
 layout: post
 title: MAX 2008 NA Videos online
 date: 2008-12-12T10:33:09Z

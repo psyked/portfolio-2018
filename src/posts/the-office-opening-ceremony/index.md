@@ -1,5 +1,5 @@
 ---
-path: /the-office-opening-ceremony/
+path: /blog/the-office-opening-ceremony/
 layout: post
 title: The Office Opening Ceremony...
 date: 2008-11-25T22:01:12Z
@@ -17,6 +17,6 @@ I know you're all wishing you were there, but there has to be a limit on attenda
 
 Check out <a href="http://www.mmtdigital.co.uk/news" target="_blank">the news story on MMT Digital's website</a>, or check below the jump to watch our video.
 
-<!--more-->
+
 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="320" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.mmtdigital.co.uk/mmtopening/mmtopeningflv.swf" /><embed type="application/x-shockwave-flash" width="500" height="320" src="http://www.mmtdigital.co.uk/mmtopening/mmtopeningflv.swf" allowscriptaccess="always" allowfullscreen="true"></embed></object>

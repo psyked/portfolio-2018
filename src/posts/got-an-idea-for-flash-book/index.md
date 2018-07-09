@@ -1,5 +1,5 @@
 ---
-path: /got-an-idea-for-flash-book/
+path: /blog/got-an-idea-for-flash-book/
 layout: post
 title: Got an idea for Flash book?
 date: 2011-06-17T22:43:32Z

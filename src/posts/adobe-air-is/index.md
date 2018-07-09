@@ -1,5 +1,5 @@
 ---
-path: /adobe-air-is/
+path: /blog/adobe-air-is/
 layout: post
 title: Adobe AIR is...
 date: 2008-04-13T11:00:08Z
@@ -17,7 +17,7 @@ Just what Adobe AIR is, is an unusual concept.  But I think I'm getting the hang
 Adobe AIR is not a direct replacement for Adobe Director, and in that respect not a competitor to products like MDM Zinc.  Macromedia / Adobe has been pretty unenthusiastic about keeping Director on par with its other products in the last 4 years and oh, how we wish it weren't so.  Nevertheless, AIR is not aimed at replacing Director.
 <h3><strong>Adobe AIR is...</strong></h3>
 the best parallel is probably the .net framework that Microsoft creates and distributes.  An AIR file can't function without the AIR runtime, and neither can it be installed.  The same is true of applications and services that leverage the .net framework.  Luckily, for end users, the .net framework often comes with your application (or if you're even luckier, via Automatic Updates)  Lucky for AIR then, that you can do the same thing.
-<!--more--> Given that Adobe is, well, Adobe - owner of the ubiquitous Flash Player -  hearing about a new plugin called AIR makes you think that it's another one like the Flash or Shockwave player - for displaying content in webpages, and you'd think that what they're doing is abandoning their 99% market penetration plugin for a new shiny one, but with only 1-5% of the market having the plugin.
+ Given that Adobe is, well, Adobe - owner of the ubiquitous Flash Player -  hearing about a new plugin called AIR makes you think that it's another one like the Flash or Shockwave player - for displaying content in webpages, and you'd think that what they're doing is abandoning their 99% market penetration plugin for a new shiny one, but with only 1-5% of the market having the plugin.
 
 You'd be wrong to assume that, but it's only natural.  I thought that right up until the <a href="http://www.psyked.co.uk/adobe/apollo/on-air-london-review.htm" title="Open link in a new window" target="_blank">'on AIR' tour</a>.
 

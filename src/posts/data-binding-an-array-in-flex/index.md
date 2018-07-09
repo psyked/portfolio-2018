@@ -1,5 +1,5 @@
 ---
-path: /data-binding-an-array-in-flex/
+path: /blog/data-binding-an-array-in-flex/
 layout: post
 title: Data Binding an Array in Flex?
 date: 2009-02-02T09:45:35Z

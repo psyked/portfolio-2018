@@ -1,5 +1,5 @@
 ---
-path: /video-link-content-aware-fill-in-photoshop-cs5/
+path: /blog/video-link-content-aware-fill-in-photoshop-cs5/
 layout: post
 title: 'Video link: Content-aware Fill in Photoshop CS5'
 date: 2010-03-25T07:55:07Z

@@ -1,5 +1,5 @@
 ---
-path: /packaging-pixel-bender-filters-in-swc-files/
+path: /blog/packaging-pixel-bender-filters-in-swc-files/
 layout: post
 title: Packaging Pixel Bender filters in SWC files
 date: 2008-12-18T12:20:28Z

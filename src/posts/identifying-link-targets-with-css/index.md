@@ -1,5 +1,5 @@
 ---
-path: /identifying-link-targets-with-css/
+path: /blog/identifying-link-targets-with-css/
 layout: post
 title: Identifying link targets with CSS
 date: 2007-12-05T08:06:19Z

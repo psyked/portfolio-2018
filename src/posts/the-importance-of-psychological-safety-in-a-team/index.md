@@ -1,5 +1,5 @@
 ---
-path: /the-importance-of-psychological-safety-in-a-team/
+path: /blog/the-importance-of-psychological-safety-in-a-team/
 layout: post
 title: "[The importance of] Psychological Safety in a team"
 date: 2018-06-08T12:42:00Z

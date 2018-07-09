@@ -1,5 +1,5 @@
 ---
-path: /auto-matic-link-icons/
+path: /blog/auto-matic-link-icons/
 layout: post
 title: Auto-matic Link Icons
 date: 2007-07-10T17:42:17Z
@@ -13,7 +13,7 @@ CSS 2.1 has many new wonderful capabilities, and I'm going to show you one of my
 First, a look at the end result :-
 
 <img class="alignnone size-full wp-image-1408" title="Auto-matic Link icons" src="http://uploads.psyked.co.uk/2007/07/auto-matic-link-icons.png" alt="" width="500" height="150" />
-<!--more-->
+
 Now, you may have seen similar things on a few websites already, wikipedia certainly makes use of the technique to highlight external links. The astute of you may notice that the 'external' link isn't <span style="text-decoration: underline;">actually</span> external - think of it more as 'absolute'. How do we achieve these results automatically? Well, that's with the power of the new CSS selectors. <a href="http://www.456bereastreet.com/archive/200509/css_21_selectors_part_1/">456BereaSt.</a> has a nice article on them, but the stuff we're concerned with is the attribute selectors.
 
 Attribute selectors are done with [square brackets], and can include simple conditional statements, with some options for wildcards thrown in to boot. The easiest way for me to explain is to show you...

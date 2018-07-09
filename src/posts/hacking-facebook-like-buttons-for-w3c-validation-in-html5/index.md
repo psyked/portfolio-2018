@@ -1,5 +1,5 @@
 ---
-path: /hacking-facebook-like-buttons-for-w3c-validation-in-html5/
+path: /blog/hacking-facebook-like-buttons-for-w3c-validation-in-html5/
 layout: post
 title: Hacking Facebook "Like" buttons for W3C Validation in HTML5
 date: 2011-11-11T00:11:03Z

@@ -1,5 +1,5 @@
 ---
-path: /link-icon-generator-pro/
+path: /blog/link-icon-generator-pro/
 layout: post
 title: 'Link: Icon Generator Pro'
 date: 2010-05-12T08:26:14Z

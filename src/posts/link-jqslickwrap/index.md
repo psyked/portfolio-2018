@@ -1,5 +1,5 @@
 ---
-path: /link-jqslickwrap/
+path: /blog/link-jqslickwrap/
 layout: post
 title: 'Link: jQSlickWrap'
 date: 2009-12-04T11:31:09Z

@@ -1,5 +1,5 @@
 ---
-path: /fixed-air-update-framework-broken/
+path: /blog/fixed-air-update-framework-broken/
 layout: post
 title: 'Fixed: AIR update framework broken!'
 date: 2010-01-29T21:30:30Z
@@ -14,7 +14,7 @@ tags:
 
 The problem is actually a pretty specific one, but it's not going to fix itself.  Using the Flex 3.5 SDK and the AIR Update Framework together causes this issue - obviously some part of the Flex SDK has changed between Flex 3.4 and 3.5, and no-one tested the framework before releasing it!  The issue is fixed in Flex 4 and doesn't occur in anything other than the 3.5 SDK - so upgrading / downgrading is one solution; or...
 <h3>Hack a solution:</h3>
-<!--more-->Kudos to <strong>Richard Leggett</strong> for this solution; you can add an event listener for the <strong>StatusUpdateEvent.UPDATE_STATUS</strong> event, which includes this code:
+Kudos to <strong>Richard Leggett</strong> for this solution; you can add an event listener for the <strong>StatusUpdateEvent.UPDATE_STATUS</strong> event, which includes this code:
 
 <pre><code>try
 {

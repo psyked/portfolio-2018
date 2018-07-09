@@ -1,5 +1,5 @@
 ---
-path: /the-slides-from-my-presentation-at-flashmidlands/
+path: /blog/the-slides-from-my-presentation-at-flashmidlands/
 layout: post
 title: The slides from my presentation at FlashMidlands.
 date: 2011-11-20T20:50:42Z

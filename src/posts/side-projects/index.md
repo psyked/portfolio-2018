@@ -1,5 +1,5 @@
 ---
-path: /side-projects/
+path: /blog/side-projects/
 layout: post
 title: Side Projects
 date: 2013-11-23T12:00:49Z

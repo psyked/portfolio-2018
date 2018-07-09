@@ -1,5 +1,5 @@
 ---
-path: /simplifying-box2das3/
+path: /blog/simplifying-box2das3/
 layout: post
 title: Simplifying Box2DAS3...
 date: 2010-01-08T08:25:15Z
@@ -32,6 +32,6 @@ And here's the result:
 
 [kml_flashembed movie="http://uploads.psyked.co.uk/2010/01/Box2DExperiments.swf" height="280" width="500" /]
 
-<!--more-->Not at the point of getting any interaction, or anything more interesting yet, but I've create a utility class for creating Box2D worlds and a Box2DWorld class (as opposed to b2World, which it extends).  The aim of these classes is to condense about 40 - 60 lines of initialisation and basic scenarios into just a few lines, using default variables whilst still allowing for optional overrides.  So if you wanted a world with 0 gravity, that's just a case of changing it at the start.
+Not at the point of getting any interaction, or anything more interesting yet, but I've create a utility class for creating Box2D worlds and a Box2DWorld class (as opposed to b2World, which it extends).  The aim of these classes is to condense about 40 - 60 lines of initialisation and basic scenarios into just a few lines, using default variables whilst still allowing for optional overrides.  So if you wanted a world with 0 gravity, that's just a case of changing it at the start.
 
 I'll post the classes soon - just as soon as I decide the best way to do so.  It'll all become more clear then, I hope.

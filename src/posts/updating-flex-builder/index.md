@@ -1,5 +1,5 @@
 ---
-path: /updating-flex-builder/
+path: /blog/updating-flex-builder/
 layout: post
 title: Updating Flex Builder
 date: 2009-01-27T08:46:31Z

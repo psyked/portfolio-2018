@@ -1,5 +1,5 @@
 ---
-path: /kuler-desktop-released/
+path: /blog/kuler-desktop-released/
 layout: post
 title: Kuler Desktop released!
 date: 2007-05-28T13:25:54Z

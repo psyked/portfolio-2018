@@ -1,5 +1,5 @@
 ---
-path: /cool-stuff-in-google-image-details/
+path: /blog/cool-stuff-in-google-image-details/
 layout: post
 title: Cool stuff in Google+ - Image details
 date: 2011-07-17T18:16:53Z

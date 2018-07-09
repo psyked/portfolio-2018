@@ -1,5 +1,5 @@
 ---
-path: /erk-my-contact-form-is-broken-time-to-upgrade/
+path: /blog/erk-my-contact-form-is-broken-time-to-upgrade/
 layout: post
 title: Erk, my contact form is broken.  Time to upgrade...
 date: 2008-12-09T11:30:44Z

@@ -1,5 +1,5 @@
 ---
-path: /link-rendering-native-system-icons-in-air/
+path: /blog/link-rendering-native-system-icons-in-air/
 layout: post
 title: 'Link: Rendering native system icons in AIR'
 date: 2009-05-22T08:05:43Z

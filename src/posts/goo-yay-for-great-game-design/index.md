@@ -1,5 +1,5 @@
 ---
-path: /goo-yay-for-great-game-design/
+path: /blog/goo-yay-for-great-game-design/
 layout: post
 title: 'Goo: Yay for great game design!'
 date: 2008-12-22T08:36:50Z

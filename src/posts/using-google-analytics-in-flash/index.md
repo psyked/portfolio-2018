@@ -1,5 +1,5 @@
 ---
-path: /using-google-analytics-in-flash/
+path: /blog/using-google-analytics-in-flash/
 layout: post
 title: Using Google Analytics in Flash
 date: 2009-01-06T09:20:18Z

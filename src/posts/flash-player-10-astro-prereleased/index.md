@@ -1,5 +1,5 @@
 ---
-path: /flash-player-10-astro-prereleased/
+path: /blog/flash-player-10-astro-prereleased/
 layout: post
 title: Flash Player 10 (Astro) Prereleased!
 date: 2008-05-15T08:30:21Z

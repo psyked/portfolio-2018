@@ -1,5 +1,5 @@
 ---
-path: /creating-flex-components-the-easy-way-for-flash-ide-converts/
+path: /blog/creating-flex-components-the-easy-way-for-flash-ide-converts/
 layout: post
 title: Creating Flex Components - the easy way (for Flash IDE converts)
 date: 2009-01-05T08:43:18Z
@@ -14,7 +14,7 @@ tags:
 <span>I came across <a href="http://www.webkitchen.be/2008/12/12/video-tutorial-make-flex-components-with-flash-cs4/" target="_blank">this post by Serge Jespers</a>; a brilliant video for getting started. However, I wanted my components to be scalable like other Flex components, and after some digging around I found that by overriding the method <span style="font-family:"><strong>setActualSize()</strong></span> I could get my components to react to being scaled by its layout container. The <span style="font-family:"><strong>setActualSize()</strong></span> method on a component is called by its layout containers’ </span><span>updateDisplayList()</span><span> method, so when we make changes to the size of the layout container (i.e. resize the window) the changes are reflected in the component, in Design view. </span>
 
 <span>In the explanations below I’ll be assuming you already have an understanding of the Flash IDE (in this case CS3), creating custom classes and have the <a href="https://www.adobe.com/cfusion/entitlement/index.cfm?e=flex_skins" target="_blank">Flex Component Kit for Flash</a> installed.</span>
-<span><!--more--></span>
+<span></span>
 <h3>Before we get started, you can;</h3>
 <a href="http://uploads.psyked.co.uk/2008/12/redbox.zip">Download the Flash CS3 source files [Zip file: 151Kb]</a>
 

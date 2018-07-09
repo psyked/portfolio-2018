@@ -1,5 +1,5 @@
 ---
-path: /mmt-digitals-2010-christmas-game/
+path: /blog/mmt-digitals-2010-christmas-game/
 layout: post
 title: MMT Digital's 2010 Christmas Game
 date: 2010-12-16T16:27:24Z

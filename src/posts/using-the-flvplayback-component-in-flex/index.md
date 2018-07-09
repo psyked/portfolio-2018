@@ -1,5 +1,5 @@
 ---
-path: /using-the-flvplayback-component-in-flex/
+path: /blog/using-the-flvplayback-component-in-flex/
 layout: post
 title: Using the FLVPlayback component in Flex
 date: 2008-12-16T08:45:50Z

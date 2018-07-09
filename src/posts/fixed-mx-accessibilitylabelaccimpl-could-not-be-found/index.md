@@ -1,5 +1,5 @@
 ---
-path: /fixed-mx-accessibilitylabelaccimpl-could-not-be-found/
+path: /blog/fixed-mx-accessibilitylabelaccimpl-could-not-be-found/
 layout: post
 title: 'Fixed: mx.accessibility:LabelAccImpl could not be found.'
 date: 2010-06-21T21:47:21Z

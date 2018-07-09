@@ -1,5 +1,5 @@
 ---
-path: /link-working-with-sqlite-in-air-using-orm/
+path: /blog/link-working-with-sqlite-in-air-using-orm/
 layout: post
 title: 'Link: Working with SQLite in AIR, with the help of ORM'
 date: 2010-01-28T08:45:12Z

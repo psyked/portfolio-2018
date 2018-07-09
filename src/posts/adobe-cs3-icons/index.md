@@ -1,5 +1,5 @@
 ---
-path: /adobe-cs3-icons/
+path: /blog/adobe-cs3-icons/
 layout: post
 title: Adobe CS3 Icons
 date: 2007-05-18T06:52:58Z

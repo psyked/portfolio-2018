@@ -1,5 +1,5 @@
 ---
-path: /how-to-poach-pixel-bender-filters/
+path: /blog/how-to-poach-pixel-bender-filters/
 layout: post
 title: 'How to: poach Pixel Bender filters.'
 date: 2009-02-12T08:28:04Z
@@ -13,7 +13,7 @@ Pixel Bender files fall into this class.  <a href="http://www.adobe.com/devnet/
 
 <img class="alignnone size-full wp-image-717" title="Pixel Bender filter files" src="http://uploads.psyked.co.uk/2009/02/pixelbender.jpg" alt="Pixel Bender filter files" width="500" height="280" />
 
-<!--more-->
+
 <h3>Enough yammering, tell me something useful!</h3>
 So, when an AIR application is installed on your machine it places all of the files it needs in your 'Applications' or 'Program Files' directory. Usually external assets like Pixel Bender are available in the source files in a standalone format, and that's all you really need to incorporate those filters into your own projects.
 

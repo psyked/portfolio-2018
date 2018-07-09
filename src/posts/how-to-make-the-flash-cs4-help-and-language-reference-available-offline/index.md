@@ -1,5 +1,5 @@
 ---
-path: /how-to-make-the-flash-cs4-help-and-language-reference-available-offline/
+path: /blog/how-to-make-the-flash-cs4-help-and-language-reference-available-offline/
 layout: post
 title: How to make the Flash CS4 Help and Language reference available offline.
 date: 2008-12-10T14:00:41Z

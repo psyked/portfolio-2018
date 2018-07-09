@@ -1,5 +1,5 @@
 ---
-path: /how-terrible-code-gets-written-by/
+path: /blog/how-terrible-code-gets-written-by/
 layout: post
 title: 'Link: “How terrible code gets written by perfectly sane people”'
 date: 2017-09-30T19:43:32Z

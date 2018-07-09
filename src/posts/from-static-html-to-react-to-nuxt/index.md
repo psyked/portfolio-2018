@@ -1,5 +1,5 @@
 ---
-path: /from-static-html-to-react-to-nuxt/
+path: /blog/from-static-html-to-react-to-nuxt/
 layout: post
 title: 'PokéProject: from Static HTML, to React, to Nuxt.'
 date: 2017-04-10T08:11:00Z

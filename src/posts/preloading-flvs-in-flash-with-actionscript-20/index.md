@@ -1,5 +1,5 @@
 ---
-path: /preloading-flvs-in-flash-with-actionscript-20/
+path: /blog/preloading-flvs-in-flash-with-actionscript-20/
 layout: post
 title: Preloading FLVs in flash with ActionScript 2.0
 date: 2009-01-19T16:20:04Z

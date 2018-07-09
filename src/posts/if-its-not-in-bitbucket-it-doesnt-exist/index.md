@@ -1,5 +1,5 @@
 ---
-path: /if-its-not-in-bitbucket-it-doesnt-exist/
+path: /blog/if-its-not-in-bitbucket-it-doesnt-exist/
 layout: post
 title: If it’s not in Bitbucket, it doesn’t exist.
 featured: true

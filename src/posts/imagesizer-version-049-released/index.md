@@ -1,5 +1,5 @@
 ---
-path: /imagesizer-version-049-released/
+path: /blog/imagesizer-version-049-released/
 layout: post
 title: ImageSizer version 0.4.9 released!
 date: 2009-05-11T08:05:23Z
@@ -15,7 +15,7 @@ It's been quite a while coming, but a new version of ImageSizer is now available
 
 Introduced as a part of our bid to follow 'application best practice', you can now enable or disable the custom chrome and window transition effects.  There's plus sides to both custom and native OS chromes, but the point is that it's always nice to let you choose!  The native OS chrome has better integration and performance than a custom chrome, but doesn't always look quite so nice - and can't have the same funky window window transitions.  It's also going to be more consistent with the window chrome of other desktop applications, and gives you a noticeable performance boost on lower spec machines.
 
-<!--more-->You can turn the custom chrome on and off in the Application Settings window, under 'Visual effects'.  By default the custom chrome is turned off - you'll have to go back into the settings panel to turn it on again.
+You can turn the custom chrome on and off in the Application Settings window, under 'Visual effects'.  By default the custom chrome is turned off - you'll have to go back into the settings panel to turn it on again.
 <h3>Clipboard data detection / import:</h3>
 <img class="alignnone size-full wp-image-878" title="Import new image" src="http://uploads.psyked.co.uk/2009/05/importnewimage.jpg" alt="Import new image" width="500" height="280" />
 

@@ -1,5 +1,5 @@
 ---
-path: /link-the-flash-midlands-user-group/
+path: /blog/link-the-flash-midlands-user-group/
 layout: post
 title: 'Link: the Flash Midlands user group'
 date: 2009-02-17T08:20:04Z

@@ -1,5 +1,5 @@
 ---
-path: /setting-up-asdoc-in-flex-builder/
+path: /blog/setting-up-asdoc-in-flex-builder/
 layout: post
 title: Setting up ASDoc in Flex Builder
 date: 2009-03-16T09:46:55Z

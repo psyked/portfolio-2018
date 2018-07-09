@@ -1,5 +1,5 @@
 ---
-path: /as3-iso-library/
+path: /blog/as3-iso-library/
 layout: post
 title: AS3 ISO Library
 date: 2009-01-09T11:45:17Z

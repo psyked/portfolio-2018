@@ -1,5 +1,5 @@
 ---
-path: /overcoming-writers-block/
+path: /blog/overcoming-writers-block/
 layout: post
 title: Overcoming writer’s block
 date: 2017-02-19T20:05:00Z

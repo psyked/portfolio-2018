@@ -1,5 +1,5 @@
 ---
-path: /explorative-prototyping/
+path: /blog/explorative-prototyping/
 layout: post
 title: Explorative Prototyping
 date: 2016-12-29T09:45:00Z

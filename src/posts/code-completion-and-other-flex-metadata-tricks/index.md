@@ -1,5 +1,5 @@
 ---
-path: /code-completion-and-other-flex-metadata-tricks/
+path: /blog/code-completion-and-other-flex-metadata-tricks/
 layout: post
 title: Code Completion and other Flex Metadata tricks...
 date: 2009-01-12T14:08:08Z

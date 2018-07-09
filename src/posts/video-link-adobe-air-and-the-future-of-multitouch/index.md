@@ -1,5 +1,5 @@
 ---
-path: /video-link-adobe-air-and-the-future-of-multitouch/
+path: /blog/video-link-adobe-air-and-the-future-of-multitouch/
 layout: post
 title: 'Video Link: Adobe AIR and the future of Multitouch'
 date: 2009-03-11T09:29:01Z

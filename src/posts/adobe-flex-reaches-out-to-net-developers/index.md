@@ -1,5 +1,5 @@
 ---
-path: /adobe-flex-reaches-out-to-net-developers/
+path: /blog/adobe-flex-reaches-out-to-net-developers/
 layout: post
 title: Adobe Flex reaches out to .NET developers
 date: 2008-11-24T09:08:22Z

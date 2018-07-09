@@ -1,5 +1,5 @@
 ---
-path: /automating-tasks-in-flex-builder-with-the-help-of-a-little-something-called-ant/
+path: /blog/automating-tasks-in-flex-builder-with-the-help-of-a-little-something-called-ant/
 layout: post
 title: Automating tasks in Flex Builder, with the help of a little something called
   'ANT'.
@@ -17,7 +17,7 @@ One of the great things about Flex Builder is that it's developed on top of the 
 <img class="alignnone size-full wp-image-1058" title="ANT Tasks in Flex" src="http://uploads.psyked.co.uk/2009/12/anttasks.jpg" alt="ANT Tasks in Flex" width="500" height="280" />
 
 Turns out there's something called <a href="http://ant.apache.org/faq.html#what-is-ant" target="_blank">ANT</a>, which "[... does a really good job at building things]".  As Eclipse is the basis for Flex Builder, a lot of the plugins for Eclipse - and all the variants of it - work just fine in Flex Builder.  There's a plugin for Eclipse which adds ANT support for example, and then further plugins which add even more task types to ANT, such as FTP support.
-<!--more-->
+
 <h3>What do you use ANT for?</h3>
 I’ve been  working out how to use ANT as part of the build process for a few projects we have on the go at the moment.  Prior to using ANT tasks the process of publishing projects was convoluted and a little tedious, with room for human error.  It involved things like publishing the Flex project, then remembering to copy all of the  associated files that Flex doesn’t know about (or won’t copy for me) into  the correct locations, then manually uploading those files to a webserver - all of which I'd rather not have to worry about.
 

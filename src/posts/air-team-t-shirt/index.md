@@ -1,5 +1,5 @@
 ---
-path: /air-team-t-shirt/
+path: /blog/air-team-t-shirt/
 layout: post
 title: AIR Team t-shirt
 date: 2009-03-26T13:40:00Z

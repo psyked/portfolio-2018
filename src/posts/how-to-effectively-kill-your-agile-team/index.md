@@ -1,5 +1,5 @@
 ---
-path: /how-to-effectively-kill-your-agile-team/
+path: /blog/how-to-effectively-kill-your-agile-team/
 layout: post
 title: How to effectively kill your Agile Team
 date: 2017-04-26T08:03:00Z

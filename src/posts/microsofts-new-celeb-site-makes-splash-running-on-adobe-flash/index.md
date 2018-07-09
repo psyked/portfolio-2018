@@ -1,5 +1,5 @@
 ---
-path: /microsofts-new-celeb-site-makes-splash-running-on-adobe-flash/
+path: /blog/microsofts-new-celeb-site-makes-splash-running-on-adobe-flash/
 layout: post
 title: Microsoft's new celeb site makes splash ... running on Adobe Flash
 date: 2009-02-09T08:09:11Z

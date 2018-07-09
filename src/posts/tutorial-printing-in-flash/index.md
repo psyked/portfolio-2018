@@ -1,5 +1,5 @@
 ---
-path: /tutorial-printing-in-flash/
+path: /blog/tutorial-printing-in-flash/
 layout: post
 title: Tutorial - Printing in Flash
 date: 2009-01-26T10:00:00Z

@@ -1,5 +1,5 @@
 ---
-path: /link-form-validation-in-flex/
+path: /blog/link-form-validation-in-flex/
 layout: post
 title: 'Link: Form Validation in Flex'
 date: 2009-11-27T08:00:15Z

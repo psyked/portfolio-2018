@@ -1,5 +1,5 @@
 ---
-path: /flash-on-the-beach-08/
+path: /blog/flash-on-the-beach-08/
 layout: post
 title: Flash on the Beach '08
 date: 2008-04-21T13:00:54Z

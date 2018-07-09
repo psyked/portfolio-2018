@@ -1,5 +1,5 @@
 ---
-path: /imagesizer-0-5-3-is-now-available/
+path: /blog/imagesizer-0-5-3-is-now-available/
 layout: post
 title: ImageSizer 0.5.3 is now available!
 date: 2009-10-16T08:13:35Z
@@ -17,7 +17,7 @@ Wow.  Because I'm so lazy at actually blogging about things, at least two full 
 <blockquote>"Hey, that sounds like a good idea."</blockquote>
 ImageSizer initially started as a batch image resizer, and still is, but it seems a little over-restrictive to only be able to export files in a folder or compressed archive.  So now we have an individual files output panel.  Tacked onto the previous encoding output screen is a new option in the top left corner, labelled "<strong>Individual file export options"</strong> (perhaps that needs rephrasing).  Click that and the view will shift, showing you a list of the files that've just been resized, so you can grab individual files, instead of a single folder.
 
-<!--more-->It seems to work well for what I often want ImageSizer to be able to do when I'm using it day-to-day, so that's what prompted this option!  That, and trying to figure out how to introduce the long-awaited 'Upload to Twitter' option.  (Not available yet, but coming very soon!)
+It seems to work well for what I often want ImageSizer to be able to do when I'm using it day-to-day, so that's what prompted this option!  That, and trying to figure out how to introduce the long-awaited 'Upload to Twitter' option.  (Not available yet, but coming very soon!)
 <h3>Image rotation</h3>
 <img class="alignnone size-full wp-image-973" title="Image Rotation" src="http://uploads.psyked.co.uk/2009/10/image-rotation.jpg" alt="Image Rotation" width="500" height="280" />
 

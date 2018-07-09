@@ -1,5 +1,5 @@
 ---
-path: /mmt-digital-relaunched/
+path: /blog/mmt-digital-relaunched/
 layout: post
 title: MMT Digital relaunched!
 date: 2007-07-09T13:03:26Z

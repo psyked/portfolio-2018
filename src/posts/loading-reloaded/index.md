@@ -1,5 +1,5 @@
 ---
-path: /loading-reloaded/
+path: /blog/loading-reloaded/
 layout: post
 title: Loading Reloaded
 date: 2008-12-10T08:30:01Z

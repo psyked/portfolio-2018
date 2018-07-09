@@ -1,5 +1,5 @@
 ---
-path: /pokeproject-adventures-with-lego-r-bricks/
+path: /blog/pokeproject-adventures-with-lego-r-bricks/
 layout: post
 title: 'PokéProject: Adventures with LEGO® Bricks'
 date: 2017-10-05T20:28:11Z

@@ -1,5 +1,5 @@
 ---
-path: /tour-de-flex/
+path: /blog/tour-de-flex/
 layout: post
 title: Tour de Flex
 date: 2008-11-25T09:37:50Z

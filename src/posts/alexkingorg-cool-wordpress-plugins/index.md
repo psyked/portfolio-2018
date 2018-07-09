@@ -1,5 +1,5 @@
 ---
-path: /alexkingorg-cool-wordpress-plugins/
+path: /blog/alexkingorg-cool-wordpress-plugins/
 layout: post
 title: Alexking.org - Cool Wordpress Plugins
 date: 2007-08-27T09:41:06Z

@@ -1,5 +1,5 @@
 ---
-path: /flexspy/
+path: /blog/flexspy/
 layout: post
 title: FlexSpy
 date: 2008-12-12T13:22:55Z

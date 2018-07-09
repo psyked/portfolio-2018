@@ -1,5 +1,5 @@
 ---
-path: /video-tutorial-links-getting-started-with-regex/
+path: /blog/video-tutorial-links-getting-started-with-regex/
 layout: post
 title: 'Video Tutorial Link(s): Getting started with Regex'
 date: 2009-04-09T10:11:06Z

@@ -1,5 +1,5 @@
 ---
-path: /the-history-of-the-humble-gif/
+path: /blog/the-history-of-the-humble-gif/
 layout: post
 title: The history of the humble gif
 date: 2017-02-22T08:40:00Z

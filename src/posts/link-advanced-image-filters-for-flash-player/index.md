@@ -1,5 +1,5 @@
 ---
-path: /link-advanced-image-filters-for-flash-player/
+path: /blog/link-advanced-image-filters-for-flash-player/
 layout: post
 title: 'Link: Advanced image filters for Flash Player'
 date: 2010-03-09T08:23:38Z

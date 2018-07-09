@@ -1,5 +1,5 @@
 ---
-path: /link-aviary-a-set-off-imaging-tools-built-on-flex/
+path: /blog/link-aviary-a-set-off-imaging-tools-built-on-flex/
 layout: post
 title: 'Link: Aviary - a set off imaging tools built on Flex'
 date: 2009-02-19T09:23:44Z

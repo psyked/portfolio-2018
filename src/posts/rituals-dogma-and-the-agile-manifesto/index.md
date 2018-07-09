@@ -1,5 +1,5 @@
 ---
-path: /rituals-dogma-and-the-agile-manifesto/
+path: /blog/rituals-dogma-and-the-agile-manifesto/
 layout: post
 title: Rituals, dogma and the Agile Manifesto.
 date: 2017-01-04T09:11:00Z

@@ -1,5 +1,5 @@
 ---
-path: /fast-and-fresh-loading-graphics-with-ajaxloadinfo/
+path: /blog/fast-and-fresh-loading-graphics-with-ajaxloadinfo/
 layout: post
 title: Fast and fresh loading graphics with ajaxload.info
 date: 2007-10-21T13:45:29Z

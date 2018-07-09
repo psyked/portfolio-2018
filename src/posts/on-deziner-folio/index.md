@@ -1,5 +1,5 @@
 ---
-path: /on-deziner-folio/
+path: /blog/on-deziner-folio/
 layout: post
 title: on Deziner Folio...
 date: 2007-08-05T21:31:09Z

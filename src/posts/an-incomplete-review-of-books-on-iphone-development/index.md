@@ -1,5 +1,5 @@
 ---
-path: /an-incomplete-review-of-books-on-iphone-development/
+path: /blog/an-incomplete-review-of-books-on-iphone-development/
 layout: post
 title: An incomplete review of books on iPhone Development.
 date: 2010-05-26T10:47:25Z

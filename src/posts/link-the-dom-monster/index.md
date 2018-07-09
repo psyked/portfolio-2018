@@ -1,5 +1,5 @@
 ---
-path: /link-the-dom-monster/
+path: /blog/link-the-dom-monster/
 layout: post
 title: 'Link: The DOM Monster'
 date: 2011-03-24T17:22:57Z

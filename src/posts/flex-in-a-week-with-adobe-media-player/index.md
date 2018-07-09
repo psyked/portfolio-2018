@@ -1,5 +1,5 @@
 ---
-path: /flex-in-a-week-with-adobe-media-player/
+path: /blog/flex-in-a-week-with-adobe-media-player/
 layout: post
 title: '"Flex in a Week" with Adobe Media Player'
 date: 2008-11-24T08:45:36Z

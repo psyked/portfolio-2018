@@ -1,5 +1,5 @@
 ---
-path: /using-git-hooks-for-project-deployment-wins/
+path: /blog/using-git-hooks-for-project-deployment-wins/
 layout: post
 title: Using Git Hooks for Project Deployment wins
 date: 2014-02-09T12:00:28Z

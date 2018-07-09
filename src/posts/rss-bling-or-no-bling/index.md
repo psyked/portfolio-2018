@@ -1,5 +1,5 @@
 ---
-path: /rss-bling-or-no-bling/
+path: /blog/rss-bling-or-no-bling/
 layout: post
 title: RSS.  Bling or no Bling?
 date: 2007-05-28T16:08:23Z

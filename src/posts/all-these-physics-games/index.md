@@ -1,5 +1,5 @@
 ---
-path: /all-these-physics-games/
+path: /blog/all-these-physics-games/
 layout: post
 title: All these physics games...
 date: 2008-08-25T08:00:55Z
@@ -14,7 +14,7 @@ Whatever the reason, games like <a href="http://fantasticcontraption.com/" targe
 
 <img class="alignnone size-full wp-image-282" title="attackoftheclones" src="http://uploads.psyked.co.uk/2008/08/attackoftheclones.jpg" alt="" width="500" height="280" />
 
-If you like those games, you can use classes like <a href="http://www.cove.org/ape/index.htm" target="_blank">APE</a> to start building your own...<!--more-->
+If you like those games, you can use classes like <a href="http://www.cove.org/ape/index.htm" target="_blank">APE</a> to start building your own...
 <h2>Links;</h2>
 <ul>
 	<li><a href="http://www.cove.org/ape/index.htm" target="_blank">APE - Actionscript Physics Engine</a></li>

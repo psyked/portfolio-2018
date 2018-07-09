@@ -1,5 +1,5 @@
 ---
-path: /pimp-my-pc-improving-the-look-feel-and-general-efficiency/
+path: /blog/pimp-my-pc-improving-the-look-feel-and-general-efficiency/
 layout: post
 title: Pimp My PC - Improving the look, feel and general efficiency
 date: 2007-12-02T18:59:29Z
@@ -14,7 +14,7 @@ tags:
 
 <h3>#1 A New theme!</h3>
 You mightn't like Vista, but I challenge you to say that the glassy Vista styles aren't a million times nicer than the playdough style default XP ones.  Microsoft it seems, missed a potential killer market by locking down the Windows themes to only Microsoft-certified ones. (Probably because they knew of hundreds of critical security flaws.)
-<!--more-->
+
 Better late than never, the theme Royale appeared with Windows 2006 Media Center edition, and then later in the year the half-completed Royale Noir emerged. And with the release of the Zune, Microsoft released a 'final' version of the Royale Noir theme, entitled... well, 'Zune'.  You might think that's the end of it, but no.  A few modders have taken the Royale Noir theme on a bit - not happy with the unfinished Noir, or the Orangeness of the Zune, they've released a theme called Royale Remixed, which contains all three themes, with a few nice touchups.  Even better, these themes upgrade your window skins, Outlook skins, and transforms your mouse cursor to the nice shiny Vista versions.
 <ul>
 	<li>You can get the <a href="go.microsoft.com/fwlink/?LinkID=75078" title="Open link in a new window" target="_blank">Microsoft Zune theme installer here</a>.  This will install the Zune theme in one click.</li>

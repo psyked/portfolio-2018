@@ -1,5 +1,5 @@
 ---
-path: /minimal-components-for-when-you-dont-feel-like-using-flex/
+path: /blog/minimal-components-for-when-you-dont-feel-like-using-flex/
 layout: post
 title: 'Minimal components: For when you don''t feel like using Flex.'
 date: 2010-02-23T08:45:11Z

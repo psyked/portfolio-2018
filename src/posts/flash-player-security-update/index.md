@@ -1,5 +1,5 @@
 ---
-path: /flash-player-security-update/
+path: /blog/flash-player-security-update/
 layout: post
 title: 09/04/08 Flash Player security update
 date: 2008-03-16T19:59:47Z

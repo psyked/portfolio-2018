@@ -1,5 +1,5 @@
 ---
-path: /flashjavascript-problems-in-a-net-content-managed-website/
+path: /blog/flashjavascript-problems-in-a-net-content-managed-website/
 layout: post
 title: "(Flash/Javascript) problems in a .Net Content-Managed Website"
 date: 2008-06-08T12:53:13Z

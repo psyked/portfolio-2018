@@ -1,5 +1,5 @@
 ---
-path: /interesting-things-in-adobe-labs-adobe-wave/
+path: /blog/interesting-things-in-adobe-labs-adobe-wave/
 layout: post
 title: Interesting things in Adobe Labs - Adobe Wave
 date: 2008-11-27T08:48:59Z
@@ -12,7 +12,7 @@ tags:
 
 <a href="http://labs.adobe.com/wiki/index.php/Adobe_Wave" target="_blank">Adobe Wave</a> is just one of the interesting projects on the Adobe Labs site - a "one-line API call" for displaying desktop notifications, built on Adobe AIR and hosted by Adobe.  Adobe are certainly committed to making AIR a success, and one of the ways they're doing this is by developing and releasing applications like this.
 
-<!--more-->
+
 
 Like what?  Well, AIR as a platform can be driven by several factors, and one of those is a mix of commercial and community applications.  There's quite a few commerical applications out there, but the community ones seem a little slower coming - natural really, as you spend more time working on the commerical stuff!
 

@@ -1,5 +1,5 @@
 ---
-path: /five3d-a-different-approach-to-3d-flash/
+path: /blog/five3d-a-different-approach-to-3d-flash/
 layout: post
 title: FIVe3D - A different approach to 3D Flash
 date: 2008-05-15T07:40:20Z
@@ -14,6 +14,6 @@ FIVe3D is unlike other 3D engines ( such as Papervision or Alternitva3D ) in it'
 
 Plus, it's fun.  I'm a sucker for fun demos.
 
-<!--more-->
+
 
 <a title="Open link in a new window" href="http://five3d.mathieu-badimon.com/" target="_blank">Check it out here.</a>

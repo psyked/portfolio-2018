@@ -1,5 +1,5 @@
 ---
-path: /mmm-cookies-in-actionscript-javascript/
+path: /blog/mmm-cookies-in-actionscript-javascript/
 layout: post
 title: Mmm... Cookies. In ActionScript / JavaScript.
 date: 2008-12-19T08:43:03Z

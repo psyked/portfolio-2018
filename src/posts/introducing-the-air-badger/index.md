@@ -1,5 +1,5 @@
 ---
-path: /introducing-the-air-badger/
+path: /blog/introducing-the-air-badger/
 layout: post
 title: Introducing the AIR Badger...
 date: 2008-09-24T12:00:06Z

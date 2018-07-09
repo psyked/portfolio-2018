@@ -1,5 +1,5 @@
 ---
-path: /bbc-sports-air-application-removes-its-offensive-language/
+path: /blog/bbc-sports-air-application-removes-its-offensive-language/
 layout: post
 title: BBC Sports' AIR Application removes its offensive language
 date: 2008-08-05T15:39:07Z
@@ -17,6 +17,6 @@ Well, that was fast (and rightly so).  This morning I posted about the <a href=
 
 The release notes mention that it's updating the <span style="text-decoration: line-through;">listing</span> events schedule (which it may well be) but it's also changing the contents of the <strong>bbc-swear.txt</strong> file to say '<strong>deprecated functionality</strong>'. (Instead of 1399 ways to swear.)
 
-<!--more-->Our experence is that the auto-updater appears a little buggy - clicking update seems to start a background download process, and the installer kicks in when the application is fully downloaded.  Unfortunately without a progress indicator, it seems that things just aren't working.  Nevertheless, a little patience and your application should launch the built in Adobe AIR installer soon enough.
+Our experence is that the auto-updater appears a little buggy - clicking update seems to start a background download process, and the installer kicks in when the application is fully downloaded.  Unfortunately without a progress indicator, it seems that things just aren't working.  Nevertheless, a little patience and your application should launch the built in Adobe AIR installer soon enough.
 
 Fast (frantic?) work from the BBC!

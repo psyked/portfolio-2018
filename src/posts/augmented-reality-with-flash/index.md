@@ -1,5 +1,5 @@
 ---
-path: /augmented-reality-with-flash/
+path: /blog/augmented-reality-with-flash/
 layout: post
 title: Augmented Reality with Flash
 date: 2008-06-05T17:20:13Z

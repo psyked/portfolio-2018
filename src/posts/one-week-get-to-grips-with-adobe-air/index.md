@@ -1,5 +1,5 @@
 ---
-path: /one-week-get-to-grips-with-adobe-air/
+path: /blog/one-week-get-to-grips-with-adobe-air/
 layout: post
 title: One week get to grips with Adobe AIR...
 date: 2007-08-01T20:32:30Z

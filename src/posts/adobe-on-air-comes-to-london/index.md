@@ -1,5 +1,5 @@
 ---
-path: /adobe-on-air-comes-to-london/
+path: /blog/adobe-on-air-comes-to-london/
 layout: post
 title: Adobe on AIR comes to London...
 date: 2008-02-23T15:59:34Z

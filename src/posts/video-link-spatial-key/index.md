@@ -1,5 +1,5 @@
 ---
-path: /video-link-spatial-key/
+path: /blog/video-link-spatial-key/
 layout: post
 title: 'Video Link: Spatial Key'
 date: 2009-03-25T16:04:32Z

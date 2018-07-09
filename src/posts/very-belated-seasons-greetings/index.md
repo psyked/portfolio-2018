@@ -1,5 +1,5 @@
 ---
-path: /very-belated-seasons-greetings/
+path: /blog/very-belated-seasons-greetings/
 layout: post
 title: "(Very belated) Seasons greetings!"
 date: 2009-01-21T09:20:09Z

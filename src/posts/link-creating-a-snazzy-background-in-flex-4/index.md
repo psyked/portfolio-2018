@@ -1,5 +1,5 @@
 ---
-path: /link-creating-a-snazzy-background-in-flex-4/
+path: /blog/link-creating-a-snazzy-background-in-flex-4/
 layout: post
 title: 'Link: Creating a snazzy background in Flex 4'
 date: 2009-06-15T08:41:05Z

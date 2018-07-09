@@ -1,5 +1,5 @@
 ---
-path: /stop-using-mxtransitionstween/
+path: /blog/stop-using-mxtransitionstween/
 layout: post
 title: Stop using mx.transitions.Tween;
 date: 2008-07-12T16:15:16Z
@@ -12,7 +12,7 @@ tags:
 
 If you're still using Flash's inbuilt <strong>Tween </strong>classes for you scripted animations, I suggest you stop - and start making things easier for yourself by using <strong>Tweener </strong>instead. Tweener is a class that replaces Tween, works for Actionscript 2 and Actionscript 3, offers a simpler interface for creating tweens, and has a larger range of easing options to work with.
 <h3><strong>What's wrong with Tween?</strong></h3>
-The Tween class is ok - up to a point. It does what it's supposed to, but once you start trying to integrate it with serious full-on Actionscripting you'll notice a few snags.  If you're dynamically creating and removing objects, and then want to dynamically modify the tweens, your tweens will likely go crazy.  Start a new Tween and there's very little way you can stop it - even by removing its subject. Stacking Tweens doesn't go down well either - if you create one to move an object left to right, and then mid-animation another to move it back to the left, things go ok until the point that the first animation should finish - whereupon your object will flick back to the finishing position of the first, and then resume the second animation.<!--more-->
+The Tween class is ok - up to a point. It does what it's supposed to, but once you start trying to integrate it with serious full-on Actionscripting you'll notice a few snags.  If you're dynamically creating and removing objects, and then want to dynamically modify the tweens, your tweens will likely go crazy.  Start a new Tween and there's very little way you can stop it - even by removing its subject. Stacking Tweens doesn't go down well either - if you create one to move an object left to right, and then mid-animation another to move it back to the left, things go ok until the point that the first animation should finish - whereupon your object will flick back to the finishing position of the first, and then resume the second animation.
 
 Moreso than that however, is the hassle needed to create an animation with Tween;
 <pre><span>import mx.transitions.Tween;</span>

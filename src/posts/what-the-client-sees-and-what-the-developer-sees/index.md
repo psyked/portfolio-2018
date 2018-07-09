@@ -1,5 +1,5 @@
 ---
-path: /what-the-client-sees-and-what-the-developer-sees/
+path: /blog/what-the-client-sees-and-what-the-developer-sees/
 layout: post
 title: What the client sees... and what the developer sees...
 date: 2008-10-10T09:52:32Z

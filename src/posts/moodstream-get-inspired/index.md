@@ -1,5 +1,5 @@
 ---
-path: /moodstream-get-inspired/
+path: /blog/moodstream-get-inspired/
 layout: post
 title: Moodstream - get inspired!
 date: 2008-12-05T12:30:01Z

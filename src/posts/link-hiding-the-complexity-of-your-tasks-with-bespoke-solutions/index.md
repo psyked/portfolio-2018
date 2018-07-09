@@ -1,5 +1,5 @@
 ---
-path: /link-hiding-the-complexity-of-your-tasks-with-bespoke-solutions/
+path: /blog/link-hiding-the-complexity-of-your-tasks-with-bespoke-solutions/
 layout: post
 title: 'Layers of simplicity: Hiding the complexity of your tasks with bespoke solutions.'
 date: 2010-04-29T11:42:06Z

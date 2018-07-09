@@ -1,5 +1,5 @@
 ---
-path: /modular-code-libraries-ftw/
+path: /blog/modular-code-libraries-ftw/
 layout: post
 title: Modular Code Libraries FTW
 date: 2017-01-11T21:30:00Z

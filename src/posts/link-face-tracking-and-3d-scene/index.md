@@ -1,5 +1,5 @@
 ---
-path: /link-face-tracking-and-3d-scene/
+path: /blog/link-face-tracking-and-3d-scene/
 layout: post
 title: 'Link: Face-tracking and 3D Scene'
 date: 2011-03-28T07:56:05Z

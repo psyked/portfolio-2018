@@ -1,5 +1,5 @@
 ---
-path: /corona-sdk-solving-json-decode-error-with-utf-8-files/
+path: /blog/corona-sdk-solving-json-decode-error-with-utf-8-files/
 layout: post
 title: 'Corona SDK: Solving JSON decode error with UTF-8 files.'
 date: 2011-11-14T21:41:45Z

@@ -1,5 +1,5 @@
 ---
-path: /apollo-takes-to-the-air/
+path: /blog/apollo-takes-to-the-air/
 layout: post
 title: Apollo takes to the .air
 date: 2007-06-26T21:41:55Z
@@ -15,7 +15,7 @@ Seriously though, I'm not sure that it returned wrapped in the skin of a dead wo
 
 Anyway, enough mystical-sounding crap.  What's this all about then?
 <p style="text-align: center"><img src="http://uploads.psyked.co.uk/2007/06/adobeair.jpg" alt="adobeair.jpg" /></p>
-<!--more-->
+
 <h2>What's in a name?</h2>
 First up, the name "AIR".  We always knew that the file extension was going to be .air, and we know that Adobe in particular has a penchance for strange project codenames.  (One iteration of Photoshop was codenamed 'The Big Electric Cat')  Air however, had me imagining that this would be some kind of ... well, something to do with clouds and weather.  But actually, it means "Adobe Integrated Runtime", which is a whole lot cooler, as product names go.  Methinks Adobe had this one laying around in some cubboard for a while before they aquired Macromedia.
 <h2>What is it now?</h2>

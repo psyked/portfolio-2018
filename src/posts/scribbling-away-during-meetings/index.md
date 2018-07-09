@@ -1,5 +1,5 @@
 ---
-path: /scribbling-away-during-meetings/
+path: /blog/scribbling-away-during-meetings/
 layout: post
 title: Scribbling away during meetings.
 date: 2017-01-24T18:49:23Z

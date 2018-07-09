@@ -1,5 +1,5 @@
 ---
-path: /javascript-testing-with-node-js-testacular-jasmine/
+path: /blog/javascript-testing-with-node-js-testacular-jasmine/
 layout: post
 title: Javascript Testing with Node.js, Testacular & Jasmine
 date: 2013-05-06T11:43:08Z

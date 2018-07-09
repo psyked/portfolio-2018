@@ -1,5 +1,5 @@
 ---
-path: /playing-with-air/
+path: /blog/playing-with-air/
 layout: post
 title: Playing with Air...
 date: 2008-04-07T07:00:15Z
@@ -10,7 +10,7 @@ tags:
 ---
 
 I thought i'd do a little bit of serious work with Air - how about an application for converting text file formats?  Well ok, it sounds boring, but it's a starting point.  I'm not finished yet, but my deadline is pretty harsh (Wednesday, in fact!) so I'm hoping to have another update tomorrow, once I've ironed out a few remaining bugs (and removed the chance that the application will corrupt your files!)
-<!--more-->
+
 <img src="http://uploads.psyked.co.uk/2008/04/adobeairpost.jpg" alt="adobeairpost.jpg" />
 <h2>What is it?</h2>
 This Air app. should take an ANSI or other unusually formatted text file, and save it out as UTF-8.

@@ -1,5 +1,5 @@
 ---
-path: /geturl-doesnt-work/
+path: /blog/geturl-doesnt-work/
 layout: post
 title: '"getURL doesn''t work!"'
 date: 2007-10-01T12:47:17Z

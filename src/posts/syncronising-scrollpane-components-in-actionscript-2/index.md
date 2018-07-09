@@ -1,5 +1,5 @@
 ---
-path: /syncronising-scrollpane-components-in-actionscript-2/
+path: /blog/syncronising-scrollpane-components-in-actionscript-2/
 layout: post
 title: Syncronising ScrollPane Components in ActionScript 2.
 date: 2007-11-04T14:21:57Z
@@ -13,7 +13,7 @@ tags:
 This is perhaps an unusual one - and one I haven't seen anyone else make much fuss over, so here goes.
 
 Using the standard Version 2 components (Flash MX2004+) I've been trying to link the movement of three components together.  "No biggie" you'd think. You can after all, set listeners on the .scroll property of the component instance, and then use that to set the .scroll properties of the other instances.  Well yes, that's true - but looking closely at the movement of the ScrollPanes, you can see a slight lag in their movement.  A bit of frantic scrolling can throw the whole thing out of place.
-<!--more-->
+
 <code>var ScrollPaneListener:Object = new Object();
 //
 ScrollPaneListener.scroll = function(){

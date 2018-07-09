@@ -1,5 +1,5 @@
 ---
-path: /links-for-integrating-flash-and-facebook/
+path: /blog/links-for-integrating-flash-and-facebook/
 layout: post
 title: Links for integrating Flash and Facebook
 date: 2008-06-17T16:30:23Z

@@ -1,5 +1,5 @@
 ---
-path: /figuring-out-wordpress/
+path: /blog/figuring-out-wordpress/
 layout: post
 title: Figuring out Wordpress
 date: 2007-05-26T11:03:01Z

@@ -1,5 +1,5 @@
 ---
-path: /an-overview-of-open-source-media-framework-aka-adobe-strobe/
+path: /blog/an-overview-of-open-source-media-framework-aka-adobe-strobe/
 layout: post
 title: An overview of Open Source Media Framework (aka. Adobe Strobe)
 date: 2009-08-12T18:47:59Z
@@ -20,7 +20,7 @@ OSMF (Open Source Media Framework) is a new Open Source project from Adobe, desi
 <h3>Why OSMF is needed:</h3>
 Flash video is one of the primary driving forces behind the popularity of the Flash Plugin, but for something so key to the plugin its awfully difficult to implement anything clever.  The basic components such as FLVPlayback are buggy and the basic elements, such as NetStream are frustratingly quirky and difficult to extend.  We’re all familiar with the idea of a playlist and also annoyingly familiar with the idea of in-content advertising, but to actually implement any of this ourselves we have to build it from the ground up.  YouTube have done it, Hulu have done it, CBS, BBC, ITV, E4 and many more all use similar concepts, but they’re all built from scratch each time.
 
-<!--more-->OSMF is coming as a framework for developing exactly this kind of functionality in a completely flexible way, lowering the ‘barrier to entry’ for developing this sort of thing, and promising to encapsulate all of the known bugfixes and hacks for the inconsistencies of the current technologies in a nice clean new element.  (That, and because of something Silverlight does or is threatening to do.)
+OSMF is coming as a framework for developing exactly this kind of functionality in a completely flexible way, lowering the ‘barrier to entry’ for developing this sort of thing, and promising to encapsulate all of the known bugfixes and hacks for the inconsistencies of the current technologies in a nice clean new element.  (That, and because of something Silverlight does or is threatening to do.)
 <h3>For non-techies:</h3>
 OSMF represents a scalable technology that can equally be deployed for really simple or really complex projects.  As the FLVPlayback component offers a single video file to play, MediaPlayer (the base class for OSMF) offers a playlist of files to play, and can play them either sequentially or in parallel, or both.  OSMF does not however, currently have a visual representation of the playback controls.  That has to be added in addition to the OSMF framework.
 <h3>In more detail:</h3>

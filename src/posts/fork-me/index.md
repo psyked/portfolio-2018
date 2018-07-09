@@ -1,5 +1,5 @@
 ---
-path: /fork-me/
+path: /blog/fork-me/
 layout: post
 title: Fork me!
 date: 2014-01-06T12:00:06Z

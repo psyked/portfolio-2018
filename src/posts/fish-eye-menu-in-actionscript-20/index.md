@@ -1,5 +1,5 @@
 ---
-path: /fish-eye-menu-in-actionscript-20/
+path: /blog/fish-eye-menu-in-actionscript-20/
 layout: post
 title: Fish Eye Menu in ActionScript 2.0
 date: 2008-10-12T13:01:05Z
@@ -15,7 +15,7 @@ Now, <a href="http://www.shinedraw.com/" target="_blank">Shine Draw</a> have bee
 [kml_flashembed movie="http://www.psyked.co.uk/downloads/fisheyemenu_as2.swf" height="280" width="500" /]
 
 <strong>Download:</strong> <a href="http://www.psyked.co.uk/wp-content/uploads/2008/10/fisheyemenu_as2.zip" target="_blank">Fish Eye Menu [Flash CS3, Flash Player 8, AS3, 110KB]</a>
-<!--more-->
+
 <h2>The process;</h2>
 Actually, it wasn't too hard to backwards convert the AS3 version - the three main things to do are to
 <ol>

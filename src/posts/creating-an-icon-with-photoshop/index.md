@@ -1,5 +1,5 @@
 ---
-path: /creating-an-icon-with-photoshop/
+path: /blog/creating-an-icon-with-photoshop/
 layout: post
 title: Creating an Icon with Photoshop
 date: 2007-07-21T09:29:25Z

@@ -1,5 +1,5 @@
 ---
-path: /geocoding-uk-postcodes-with-google-map-api/
+path: /blog/geocoding-uk-postcodes-with-google-map-api/
 layout: post
 title: Geocoding UK Postcodes with Google Map API
 date: 2009-01-20T10:55:49Z

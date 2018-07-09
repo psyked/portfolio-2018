@@ -1,5 +1,5 @@
 ---
-path: /google-analytics-within-flexflash-applications/
+path: /blog/google-analytics-within-flexflash-applications/
 layout: post
 title: Google Analytics within Flex/Flash Applications
 date: 2009-02-05T13:30:06Z

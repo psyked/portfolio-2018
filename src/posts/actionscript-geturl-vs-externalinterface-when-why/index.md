@@ -1,5 +1,5 @@
 ---
-path: /actionscript-geturl-vs-externalinterface-when-why/
+path: /blog/actionscript-geturl-vs-externalinterface-when-why/
 layout: post
 title: 'ActionScript: getURL vs. ExternalInterface - When & Why'
 date: 2007-09-23T09:37:31Z
@@ -11,7 +11,7 @@ tags:
 
 This post all stems from a project I've been working on very recently, making a drop-down menu in flash, that sits in a HTML page.  <em><strong>What we're talking in relation to here is, getting flash to execute JavaScript DOM functions.</strong></em>
 
-Now, there are couple of ways for Flash to interact with its host page.  The first one that springs to mind is <a href="http://livedocs.adobe.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&amp;file=00001730.html" title="Open link in a new window" target="_blank">getURL()</a>, the same function that enables flash to load webpages.  The second requires a little more preparation, and is <a href="http://livedocs.adobe.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&amp;file=00002200.html" title="Open link in a new window" target="_blank">ExternalInterface.call()</a>.  Both have an upside and both a downside.  One's old-school and one's new-school.  There are however, real reasons why you should use one instead of the other in different situations.<!--more-->
+Now, there are couple of ways for Flash to interact with its host page.  The first one that springs to mind is <a href="http://livedocs.adobe.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&amp;file=00001730.html" title="Open link in a new window" target="_blank">getURL()</a>, the same function that enables flash to load webpages.  The second requires a little more preparation, and is <a href="http://livedocs.adobe.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&amp;file=00002200.html" title="Open link in a new window" target="_blank">ExternalInterface.call()</a>.  Both have an upside and both a downside.  One's old-school and one's new-school.  There are however, real reasons why you should use one instead of the other in different situations.
 <h3>getURL</h3>
 <ul>
 	<li>getURL takes advantage of the abilities of your browser.  After all, http: isn't the only thing your browser can do.  You can (amongst other things) call javascript directly.  So, instead of passing a new url through the getURL function, you could pass a javascript function, which would execute on the page.  You could, theoretically, pass an entire javascript function as a single string, and execute javascript on your html page - without the function existing in the html.</li>

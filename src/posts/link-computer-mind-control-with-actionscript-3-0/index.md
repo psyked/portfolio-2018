@@ -1,5 +1,5 @@
 ---
-path: /link-computer-mind-control-with-actionscript-3-0/
+path: /blog/link-computer-mind-control-with-actionscript-3-0/
 layout: post
 title: 'Link: Computer mind control with ActionScript 3.0'
 date: 2010-01-20T08:30:32Z

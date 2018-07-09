@@ -1,5 +1,5 @@
 ---
-path: /is-flash-better-than-ajax/
+path: /blog/is-flash-better-than-ajax/
 layout: post
 title: Is Flash better than AJAX?
 date: 2009-02-06T09:27:25Z

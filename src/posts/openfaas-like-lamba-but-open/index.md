@@ -1,5 +1,5 @@
 ---
-path: /openfaas-like-lamba-but-open/
+path: /blog/openfaas-like-lamba-but-open/
 layout: post
 title: 'OpenFaaS: Like AWS Lambda, but Open Source and built on top of Docker'
 date: 2018-03-26T21:55:23Z

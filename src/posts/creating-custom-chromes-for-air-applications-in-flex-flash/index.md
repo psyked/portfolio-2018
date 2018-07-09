@@ -1,5 +1,5 @@
 ---
-path: /creating-custom-chromes-for-air-applications-in-flex-flash/
+path: /blog/creating-custom-chromes-for-air-applications-in-flex-flash/
 layout: post
 title: Creating custom chromes for AIR applications in Flex & Flash
 date: 2009-01-15T16:30:01Z

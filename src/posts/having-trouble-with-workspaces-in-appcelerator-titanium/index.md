@@ -1,5 +1,5 @@
 ---
-path: /having-trouble-with-workspaces-in-appcelerator-titanium/
+path: /blog/having-trouble-with-workspaces-in-appcelerator-titanium/
 layout: post
 title: Having trouble with workspaces in Appcelerator Titanium?
 date: 2011-07-19T09:05:51Z

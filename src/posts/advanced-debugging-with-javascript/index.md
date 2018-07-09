@@ -1,5 +1,5 @@
 ---
-path: /advanced-debugging-with-javascript/
+path: /blog/advanced-debugging-with-javascript/
 layout: post
 title: Advanced Debugging with JavaScript
 date: 2009-02-06T08:18:09Z

@@ -1,5 +1,5 @@
 ---
-path: /the-real-computer-monster/
+path: /blog/the-real-computer-monster/
 layout: post
 title: The real Computer Monster
 date: 2008-12-05T17:35:58Z

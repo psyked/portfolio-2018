@@ -1,5 +1,5 @@
 ---
-path: /launchball-an-awesome-flash-game/
+path: /blog/launchball-an-awesome-flash-game/
 layout: post
 title: Launchball - an awesome Flash game
 date: 2008-06-16T21:45:43Z
@@ -20,7 +20,7 @@ I'm very impressed with <a href="http://www.sciencemuseum.org.uk/launchpad/launc
 
 I love the design, I love the interface - its unique, simple and very swish. Once I started playing the game I was staggered by how fully realised it is - no skimping on the programming here, we're talking realistic physics and complete freedom, thanks to the <a href="http://www.cove.org/flade/" target="_blank">Flade</a> Actionscript dynamics / physics engine. (Launchball is AS2 - but incidently Flade is now called the <a href="http://www.cove.org/ape/" target="_blank">APE</a> and is available in AS3 format).
 
-<!--more-->
+
 
 And when everything just works, you start to get far more creative. Most Flash games are tasks, challenges, but Launchball seems so much more like an environment (with a goal, of course). It's beyond your average Flash game and into the realms of something I'd expect from a proper games console.  No wonder it picked up a few awards!
 

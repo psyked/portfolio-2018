@@ -1,5 +1,5 @@
 ---
-path: /im-on-twitter/
+path: /blog/im-on-twitter/
 layout: post
 title: I'm on Twitter.
 date: 2009-02-05T08:30:49Z

@@ -1,5 +1,5 @@
 ---
-path: /darn-them-xml-namespaces/
+path: /blog/darn-them-xml-namespaces/
 layout: post
 title: Darn them XML namespaces!
 date: 2008-12-01T08:30:17Z

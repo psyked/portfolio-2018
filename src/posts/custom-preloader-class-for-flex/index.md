@@ -1,5 +1,5 @@
 ---
-path: /custom-preloader-class-for-flex/
+path: /blog/custom-preloader-class-for-flex/
 layout: post
 title: Custom preloader class for flex.
 date: 2009-02-02T11:09:26Z

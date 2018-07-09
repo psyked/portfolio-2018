@@ -1,5 +1,5 @@
 ---
-path: /css-selection-styles/
+path: /blog/css-selection-styles/
 layout: post
 title: CSS Selection Styles?
 date: 2008-02-24T12:00:40Z

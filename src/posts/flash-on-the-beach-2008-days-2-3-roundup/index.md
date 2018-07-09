@@ -1,7 +1,7 @@
 ---
-path: /a-very-belated-flash-on-the-beach-2008-days-2-3-roundup/
+path: /blog/flash-on-the-beach-2008-days-2-3-roundup/
 layout: post
-title: "(A very belated) Flash on the Beach 2008 days 2 & 3 roundup."
+title: "Flash on the Beach 2008 days 2 & 3 roundup."
 date: 2008-10-31T14:30:21Z
 tags:
 - flash
@@ -23,7 +23,7 @@ Here's a couple of resources I've found from that day...
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="375" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=1882582&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=009999&amp;fullscreen=1" /><embed type="application/x-shockwave-flash" width="500" height="375" src="http://vimeo.com/moogaloop.swf?clip_id=1882582&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=009999&amp;fullscreen=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 <a href="http://vimeo.com/1882582?pg=embed&amp;sec=1882582">FOTB 2008 - Brighton - Robert Hodgin - 01</a> from <a href="http://vimeo.com/jonmacdonald?pg=embed&amp;sec=1882582">Jon MacDonald</a> on <a href="http://vimeo.com?pg=embed&amp;sec=1882582">Vimeo</a>.
 
-<!--more-->I didn't get to the party on Monday night thanks to having to work - but I got there on Tuesday night. A nightclub with over 1000 flash developers in - certainly not the nightclub experience I remember from University!
+I didn't get to the party on Monday night thanks to having to work - but I got there on Tuesday night. A nightclub with over 1000 flash developers in - certainly not the nightclub experience I remember from University!
 
 Following that on Wednesday we had another couple of great sessions - 'Advanced Flexing for Flash Developers' delivered by what I assume was a hungover Ben Stucki, and the massively popular 'Papervision3D Simplified' by Seb Lee-Delisle. Those were rounded off in the afternoon with 'The Ying and Yang of Flash' - a look at the behind-the-scenes development of the Flash player by Paul Betlem, before Jonathan Harris went and finished the whole thing up with his 'Beyond Flash' talk - which was kinda depressing. (<a href="http://theflashblog.com/?p=447" target="_blank">Lee Brimelow's summary explains things a bit better</a>)
 

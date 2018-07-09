@@ -1,5 +1,5 @@
 ---
-path: /dragging-in-3d-the-right-way/
+path: /blog/dragging-in-3d-the-right-way/
 layout: post
 title: Dragging in 3D - The Right Way
 date: 2008-11-15T13:30:11Z

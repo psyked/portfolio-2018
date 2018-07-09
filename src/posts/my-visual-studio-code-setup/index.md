@@ -1,5 +1,5 @@
 ---
-path: /my-visual-studio-code-setup/
+path: /blog/my-visual-studio-code-setup/
 layout: post
 title: My Front End Web Development setup, with Visual Studio Code.
 date: 2017-09-24T18:51:19Z

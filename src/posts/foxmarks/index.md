@@ -1,5 +1,5 @@
 ---
-path: /foxmarks/
+path: /blog/foxmarks/
 layout: post
 title: Foxmarks
 date: 2007-03-02T16:52:02Z

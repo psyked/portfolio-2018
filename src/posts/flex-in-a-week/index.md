@@ -1,5 +1,5 @@
 ---
-path: /flex-in-a-week/
+path: /blog/flex-in-a-week/
 layout: post
 title: Flex in a week
 date: 2009-01-08T08:56:30Z

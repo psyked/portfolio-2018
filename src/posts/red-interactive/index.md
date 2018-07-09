@@ -1,5 +1,5 @@
 ---
-path: /red-interactive/
+path: /blog/red-interactive/
 layout: post
 title: Red Interactive
 date: 2008-05-07T22:30:48Z
@@ -15,7 +15,7 @@ tags:
 
 <strong><span style="color: #ff0000;">Red</span> Interactive</strong> have got a really cool full browser flash site going on at their (really geeky domain) <a title="Open link in a new window" href="http://ff0000.com/" target="_blank">ff0000.com</a>.  It's a showcase of what flash really can allow you to do to a traditional website, for better or worse.
 
-<!--more-->
+
 
 <img class="alignnone size-full wp-image-228" title="redinteractive2" src="/content/images/2008/05/redinteractive2.jpg" alt="" width="500" height="280" />
 

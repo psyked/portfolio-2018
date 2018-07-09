@@ -1,5 +1,5 @@
 ---
-path: /starrequests-simple-box2d-flickr-mashup-sample/
+path: /blog/starrequests-simple-box2d-flickr-mashup-sample/
 layout: post
 title: StarRequests, Simple-Box2D & Flickr - a example mashup.
 date: 2010-06-07T23:44:30Z
@@ -15,7 +15,7 @@ Mark (of <a href="http://markstar.co.uk" target="_blank">MarkStar.co.uk</a>) ha
 
 [kml_flashembed movie="http://uploads.psyked.co.uk/2010/06/Main.swf" height="560" width="500" /]
 
-<!--more-->All of the code for this demo, along with a few others, are available from <a href="http://github.com/psyked/StarRequests-Examples" target="_blank">GitHub</a>, and for those unfamiliar with GitHub, <a href="http://github.com/psyked/StarRequests-Examples/zipball/master" target="_blank">here's the Zip archive</a>. While we've some time, let's run through some key elements of this sample:
+All of the code for this demo, along with a few others, are available from <a href="http://github.com/psyked/StarRequests-Examples" target="_blank">GitHub</a>, and for those unfamiliar with GitHub, <a href="http://github.com/psyked/StarRequests-Examples/zipball/master" target="_blank">here's the Zip archive</a>. While we've some time, let's run through some key elements of this sample:
 <h2>The demo:</h2>
 If you can't see the demo, for whatever reason, I've stuck an image of it below this paragraph.  There's a search term box, a numeric stepper for the number of images, and a search button.  When you click 'Get images' it performs a search on the Flickr API, which returns a list of images.  I'm then using the StarRequests library to sequentially load the images from Flickr, and throwing them into Simple-Box2D to display them in a funky interactive way.
 

@@ -1,5 +1,5 @@
 ---
-path: /link-name-your-loops/
+path: /blog/link-name-your-loops/
 layout: post
 title: 'Link: Name your loops'
 date: 2009-12-04T08:05:25Z

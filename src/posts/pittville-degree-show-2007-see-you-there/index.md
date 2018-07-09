@@ -1,5 +1,5 @@
 ---
-path: /pittville-degree-show-2007-see-you-there/
+path: /blog/pittville-degree-show-2007-see-you-there/
 layout: post
 title: Pittville Degree Show 2007 - see you there?
 date: 2007-06-22T08:16:00Z

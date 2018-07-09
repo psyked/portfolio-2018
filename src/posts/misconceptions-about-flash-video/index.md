@@ -1,5 +1,5 @@
 ---
-path: /misconceptions-about-flash-video/
+path: /blog/misconceptions-about-flash-video/
 layout: post
 title: 8 misconceptions about Flash video
 date: 2009-01-05T10:30:53Z

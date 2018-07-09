@@ -1,5 +1,5 @@
 ---
-path: /got-satisfaction-getsatisfaction/
+path: /blog/got-satisfaction-getsatisfaction/
 layout: post
 title: Got satisfaction? GetSatisfaction.
 date: 2008-12-10T09:00:07Z

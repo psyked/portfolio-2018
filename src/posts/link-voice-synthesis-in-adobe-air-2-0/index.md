@@ -1,5 +1,5 @@
 ---
-path: /link-voice-synthesis-in-adobe-air-2-0/
+path: /blog/link-voice-synthesis-in-adobe-air-2-0/
 layout: post
 title: 'Link: Voice synthesis in Adobe AIR 2.0'
 date: 2010-04-09T07:56:27Z

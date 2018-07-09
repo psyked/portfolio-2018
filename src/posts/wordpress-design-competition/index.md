@@ -1,5 +1,5 @@
 ---
-path: /wordpress-design-competition/
+path: /blog/wordpress-design-competition/
 layout: post
 title: Wordpress design competition...
 date: 2007-06-07T13:13:22Z

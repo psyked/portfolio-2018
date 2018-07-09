@@ -1,5 +1,5 @@
 ---
-path: /link-why-the-flex-advanceddatagrid-sucks/
+path: /blog/link-why-the-flex-advanceddatagrid-sucks/
 layout: post
 title: 'Link: Why the Flex AdvancedDataGrid sucks'
 date: 2009-02-19T10:24:01Z

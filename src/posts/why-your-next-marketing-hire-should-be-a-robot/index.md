@@ -1,5 +1,5 @@
 ---
-path: /why-your-next-marketing-hire-should-be-a-robot/
+path: /blog/why-your-next-marketing-hire-should-be-a-robot/
 layout: post
 title: Why your Next Marketing Hire should be a Robot.
 date: 2017-01-03T09:15:00Z

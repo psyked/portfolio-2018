@@ -1,5 +1,5 @@
 ---
-path: /bbc-uses-air-to-install-a-list-of-swear-words-to-users-machines/
+path: /blog/bbc-uses-air-to-install-a-list-of-swear-words-to-users-machines/
 layout: post
 title: BBC uses Adobe AIR to install a list of swear words to users machines.
 date: 2008-08-05T09:01:35Z
@@ -20,7 +20,7 @@ If you do however, you’ll be unwittingly installing a rather comprehensive lis
 
 This is such an ridiculous error that I’m practically lost for words.  For an audience as big as the BBC’s you think they’d be mindful about offending people – every other part of the development must have undergone a review process – but bundling a highly offensive text file with your application?
 
-<!--more-->
+
 <h2>Why?</h2>
 Perhaps there’s a reason for the BBC’s Olympics Application to contain a list of restricted words, but for the love of god, don’t store them in an unencrypted text file that’s written to the user’s hard drive - store it in a database format, a non .txt extension, encrypted storage, or even on a remote server – but <strong>do not store it as a text file!</strong>
 <h2>On the funny side...</h2>

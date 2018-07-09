@@ -1,5 +1,5 @@
 ---
-path: /cool-actionscript-projects-to-try-out-if-you-havent-already/
+path: /blog/cool-actionscript-projects-to-try-out-if-you-havent-already/
 layout: post
 title: Cool ActionScript projects to try out, if you haven't already...
 date: 2009-11-05T08:47:52Z

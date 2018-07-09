@@ -1,5 +1,5 @@
 ---
-path: /access-svn-repositories-with-actionscript/
+path: /blog/access-svn-repositories-with-actionscript/
 layout: post
 title: Access SVN repositories with Actionscript
 date: 2009-01-23T14:30:20Z

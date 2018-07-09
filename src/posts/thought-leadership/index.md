@@ -1,5 +1,5 @@
 ---
-path: /thought-leadership/
+path: /blog/thought-leadership/
 layout: post
 title: Thought Leadership
 date: 2017-09-30T20:12:57Z

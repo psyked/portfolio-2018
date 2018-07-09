@@ -1,5 +1,5 @@
 ---
-path: /hour-hacks/
+path: /blog/hour-hacks/
 layout: post
 title: 3 hour hacks
 date: 2018-03-11T09:15:00Z

@@ -1,5 +1,5 @@
 ---
-path: /building-bridges-some-solutions/
+path: /blog/building-bridges-some-solutions/
 layout: post
 title: 'Building Bridges: Some solutions'
 date: 2009-12-23T23:15:54Z
@@ -21,7 +21,7 @@ Oh yes, it works for the first level, but just you try that on some of the later
 
 That's the basic principle for solving the later levels...
 <h3>Type 3: Support overkill</h3>
-<!--more--><a href="http://uploads.psyked.co.uk/2009/12/sturdy.png"><img class="alignnone size-full wp-image-1080" title="Type 3: Support overkill" src="http://uploads.psyked.co.uk/2009/12/sturdy.png" alt="" width="500" height="280" /></a>
+<a href="http://uploads.psyked.co.uk/2009/12/sturdy.png"><img class="alignnone size-full wp-image-1080" title="Type 3: Support overkill" src="http://uploads.psyked.co.uk/2009/12/sturdy.png" alt="" width="500" height="280" /></a>
 
 One things' for sure, it ain't goin' down lightly.
 <h3>Type 4: The Leap of Faith</h3>

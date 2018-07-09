@@ -1,5 +1,5 @@
 ---
-path: /red-bull-flugtag/
+path: /blog/red-bull-flugtag/
 layout: post
 title: Red Bull Flugtag
 date: 2008-03-05T22:55:58Z

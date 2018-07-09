@@ -1,5 +1,5 @@
 ---
-path: /git-zero-to-git-hero/
+path: /blog/git-zero-to-git-hero/
 layout: post
 title: Git Zero to Git Hero
 date: 2016-09-20T20:31:54Z

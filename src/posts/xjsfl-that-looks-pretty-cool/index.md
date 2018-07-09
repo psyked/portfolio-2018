@@ -1,5 +1,5 @@
 ---
-path: /xjsfl-that-looks-pretty-cool/
+path: /blog/xjsfl-that-looks-pretty-cool/
 layout: post
 title: xJSFL - That looks pretty cool.
 date: 2010-08-27T08:42:51Z

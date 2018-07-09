@@ -1,5 +1,5 @@
 ---
-path: /flash-16bit-colour-blendmodes-and-cacheasbitmap-a-recipie-for-disaster/
+path: /blog/flash-16bit-colour-blendmodes-and-cacheasbitmap-a-recipie-for-disaster/
 layout: post
 title: Flash, 16bit colour, blendModes and cacheAsBitmap.  A recipie for disaster?
 date: 2007-06-05T12:07:12Z

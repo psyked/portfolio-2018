@@ -1,5 +1,5 @@
 ---
-path: /available-now-the-flash-facebook-cookbook/
+path: /blog/available-now-the-flash-facebook-cookbook/
 layout: post
 title: 'Available now: The Flash Facebook Cookbook'
 date: 2011-09-04T20:53:28Z

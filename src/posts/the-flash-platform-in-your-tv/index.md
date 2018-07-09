@@ -1,5 +1,5 @@
 ---
-path: /the-flash-platform-in-your-tv/
+path: /blog/the-flash-platform-in-your-tv/
 layout: post
 title: The Flash Platform in your TV?
 date: 2009-12-10T08:36:18Z
@@ -17,7 +17,7 @@ They're made by a company called Cello, who I've only just heard about, and they
 
 <a href="http://www.celloelectronics.com/lcd-tv-range/iplayer-and-youtube-player-10748">http://www.celloelectronics.com/lcd-tv-range/iplayer-and-youtube-player-10748</a>
 
-<!--more-->Of course this is exactly the kind of thing that Adobe have been talking about as part of their plans for the Flash Player and the <a href="http://www.openscreenproject.org/" target="_blank">Open Screen Project</a>, and it all certainly sounds like something that is all based off Flash, but neither the Open Screen Project nor Cello make any mention of each other, nor does Cello offer any alternative explanation for how they're powering it all.
+Of course this is exactly the kind of thing that Adobe have been talking about as part of their plans for the Flash Player and the <a href="http://www.openscreenproject.org/" target="_blank">Open Screen Project</a>, and it all certainly sounds like something that is all based off Flash, but neither the Open Screen Project nor Cello make any mention of each other, nor does Cello offer any alternative explanation for how they're powering it all.
 
 I'm guessing it is something that's based off the work that the Open Screen Project has been doing, but it's interesting - both from what they've achieved, and the absence of a song-and-dance about it.
 

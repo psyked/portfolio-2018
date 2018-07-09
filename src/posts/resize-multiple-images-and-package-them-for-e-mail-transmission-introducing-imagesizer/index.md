@@ -1,5 +1,5 @@
 ---
-path: /resize-multiple-images-and-package-them-for-e-mail-transmission-introducing-imagesizer/
+path: /blog/resize-multiple-images-and-package-them-for-e-mail-transmission-introducing-imagesizer/
 layout: post
 title: Resize multiple images and package them for e-mail transmission - introducing
   ImageSizer!
@@ -16,7 +16,7 @@ Two months later and I'm finally getting around to implimenting what I offered h
 
 <img class="alignnone size-full wp-image-352" title="imagesizer1" src="http://uploads.psyked.co.uk/2008/11/imagesizer1.jpg" alt="" width="500" height="378" />
 
-<!--more-->
+
 
 You can use the AIR Install Badge to install ImageSizer, or visit the <a href="http://www.psyked.co.uk/imagesizer-air-application" target="_self">dedicated ImageSizer page.</a>
 <p style="text-align: center;"><object width="215" height="180" data="/airapps/AIRInstallBadge.swf" type="application/x-shockwave-flash"><param name="flashvars" value="airversion=1.0&amp;appname=ImageSizer&amp;appurl=http://psyked.co.uk/airapps/ImageSizer039.air&amp;appid=couk.psyked.ImageSizer&amp;pubid=07510AB144CCA2FB1C33EE50283E9A7AD43F7966.1&amp;appversion=0.3.9&amp;titlecolor=#339999" /><param name="src" value="/airapps/AIRInstallBadge.swf" /></object>

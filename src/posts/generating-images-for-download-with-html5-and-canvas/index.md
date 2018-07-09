@@ -1,5 +1,5 @@
 ---
-path: /generating-images-for-download-with-html5-and-canvas/
+path: /blog/generating-images-for-download-with-html5-and-canvas/
 layout: post
 title: Generating images for download with HTML5 and Canvas
 date: 2017-05-01T08:57:00Z

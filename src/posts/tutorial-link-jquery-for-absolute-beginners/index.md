@@ -1,5 +1,5 @@
 ---
-path: /tutorial-link-jquery-for-absolute-beginners/
+path: /blog/tutorial-link-jquery-for-absolute-beginners/
 layout: post
 title: 'Tutorial Link: jQuery for Absolute Beginners'
 date: 2009-02-24T14:21:21Z

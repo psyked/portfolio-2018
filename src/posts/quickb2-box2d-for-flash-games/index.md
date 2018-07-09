@@ -1,5 +1,5 @@
 ---
-path: /quickb2-box2d-for-flash-games/
+path: /blog/quickb2-box2d-for-flash-games/
 layout: post
 title: quickb2 - Box2D for Flash games.
 date: 2011-09-11T15:46:51Z

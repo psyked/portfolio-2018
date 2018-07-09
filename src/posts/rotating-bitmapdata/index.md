@@ -1,5 +1,5 @@
 ---
-path: /rotating-bitmapdata/
+path: /blog/rotating-bitmapdata/
 layout: post
 title: Rotating BitmapData with Actionscript 3
 date: 2009-09-15T21:00:07Z

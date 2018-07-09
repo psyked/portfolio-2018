@@ -1,5 +1,5 @@
 ---
-path: /squiddler/
+path: /blog/squiddler/
 layout: post
 title: Squiddler
 date: 2009-03-16T10:47:12Z

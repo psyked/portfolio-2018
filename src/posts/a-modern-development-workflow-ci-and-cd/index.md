@@ -1,5 +1,5 @@
 ---
-path: /a-modern-development-workflow-ci-and-cd/
+path: /blog/a-modern-development-workflow-ci-and-cd/
 layout: post
 title: Hallmarks of a Modern development workflow - Continuous Integration & Deployment
 date: 2017-01-30T09:15:00Z

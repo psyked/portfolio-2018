@@ -1,5 +1,5 @@
 ---
-path: /flexmonkey/
+path: /blog/flexmonkey/
 layout: post
 title: FlexMonkey
 date: 2008-12-12T14:00:56Z

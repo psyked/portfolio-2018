@@ -1,5 +1,5 @@
 ---
-path: /bbc-releases-an-air-version-of-the-iplayer/
+path: /blog/bbc-releases-an-air-version-of-the-iplayer/
 layout: post
 title: BBC Releases an AIR version of the iPlayer
 date: 2008-12-22T09:30:02Z

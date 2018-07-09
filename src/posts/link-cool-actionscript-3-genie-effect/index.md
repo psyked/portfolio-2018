@@ -1,5 +1,5 @@
 ---
-path: /link-cool-actionscript-3-genie-effect/
+path: /blog/link-cool-actionscript-3-genie-effect/
 layout: post
 title: 'Link: Cool Actionscript 3 ''Genie'' effect'
 date: 2009-09-17T08:22:19Z

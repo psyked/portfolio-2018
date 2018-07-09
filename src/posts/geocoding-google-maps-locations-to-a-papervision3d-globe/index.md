@@ -1,5 +1,5 @@
 ---
-path: /geocoding-google-maps-locations-to-a-papervision3d-globe/
+path: /blog/geocoding-google-maps-locations-to-a-papervision3d-globe/
 layout: post
 title: Geocoding Google Maps locations to a Papervision3D globe.
 date: 2009-02-23T17:57:31Z

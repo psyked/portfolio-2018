@@ -1,5 +1,5 @@
 ---
-path: /alternativa3d-more-3d-goodness-from-the-flash-player/
+path: /blog/alternativa3d-more-3d-goodness-from-the-flash-player/
 layout: post
 title: Alternativa3D - More 3D goodness from the Flash Player
 date: 2008-05-03T08:30:42Z
@@ -14,7 +14,7 @@ tags:
 
 <img class="alignnone size-full wp-image-224" title="alternativa" src="/content/images/2008/05/alternativa.jpg" alt="" width="500" height="280" />
 
-<!--more-->
+
 
 Papervision might have a lot of features and a large fan-base, but I have yet to see such a visually impressive demo [as this one].  And they've already sorted the first-person movement and collision detection.  It's also very cool that the demo seems to 'quickstart' - loading low-res textures to get you going as soon as possible, and streaming in higher res. ones while you play.
 

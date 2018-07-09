@@ -1,5 +1,5 @@
 ---
-path: /so-what-can-you-do-with-html5/
+path: /blog/so-what-can-you-do-with-html5/
 layout: post
 title: So, what can you do with HTML5?
 date: 2010-04-14T08:29:57Z
@@ -20,7 +20,7 @@ First things first - <strong>what features actually make up HTML5, and how widel
 
 HTML5 is made up of a lot of things - storage, offline modes, video, audio, dynamic drawing, clever forms.  Make sense I guess - HTML5 is a cherry-picked set of features we can implement already with plugins and javascript.  Reading through the checklist it's clear that there's a couple of hands down winners on the adoption front, and total losers too.  None of them implement everything just yet though.
 
-<!--more-->CSS 3 is the most kick-ass part of the specification in my opinion - finally bringing things like native rounded corners, drop shadows and advanced dynamic graphics to the web.  The rest of it is all 'meh' as it currently exists in acceptable formats.
+CSS 3 is the most kick-ass part of the specification in my opinion - finally bringing things like native rounded corners, drop shadows and advanced dynamic graphics to the web.  The rest of it is all 'meh' as it currently exists in acceptable formats.
 <h2>Is it practical? No.</h2>
 "Oh Internet Explorer, how your legacy haunts us."
 If the <a href="http://en.wikipedia.org/wiki/Usage_share_of_web_browsers" target="_blank">browser adoption statistics</a> are to be believed - even the most pessimistic ones - Internet Explorer's market share is not something to take lightly.  You can't ignore 40-60% of your users because they use a browser that isn't up to the same standard as its competitors.  I'd dearly like too, but I can't.  Which means everything has to be developed without HTML5 &amp; CSS 3, either using browser targeting and using multiple styles and coding options, or developed to the lowest common denominator - IE.

@@ -1,5 +1,5 @@
 ---
-path: /link-10-useful-tools-for-developing-evaluating-or-debugging-web-pages/
+path: /blog/link-10-useful-tools-for-developing-evaluating-or-debugging-web-pages/
 layout: post
 title: 'Link: 10 useful tools for developing, evaluating or debugging web pages.'
 date: 2010-02-10T20:55:36Z

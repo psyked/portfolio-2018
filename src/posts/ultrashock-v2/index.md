@@ -1,5 +1,5 @@
 ---
-path: /ultrashock-v2/
+path: /blog/ultrashock-v2/
 layout: post
 title: Ultrashock v2
 date: 2008-04-24T10:09:37Z
@@ -16,6 +16,6 @@ Ultrashock is one of those sites whose forums I tend to stumble around quite fre
 
 There's the whole <a title="Open link in a new window" href="http://www.asual.com/swfaddress/" target="_blank">SWFAddress</a> deeplinking going on, Flash and Flex integration, and a very seamless transition to non-Flash elements, like the Forums and Wordpress powered blog. If you're looking for a showcase Flex site, here's a goodie. <a title="Open link in a new window" href="http://www.thefwa.com/?app=winners&id=6489" target="_blank">FWA</a> thinks so too.
 
-<!--more-->
+
 
 What's more they're in the trade of selling content, kinda like FlashDen - which is cool.

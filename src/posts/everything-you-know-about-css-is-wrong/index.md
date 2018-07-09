@@ -1,5 +1,5 @@
 ---
-path: /everything-you-know-about-css-is-wrong/
+path: /blog/everything-you-know-about-css-is-wrong/
 layout: post
 title: Everything you know about CSS is wrong.
 date: 2008-10-31T20:04:04Z

@@ -1,5 +1,5 @@
 ---
-path: /automated-removal-of-non-static-elements-with-photoshop/
+path: /blog/automated-removal-of-non-static-elements-with-photoshop/
 layout: post
 title: Automated removal of non-static elements with Photoshop
 date: 2008-04-26T14:44:09Z

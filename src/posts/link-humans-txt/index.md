@@ -1,5 +1,5 @@
 ---
-path: /link-humans-txt/
+path: /blog/link-humans-txt/
 layout: post
 title: 'Link: Humans TXT'
 date: 2011-11-22T07:30:41Z

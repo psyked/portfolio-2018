@@ -1,5 +1,5 @@
 ---
-path: /experiments-with-html5-geolocation/
+path: /blog/experiments-with-html5-geolocation/
 layout: post
 title: Experiments with HTML5 Geolocation
 date: 2011-04-12T22:01:55Z

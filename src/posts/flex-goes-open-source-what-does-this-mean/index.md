@@ -1,5 +1,5 @@
 ---
-path: /flex-goes-open-source-what-does-this-mean/
+path: /blog/flex-goes-open-source-what-does-this-mean/
 layout: post
 title: Flex goes Open-Source, what does this mean?
 date: 2007-04-26T19:35:11Z

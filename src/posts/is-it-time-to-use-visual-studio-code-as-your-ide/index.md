@@ -1,5 +1,5 @@
 ---
-path: /is-it-time-to-use-visual-studio-code-as-your-ide/
+path: /blog/is-it-time-to-use-visual-studio-code-as-your-ide/
 layout: post
 title: Is it time to use Visual Studio Code as your IDE?
 featured: true

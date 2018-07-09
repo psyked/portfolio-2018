@@ -1,5 +1,5 @@
 ---
-path: /open-screen-madness/
+path: /blog/open-screen-madness/
 layout: post
 title: Open Screen madness?
 date: 2008-05-01T23:48:57Z
@@ -16,7 +16,7 @@ Adobe are at it again, it seems.  You may remember that the <a title="Open link 
 
 <img class="alignnone size-full wp-image-222" title="open-screen" src="http://uploads.psyked.co.uk/2008/05/open-screen.jpg" alt="" width="500" height="280" />
 <h2>So, what is the Open Screen Project, and why do we care?</h2>
-<!--more-->
+
 
 Well, it's pretty exciting, especially for a Flash Developer.  We've rapidly gone from animation to application, to desktop application. And before we've even got settled with that, we've got the potential to go truly universal.
 <h2>1a : Open source.</h2>

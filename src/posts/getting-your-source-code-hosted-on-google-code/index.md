@@ -1,5 +1,5 @@
 ---
-path: /getting-your-source-code-hosted-on-google-code/
+path: /blog/getting-your-source-code-hosted-on-google-code/
 layout: post
 title: Getting your source code hosted on Google Code...
 date: 2008-12-01T17:00:58Z

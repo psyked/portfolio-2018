@@ -1,5 +1,5 @@
 ---
-path: /inline-javascript-and-the-defer-attribute/
+path: /blog/inline-javascript-and-the-defer-attribute/
 layout: post
 title: Inline Javascript and the defer attribute
 date: 2008-05-11T08:30:32Z
@@ -16,7 +16,7 @@ You might call us slackers, or you might base it on our faulty understanding of 
 <pre>&lt;/script&gt;</pre>
 Would mean that the inline script wouldn't be executed until the whole page is loaded. So you could effectively add the code anywhere in the page - say, the header - and it didn't matter. Well, what works in Internet Explorer doesn't always work in Firefox (et al.).
 
-<!--more-->
+
 
 The code itself is running a <strong>getElementByID()</strong> call, so the element it's looking for needs to exist on the page for the script to function properly.  If the function call is made when the entire page is loaded, then the element you're targeting will exist, and obviously if you're calling the function inline - before the appropriate section of the page has been rendered - then the element won't exist.  Think the defer attribute would solve it? Alas, you are wrong.
 <h2>Browser differences?</h2>

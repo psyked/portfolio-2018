@@ -1,5 +1,5 @@
 ---
-path: /flex-quick-tip-printing-an-objects-contents/
+path: /blog/flex-quick-tip-printing-an-objects-contents/
 layout: post
 title: 'Flex Quick Tip: Printing an Objects'' contents'
 date: 2009-06-15T08:09:54Z

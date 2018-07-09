@@ -1,5 +1,5 @@
 ---
-path: /link-flash-and-the-iphone/
+path: /blog/link-flash-and-the-iphone/
 layout: post
 title: 'Link: Flash and the iPhone'
 date: 2009-02-23T08:31:10Z

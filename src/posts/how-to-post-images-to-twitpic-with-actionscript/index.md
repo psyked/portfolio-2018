@@ -1,5 +1,5 @@
 ---
-path: /how-to-post-images-to-twitpic-with-actionscript/
+path: /blog/how-to-post-images-to-twitpic-with-actionscript/
 layout: post
 title: 'How to: Post images to TwitPic with Actionscript'
 date: 2009-07-05T20:22:23Z
@@ -19,7 +19,7 @@ So, how do we get our photos on TwitPic?  Well, let's check the API: <a href="h
 If you're posting automatically to twitter, TwitPic will automatically add the url to your image to the start of your tweet.
 
 So, let's check out some basic code:
-<!--more-->
+
 <h3>The code:</h3>
 <pre><code>var urlVars:URLVariables = new URLVariables();
 urlVars.username = "username";

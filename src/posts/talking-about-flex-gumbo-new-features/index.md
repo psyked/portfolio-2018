@@ -1,5 +1,5 @@
 ---
-path: /talking-about-flex-gumbo-new-features/
+path: /blog/talking-about-flex-gumbo-new-features/
 layout: post
 title: 'Talking about: Flex Gumbo - new features'
 date: 2009-04-06T08:15:52Z
@@ -18,7 +18,7 @@ Flex 4 is looking exciting - Flex is one helluva good tool anyway, so the step f
 Flex 4 has a whole load of new wizard-type processes for automatically generating classes and data models for remote services, using a combination of introspection and descriptors.  Livecycle and PHP are the main (most widely supported) languages for this, but it will also work for webservices or httpservices written in any language, such as ASP.Net.
 
 Data models are basically classes in actionscript that represent objects stored in other places/locations.  I spent days putting together data models manually for my side-project on the Unfuddle API, so to hear that Flex 4 can autogenerate these is really cool (and slightly disheartening).
-<!--more-->
+
 <h3>Flash CS4 support</h3>
 Another biggie as far as my workflow is concerned - Flash CS4 and Flex play well together.  Both in terms of the display of custom Flash components in the Design view, and also for switching between Flex and Flash - there's gonna be a button for moving between the two really easily.
 <h3>Event handler autogeneration</h3>

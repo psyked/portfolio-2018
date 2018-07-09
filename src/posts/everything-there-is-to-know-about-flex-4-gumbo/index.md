@@ -1,5 +1,5 @@
 ---
-path: /everything-there-is-to-know-about-flex-4-gumbo/
+path: /blog/everything-there-is-to-know-about-flex-4-gumbo/
 layout: post
 title: Everything there is to know about Flex 4 ('Gumbo')
 date: 2008-08-29T09:01:21Z

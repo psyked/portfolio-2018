@@ -1,5 +1,5 @@
 ---
-path: /link-value-object-class-generator-for-as3/
+path: /blog/link-value-object-class-generator-for-as3/
 layout: post
 title: 'Link: Value Object Class generator for ActionScript 3'
 date: 2010-03-26T09:08:42Z

@@ -1,5 +1,5 @@
 ---
-path: /simple-box2d-custom-polygon-creation/
+path: /blog/simple-box2d-custom-polygon-creation/
 layout: post
 title: Simple Box2D - Custom Polygon creation.
 date: 2010-01-11T08:09:33Z
@@ -41,7 +41,7 @@ This is where things get cool.  Creating a shape from a series of points is all
 </embed>
 </object>
 
-<pre><code>world.createPolyFromLibraryShape( 300, 100, "sampleShape", "vectorassets.swf" );</code></pre><!--more-->
+<pre><code>world.createPolyFromLibraryShape( 300, 100, "sampleShape", "vectorassets.swf" );</code></pre>
 <h3>Minor thing #1: Mouse interaction</h3>
 What fun is a simulation if you can't interact with it? So we now have an easy way to add mouse joints to move things about.  In the next version it's my plan to add a method for filtering out objects, presumably based on each bodies userData.
 <pre>world.mouseInteraction = true;</pre>

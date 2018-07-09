@@ -1,5 +1,5 @@
 ---
-path: /little-html-mysteries-alt-vs-title/
+path: /blog/little-html-mysteries-alt-vs-title/
 layout: post
 title: Little HTML mysteries...  alt vs. title
 date: 2007-07-18T19:04:20Z
@@ -12,7 +12,7 @@ This is something that I've had a wee bit of an issue with recently, but I thoug
 
 For the uninitiated, alt tags are <em>alternative text</em>, a label if you will, that is used to explain the <em>content </em>of an image, when images are blocked or you're on some rubbishy connection.  (or a non-standard or non-desktop browser like mobile web)  Alt tags are also a basic requirement of the <abbr title="W3C Web Accessibility Initative">W3C WAI</abbr> guidelines, and must be included for Accessible websites - something that is most important for UK based websites - which <span style="text-decoration: underline;">have</span> to be accessible, under UK Disability Discrimination laws.
 
-<em>Title </em>tags on the other hand, <!--more-->perform the same basic function, but for any element of the page, not just images.  So, you can describe where links will take you, that sort of thing.  This all comes from the expanded later versions of web standards, usually xhtml standards, whereas the alt tag is a much older and comes from the earlier html standards.
+<em>Title </em>tags on the other hand, perform the same basic function, but for any element of the page, not just images.  So, you can describe where links will take you, that sort of thing.  This all comes from the expanded later versions of web standards, usually xhtml standards, whereas the alt tag is a much older and comes from the earlier html standards.
 <h2>What's the problem?</h2>
 The issue I encountered recently, is due to the progressive alterations in browser behaviour, changing their interpretations of the page rendering, and a limitation of our own Content Management System at MMT, which currently only generates alt attributes and not title attributes.
 <h2>When did this become an issue?</h2>

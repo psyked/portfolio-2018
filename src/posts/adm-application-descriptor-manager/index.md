@@ -1,5 +1,5 @@
 ---
-path: /adm-application-descriptor-manager/
+path: /blog/adm-application-descriptor-manager/
 layout: post
 title: ADM - Application Descriptor Manager
 date: 2008-12-02T09:00:22Z

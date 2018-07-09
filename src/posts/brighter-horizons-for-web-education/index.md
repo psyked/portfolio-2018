@@ -1,5 +1,5 @@
 ---
-path: /brighter-horizons-for-web-education/
+path: /blog/brighter-horizons-for-web-education/
 layout: post
 title: Brighter Horizons for Web Education
 date: 2009-01-28T08:30:04Z

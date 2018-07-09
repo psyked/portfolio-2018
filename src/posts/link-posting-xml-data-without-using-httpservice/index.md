@@ -1,5 +1,5 @@
 ---
-path: /link-posting-xml-data-without-using-httpservice/
+path: /blog/link-posting-xml-data-without-using-httpservice/
 layout: post
 title: 'Link: POSTing XML data, without using HTTPService'
 date: 2009-06-21T17:32:49Z

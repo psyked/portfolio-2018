@@ -1,5 +1,5 @@
 ---
-path: /i-hate-using-avm1movie/
+path: /blog/i-hate-using-avm1movie/
 layout: post
 title: I hate using AVM1Movie...
 date: 2010-11-22T23:20:19Z
@@ -11,7 +11,7 @@ tags:
 
 Developer beware.  AVM1Movie content (running ActionScript 2 content inside ActionScript 3 movies) is a spiralling nexus of doom that will lead to your eventual insanity, if you persist in walking down that path.
 
-<!--more-->Seriously.  I'd love to catalogue the many intricacies and weird behaviours of AVM1Movie content, but that would mean being able to understand and explain them - which I can't do. The bottom line is that ActionScript 2 content in an ActionScript 3 movie doesn't behave the same as an ActionScript 2 movie does on its own.  Certain things just flat-out don't work, or don't work 'a certain way'.  Others that you thought did work actually work slightly or completely different, but do start working correctly with some encouragement.
+Seriously.  I'd love to catalogue the many intricacies and weird behaviours of AVM1Movie content, but that would mean being able to understand and explain them - which I can't do. The bottom line is that ActionScript 2 content in an ActionScript 3 movie doesn't behave the same as an ActionScript 2 movie does on its own.  Certain things just flat-out don't work, or don't work 'a certain way'.  Others that you thought did work actually work slightly or completely different, but do start working correctly with some encouragement.
 <h3>Want some examples?</h3>
 Goodness knows if they're always repeatable, but these certainly happened to me...
 <ul>

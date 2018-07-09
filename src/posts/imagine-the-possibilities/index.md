@@ -1,5 +1,5 @@
 ---
-path: /imagine-the-possibilities/
+path: /blog/imagine-the-possibilities/
 layout: post
 title: Imagine the possibilities...
 date: 2008-11-20T20:07:46Z

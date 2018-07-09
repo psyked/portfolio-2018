@@ -1,5 +1,5 @@
 ---
-path: /application-information-class-for-air/
+path: /blog/application-information-class-for-air/
 layout: post
 title: Application Information Class for AIR
 date: 2008-12-01T08:45:29Z
@@ -16,7 +16,7 @@ ApplicationInfo, as I've so cunningly called it, is a class that gives you infor
 <h3><strong>Download</strong></h3>
 <a href="http://uploads.psyked.co.uk/2008/11/applicationinfo.zip">Download the ApplicationInfo class.</a>
 
-<!--more-->
+
 <h3><strong>About</strong></h3>
 The class is designed for Flex, but will work fine for pure AS3. Most of the functions are static, so you don't need to instanciate the class before you use it, and hopefully it gives you all of the information you'll need.
 <h3><strong>Using ApplicationInfo</strong></h3>

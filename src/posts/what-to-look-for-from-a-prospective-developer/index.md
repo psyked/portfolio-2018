@@ -1,5 +1,5 @@
 ---
-path: /what-to-look-for-from-a-prospective-developer/
+path: /blog/what-to-look-for-from-a-prospective-developer/
 layout: post
 title: What to look for from a (prospective) Developer
 date: 2017-01-09T21:30:00Z

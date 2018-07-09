@@ -1,5 +1,5 @@
 ---
-path: /actionscript-30-lets-you-work-with-zip-files/
+path: /blog/actionscript-30-lets-you-work-with-zip-files/
 layout: post
 title: ActionScript 3.0 lets you work with ZIP files?
 date: 2007-08-09T13:06:03Z

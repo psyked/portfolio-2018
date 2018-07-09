@@ -1,5 +1,5 @@
 ---
-path: /tweener-4-years-old-now/
+path: /blog/tweener-4-years-old-now/
 layout: post
 title: Tweener - 4 years old now(!)
 date: 2009-06-18T23:20:34Z

@@ -1,5 +1,5 @@
 ---
-path: /link-40-creative-twitter-theme-backgrounds/
+path: /blog/link-40-creative-twitter-theme-backgrounds/
 layout: post
 title: 'Link: 40 Creative Twitter Theme Backgrounds'
 date: 2009-02-18T15:40:29Z

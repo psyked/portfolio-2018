@@ -1,5 +1,5 @@
 ---
-path: /imagesizer-now-with-a-feedback-form/
+path: /blog/imagesizer-now-with-a-feedback-form/
 layout: post
 title: ImageSizer - now with a Feedback form!
 date: 2009-01-23T10:30:34Z
@@ -13,4 +13,4 @@ I'm a bit of a slave to my own ideas - why else would I spend my evenings knocki
 
 Today's release of ImageSizer (version 0.4.3) introduces another new feature - the Feedback panel.  Essentially it's just a traditional e-mail contact form - heck, it doesn't even have any validation (yet) - but it should allow anyone who has any ideas or comes across any bugs to drop me a note from within the application.  Kudos to <a href="http://blog.pimpelsang.ee/" target="_blank">Eero Koplimets</a> for taking the time to suggest this feature!
 
-<!--more-->You can download the latest and greatest version of ImageSizer from the badge in the right hand column, or upgrade automatically from a previous version by either a) Opening ImageSizer or b) Opening the Application Settings panel within ImageSizer, and clicking the button marked 'Check for Updates now'.
+You can download the latest and greatest version of ImageSizer from the badge in the right hand column, or upgrade automatically from a previous version by either a) Opening ImageSizer or b) Opening the Application Settings panel within ImageSizer, and clicking the button marked 'Check for Updates now'.

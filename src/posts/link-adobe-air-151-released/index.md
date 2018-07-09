@@ -1,5 +1,5 @@
 ---
-path: /link-adobe-air-151-released/
+path: /blog/link-adobe-air-151-released/
 layout: post
 title: 'Link: Adobe AIR 1.5.1 released!'
 date: 2009-02-25T09:30:31Z

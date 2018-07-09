@@ -1,5 +1,5 @@
 ---
-path: /win-a-copy-of-the-flash-facebook-cookbook-at-my-flashmidlands-session-this-saturday/
+path: /blog/win-a-copy-of-the-flash-facebook-cookbook-at-my-flashmidlands-session-this-saturday/
 layout: post
 title: Win a copy of the Flash Facebook Cookbook, at my FlashMidlands session, this
   Saturday.

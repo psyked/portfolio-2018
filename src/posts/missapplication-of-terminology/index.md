@@ -1,5 +1,5 @@
 ---
-path: /missapplication-of-terminology/
+path: /blog/missapplication-of-terminology/
 layout: post
 title: Missapplication of Terminology
 date: 2007-08-30T22:27:40Z
@@ -12,7 +12,7 @@ tags:
 <h3 style="margin-top: 0pt">or, When is your <abbr title="Content Management System">CMS</abbr> not a <abbr title="Content Management System">CMS?</abbr></h3>
 Computer-orientated terminology tends to get thrown around like buzzwords, it seems.  Not only by people who don't really know what they're talking about - but also by those that <em><del></del>should</em>.  And, like buzzwords, they convey an idea - not a technical specification.  If you haven't heard of a CMS or a CDP however, you might be left in the dark.
 <h3>but Buzzwords are cool - they're easy <em>and</em> indeterminate.</h3>
-Sure, saying 'CMS' or 'Content Management System' is easier than describing what you mean all the time - but suppose both parties have completely different ideas of what to expect from a 'Content Management System'.  After all, what does your 'Content Management System' do?  Does it manage your content for you - or help you manage your content?  Does it even do that?  Is it just a facilitator for creating content?  Drawing up lengthy technical specifications may help, but throw a client-who-uses-misunderstood-buzzwords into the mix and you're in for a bumpy ride.  Chances are you'll both assume different functionality.<!--more-->
+Sure, saying 'CMS' or 'Content Management System' is easier than describing what you mean all the time - but suppose both parties have completely different ideas of what to expect from a 'Content Management System'.  After all, what does your 'Content Management System' do?  Does it manage your content for you - or help you manage your content?  Does it even do that?  Is it just a facilitator for creating content?  Drawing up lengthy technical specifications may help, but throw a client-who-uses-misunderstood-buzzwords into the mix and you're in for a bumpy ride.  Chances are you'll both assume different functionality.
 <h3>So?</h3>
 So, imagine you have what's called a 'Content Management System' - what should it do?   <abbr title="In my opinion">IMO</abbr>, the humble <strong>Dreamweaver </strong>is a great example of a Content Management System.  You can manage files and folders to your hearts' content.
 

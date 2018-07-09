@@ -1,5 +1,5 @@
 ---
-path: /sandbox-design-competition-results-tomorrow/
+path: /blog/sandbox-design-competition-results-tomorrow/
 layout: post
 title: Sandbox Design competition (results tomorrow)
 date: 2007-08-05T22:00:09Z
@@ -11,7 +11,7 @@ tags:
 
 Ok, so I didn't get my ass into gear and enter the competition - but others did, and their designs are now available to view online. The results are announced tomorrow (being Monday) <a title="Open link in a new window." href="http://www.sndbx.org" target="_blank">Check out the competition website.</a>
 
-I've had a mosey through the designs, and these are my favourates...<!--more-->
+I've had a mosey through the designs, and these are my favourates...
 
 <strong>Blackbox</strong>
 

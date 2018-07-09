@@ -1,5 +1,5 @@
 ---
-path: /shottts-dribbble-for-the-blackberry-playbook/
+path: /blog/shottts-dribbble-for-the-blackberry-playbook/
 layout: post
 title: Shottts - Dribbble for the BlackBerry Playbook
 date: 2011-05-09T07:46:42Z

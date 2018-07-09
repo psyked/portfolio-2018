@@ -1,5 +1,5 @@
 ---
-path: /everystockphoto/
+path: /blog/everystockphoto/
 layout: post
 title: EveryStockPhoto
 date: 2007-06-04T15:02:17Z

@@ -1,5 +1,5 @@
 ---
-path: /christmas-games-online-downloadable/
+path: /blog/christmas-games-online-downloadable/
 layout: post
 title: Christmas Games – Online & Downloadable
 date: 2007-12-17T11:30:52Z
@@ -11,7 +11,7 @@ tags:
 ---
 
 It's that time of year again, when production schedules relax just enough for the Marketing guys to get a look in, and we get to knock up a nice festive game for our Christmas E-mails.  Last year we canibalized an old promotional game - spruced it up with some snazzy graphics - and unleashed it upon the world.  <a href="http://www.mmtdigital.co.uk/Christmas/game/main.html" title="Open link in a new window" target="_blank">[See the 2006 Game]</a>  This year (2007) MMT Digital is continuing - and improving upon - that fine tradition, bringing you a <a href="http://www.mmtdigital.co.uk/downloads" title="Open link in a new window" target="_blank">trio of festive games</a>, available online or via download.
-<!--more-->
+
 <h3>//end marketing-speak;</h3>
 Seriously though, this years' games are pretty good.  The activities themselves are pretty simple concepts, along the lines of memory / watching games, point &amp; click and speed-counting.  No frustrating learning curves etc etc.  The most exciting part of it all, from the programmers' point of view, is the delivery method.  We're starting to move away from <em>Adobe / Macromedia Director</em> as a delivery method for our flash content, and into new realms - ones which allow snazzy shaped windows and faster build times.
 

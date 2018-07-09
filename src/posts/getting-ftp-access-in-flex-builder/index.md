@@ -1,5 +1,5 @@
 ---
-path: /getting-ftp-access-in-flex-builder/
+path: /blog/getting-ftp-access-in-flex-builder/
 layout: post
 title: Getting FTP access in Flex Builder...
 date: 2009-10-14T09:15:41Z

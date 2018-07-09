@@ -1,5 +1,5 @@
 ---
-path: /link-adobe-alchemy-is-it-actionscript-heresy/
+path: /blog/link-adobe-alchemy-is-it-actionscript-heresy/
 layout: post
 title: 'Link: Adobe Alchemy, is it ActionScript heresy?'
 date: 2009-03-12T08:05:56Z

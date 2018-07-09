@@ -1,5 +1,5 @@
 ---
-path: /front-end-web-development-books/
+path: /blog/front-end-web-development-books/
 layout: post
 title: A collection of free, online, Front End Web Development books.
 date: 2017-09-25T21:11:30Z

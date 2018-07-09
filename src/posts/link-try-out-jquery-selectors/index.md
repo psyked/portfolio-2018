@@ -1,5 +1,5 @@
 ---
-path: /link-try-out-jquery-selectors/
+path: /blog/link-try-out-jquery-selectors/
 layout: post
 title: 'Link: Try out jQuery selectors'
 date: 2009-12-03T22:05:24Z

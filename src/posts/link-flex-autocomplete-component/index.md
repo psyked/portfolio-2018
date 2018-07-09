@@ -1,5 +1,5 @@
 ---
-path: /link-flex-autocomplete-component/
+path: /blog/link-flex-autocomplete-component/
 layout: post
 title: 'Link: Flex AutoComplete component'
 date: 2010-01-11T14:07:20Z

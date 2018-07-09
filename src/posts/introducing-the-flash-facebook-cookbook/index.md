@@ -1,5 +1,5 @@
 ---
-path: /introducing-the-flash-facebook-cookbook/
+path: /blog/introducing-the-flash-facebook-cookbook/
 layout: post
 title: 'Introducing: The Flash Facebook Cookbook'
 date: 2011-06-10T07:38:42Z

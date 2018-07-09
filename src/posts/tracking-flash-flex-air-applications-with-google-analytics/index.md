@@ -1,5 +1,5 @@
 ---
-path: /tracking-flash-flex-air-applications-with-google-analytics/
+path: /blog/tracking-flash-flex-air-applications-with-google-analytics/
 layout: post
 title: Tracking Flash / Flex / AIR applications with Google Analytics
 date: 2009-06-24T08:45:31Z

@@ -1,5 +1,5 @@
 ---
-path: /secret-weapon-1-kuler/
+path: /blog/secret-weapon-1-kuler/
 layout: post
 title: 'Secret Weapon 1 : Kuler'
 date: 2007-05-15T21:55:15Z

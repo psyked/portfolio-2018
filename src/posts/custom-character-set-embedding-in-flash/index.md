@@ -1,5 +1,5 @@
 ---
-path: /custom-character-set-embedding-in-flash/
+path: /blog/custom-character-set-embedding-in-flash/
 layout: post
 title: Custom character-set embedding in Flash
 date: 2008-03-25T22:13:11Z
@@ -16,7 +16,7 @@ Wouldn't it be great if you could make your own character sets?
 <img src="http://uploads.psyked.co.uk/2008/03/customfontembedding.jpg" alt="customfontembedding.jpg" />
 
 As great as the default options are (All, Uppercase, Lowercase, Numerals) the latter 3 combined don't contain all of the visible characters - and the 'All' option embeds thousands of other useless characters.  So how about this?
-<!--more-->
+
 
 If you are bored with Flash taking ages to publish because you have (rather lazily!) embeded the full Unicode font set (I really have no idea what embedding 39477 characters achieves, Verdana - in the Windows Character map on my PC - only lists 665 chars) then this is a little bit of code I knocked up this morning that might help (someone could turn it into a class  pretty application if they want!)
 

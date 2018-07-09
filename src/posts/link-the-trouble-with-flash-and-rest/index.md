@@ -1,5 +1,5 @@
 ---
-path: /link-the-trouble-with-flash-and-rest/
+path: /blog/link-the-trouble-with-flash-and-rest/
 layout: post
 title: 'Link: The trouble with Flash and REST'
 date: 2009-05-22T11:32:33Z

@@ -1,5 +1,5 @@
 ---
-path: /flash-vs-silverlight-20/
+path: /blog/flash-vs-silverlight-20/
 layout: post
 title: Flash vs. Silverlight 2.0
 date: 2008-09-27T11:57:55Z

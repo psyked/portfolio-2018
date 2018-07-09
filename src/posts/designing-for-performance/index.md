@@ -1,5 +1,5 @@
 ---
-path: /designing-for-performance/
+path: /blog/designing-for-performance/
 layout: post
 title: Designing for Performance
 date: 2014-01-29T12:00:47Z

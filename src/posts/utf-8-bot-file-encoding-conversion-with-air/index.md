@@ -1,5 +1,5 @@
 ---
-path: /utf-8-bot-file-encoding-conversion-with-air/
+path: /blog/utf-8-bot-file-encoding-conversion-with-air/
 layout: post
 title: UTF-8 Bot - file encoding conversion with AIR
 date: 2008-04-08T00:23:09Z
@@ -14,7 +14,7 @@ Well, here it is, my first Adobe AIR application from Flash.
 
 <img src="http://uploads.psyked.co.uk/2008/04/utf-8bot.png" alt="utf-8bot.png" />
 
-<!--more-->
+
 
 What does it do?  Well, it takes an ANSI or Latin1 encoded text file, and spits it out in UTF-8 format.  The need is pretty basic, and as is the core code, but it did give me an opportunity to delve into some of the ActionScript libraries that come with AIR.  Mainly connected with the <strong>FileSystem</strong>, <strong>NativeDragDrop </strong>and classes related to custom chromes.
 

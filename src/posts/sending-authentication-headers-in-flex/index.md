@@ -1,5 +1,5 @@
 ---
-path: /sending-authentication-headers-in-flex/
+path: /blog/sending-authentication-headers-in-flex/
 layout: post
 title: Sending Authentication Headers in Flex
 date: 2009-02-10T09:30:28Z

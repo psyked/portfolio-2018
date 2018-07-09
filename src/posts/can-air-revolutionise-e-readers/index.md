@@ -1,5 +1,5 @@
 ---
-path: /can-air-revolutionise-e-readers/
+path: /blog/can-air-revolutionise-e-readers/
 layout: post
 title: Can AIR revolutionise E-Readers?
 date: 2009-02-09T09:10:29Z

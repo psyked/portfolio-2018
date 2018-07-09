@@ -1,5 +1,5 @@
 ---
-path: /adobe-flash-cs3-off-to-a-worrying-start/
+path: /blog/adobe-flash-cs3-off-to-a-worrying-start/
 layout: post
 title: Adobe Flash CS3 - off to a worrying start?
 date: 2007-06-20T17:34:46Z
@@ -13,7 +13,7 @@ tags:
 
 But anyway.  People have been conversing / moaning / arguing on FlashCoders mailing list today, about how Flash CS3 weighs in at around 400mb and a 30min+ install time, compared to Flash 8's 110mb and less install time.
 
-They're all worried that Flash could end up going down the road of Adobes' Acrobat in terms of file sizes and continual 'updates'.<!--more-->  Heck, I use Foxit PDF Reader over Adobe Acrobat now, because every time I start Acrobat (when its' finished loading) it wants to download ~60mb of new updates (Version x.x.x.13) - each one requiring a full system reboot.
+They're all worried that Flash could end up going down the road of Adobes' Acrobat in terms of file sizes and continual 'updates'.  Heck, I use Foxit PDF Reader over Adobe Acrobat now, because every time I start Acrobat (when its' finished loading) it wants to download ~60mb of new updates (Version x.x.x.13) - each one requiring a full system reboot.
 
 (One of) Flashs' benifits is the relatively small size for something so unilaterally powerful, and the ease of updates.  If Flash turned out akin to Acrobats' bloatware, people wouldn't like it so much, and we'd be in trouble...
 

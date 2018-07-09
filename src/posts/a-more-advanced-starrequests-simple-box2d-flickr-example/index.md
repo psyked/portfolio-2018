@@ -1,5 +1,5 @@
 ---
-path: /a-more-advanced-starrequests-simple-box2d-flickr-example/
+path: /blog/a-more-advanced-starrequests-simple-box2d-flickr-example/
 layout: post
 title: A more advanced StarRequests, Simple-Box2D & Flickr example.
 date: 2010-07-01T08:00:28Z

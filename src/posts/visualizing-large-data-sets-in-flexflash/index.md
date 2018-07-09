@@ -1,5 +1,5 @@
 ---
-path: /visualizing-large-data-sets-in-flexflash/
+path: /blog/visualizing-large-data-sets-in-flexflash/
 layout: post
 title: Visualizing LARGE Data Sets in flex/flash
 date: 2009-01-09T08:45:51Z

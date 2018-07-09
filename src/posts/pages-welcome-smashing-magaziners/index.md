@@ -1,5 +1,5 @@
 ---
-path: /pages-welcome-smashing-magaziners/
+path: /blog/pages-welcome-smashing-magaziners/
 layout: post
 title: 404 pages - Welcome Smashing Magaziners!
 date: 2007-08-19T20:29:16Z

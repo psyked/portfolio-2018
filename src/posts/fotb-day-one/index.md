@@ -1,5 +1,5 @@
 ---
-path: /fotb-day-one/
+path: /blog/fotb-day-one/
 layout: post
 title: 'FOTB: Day One'
 date: 2008-09-30T07:39:27Z
@@ -18,7 +18,7 @@ John Davis' Keynote was a good introduction - teasing us with the features of Fl
 
 Really interesting however was the session by Erik Natzke on <a href="http://www.flashonthebeach.com/sessions/index.php?pageid=2101">"Beyond the Knowledge: The Art of Play"</a> where he showed how he's developed Flash into and art tool, and uses it to create works of art like the one above and those on <a href="http://www.flickr.com/photos/natzke/" target="_blank">Flickr</a> and <a href="http://jot.eriknatzke.com/" target="_blank">his blog</a>.  Inspiring stuff.
 
-<!--more-->As for the social side of things, Mark met '<a href="http://natejc.com/blog/" target="_blank">the guy who wrote Tweener</a>' although I missed him.
+As for the social side of things, Mark met '<a href="http://natejc.com/blog/" target="_blank">the guy who wrote Tweener</a>' although I missed him.
 
 Beer and sessions are another inspired idea for networking, and we also met Tim and Kyle from <a href="http://www.teamcooper.co.uk/" target="_blank">Team Cooper Ltd.</a>.
 

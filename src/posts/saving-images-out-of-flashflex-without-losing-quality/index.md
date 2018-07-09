@@ -1,5 +1,5 @@
 ---
-path: /saving-images-out-of-flashflex-without-losing-quality/
+path: /blog/saving-images-out-of-flashflex-without-losing-quality/
 layout: post
 title: Saving Images Out of Flash/Flex Without Losing Quality
 date: 2009-01-26T13:54:40Z

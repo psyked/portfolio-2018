@@ -1,5 +1,5 @@
 ---
-path: /grunt-an-introductory-training-deck/
+path: /blog/grunt-an-introductory-training-deck/
 layout: post
 title: 'Grunt: An introductory training deck'
 date: 2013-12-12T12:00:42Z

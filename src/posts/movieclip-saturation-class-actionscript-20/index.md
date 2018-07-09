@@ -1,5 +1,5 @@
 ---
-path: /movieclip-saturation-class-actionscript-20/
+path: /blog/movieclip-saturation-class-actionscript-20/
 layout: post
 title: MovieClip Saturation Class - ActionScript 2
 date: 2007-09-04T22:19:37Z
@@ -16,7 +16,7 @@ Have a look at this flash movie (below) to see the end result, all generated fro
 
 [kml_flashembed movie="http://www.psyked.co.uk/downloads/SaturationManagerTest.swf" height="365" width="470" fversion="8" wmode="transparent" menu="false" /]
 
-<!--more-->
+
 
 Now, before I go much further, I should point out that the functions that make this possible are down to <a href="http://www.senocular.com/flash/source.php?id=0.169" title="Open link in a new window" target="_blank">senocular</a>, whose equally awesome code this is based on.  All I really did was figure out a way to turn it into an ActionScript 2.0 Class.  -  Technically it doesn't even need to be in a class - but it just makes things easier.
 <h3>Using this Class</h3>

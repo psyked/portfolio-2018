@@ -1,5 +1,5 @@
 ---
-path: /node41/
+path: /blog/node41/
 layout: post
 title: ActionScript Debugging
 date: 2007-02-28T16:43:42Z

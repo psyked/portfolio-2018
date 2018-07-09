@@ -1,5 +1,5 @@
 ---
-path: /there-be-pixels/
+path: /blog/there-be-pixels/
 layout: post
 title: There Be Pixels!
 date: 2009-01-12T18:06:47Z

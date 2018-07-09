@@ -1,5 +1,5 @@
 ---
-path: /kick-ass-papervision-reflections/
+path: /blog/kick-ass-papervision-reflections/
 layout: post
 title: Kick-ass Papervision Reflections
 date: 2008-11-15T08:30:40Z

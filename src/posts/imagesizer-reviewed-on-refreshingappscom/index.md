@@ -1,5 +1,5 @@
 ---
-path: /imagesizer-reviewed-on-refreshingappscom/
+path: /blog/imagesizer-reviewed-on-refreshingappscom/
 layout: post
 title: ImageSizer reviewed on RefreshingApps.com
 date: 2009-03-20T19:34:41Z

@@ -1,5 +1,5 @@
 ---
-path: /what-are-you-looking-at-introducing-screentweetr/
+path: /blog/what-are-you-looking-at-introducing-screentweetr/
 layout: post
 title: What are you looking at? (Introducing Screentweetr)
 date: 2009-06-19T08:31:17Z
@@ -15,7 +15,7 @@ Screentweetr is my latest little side project; an AIR application for uploading 
 
 <a href="http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&amp;marketplaceid=1&amp;publisherid=10603&amp;offeringid=13500" target="_blank"><img class="alignnone size-full wp-image-898" title="Screentweetr" src="http://uploads.psyked.co.uk/2009/06/screentweetr1.jpg" alt="Screentweetr" width="500" height="280" /></a>
 <h3>So, what is Screentweetr?</h3>
-Screentweetr is an application built on AIR (Adobe Integrated Runtime). It uses the <a href="http://twitpic.com/" target="_blank">TwitPic</a> service - which links in to your twitter account - and takes image data from your clipboard and allows you to quickly upload it directly to TwitPic, and the option to immediately tweet the same image on <a href="http://twitter.com/home" target="_blank">Twitter</a>.<!--more-->
+Screentweetr is an application built on AIR (Adobe Integrated Runtime). It uses the <a href="http://twitpic.com/" target="_blank">TwitPic</a> service - which links in to your twitter account - and takes image data from your clipboard and allows you to quickly upload it directly to TwitPic, and the option to immediately tweet the same image on <a href="http://twitter.com/home" target="_blank">Twitter</a>.
 <h3>How does it work?</h3>
 You might have seen my previous post: <a href="http://www.psyked.co.uk/general-chit-chat/print-screen-detection-in-air.htm" target="_self">"Print Screen detection in AIR"</a> - that's the core functionality. Using the classes discussed in that post, the application listens for bitmap data on the clipboard.  Add in the JPEG encoder classes of the AIR framework to turn raw bitmaps into JPEG files, and then use the TwitPic API to post the JPEG data along with twitter credentials.
 

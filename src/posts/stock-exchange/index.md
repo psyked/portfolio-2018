@@ -1,5 +1,5 @@
 ---
-path: /stock-exchange/
+path: /blog/stock-exchange/
 layout: post
 title: Stock Exchange
 date: 2007-06-03T14:44:02Z

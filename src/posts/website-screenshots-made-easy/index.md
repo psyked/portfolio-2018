@@ -1,5 +1,5 @@
 ---
-path: /website-screenshots-made-easy/
+path: /blog/website-screenshots-made-easy/
 layout: post
 title: Website screenshots made easy.
 date: 2007-06-05T12:10:50Z

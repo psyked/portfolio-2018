@@ -1,5 +1,5 @@
 ---
-path: /google-chrome-is-kinda-awesome/
+path: /blog/google-chrome-is-kinda-awesome/
 layout: post
 title: Google Chrome is kinda awesome...
 date: 2008-09-10T13:58:27Z
@@ -14,7 +14,7 @@ If you've been living under a rock for the past week - or maybe just been on hol
 
 <img class="alignnone size-full wp-image-288" title="google-chrome" src="http://uploads.psyked.co.uk/2008/09/google-chrome.jpg" alt="" width="500" height="280" />
 
-<!--more-->
+
 
 The first I heard about Google Chrome was on <a href="http://www.techcrunch.com/2008/09/01/first-public-screen-captures-of-google-chrome/" target="_blank">Techcrunch</a> the day before it was revealed, and then one of the guys at work downloaded it the next day. News sources all over the place were raving about it - which just shows you the what a link on the homepage of Google can do.
 

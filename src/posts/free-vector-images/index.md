@@ -1,5 +1,5 @@
 ---
-path: /free-vector-images/
+path: /blog/free-vector-images/
 layout: post
 title: Free Vector Images
 date: 2009-01-24T09:04:35Z

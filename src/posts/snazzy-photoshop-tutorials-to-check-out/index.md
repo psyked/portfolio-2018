@@ -1,5 +1,5 @@
 ---
-path: /snazzy-photoshop-tutorials-to-check-out/
+path: /blog/snazzy-photoshop-tutorials-to-check-out/
 layout: post
 title: 3 Snazzy Photoshop tutorials to check out…
 date: 2007-11-26T08:00:43Z

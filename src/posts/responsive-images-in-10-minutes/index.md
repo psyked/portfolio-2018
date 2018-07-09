@@ -1,5 +1,5 @@
 ---
-path: /responsive-images-in-10-minutes/
+path: /blog/responsive-images-in-10-minutes/
 layout: post
 title: Responsive Images in 10 minutes
 date: 2014-03-27T12:00:46Z
