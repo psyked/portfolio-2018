@@ -78,8 +78,10 @@
 	@import 'layout/wrapper';
 	@import 'layout/menu';
 
-	html, body, .pattern-bg {
-		background: repeating-linear-gradient(45deg, _palette(bg), _palette(bg) 10px, _palette(bg-alt) 10px, _palette(bg-alt) 20px);
+	html, 
+	body, 
+	.pattern-bg {
+		background: repeating-linear-gradient(45deg, _palette(highlight), _palette(highlight) 10px, _palette(highlight-alt) 10px, _palette(highlight-alt) 20px);
 	}
 
 	.body {

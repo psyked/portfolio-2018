@@ -11,7 +11,7 @@ class BlogPostTemplate extends React.Component {
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <div id="main" className="alt">
+        <div id="main">
           <section id="one">
             <div className="inner">
               <header className="major">

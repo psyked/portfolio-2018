@@ -13,22 +13,24 @@ const Tags = ({ pathContext, data }) => {
 
     return (
         <div>
-            <h1>{tagHeader}</h1>
-            <ul>
-                {edges.map(({ node }) => {
-                    const { path, title } = node.frontmatter;
-                    return (
-                        <li key={path}>
-                            <Link to={path}>{title}</Link>
-                        </li>
-                    );
-                })}
-            </ul>
-            {/*
-              This links to a page that does not yet exist.
-              We'll come back to it!
-            */}
-            <Link to="/tags">All tags</Link>
+            <div id="main">
+                <section id="one">
+                    <div className="inner">
+                        <h1>{tagHeader}</h1>
+                        <ul>
+                            {edges.map(({ node }) => {
+                                const { path, title } = node.frontmatter;
+                                return (
+                                    <li key={path}>
+                                        <Link to={path}>{title}</Link>
+                                    </li>
+                                );
+                            })}
+                        </ul>
+                        <Link to="/tags">All tags</Link>
+                    </div>
+                </section>
+            </div>
         </div>
     );
 };

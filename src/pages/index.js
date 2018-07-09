@@ -26,7 +26,18 @@ class HomeIndex extends React.Component {
                     <meta name="description" content={siteDescription} />
                 </Helmet>
 
-                <Banner />
+                <div id="main">
+                    <section id="one">
+                        <div className="inner">
+                            <Banner />
+                            {/* <header className="major">
+                            <h1>{post.frontmatter.title}</h1>
+                        </header>
+                        <div dangerouslySetInnerHTML={{ __html: post.html }} />*/}
+                        </div>
+                    </section>
+                </div>
+
 
                 {/* <div id="main">
                     <section id="one" className="tiles">
@@ -94,24 +105,24 @@ export default HomeIndex
 
 export const pageQuery = graphql`
     query PageQuery {
-        site {
-            siteMetadata {
-                title
+                    site {
+                siteMetadata {
+                    title
                 description
-            }
-        },
-        allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
-            edges {
-              node {
-                id
+                }
+            },
+        allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date] }) {
+                    edges {
+                node {
+                    id
                 excerpt(pruneLength: 250)
                 frontmatter {
-                  date(formatString: "MMMM DD, YYYY")
-                  path
-                  title
-                }
+                    date(formatString: "MMMM DD, YYYY")
+                path
+                title
               }
             }
           }
-    }
+        }
+  }
 `
