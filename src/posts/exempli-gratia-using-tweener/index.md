@@ -6,7 +6,6 @@ date: 2008-07-18T18:53:31Z
 tags:
 - flash
 - actionscript
-- actionscript
 - animation
 - google-code
 - open-source

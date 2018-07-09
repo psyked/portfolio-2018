@@ -6,7 +6,6 @@ date: 2010-01-08T08:25:15Z
 tags:
 - actionscript
 - box2d
-- actionscript
 ---
 
 One of the downsides to the Box2DAS3 project - and probably one of the major hurdles to most Flash developers - is the fact that it's inherited a lot of the syntax from the C++ project that it's derived from.  Maybe it's just because we're used to it, but Actionscript is pretty easy to understand, and its methods of working pretty tolerant of inefficient coding.

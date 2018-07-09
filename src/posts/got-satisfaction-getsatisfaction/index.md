@@ -6,7 +6,6 @@ date: 2008-12-10T09:00:07Z
 tags:
 - actionscript
 - flex
-- actionscript-classes
 - apis
 - customer-feedback
 - getsatisfaction

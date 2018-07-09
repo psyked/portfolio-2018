@@ -6,8 +6,6 @@ date: 2008-12-19T08:43:03Z
 tags:
 - actionscript
 - javascript
-- actionscript
-- actionscript-classes
 - cookies
 ---
 

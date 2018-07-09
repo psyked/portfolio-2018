@@ -5,7 +5,7 @@ title: 'Demo & Source: Simple Box2D, with curved edges!'
 date: 2010-01-13T23:38:35Z
 tags:
 - box2d
-- actionscript-classes
+- actionscript
 ---
 
 <span style="">&nbsp;</span>

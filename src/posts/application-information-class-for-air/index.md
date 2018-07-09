@@ -5,7 +5,6 @@ title: Application Information Class for AIR
 date: 2008-12-01T08:45:29Z
 tags:
 - actionscript
-- actionscript-classes
 - air
 - applicationinfo
 ---

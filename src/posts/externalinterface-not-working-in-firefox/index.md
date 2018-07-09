@@ -5,7 +5,6 @@ title: ExternalInterface not working in Firefox?
 date: 2007-10-20T10:31:39Z
 tags:
 - actionscript
-- actionscript
 - externalinterface
 - firefox
 ---

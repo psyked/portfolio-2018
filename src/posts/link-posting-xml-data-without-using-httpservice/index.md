@@ -6,7 +6,6 @@ date: 2009-06-21T17:32:49Z
 tags:
 - external-links
 - flex
-- as3
 - httpservice
 - post-tag
 - rest

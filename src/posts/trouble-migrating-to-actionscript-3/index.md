@@ -5,9 +5,6 @@ title: Trouble migrating to Actionscript 3?
 date: 2008-02-27T08:00:35Z
 tags:
 - actionscript
-- actionscript
-- as3
-- as3-migration
 ---
 
 Well, a quick Google would find you a plethora of pages, giving you pretty much exactly the same thing - that is, AS2 to AS3 migration guides.  A list of function name / class hierachy changes only goes so far, however - nothing seems to deal with the bigger problem - just how much AS3 has changed from the previous iterations.

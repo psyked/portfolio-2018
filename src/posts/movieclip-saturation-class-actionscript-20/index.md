@@ -6,7 +6,6 @@ date: 2007-09-04T22:19:37Z
 tags:
 - actionscript
 - flash
-- actionscript
 - resources
 ---
 

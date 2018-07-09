@@ -6,8 +6,6 @@ date: 2008-07-12T16:15:16Z
 tags:
 - flash
 - actionscript
-- actionscript
-- classes
 ---
 
 If you're still using Flash's inbuilt <strong>Tween </strong>classes for you scripted animations, I suggest you stop - and start making things easier for yourself by using <strong>Tweener </strong>instead. Tweener is a class that replaces Tween, works for Actionscript 2 and Actionscript 3, offers a simpler interface for creating tweens, and has a larger range of easing options to work with.
