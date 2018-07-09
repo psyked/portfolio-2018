@@ -361,7 +361,7 @@ const Elements = (props) => (
                             <h3>Image</h3>
 
                             <h4>Fit</h4>
-                            <span className="image fit"><img src={pic03} alt="" /></span>
+                            <span className="image fit"><img src={'http://via.placeholder.com/350x150'} alt="" /></span>
                             <div className="box alt">
                                 <div className="row 50% uniform">
                                     <div className="4u"><span className="image fit"><img src={'http://via.placeholder.com/350x150'} alt="" /></span></div>

@@ -20,7 +20,7 @@ const Banner = (props) => (
                             Technical Lead at comparethemarket.com
                         </p>
                         <p>
-                            I make things using <Link to={'/tag/javascript'}>Javascript</Link> and <Link to={'/tag/html5'}>HTML5.</Link><br />
+                            I make things using <Link to={'/tag/javascript'}>Javascript</Link> and <Link to={'/tag/html'}>HTML5.</Link><br />
                             I particularly care about &ldquo;delightful details&rdquo; and working with visuals.
                         </p>
                     </div>

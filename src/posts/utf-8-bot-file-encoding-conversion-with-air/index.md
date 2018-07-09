@@ -18,7 +18,7 @@ Well, here it is, my first Adobe AIR application from Flash.
 
 What does it do?  Well, it takes an ANSI or Latin1 encoded text file, and spits it out in UTF-8 format.  The need is pretty basic, and as is the core code, but it did give me an opportunity to delve into some of the ActionScript libraries that come with AIR.  Mainly connected with the <strong>FileSystem</strong>, <strong>NativeDragDrop </strong>and classes related to custom chromes.
 
-I particulary like the drag and drop classes - they turned out to be far easier than I'd expected.  FileSystem on the other hand, turned out to be a bit more of a bugger to get working correctly.  I was also mildly surprised how easy it was to lock the application to the bottom of the screen, just with some cunning use of <code>stage.maximise</code> and <code>stageAlign.BOTTOM</code>.
+I particulary like the drag and drop classes - they turned out to be far easier than I'd expected.  FileSystem on the other hand, turned out to be a bit more of a bugger to get working correctly.  I was also mildly surprised how easy it was to lock the application to the bottom of the screen, just with some cunning use of `stage.maximise` and `stageAlign.BOTTOM`.
 
 Anyway, I hope I can write some more in detail 'tutorials' about a few of the things I've learnt at a later date, and take you through the code, but for now...
 

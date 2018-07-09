@@ -11,8 +11,8 @@ tags:
 So, you have links that open in new windows, and links that open in parent windows.  Inconsistant behaviour is the primary usability nightmare, and your standard web browser doesn't give you any feedback on <em>just what</em> is going to happen once you click that link.  Popups galore? or damn-I-was-reading-that syndrome?  If only there was some visual clue we could give about those pesky link behaviours.
 
 Well, this isn't something I've seen anyone do yet, but technically it should be possible.  What we should be able to do is transport the same techniques we use for detecting file types - ie. the CSS 2.1 attribute selectors - and link them to the target attribute.  Thankfully, this should be a pretty short bit of code, as there's only really four target options that anyone uses anyway.  These would be '_blank', '_self', '_top' or '_parent'.  So, working on our existing knowledge of detecting link file-types, we simply add the code;
-<code>
-a[target='_blank']</code>
+
+    a[target='_blank']
 
 ... and we should now be able to automatically attach icons to those links that target a new browser window. (_parent, _self, and _top nearly always open links in exactly the same window) Links to other websites already have a standard icon - pretty much set by wikipedia - but it's not often that target-based links are seen, so there's not much of a standard.  Or is there?
 

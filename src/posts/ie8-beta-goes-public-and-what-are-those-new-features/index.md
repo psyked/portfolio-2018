@@ -4,14 +4,12 @@ layout: post
 title: IE8 Beta goes public - and what are those new features?
 date: 2008-12-18T08:46:44Z
 tags:
-- accelerators
 - ie8
 - internet-explorer
 - microsoft
 - msdn
 - opensearch
 - openservice
-- web-slices
 ---
 
 <h3>Or to be more specific, what the hell are the "Accelerators" and the "Web Slices"?</h3>

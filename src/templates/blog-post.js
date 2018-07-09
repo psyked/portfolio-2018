@@ -11,16 +11,16 @@ class BlogPostTemplate extends React.Component {
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <div id="main">
-          <section id="one">
-            <div className="inner">
-              <header className="major">
-                <h1>{post.frontmatter.title}</h1>
-              </header>
-              <div dangerouslySetInnerHTML={{ __html: post.html }} />
-            </div>
-          </section>
-        </div>
+        <header className="major">
+          <h1>{post.frontmatter.title}</h1>
+          Tagged as:
+          {post.frontmatter.tags.map(tag => {
+            return (
+              <span><Link to={`/tag/${tag}`}>{tag}</Link> </span>
+            )
+          })}
+        </header>
+        <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
     )
   }
@@ -42,6 +42,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tags
       }
     }
   }

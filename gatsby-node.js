@@ -10,7 +10,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise((resolve, reject) => {
     const pages = []
     const blogPost = path.resolve("./src/templates/blog-post.js")
-    const tagTemplate = path.resolve("./src/templates/tag.js")
+    const tagTemplate = path.resolve("./src/templates/tag-list-template.js")
 
     resolve(
       graphql(

@@ -8,17 +8,6 @@ class HomeIndex extends React.Component {
         const siteTitle = this.props.data.site.siteMetadata.title
         const siteDescription = this.props.data.site.siteMetadata.description
 
-        const { data: {
-            allMarkdownRemark: { edges },
-        } } = this.props
-
-        const Posts = edges
-            .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-            .map(edge => <li key={edge.node.id}><Link to={edge.node.frontmatter.path}>
-                {edge.node.frontmatter.title} ({edge.node.frontmatter.date})
-              </Link></li>);
-
-
         return (
             <div>
                 <Helmet>
@@ -26,18 +15,7 @@ class HomeIndex extends React.Component {
                     <meta name="description" content={siteDescription} />
                 </Helmet>
 
-                <div id="main">
-                    <section id="one">
-                        <div className="inner">
-                            <Banner />
-                            {/* <header className="major">
-                            <h1>{post.frontmatter.title}</h1>
-                        </header>
-                        <div dangerouslySetInnerHTML={{ __html: post.html }} />*/}
-                        </div>
-                    </section>
-                </div>
-
+                <Banner />
 
                 {/* <div id="main">
                     <section id="one" className="tiles">
@@ -83,16 +61,6 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
-                    </section>
-                    <section id="two">
-                        <div className="inner">
-                            <header className="major">
-                                <h2>Blog Posts</h2>
-                            </header>
-                            <ul>
-                                {Posts}
-                            </ul>
-                        </div>
                     </section>
                 </div> */}
 
