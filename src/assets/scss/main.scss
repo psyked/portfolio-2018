@@ -87,3 +87,15 @@
 	.body {
 		padding: 1em;
 	}
+
+	.tags {
+		margin-top: 1em;
+		// text-align: right;
+
+		a {
+			background: _palette(bg-alt);
+			padding: .25em .5em;
+			margin: 0 0 0  .25em;
+			color: _palette(fg);
+		}
+	}

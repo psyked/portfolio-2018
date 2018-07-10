@@ -13,8 +13,12 @@ class BlogPostTemplate extends React.Component {
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
         <header className="major">
           <h1>{post.frontmatter.title}</h1>
-          {post.frontmatter.tags &&
-            <div>
+        </header>
+        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        {post.frontmatter.tags &&
+          <div>
+            <hr />
+            <div className="tags">
               Tagged as:
               {post.frontmatter.tags.map(tag => {
                 return (
@@ -22,9 +26,8 @@ class BlogPostTemplate extends React.Component {
                 )
               })}
             </div>
-          }
-        </header>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+          </div>
+        }
       </div>
     )
   }
@@ -34,17 +37,17 @@ export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostByPath($path: String!) {
-    site {
-      siteMetadata {
-        title
+          site {
+        siteMetadata {
+          title
         author
+        }
       }
-    }
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
-      id
+    markdownRemark(frontmatter: {path: {eq: $path } }) {
+          id
       html
-      frontmatter {
-        title
+        frontmatter {
+          title
         date(formatString: "MMMM DD, YYYY")
         tags
       }

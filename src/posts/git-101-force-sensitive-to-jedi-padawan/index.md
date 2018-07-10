@@ -4,7 +4,7 @@ layout: post
 title: 'Git 101: Force-sensitive to Jedi padawan'
 date: 2014-04-11T12:00:07Z
 tags:
-- presentations-2
+- presentations
 ---
 
 **What is Git? What does it do, how does it work, how does it fit into my workflow?**

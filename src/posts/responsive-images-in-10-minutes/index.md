@@ -4,7 +4,7 @@ layout: post
 title: Responsive Images in 10 minutes
 date: 2014-03-27T12:00:46Z
 tags:
-- presentations-2
+- presentations
 ---
 
 **A 10 minute ripping yarn through the world of responsive images.**

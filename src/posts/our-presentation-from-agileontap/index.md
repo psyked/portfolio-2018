@@ -4,7 +4,7 @@ layout: post
 title: 'Our presentation from #AgileOnTap'
 date: 2013-05-15T20:17:29Z
 tags:
-- presentations-2
+- presentations
 - agile
 - agileontap
 ---

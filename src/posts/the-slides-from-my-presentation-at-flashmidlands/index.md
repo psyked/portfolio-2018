@@ -7,7 +7,7 @@ tags:
 - actionscript
 - facebook
 - flash
-- presentations-2
+- presentations
 - the-flash-facebook-cookbook
 - flashmidlands
 ---

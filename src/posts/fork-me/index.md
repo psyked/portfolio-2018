@@ -4,7 +4,7 @@ layout: post
 title: Fork me!
 date: 2014-01-06T12:00:06Z
 tags:
-- presentations-2
+- presentations
 ---
 
 ## Getting into GitHub, for fun, kudos and all that jazz.

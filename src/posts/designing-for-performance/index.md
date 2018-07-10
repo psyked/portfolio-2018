@@ -4,7 +4,7 @@ layout: post
 title: Designing for Performance
 date: 2014-01-29T12:00:47Z
 tags:
-- presentations-2
+- presentations
 ---
 
 **This is an excellent presentation, emphasising the need for, and benefits of, building Fast websites.**

@@ -4,7 +4,7 @@ layout: post
 title: 'Grunt: An introductory training deck'
 date: 2013-12-12T12:00:42Z
 tags:
-- presentations-2
+- presentations
 ---
 
 ##A brief talk introducing Grunt as a task management option for the development team.
