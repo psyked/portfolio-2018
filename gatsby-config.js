@@ -4,7 +4,7 @@ module.exports = {
     author: "James Ford",
     description: "James' personal website"
   },
-  pathPrefix: '/',
+  pathPrefix: `/portfolio-2018`,
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

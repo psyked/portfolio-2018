@@ -16,9 +16,9 @@ const Banner = (props) => (
                         <h1>Hi, I&apos;m James.</h1>
                     </header>
                     <div className="content">
-                        <p>
+                        <h2>
                             Technical Lead at comparethemarket.com
-                        </p>
+                        </h2>
                         <p>
                             I make things using <Link to={'/tag/javascript'}>Javascript</Link> and <Link to={'/tag/html'}>HTML5.</Link><br />
                             I particularly care about &ldquo;delightful details&rdquo; and working with visuals.

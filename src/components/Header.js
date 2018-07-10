@@ -3,17 +3,12 @@ import Link from 'gatsby-link'
 
 const Header = (props) => (
     <header id="header" className="alt">
-        <Link to="/" className="logo">Home</Link>
-        <Link to="/readme/" className="logo">README</Link>
-        <Link to="/blog/" className="logo">Blog</Link>
-        {/* <nav>
-            <a className="menu-link" onClick={props.onToggleMenu} href="javascript:;">Menu</a>
-        </nav> */}
+        <nav>
+            <Link to="/" className="menu-link" activeClassName="active" exact>Home</Link>
+            <Link to="/readme/" className="menu-link" activeClassName="active">README</Link>
+            <Link to="/blog/" className="menu-link" activeClassName="active">Blog</Link>
+        </nav>
     </header>
 )
-
-Header.propTypes = {
-    onToggleMenu: React.PropTypes.func
-}
 
 export default Header
