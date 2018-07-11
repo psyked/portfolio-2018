@@ -82,7 +82,6 @@ class Blog extends React.Component {
                         .sort((a, b) => b - a)
                         .map(key => {
                             const { year, posts } = groupedPosts[key]
-                            console.log(key, year, posts)
                             return (
                                 <section>
                                     <h3>Posts from {year}</h3>
