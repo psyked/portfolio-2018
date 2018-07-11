@@ -1,23 +1,23 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
-import Banner from '../components/Banner'
 
-class HomeIndex extends React.Component {
+class Blog extends React.Component {
     render() {
-        const siteTitle = this.props.data.site.siteMetadata.title
-        const siteDescription = this.props.data.site.siteMetadata.description
 
-        const { data: {
-            allMarkdownRemark: { edges },
-        } } = this.props
-
-        const Posts = edges
-            .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-            .map(edge => <li key={edge.node.id}><Link to={edge.node.frontmatter.path}>
-                {edge.node.frontmatter.title} ({edge.node.frontmatter.date})
-              </Link></li>);
-
+        const {
+            data: {
+                allMarkdownRemark: {
+                    edges
+                },
+                site: {
+                    siteMetadata: {
+                        title: siteTitle,
+                        description: siteDescription
+                    }
+                }
+            }
+        } = this.props
 
         return (
             <div>
@@ -27,39 +27,85 @@ class HomeIndex extends React.Component {
                 </Helmet>
 
                 <header className="major">
-                    <h2>Blog Posts</h2>
+                    <h2>Recent Blog Posts</h2>
                 </header>
+
+                <h3>2018</h3>
                 <ul>
-                    {Posts}
+                    {
+                        edges
+                            .filter(edge => !!edge.node.frontmatter.date)
+                            .filter(edge => new Date(edge.node.frontmatter.date) > new Date('2018-01-01'))
+                            .map(edge => {
+                                return (
+                                    <li key={edge.node.id}>
+                                        <Link to={edge.node.frontmatter.path}>
+                                            {edge.node.frontmatter.title} ({edge.node.frontmatter.date})
+                                    </Link>
+                                    </li>
+                                )
+                            })
+                    }
                 </ul>
 
-            </div >
+                <header className="major">
+                    <h2>Blog Post Archive</h2>
+                </header>
+
+                <aside className="box">
+                    <p>
+                        This is a curated collection of published articles written by myself.
+                        Some legacy blog posts that lack substantial unique content have been culled.
+                        Some articles are copies that were originally published elsewhere.
+                        Formatting may have changed and assets or external resources may have been adversely affected by the passage of time and the evolution of technology.
+                    </p>
+                </aside>
+
+                <ul>
+                    {
+                        edges
+                            .filter(edge => !!edge.node.frontmatter.date)
+                            .filter(edge => new Date(edge.node.frontmatter.date) < new Date('2018-01-01'))
+                            .map(edge => {
+                                return (
+                                    <li key={edge.node.id}>
+                                        <Link to={edge.node.frontmatter.path}>
+                                            {edge.node.frontmatter.title} ({edge.node.frontmatter.date})
+                                    </Link>
+                                    </li>
+                                )
+                            })
+                    }
+                </ul>
+
+            </div>
         )
     }
 }
 
-export default HomeIndex
+export default Blog
 
 export const pageQuery = graphql`
-    query BlogsQuery {
-                    site {
-                siteMetadata {
-                    title
-                description
-                }
-            },
-        allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date] }) {
-                    edges {
-                node {
-                    id
+query BlogsQuery {
+    site {
+        siteMetadata {
+            title
+            description
+        }
+    },
+    allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date] }) {
+        edges {
+            node {
+                id
                 excerpt(pruneLength: 250)
                 frontmatter {
                     date(formatString: "MMMM DD, YYYY")
-                path
-                title
-              }
+                    path
+                    title
+                    tags
+                }
             }
-          }
         }
-  }
+    }
+}
 `
