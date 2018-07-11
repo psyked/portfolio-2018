@@ -79,21 +79,10 @@
 				flex-direction: column;
 				justify-content: stretch;
 
-				// > * {
-				// 	margin-left: 1.5em;
-				// 	margin-bottom: 0;
-				// }
-
-				// > :first-child {
-				// 	margin-left: 0;
-				// }
-				
 				p {
-					// font-size: 0.7em;
 					margin-left: 0;
 					margin-bottom: 2em;
 					font-weight: _font(weight-bold);
-					// letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;
 				}
 			}
@@ -118,10 +107,6 @@
 		&.style6 { &:after { background-color: _palette(accent6); } }
 
 		.body.is-loading & {
-			&:after {
-				// opacity: 1.0;
-			}
-
 			> .inner {
 				@include vendor('filter', 'blur(0.125em)');
 				@include vendor('transform', 'translateX(-0.5em)');

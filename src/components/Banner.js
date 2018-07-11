@@ -26,11 +26,16 @@ const Banner = (props) => (
                     </div>
                     <div className="content">
                         <ul className="icons large">
-                            <li><a href="//twitter.com/psyked" className="icon alt fa-twitter"><span className="label">Twitter</span></a></li>
-                            <li><a href="//instagram.com/psyked" className="icon alt fa-instagram"><span className="label">Instagram</span></a></li>
-                            <li><a href="//github.com/psyked" className="icon alt fa-github"><span className="label">GitHub</span></a></li>
-                            <li><a href="//linkedin.com/in/jamesford" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
-                            <li><a href="//medium.com/@psyked" className="icon alt fa-medium"><span className="label">Medium</span></a></li>
+                            <li className={styles.socialMedia}>
+                                <a href="//twitter.com/psyked" className="icon alt fa-twitter"><span className={`label ${styles.socialMediaLabel}`}>Twitter</span></a></li>
+                            <li className={styles.socialMedia}>
+                                <a href="//instagram.com/psyked" className="icon alt fa-instagram"><span className={`label ${styles.socialMediaLabel}`}>Instagram</span></a></li>
+                            <li className={styles.socialMedia}>
+                                <a href="//github.com/psyked" className="icon alt fa-github"><span className={`label ${styles.socialMediaLabel}`}>GitHub</span></a></li>
+                            <li className={styles.socialMedia}>
+                                <a href="//linkedin.com/in/jamesford" className="icon alt fa-linkedin"><span className={`label ${styles.socialMediaLabel}`}>LinkedIn</span></a></li>
+                            <li className={styles.socialMedia}>
+                                <a href="//medium.com/@psyked" className="icon alt fa-medium"><span className={`label ${styles.socialMediaLabel}`}>Medium</span></a></li>
                         </ul>
                     </div>
                 </div>
