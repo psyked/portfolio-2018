@@ -99,20 +99,20 @@
 			}
 		}
 
-		&.style1 { &:after { background-color: _palette(accent1); } }
-		&.style2 { &:after { background-color: _palette(accent2); } }
-		&.style3 { &:after { background-color: _palette(accent3); } }
-		&.style4 { &:after { background-color: _palette(accent4); } }
-		&.style5 { &:after { background-color: _palette(accent5); } }
-		&.style6 { &:after { background-color: _palette(accent6); } }
+		// &.style1 { &:after { background-color: _palette(accent1); } }
+		// &.style2 { &:after { background-color: _palette(accent2); } }
+		// &.style3 { &:after { background-color: _palette(accent3); } }
+		// &.style4 { &:after { background-color: _palette(accent4); } }
+		// &.style5 { &:after { background-color: _palette(accent5); } }
+		// &.style6 { &:after { background-color: _palette(accent6); } }
 
-		.body.is-loading & {
-			> .inner {
-				@include vendor('filter', 'blur(0.125em)');
-				@include vendor('transform', 'translateX(-0.5em)');
-				opacity: 0;
-			}
-		}
+		// .body.is-loading & {
+		// 	> .inner {
+		// 		@include vendor('filter', 'blur(0.125em)');
+		// 		@include vendor('transform', 'translateX(-0.5em)');
+		// 		opacity: 0;
+		// 	}
+		// }
 
 		@include breakpoint(large) {
 			background-attachment: scroll;
@@ -142,6 +142,7 @@
 			}
 
 			&.major {
+				@include padding(0, 0, (2em, 0, 0, 0));
 				height: auto;
 				min-height: 0;
 				max-height: none;
@@ -162,7 +163,7 @@
 			}
 
 			&.major {
-				@include padding(6em, 0, (2em, 0, 0, 0));
+				@include padding(0, 0, (2em, 0, 0, 0));
 			}
 		}
 	}

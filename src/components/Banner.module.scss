@@ -11,12 +11,13 @@
 .container {
     display: flex;
     flex-direction: row;
+    align-items: flex-start;
 }
 
 @media screen and (max-width: 736px) {
     .container {
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
     }
 }
 
@@ -27,6 +28,12 @@
     border-radius: 50%;
     height: calc(120px + 1em);
     box-sizing: border-box;
+}
+
+@media screen and (max-width: 736px) {
+    .profileImageContainer {
+        margin-bottom: 2em;
+    }
 }
 
 .textContainer {
