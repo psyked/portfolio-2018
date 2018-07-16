@@ -1,5 +1,6 @@
 ---
 path: /blog/hallmarks-of-a-modern-development-workflow-continuous-integration-deployment-811b2545be39/
+layout: "post"
 title: "Hallmarks of a Modern development workflow — Continuous Integration & Deployment"
 description: "Software Development is a creative process, and as such it’s important to minimise the things which can disrupt your flow."
 url: "https://medium.com/@psyked/hallmarks-of-a-modern-development-workflow-continuous-integration-deployment-811b2545be39"

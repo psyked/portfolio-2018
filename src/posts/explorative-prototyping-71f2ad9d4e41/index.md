@@ -1,5 +1,6 @@
 ---
 path: /blog/explorative-prototyping-71f2ad9d4e41/
+layout: "post"
 title: "Explorative Prototyping"
 description: "I’ve been making a lot of simple prototypes recently."
 url: "https://medium.com/@psyked/explorative-prototyping-71f2ad9d4e41"

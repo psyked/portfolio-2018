@@ -1,5 +1,6 @@
 ---
 path: /blog/modular-code-libraries-ftw-d0db70a5365a/
+layout: "post"
 title: "Modular Code Libraries FTW"
 description: "Thanks to the fact that I work alongside a bunch of awesome people, today I’ve been introduced to the date-fns library, and it struck a…"
 url: "https://medium.com/@psyked/modular-code-libraries-ftw-d0db70a5365a"

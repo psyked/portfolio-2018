@@ -1,5 +1,6 @@
 ---
 path: /blog/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01/
+layout: "post"
 title: "RunMaps v2.0: Breaking free of Mapbox"
 description: "Replacing Mapbox API Vector Tiles with the OpenStreetMap Overpass API, for fun, profit and better output rendering."
 url: "https://medium.com/@psyked/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01"

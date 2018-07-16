@@ -1,5 +1,6 @@
 ---
-path: /blog/pok%C3%A9project-dev-diary-day-four-25aed272eb17/
+path: /blog/pokeproject-dev-diary-day-four-25aed272eb17/
+layout: "post"
 title: "PokéProject Dev Diary: Day Four"
 description: "Adverts, and going live."
 url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-four-25aed272eb17"

@@ -1,5 +1,6 @@
 ---
 path: /blog/culture-of-fear-9850823040b0/
+layout: "post"
 title: "Culture of fear"
 description: "Yes, it’s a project from Hell, but who’s to blame?"
 url: "https://medium.com/@psyked/culture-of-fear-9850823040b0"

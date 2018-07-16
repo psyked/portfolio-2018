@@ -1,5 +1,6 @@
 ---
 path: /blog/runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936/
+layout: "post"
 title: "RunMaps #4: Apply UI Sprinkles & Go Live!"
 description: "With all this effort spent building RunMaps, wouldn’t it be a shame to not share it with the world?"
 url: "https://medium.com/@psyked/runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936"

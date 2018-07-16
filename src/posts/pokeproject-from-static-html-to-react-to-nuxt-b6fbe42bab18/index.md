@@ -1,5 +1,6 @@
 ---
-path: /blog/pok%C3%A9project-from-static-html-to-react-to-nuxt-b6fbe42bab18/
+path: /blog/pokeproject-from-static-html-to-react-to-nuxt-b6fbe42bab18/
+layout: "post"
 title: "PokéProject: from Static HTML, to React, to Nuxt."
 description: "This is the story of my development journey with PokéProject. Hopefully this isn’t the complete story, and there’s much more to be told…"
 url: "https://medium.com/@psyked/pok%C3%A9project-from-static-html-to-react-to-nuxt-b6fbe42bab18"

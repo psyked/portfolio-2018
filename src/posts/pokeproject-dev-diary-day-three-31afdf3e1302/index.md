@@ -1,5 +1,6 @@
 ---
-path: /blog/pok%C3%A9project-dev-diary-day-three-31afdf3e1302/
+path: /blog/pokeproject-dev-diary-day-three-31afdf3e1302/
+layout: "post"
 title: "PokéProject Dev Diary: Day Three"
 description: "Changing the theme a bit, today has all been about data, APIs and data transformation."
 url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-three-31afdf3e1302"

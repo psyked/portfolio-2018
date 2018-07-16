@@ -1,5 +1,6 @@
 ---
-path: /blog/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239/
+path: /blog/pokeproject-adventures-with-lego-bricks-cd9401091239/
+layout: "post"
 title: "PokéProject: Adventures with LEGO Bricks"
 description: "Part 2: Making optimal use of the available bricks."
 url: "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239"

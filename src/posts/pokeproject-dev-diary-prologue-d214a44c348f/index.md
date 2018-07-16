@@ -1,5 +1,6 @@
 ---
-path: /blog/pok%C3%A9project-dev-diary-prologue-d214a44c348f/
+path: /blog/pokeproject-dev-diary-prologue-d214a44c348f/
+layout: "post"
 title: "PokéProject Dev Diary: Prologue"
 description: "I’ve written a little before about my exploits as I try to live in “a constant state of Hackathon” but this time I thought I’d change it…"
 url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-prologue-d214a44c348f"

@@ -1,5 +1,6 @@
 ---
 path: /blog/generating-run-maps-with-node-js-52738014d3dc/
+layout: "post"
 title: "Generating Run Maps with Node.js"
 description: "Hacking away at the Mapbox and Fitbit data APIs"
 url: "https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc"

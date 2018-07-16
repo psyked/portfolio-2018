@@ -5,22 +5,23 @@ import get from 'lodash/get'
 
 class BlogPostTemplate extends React.Component {
   render() {
-    const post = this.props.data.markdownRemark
+    const post = this.props.data.markdownRemark || {}
+    const { frontmatter = {} } = post || {}
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
 
     return (
       <div>
-        <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
+        <Helmet title={`${frontmatter.title} | ${siteTitle}`} />
         <header className="major">
-          <h1>{post.frontmatter.title}</h1>
+          <h1>{frontmatter.title}</h1>
         </header>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        {post.frontmatter.tags &&
+        {frontmatter.tags &&
           <div>
             <hr />
             <div className="tags">
               Tagged as:
-              {post.frontmatter.tags.map(tag => {
+              {frontmatter.tags.map(tag => {
                 return (
                   <span><Link to={`/tag/${tag}`}>{tag}</Link> </span>
                 )

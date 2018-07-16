@@ -1,5 +1,6 @@
 ---
 path: /blog/runmaps-3-colour-schemes-and-labels-d7533eb91bc7/
+layout: "post"
 title: "RunMaps 3: Colour Schemes and Labels"
 description: "Now it's time to pick up where we left the original development; improving the visuals by adding place labels and map markers."
 url: "https://medium.com/@psyked/runmaps-3-colour-schemes-and-labels-d7533eb91bc7"

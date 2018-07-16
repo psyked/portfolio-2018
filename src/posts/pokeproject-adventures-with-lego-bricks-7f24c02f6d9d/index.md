@@ -1,5 +1,6 @@
 ---
-path: /blog/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d/
+path: /blog/pokeproject-adventures-with-lego-bricks-7f24c02f6d9d/
+layout: "post"
 title: "PokéProject: Adventures with LEGO Bricks"
 description: "Part 1: Using JavaScript and HTML5 canvas elements to convert images into 2 dimensional LEGO brick plans."
 url: "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d"

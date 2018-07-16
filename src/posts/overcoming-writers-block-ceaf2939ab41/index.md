@@ -1,5 +1,6 @@
 ---
 path: /blog/overcoming-writers-block-ceaf2939ab41/
+layout: "post"
 title: "Overcoming writer’s block"
 description: "I like writing. That’s not always been the case — it certainly wasn’t my forte back when I needed it at school and with my University…"
 url: "https://medium.com/@psyked/overcoming-writers-block-ceaf2939ab41"

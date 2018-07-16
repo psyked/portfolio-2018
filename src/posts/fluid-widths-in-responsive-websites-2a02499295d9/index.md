@@ -1,5 +1,6 @@
 ---
 path: /blog/fluid-widths-in-responsive-websites-2a02499295d9/
+layout: "post"
 title: "Fluid widths in responsive websites."
 description: "Front End Design Principle Rambles #1"
 url: "https://medium.com/@psyked/fluid-widths-in-responsive-websites-2a02499295d9"

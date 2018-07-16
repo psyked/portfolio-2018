@@ -1,5 +1,6 @@
 ---
 path: /blog/testing-performance-speed-and-best-practices-with-lighthouse-109803ce90ba/
+layout: "post"
 title: "Testing Performance, Speed and Best Practices with Lighthouse"
 description: "Lighthouse is an open-source, automated tool for improving the quality of your web apps."
 url: "https://medium.com/@psyked/testing-performance-speed-and-best-practices-with-lighthouse-109803ce90ba"

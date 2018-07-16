@@ -1,5 +1,6 @@
 ---
 path: /blog/how-to-effectively-kill-your-agile-team-2de8677b64e3/
+layout: "post"
 title: "How to effectively kill your Agile Team"
 description: "Agile methodology is the glorious present and future of software development, but the correct set of circumstances can seriously cripple a…"
 url: "https://medium.com/@psyked/how-to-effectively-kill-your-agile-team-2de8677b64e3"

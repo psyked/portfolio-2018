@@ -1,5 +1,6 @@
 ---
 path: /blog/building-duotone-fc7e0d9a3b9e/
+layout: "post"
 title: "Building “duotone”"
 description: "Applying filters to images and generating downloads with client-side Javascript"
 url: "https://medium.com/@psyked/building-duotone-fc7e0d9a3b9e"

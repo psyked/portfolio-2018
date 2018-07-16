@@ -1,5 +1,6 @@
 ---
 path: /blog/rituals-dogma-and-the-agile-manifesto-99df0b7d6525/
+layout: "post"
 title: "Rituals, dogma and the Agile Manifesto."
 description: "I can’t quite work out if Agile is a buzzword, a cult or some larger form of organised religion. I’m lost in a sea of ritualistic meetings…"
 url: "https://medium.com/@psyked/rituals-dogma-and-the-agile-manifesto-99df0b7d6525"

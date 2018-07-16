@@ -1,5 +1,6 @@
 ---
-path: /blog/pok%C3%A9project-dev-diary-day-seven-dc096bdac274/
+path: /blog/pokeproject-dev-diary-day-seven-dc096bdac274/
+layout: "post"
 title: "PokéProject Dev Diary: Day Seven"
 description: "This thing ain’t gonna market itself."
 url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-seven-dc096bdac274"

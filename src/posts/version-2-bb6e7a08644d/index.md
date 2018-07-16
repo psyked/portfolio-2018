@@ -1,5 +1,6 @@
 ---
 path: /blog/version-2-bb6e7a08644d/
+layout: "post"
 title: "Version 2"
 description: "Refactoring and enhancing an MVP"
 url: "https://medium.com/@psyked/version-2-bb6e7a08644d"

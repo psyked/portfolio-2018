@@ -1,5 +1,6 @@
 ---
 path: /blog/3-hour-hacks-d22772439d04/
+layout: "post"
 title: "3 hour hacks"
 description: "Here’s my next big idea."
 url: "https://medium.com/@psyked/3-hour-hacks-d22772439d04"

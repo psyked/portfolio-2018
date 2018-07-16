@@ -1,5 +1,6 @@
 ---
-path: /blog/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276/
+path: /blog/pokeproject-adventures-with-lego-bricks-c7b9b8385276/
+layout: "post"
 title: "PokéProject: Adventures with LEGO Bricks"
 description: "Part 3: From a theory to the real world."
 url: "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276"
