@@ -11,6 +11,10 @@ type: "article"
 card: "summary_large_image"
 published_time: 2016-05-17T19:48:34.316Z
 creator: "@psyked"
+tags:
+- Hackathon
+- Prototyping
+- Programming
 date: 2016-05-17T19:48:34.316Z
 ---
 

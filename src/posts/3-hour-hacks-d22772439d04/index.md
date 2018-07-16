@@ -11,6 +11,10 @@ type: "article"
 card: "summary_large_image"
 published_time: 2018-03-11T10:41:36.819Z
 creator: "@psyked"
+tags:
+- Hackaday
+- Side Project
+- Inspiration
 date: 2018-03-11T10:41:36.819Z
 ---
 

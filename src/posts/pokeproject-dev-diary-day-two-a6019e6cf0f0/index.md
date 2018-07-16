@@ -11,6 +11,12 @@ type: "article"
 card: "summary_large_image"
 published_time: 2016-09-14T19:05:00.016Z
 creator: "@psyked"
+tags:
+- Design
+- UX
+- Hackathon
+- Pokemon
+- Agile
 date: 2016-09-14T19:05:00.016Z
 ---
 

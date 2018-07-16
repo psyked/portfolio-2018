@@ -11,6 +11,10 @@ type: "article"
 card: "summary_large_image"
 published_time: 2017-01-12T09:07:00.606Z
 creator: "@psyked"
+tags:
+- JavaScript
+- Web Development
+- Frameworks
 date: 2017-01-12T09:07:00.606Z
 ---
 

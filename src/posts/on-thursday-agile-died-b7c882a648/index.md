@@ -11,6 +11,10 @@ type: "article"
 card: "summary_large_image"
 published_time: 2016-05-25T07:36:02.250Z
 creator: "@psyked"
+tags:
+- Agile
+- Waterfall
+- Developers
 date: 2016-05-25T07:36:02.250Z
 ---
 

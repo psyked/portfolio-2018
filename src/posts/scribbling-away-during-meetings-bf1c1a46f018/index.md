@@ -11,6 +11,9 @@ type: "article"
 card: "summary_large_image"
 published_time: 2017-01-24T18:49:23.000Z
 creator: "@psyked"
+tags:
+- Design
+- Productivity
 date: 2017-01-24T18:49:23.000Z
 ---
 

@@ -11,6 +11,11 @@ type: "article"
 card: "summary_large_image"
 published_time: 2018-07-11T11:11:46.274Z
 creator: "@psyked"
+tags:
+- Web Development
+- Responsive Web Design
+- CSS
+- Front End Development
 date: 2018-07-11T11:11:46.274Z
 ---
 

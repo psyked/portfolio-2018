@@ -11,6 +11,12 @@ type: "article"
 card: "summary_large_image"
 published_time: 2018-06-08T12:12:28.418Z
 creator: "@psyked"
+tags:
+- MVP
+- Side Project
+- Maps
+- Strava
+- Fitbit
 date: 2018-06-08T12:12:28.418Z
 ---
 

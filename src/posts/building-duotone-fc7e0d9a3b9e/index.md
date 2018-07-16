@@ -11,6 +11,11 @@ type: "article"
 card: "summary_large_image"
 published_time: 2018-03-13T23:22:11.253Z
 creator: "@psyked"
+tags:
+- Design
+- Duotone
+- Side Project
+- Nuxtjs
 date: 2018-03-13T23:22:11.253Z
 ---
 

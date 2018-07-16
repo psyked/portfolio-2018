@@ -11,6 +11,10 @@ type: "article"
 card: "summary_large_image"
 published_time: 2018-03-20T23:01:53.855Z
 creator: "@psyked"
+tags:
+- Software Development
+- Side Project
+- Duotone
 date: 2018-03-20T23:01:53.855Z
 ---
 

@@ -11,6 +11,12 @@ type: "article"
 card: "summary_large_image"
 published_time: 2018-03-26T08:31:01.119Z
 creator: "@psyked"
+tags:
+- Maps
+- Side Project
+- Mapbox
+- Nodejs
+- D3js
 date: 2018-03-26T08:31:01.119Z
 ---
 

@@ -11,6 +11,12 @@ type: "article"
 card: "summary_large_image"
 published_time: 2018-03-29T13:19:47.428Z
 creator: "@psyked"
+tags:
+- Software Development
+- Project Management
+- Software Engineering
+- Thought Leadership
+- Strategy
 date: 2018-03-29T13:19:47.428Z
 ---
 

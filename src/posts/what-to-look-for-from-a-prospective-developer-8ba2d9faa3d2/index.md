@@ -11,6 +11,11 @@ type: "article"
 card: "summary_large_image"
 published_time: 2017-01-10T09:12:00.566Z
 creator: "@psyked"
+tags:
+- Programming
+- Web Development
+- Interviewing
+- Job Interview
 date: 2017-01-10T09:12:00.566Z
 ---
 

@@ -11,6 +11,11 @@ type: "article"
 card: "summary_large_image"
 published_time: 2018-05-26T14:22:30.597Z
 creator: "@psyked"
+tags:
+- Mapping
+- Side Project
+- D3js
+- SVG
 date: 2018-05-26T14:22:30.597Z
 ---
 

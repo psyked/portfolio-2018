@@ -11,6 +11,9 @@ type: "article"
 card: "summary_large_image"
 published_time: 2017-01-28T20:31:07.000Z
 creator: "@psyked"
+tags:
+- Web Development
+- Performance Testing
 date: 2017-01-28T20:31:07.000Z
 ---
 
