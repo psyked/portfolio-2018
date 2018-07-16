@@ -1,21 +1,16 @@
 ---
 path: /blog/testing-performance-speed-and-best-practices-with-lighthouse-109803ce90ba/
 title: "Testing Performance, Speed and Best Practices with Lighthouse"
-description: "Web Development is an ever changing landscape, and as such we use a variety of tools to evaluate what we do. Like many others with a vested interest in the web, Google has its own projects, and…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/testing-performance-speed-and-best-practices-with-lighthouse-109803ce90ba"
-og:image: "https://cdn-images-1.medium.com/max/1200/0*gOsG-4Rh7_nf219f.jpg"
-og:description: "Lighthouse is an open-source, automated tool for improving the quality of your web apps."
-twitter:description: "Lighthouse is an open-source, automated tool for improving the quality of your web apps."
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/0*gOsG-4Rh7_nf219f.jpg"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2017-01-28T20:31:07.000Z
-twitter:creator: "@psyked"
+description: "Lighthouse is an open-source, automated tool for improving the quality of your web apps."
+url: "https://medium.com/@psyked/testing-performance-speed-and-best-practices-with-lighthouse-109803ce90ba"
+image: "https://cdn-images-1.medium.com/max/1200/0*gOsG-4Rh7_nf219f.jpg"
+src: "https://cdn-images-1.medium.com/max/1200/0*gOsG-4Rh7_nf219f.jpg"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2017-01-28T20:31:07.000Z
+creator: "@psyked"
 date: 2017-01-28T20:31:07.000Z
----
 ---
 
 # Testing Performance, Speed and Best Practices with Lighthouse

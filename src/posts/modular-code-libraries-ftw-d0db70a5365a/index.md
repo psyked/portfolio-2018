@@ -1,21 +1,16 @@
 ---
 path: /blog/modular-code-libraries-ftw-d0db70a5365a/
 title: "Modular Code Libraries FTW"
-description: "Code is ultimately a solution to a problem. As developers we’re constantly writing code, and the more code we write, the more experience we acquire, the better we get. A big advantage to having…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/modular-code-libraries-ftw-d0db70a5365a"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png"
-og:description: "Thanks to the fact that I work alongside a bunch of awesome people, today I’ve been introduced to the date-fns library, and it struck a…"
-twitter:description: "Thanks to the fact that I work alongside a bunch of awesome people, today I’ve been introduced to the date-fns library, and it struck a…"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2017-01-12T09:07:00.606Z
-twitter:creator: "@psyked"
+description: "Thanks to the fact that I work alongside a bunch of awesome people, today I’ve been introduced to the date-fns library, and it struck a…"
+url: "https://medium.com/@psyked/modular-code-libraries-ftw-d0db70a5365a"
+image: "https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png"
+src: "https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2017-01-12T09:07:00.606Z
+creator: "@psyked"
 date: 2017-01-12T09:07:00.606Z
----
 ---
 
 ![](1*pZ9iKrsUlMQIo_isecaj0A.png)

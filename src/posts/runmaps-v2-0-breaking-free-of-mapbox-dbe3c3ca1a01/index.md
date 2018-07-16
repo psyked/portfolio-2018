@@ -1,21 +1,16 @@
 ---
-path: runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01
+path: /blog/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01/
 title: "RunMaps v2.0: Breaking free of Mapbox"
-description: "In my previous post, 'Generating Run Maps with Node.js', I talked through the winding path that eventually led me to a place where I'd hooked up data from my activities on Fitbit with data from the…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*XDK58wHmThVh24H1t35QNA.png"
-og:description: "Replacing Mapbox API Vector Tiles with the OpenStreetMap Overpass API, for fun, profit and better output rendering."
-twitter:description: "Replacing Mapbox API Vector Tiles with the OpenStreetMap Overpass API, for fun, profit and better output rendering."
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*XDK58wHmThVh24H1t35QNA.png"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-05-26T08:16:01.471Z
-twitter:creator: "@psyked"
+description: "Replacing Mapbox API Vector Tiles with the OpenStreetMap Overpass API, for fun, profit and better output rendering."
+url: "https://medium.com/@psyked/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01"
+image: "https://cdn-images-1.medium.com/max/1200/1*XDK58wHmThVh24H1t35QNA.png"
+src: "https://cdn-images-1.medium.com/max/1200/1*XDK58wHmThVh24H1t35QNA.png"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2018-05-26T08:16:01.471Z
+creator: "@psyked"
 date: 2018-05-26T08:16:01.471Z
----
 ---
 
 # RunMaps v2.0: Breaking free of Mapbox

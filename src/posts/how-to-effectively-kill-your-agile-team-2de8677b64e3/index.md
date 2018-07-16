@@ -1,21 +1,16 @@
 ---
-path: how-to-effectively-kill-your-agile-team-2de8677b64e3
+path: /blog/how-to-effectively-kill-your-agile-team-2de8677b64e3/
 title: "How to effectively kill your Agile Team"
-description: "Agile methodology is the glorious present and future of software development, but the correct set of circumstances can seriously cripple a team’s morale and their effectiveness. Such an innocuous…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/how-to-effectively-kill-your-agile-team-2de8677b64e3"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*NqOR1hq5mkjoR2AwRceUSQ.jpeg"
-og:description: "Agile methodology is the glorious present and future of software development, but the correct set of circumstances can seriously cripple a…"
-twitter:description: "Agile methodology is the glorious present and future of software development, but the correct set of circumstances can seriously cripple a…"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*NqOR1hq5mkjoR2AwRceUSQ.jpeg"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2017-04-26T08:03:00.000Z
-twitter:creator: "@psyked"
+description: "Agile methodology is the glorious present and future of software development, but the correct set of circumstances can seriously cripple a…"
+url: "https://medium.com/@psyked/how-to-effectively-kill-your-agile-team-2de8677b64e3"
+image: "https://cdn-images-1.medium.com/max/1200/1*NqOR1hq5mkjoR2AwRceUSQ.jpeg"
+src: "https://cdn-images-1.medium.com/max/1200/1*NqOR1hq5mkjoR2AwRceUSQ.jpeg"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2017-04-26T08:03:00.000Z
+creator: "@psyked"
 date: 2017-04-26T08:03:00.000Z
----
 ---
 
 ![](1*NqOR1hq5mkjoR2AwRceUSQ.jpeg)

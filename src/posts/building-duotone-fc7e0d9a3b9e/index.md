@@ -1,21 +1,16 @@
 ---
-path: building-duotone-fc7e0d9a3b9e
+path: /blog/building-duotone-fc7e0d9a3b9e/
 title: "Building “duotone”"
-description: "Whist stumbling through my reading list I was impressed by the image filtering capabilities of the humble SVG, as demonstrated by Lentie Ward’s article: ‘Using SVG to Create a Duotone Effect on…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/building-duotone-fc7e0d9a3b9e"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*1v5wB-0SlpzMcdxODc75Fw.png"
-og:description: "Applying filters to images and generating downloads with client-side Javascript"
-twitter:description: "Applying filters to images and generating downloads with client-side Javascript"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*1v5wB-0SlpzMcdxODc75Fw.png"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-03-13T23:22:11.253Z
-twitter:creator: "@psyked"
+description: "Applying filters to images and generating downloads with client-side Javascript"
+url: "https://medium.com/@psyked/building-duotone-fc7e0d9a3b9e"
+image: "https://cdn-images-1.medium.com/max/1200/1*1v5wB-0SlpzMcdxODc75Fw.png"
+src: "https://cdn-images-1.medium.com/max/1200/1*1v5wB-0SlpzMcdxODc75Fw.png"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2018-03-13T23:22:11.253Z
+creator: "@psyked"
 date: 2018-03-13T23:22:11.253Z
----
 ---
 
 # Building “duotone”

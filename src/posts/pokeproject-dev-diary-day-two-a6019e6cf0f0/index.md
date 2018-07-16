@@ -1,21 +1,16 @@
 ---
 path: /blog/pokeproject-dev-diary-day-two-a6019e6cf0f0/
 title: "PokéProject Dev Diary: Day Two"
-description: "A few days have passed since we started development [see days 0, 1], so there’s been a little time to sit down, review the prototype and refine our product vision. What’s going to be our unique…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/pokeproject-dev-diary-day-two-a6019e6cf0f0"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*lEV7DsAymsMz79d5bbTjCw.jpeg"
-og:description: "Where we refine the design."
-twitter:description: "Where we refine the design."
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*lEV7DsAymsMz79d5bbTjCw.jpeg"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2016-09-14T19:05:00.016Z
-twitter:creator: "@psyked"
+description: "Where we refine the design."
+url: "https://medium.com/@psyked/pokeproject-dev-diary-day-two-a6019e6cf0f0"
+image: "https://cdn-images-1.medium.com/max/1200/1*lEV7DsAymsMz79d5bbTjCw.jpeg"
+src: "https://cdn-images-1.medium.com/max/1200/1*lEV7DsAymsMz79d5bbTjCw.jpeg"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2016-09-14T19:05:00.016Z
+creator: "@psyked"
 date: 2016-09-14T19:05:00.016Z
----
 ---
 
 # PokéProject Dev Diary: Day Two

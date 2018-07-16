@@ -2,20 +2,15 @@
 path: /blog/on-thursday-agile-died-b7c882a648/
 title: "On Thursday, Agile died."
 description: "Last Thursday, the Agile in our project died. For most people around the world the day was unremarkable, but for us, on this particular Thursday, Agile was — finally — put out of its misery. For the…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/on-thursday-agile-died-b7c882a648"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg"
-og:description: "Last Thursday, the Agile in our project died. For most people around the world the day was unremarkable, but for us, on this particular Thursday, Agile was — finally — put out of its misery. For the…"
-twitter:description: "Last Thursday, the Agile in our project died. For most people around the world the day was unremarkable, but for us, on this particular Thursday, Agile was — finally — put out of its misery. For the…"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2016-05-25T07:36:02.250Z
-twitter:creator: "@psyked"
+url: "https://medium.com/@psyked/on-thursday-agile-died-b7c882a648"
+image: "https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg"
+src: "https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2016-05-25T07:36:02.250Z
+creator: "@psyked"
 date: 2016-05-25T07:36:02.250Z
----
 ---
 
 # On Thursday, Agile died.

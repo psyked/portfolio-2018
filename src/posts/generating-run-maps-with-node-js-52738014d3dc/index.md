@@ -1,21 +1,16 @@
 ---
-path: generating-run-maps-with-node-js-52738014d3dc
+path: /blog/generating-run-maps-with-node-js-52738014d3dc/
 title: "Generating Run Maps with Node.js"
-description: "The idea I have in mind is one that features the actual route data and statistics from my run; much like an improved version of the route snapshots offered by the Fitbit or Strava apps, and combining"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
-og:description: "Hacking away at the Mapbox and Fitbit data APIs"
-twitter:description: "Hacking away at the Mapbox and Fitbit data APIs"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-03-26T08:31:01.119Z
-twitter:creator: "@psyked"
+description: "Hacking away at the Mapbox and Fitbit data APIs"
+url: "https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc"
+image: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
+src: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2018-03-26T08:31:01.119Z
+creator: "@psyked"
 date: 2018-03-26T08:31:01.119Z
----
 ---
 
 # Generating Run Maps with Node.js

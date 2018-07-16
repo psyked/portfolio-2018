@@ -1,21 +1,16 @@
 ---
-path: runmaps-3-colour-schemes-and-labels-d7533eb91bc7
+path: /blog/runmaps-3-colour-schemes-and-labels-d7533eb91bc7/
 title: "RunMaps 3: Colour Schemes and Labels"
-description: "In my previous posts I've discussed the initial development of my RunMaps side-project and the subsequent switch over to using Overpass API instead of the initial Mapbox APIs. Now it's time to pick…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/runmaps-3-colour-schemes-and-labels-d7533eb91bc7"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*w4ALp74pUYzMQl3Nt8p3aA.png"
-og:description: "Now it's time to pick up where we left the original development; improving the visuals by adding place labels and map markers."
-twitter:description: "Now it's time to pick up where we left the original development; improving the visuals by adding place labels and map markers."
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*w4ALp74pUYzMQl3Nt8p3aA.png"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-05-26T14:22:30.597Z
-twitter:creator: "@psyked"
+description: "Now it's time to pick up where we left the original development; improving the visuals by adding place labels and map markers."
+url: "https://medium.com/@psyked/runmaps-3-colour-schemes-and-labels-d7533eb91bc7"
+image: "https://cdn-images-1.medium.com/max/1200/1*w4ALp74pUYzMQl3Nt8p3aA.png"
+src: "https://cdn-images-1.medium.com/max/1200/1*w4ALp74pUYzMQl3Nt8p3aA.png"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2018-05-26T14:22:30.597Z
+creator: "@psyked"
 date: 2018-05-26T14:22:30.597Z
----
 ---
 
 # RunMaps 3: Colour Schemes and Labels

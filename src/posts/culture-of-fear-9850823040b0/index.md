@@ -1,21 +1,16 @@
 ---
-path: culture-of-fear-9850823040b0
+path: /blog/culture-of-fear-9850823040b0/
 title: "Culture of fear"
-description: "This tale of a project from hell (from Twitter, above, direct link to the original article) got me thinking this past week. On the surface there’s the pure technical story, the gory details of a…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/culture-of-fear-9850823040b0"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*q9eE6JDx90bujWY6Da8lhQ.png"
-og:description: "Yes, it’s a project from Hell, but who’s to blame?"
-twitter:description: "Yes, it’s a project from Hell, but who’s to blame?"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*q9eE6JDx90bujWY6Da8lhQ.png"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-03-29T13:19:47.428Z
-twitter:creator: "@psyked"
+description: "Yes, it’s a project from Hell, but who’s to blame?"
+url: "https://medium.com/@psyked/culture-of-fear-9850823040b0"
+image: "https://cdn-images-1.medium.com/max/1200/1*q9eE6JDx90bujWY6Da8lhQ.png"
+src: "https://cdn-images-1.medium.com/max/1200/1*q9eE6JDx90bujWY6Da8lhQ.png"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2018-03-29T13:19:47.428Z
+creator: "@psyked"
 date: 2018-03-29T13:19:47.428Z
----
 ---
 
 # Culture of fear

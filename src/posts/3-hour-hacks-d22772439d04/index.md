@@ -1,21 +1,16 @@
 ---
-path: 3-hour-hacks-d22772439d04
+path: /blog/3-hour-hacks-d22772439d04/
 title: "3 hour hacks"
-description: "Most products seem to be an idea that you can knock up a prototype for in three hours, if you know what you’re doing. Even if you don’t know what you’re doing you can learn an awful lot about a…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/3-hour-hacks-d22772439d04"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg"
-og:description: "Here’s my next big idea."
-twitter:description: "Here’s my next big idea."
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-03-11T10:41:36.819Z
-twitter:creator: "@psyked"
+description: "Here’s my next big idea."
+url: "https://medium.com/@psyked/3-hour-hacks-d22772439d04"
+image: "https://cdn-images-1.medium.com/max/1200/1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg"
+src: "https://cdn-images-1.medium.com/max/1200/1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2018-03-11T10:41:36.819Z
+creator: "@psyked"
 date: 2018-03-11T10:41:36.819Z
----
 ---
 
 # 3 hour hacks

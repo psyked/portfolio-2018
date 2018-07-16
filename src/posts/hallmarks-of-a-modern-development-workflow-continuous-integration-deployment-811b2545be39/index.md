@@ -1,21 +1,16 @@
 ---
 path: /blog/hallmarks-of-a-modern-development-workflow-continuous-integration-deployment-811b2545be39/
 title: "Hallmarks of a Modern development workflow — Continuous Integration & Deployment"
-description: "A modern web development setup is one that harnesses the concepts of Continuous Integration and Continuous Deployment to deliver the end result. Practically implementing these two concepts goes a…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/hallmarks-of-a-modern-development-workflow-continuous-integration-deployment-811b2545be39"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*E1XjKEGR0WniQFa2W1IIeg.jpeg"
-og:description: "Software Development is a creative process, and as such it’s important to minimise the things which can disrupt your flow."
-twitter:description: "Software Development is a creative process, and as such it’s important to minimise the things which can disrupt your flow."
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*E1XjKEGR0WniQFa2W1IIeg.jpeg"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2017-01-30T09:15:00.000Z
-twitter:creator: "@psyked"
+description: "Software Development is a creative process, and as such it’s important to minimise the things which can disrupt your flow."
+url: "https://medium.com/@psyked/hallmarks-of-a-modern-development-workflow-continuous-integration-deployment-811b2545be39"
+image: "https://cdn-images-1.medium.com/max/1200/1*E1XjKEGR0WniQFa2W1IIeg.jpeg"
+src: "https://cdn-images-1.medium.com/max/1200/1*E1XjKEGR0WniQFa2W1IIeg.jpeg"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2017-01-30T09:15:00.000Z
+creator: "@psyked"
 date: 2017-01-30T09:15:00.000Z
----
 ---
 
 ![](1*E1XjKEGR0WniQFa2W1IIeg.jpeg)

@@ -1,21 +1,16 @@
 ---
 path: /blog/scribbling-away-during-meetings-bf1c1a46f018/
 title: "Scribbling away during meetings."
-description: "I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered a little while ago when I met people at conferences who were…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/scribbling-away-during-meetings-bf1c1a46f018"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*V8WgG38jMeJ2lITvnlLM5A.jpeg"
-og:description: "I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered…"
-twitter:description: "I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered…"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*V8WgG38jMeJ2lITvnlLM5A.jpeg"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2017-01-24T18:49:23.000Z
-twitter:creator: "@psyked"
+description: "I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered…"
+url: "https://medium.com/@psyked/scribbling-away-during-meetings-bf1c1a46f018"
+image: "https://cdn-images-1.medium.com/max/1200/1*V8WgG38jMeJ2lITvnlLM5A.jpeg"
+src: "https://cdn-images-1.medium.com/max/1200/1*V8WgG38jMeJ2lITvnlLM5A.jpeg"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2017-01-24T18:49:23.000Z
+creator: "@psyked"
 date: 2017-01-24T18:49:23.000Z
----
 ---
 
 ![](1*V8WgG38jMeJ2lITvnlLM5A.jpeg)

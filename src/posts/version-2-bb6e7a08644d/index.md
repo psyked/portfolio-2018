@@ -1,21 +1,16 @@
 ---
-path: version-2-bb6e7a08644d
+path: /blog/version-2-bb6e7a08644d/
 title: "Version 2"
-description: "If there’s one thing I’ve learnt from successful projects over the past few years it’s the value of identifying and building the Minimum Viable Product (MVP) and then enhancing it post-release…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/version-2-bb6e7a08644d"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*dfcatQafd-1zeFuKUnABPw.gif"
-og:description: "Refactoring and enhancing an MVP"
-twitter:description: "Refactoring and enhancing an MVP"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*dfcatQafd-1zeFuKUnABPw.gif"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-03-20T23:01:53.855Z
-twitter:creator: "@psyked"
+description: "Refactoring and enhancing an MVP"
+url: "https://medium.com/@psyked/version-2-bb6e7a08644d"
+image: "https://cdn-images-1.medium.com/max/1200/1*dfcatQafd-1zeFuKUnABPw.gif"
+src: "https://cdn-images-1.medium.com/max/1200/1*dfcatQafd-1zeFuKUnABPw.gif"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2018-03-20T23:01:53.855Z
+creator: "@psyked"
 date: 2018-03-20T23:01:53.855Z
----
 ---
 
 # Version 2

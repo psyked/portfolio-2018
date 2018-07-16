@@ -1,21 +1,16 @@
 ---
-path: runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936
+path: /blog/runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936/
 title: "RunMaps #4: Apply UI Sprinkles & Go Live!"
-description: "For all its flaws, I’m happy to say that my first version of RunMaps is online for the world to see at https://psyked.github.io/runmaps/ For posterity, here’s a couple of screenshots of the site as…"
-og:title: "undefined"
-og:url: "https://medium.com/@psyked/runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*Q5ErbRicXQ2cSw9VhhPXXg.png"
-og:description: "With all this effort spent building RunMaps, wouldn’t it be a shame to not share it with the world?"
-twitter:description: "With all this effort spent building RunMaps, wouldn’t it be a shame to not share it with the world?"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*Q5ErbRicXQ2cSw9VhhPXXg.png"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-06-08T12:12:28.418Z
-twitter:creator: "@psyked"
+description: "With all this effort spent building RunMaps, wouldn’t it be a shame to not share it with the world?"
+url: "https://medium.com/@psyked/runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936"
+image: "https://cdn-images-1.medium.com/max/1200/1*Q5ErbRicXQ2cSw9VhhPXXg.png"
+src: "https://cdn-images-1.medium.com/max/1200/1*Q5ErbRicXQ2cSw9VhhPXXg.png"
+author: "https://medium.com/@psyked"
+type: "article"
+card: "summary_large_image"
+published_time: 2018-06-08T12:12:28.418Z
+creator: "@psyked"
 date: 2018-06-08T12:12:28.418Z
----
 ---
 
 # RunMaps #4: Apply UI Sprinkles & Go Live!
