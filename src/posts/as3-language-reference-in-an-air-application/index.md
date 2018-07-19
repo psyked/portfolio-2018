@@ -7,4 +7,4 @@ tags:
 - air
 ---
 
-<p class="MsoPlainText"><a href="http://labs.bigspaceship.com/2008/12/09/air-app-as3-language-reference/">http://labs.bigspaceship.com/2008/12/09/air-app-as3-language-reference/</a></p>
+[http://labs.bigspaceship.com/2008/12/09/air-app-as3-language-reference/](http://labs.bigspaceship.com/2008/12/09/air-app-as3-language-reference/)

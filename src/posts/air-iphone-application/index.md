@@ -10,6 +10,4 @@ tags:
 - ribbit
 ---
 
-They've created the iPhone as an AIR app using the new Ribbit API. Pretty impressive
-<a href=" http://merhl.com/?page_id=75" target="_blank">
-http://merhl.com/?page_id=75</a>
+They've created the iPhone as an AIR app using the new Ribbit API. Pretty impressive [http://merhl.com/?page_id=75]( http://merhl.com/?page_id=75)

@@ -9,10 +9,10 @@ tags:
 - photoshop
 ---
 
-<a title="Open link in a new window" href="http://www.jnack.com/adobe/photoshop/fountain/" target="_blank"><img class="alignnone size-full wp-image-219" title="(Thumbnail) Removing people from images" src="/content/images/2008/04/removing-elements-from-images.jpg" alt="" width="500" height="280" /></a>
+[![](/content/images/2008/04/removing-elements-from-images.jpg "(Thumbnail) Removing people from images")](http://www.jnack.com/adobe/photoshop/fountain/ "Open link in a new window")
 
-This is a short little video that demonstrates a quick and easy way of removing unwanted elements from your photos.  To do it yourself, you'll need several shots of your target - enough so that any area covered in one photo is uncovered in another.  Once you've got that, Photoshop can automate the alignment and image compositing, to remove all those pesky people from your shot.
+This is a short little video that demonstrates a quick and easy way of removing unwanted elements from your photos. To do it yourself, you'll need several shots of your target - enough so that any area covered in one photo is uncovered in another. Once you've got that, Photoshop can automate the alignment and image compositing, to remove all those pesky people from your shot.
 
-I found this through <a title="Open link in a new window" href="http://www.stumbleupon.com" target="_blank">Stumbleupon</a>, so I don't know the full backstory / accompanying materials, if anyone would care to inform me!
+I found this through [Stumbleupon](http://www.stumbleupon.com "Open link in a new window"), so I don't know the full backstory / accompanying materials, if anyone would care to inform me!
 
-<a title="Open link in a new window" href="http://www.jnack.com/adobe/photoshop/fountain/" target="_blank">http://www.jnack.com/adobe/photoshop/fountain/</a>
+[http://www.jnack.com/adobe/photoshop/fountain/](http://www.jnack.com/adobe/photoshop/fountain/ "Open link in a new window")

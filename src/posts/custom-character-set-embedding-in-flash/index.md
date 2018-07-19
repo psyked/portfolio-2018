@@ -12,26 +12,25 @@ You know those lovely font embedding options?
 
 Wouldn't it be great if you could make your own character sets?
 
-<img src="http://uploads.psyked.co.uk/2008/03/customfontembedding.jpg" alt="customfontembedding.jpg" />
+![customfontembedding.jpg](http://uploads.psyked.co.uk/2008/03/customfontembedding.jpg)
 
-As great as the default options are (All, Uppercase, Lowercase, Numerals) the latter 3 combined don't contain all of the visible characters - and the 'All' option embeds thousands of other useless characters.  So how about this?
+As great as the default options are (All, Uppercase, Lowercase, Numerals) the latter 3 combined don't contain all of the visible characters - and the 'All' option embeds thousands of other useless characters. So how about this?
 
+If you are bored with Flash taking ages to publish because you have (rather lazily!) embeded the full Unicode font set (I really have no idea what embedding 39477 characters achieves, Verdana - in the Windows Character map on my PC - only lists 665 chars) then this is a little bit of code I knocked up this morning that might help (someone could turn it into a class pretty application if they want!)
 
-If you are bored with Flash taking ages to publish because you have (rather lazily!) embeded the full Unicode font set (I really have no idea what embedding 39477 characters achieves, Verdana - in the Windows Character map on my PC - only lists 665 chars) then this is a little bit of code I knocked up this morning that might help (someone could turn it into a class  pretty application if they want!)
+**What do you need to do?**
 
-<strong>What do you need to do?</strong>
-<ol>
-	<li>Copy and paste the code below into frame 1 of an FLA.</li>
-	<li>Change the code in <strong>bold</strong>. The variable 'myString' contains whatever characters you want to embed. In my example (which may be of use) I am embedding all the Verdana characters listed in the Windows Character Map. N.B. I have added a space at the start as this is an important character to embed! Note also that to embed a quotation mark you must write " and to embed an backslash you must write \. You need to give your font set a name (in this example it is 'Dynamic Learning Character Set' but you can put whatever you want). This is what will appear in the list when you click the 'Embed...' button in Flash. Finally you need to specify a unique 'fontSetID'. Flash seems to have taken the numbers 1 - 20 and 9999(!?!) so you can pick any number you like other than those.</li>
-	<li>Press CTRL+ENTER to test the FLA and copy the XML that is generated in the output window.</li>
-	<li>Open the file:
-C:Program FilesMacromediaFlash 8enFirst RunFontEmbeddingUnicodeTable.xml...and paste in your XML to the top (just under the &lt;fontEmbeddingTable&gt; node)</li>
-	<li>Save the UnicodeTable.xml file and restart Flash. You should now see that you can embed your custom font into your SWF. If you need to add other characters you can just repeat the above steps to update UnicodeTable.xml and then republish your SWF file.</li>
-</ol>
+1.  Copy and paste the code below into frame 1 of an FLA.
+2.  Change the code in **bold**. The variable 'myString' contains whatever characters you want to embed. In my example (which may be of use) I am embedding all the Verdana characters listed in the Windows Character Map. N.B. I have added a space at the start as this is an important character to embed! Note also that to embed a quotation mark you must write " and to embed an backslash you must write \\. You need to give your font set a name (in this example it is 'Dynamic Learning Character Set' but you can put whatever you want). This is what will appear in the list when you click the 'Embed...' button in Flash. Finally you need to specify a unique 'fontSetID'. Flash seems to have taken the numbers 1 - 20 and 9999(!?!) so you can pick any number you like other than those.
+3.  Press CTRL+ENTER to test the FLA and copy the XML that is generated in the output window.
+4.  Open the file: C:Program FilesMacromediaFlash 8enFirst RunFontEmbeddingUnicodeTable.xml...and paste in your XML to the top (just under the <fontEmbeddingTable> node)
+5.  Save the UnicodeTable.xml file and restart Flash. You should now see that you can embed your custom font into your SWF. If you need to add other characters you can just repeat the above steps to update UnicodeTable.xml and then republish your SWF file.
+
 This technique reduced my project publish time from 85 seconds to 22.
-<pre>var myString:String = "<strong> !"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNO
 
-PQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹
+var myString:String = " **!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNO**
+
+PQRSTUVWXYZ\[\\\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹
 
 º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿAa
 
@@ -47,47 +46,50 @@ AaAaCcCcCcCcDdÐdEeEeEeEeEeGgGgGgGgHhHhIiIiIiIiIi??JjKk?LlLlLl??LlNnNnNn?
 
 ??????????????????????????????????????????????????????–—?=‘’‚?“”„†‡•…‰'?
 
-‹›??/n?£P?€?l?™?e???????-/·v8?˜?==????????</strong>"</pre>
-<pre>var nameOfFontSet:String = "<strong>My Character Set</strong>"var fontSetID:Number = <strong>50</strong>
+‹›??/n?£P?€?l?™?e???????-/·v8?˜?==????????"
 
-generateCharSet( nameOfFontSet, fontSetID, myString);</pre>
-<pre>function generateCharSet (setName, setID, chars) {
+var nameOfFontSet:String = "**My Character Set**"var fontSetID:Number = **50**
 
-   var outputXML:String = "&lt;glyphRange name="" + setName + "" id="" +
+generateCharSet( nameOfFontSet, fontSetID, myString);
 
-setID + ""&gt;n"
+function generateCharSet (setName, setID, chars) {
 
-   var numberOfChars:Number = chars.length;
+var outputXML:String = "<glyphRange name="" + setName + "" id="" +
 
-   for (var i:Number=0; i&lt;=numberOfChars-1; i++) {
+setID + "">n"
 
-      var charCode:Number = chars.charCodeAt(i)
+var numberOfChars:Number = chars.length;
 
-      var hexCode:String = convertTo4DigitHexValue(charCode.toString(16))
+for (var i:Number=0; i<=numberOfChars-1; i++) {
 
-      outputXML += "t&lt;range min="0x" + hexCode + "" max="0x" +
+var charCode:Number = chars.charCodeAt(i)
 
-hexCode + "" /&gt;n"
+var hexCode:String = convertTo4DigitHexValue(charCode.toString(16))
 
-   }
+outputXML += "t<range min="0x" + hexCode + "" max="0x" +
 
-   outputXML += "&lt;/glyphRange&gt;"
+hexCode + "" />n"
 
-   trace("outputXML:n" + outputXML);
+}
 
-}</pre>
-<pre>function convertTo4DigitHexValue (hexValue:String):String {
+outputXML += "</glyphRange>"
 
-   var hexLength:Number = hexValue.length;
+trace("outputXML:n" + outputXML);
 
-   var numberOfLeadingZerosRequired:Number = 4 - hexLength;
+}
 
-   for (var i:Number=0; i&lt;=numberOfLeadingZerosRequired-1; i++) {
+function convertTo4DigitHexValue (hexValue:String):String {
 
-      hexValue = "0" + hexValue;
+var hexLength:Number = hexValue.length;
 
-   }
+var numberOfLeadingZerosRequired:Number = 4 - hexLength;
 
-   return hexValue
+for (var i:Number=0; i<=numberOfLeadingZerosRequired-1; i++) {
 
-}</pre>
+hexValue = "0" + hexValue;
+
+}
+
+return hexValue
+
+}

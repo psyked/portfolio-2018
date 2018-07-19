@@ -8,4 +8,4 @@ tags:
 - flash
 ---
 
-<a href="http://css-edge.blogspot.com/2008/08/12-websites-to-help-you-learn.html">http://css-edge.blogspot.com/2008/08/12-websites-to-help-you-learn.html</a>
+[http://css-edge.blogspot.com/2008/08/12-websites-to-help-you-learn.html](http://css-edge.blogspot.com/2008/08/12-websites-to-help-you-learn.html)

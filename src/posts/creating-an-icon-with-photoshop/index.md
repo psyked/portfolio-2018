@@ -10,9 +10,10 @@ tags:
 - resources
 ---
 
-I just upgraded to CS3 (finally!), yet I'm still dissappointed by the lack of support for Icon files.  Especially now that favicons are so in vogue now.  Fear not though, because Open-source plugins are to the rescue!
+I just upgraded to CS3 (finally!), yet I'm still dissappointed by the lack of support for Icon files. Especially now that favicons are so in vogue now. Fear not though, because Open-source plugins are to the rescue!
 
-Very easily, you can now save out both normal and package icons from Photoshop, with the addition of the plugins available from <a href="http://www.telegraphics.com.au/sw/" title="Open link in a new window" target="_blank">Telegraphics</a>.
+Very easily, you can now save out both normal and package icons from Photoshop, with the addition of the plugins available from [Telegraphics](http://www.telegraphics.com.au/sw/ "Open link in a new window").
 
-It's about time I had a proper favicon for this site, so I stole some inspiration from Adobe and added my own little twist.  Voila!
-<p align="center"><img src="http://uploads.psyked.co.uk/2007/07/icon.gif" alt="icon.gif" /></p>
+It's about time I had a proper favicon for this site, so I stole some inspiration from Adobe and added my own little twist. Voila!
+
+![icon.gif](http://uploads.psyked.co.uk/2007/07/icon.gif)

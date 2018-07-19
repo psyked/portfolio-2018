@@ -9,4 +9,4 @@ tags:
 - drawing-api
 ---
 
-<a href="http://blog.everythingflex.com/2009/01/21/degrafa-auto-shaped/">http://blog.everythingflex.com/2009/01/21/degrafa-auto-shaped/</a>
+[http://blog.everythingflex.com/2009/01/21/degrafa-auto-shaped/](http://blog.everythingflex.com/2009/01/21/degrafa-auto-shaped/)

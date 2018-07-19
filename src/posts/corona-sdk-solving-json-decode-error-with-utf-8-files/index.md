@@ -7,6 +7,6 @@ tags:
 - encoding
 ---
 
-While working with JSON-encoded data files, I had some problems getting the darn things to work.  Apart from an unhelpful error message, the Corona simulator gave me no clues as to what was wrong. Turned out that the problem was actually to do with the UTF-8 encoding. And in the end, what fixed it was changing the UTF-8 encoding to <strong>"UTF-8 without BOM"</strong> - the default UTF-8 encoding just didn't cut it.
+While working with JSON-encoded data files, I had some problems getting the darn things to work.  Apart from an unhelpful error message, the Corona simulator gave me no clues as to what was wrong. Turned out that the problem was actually to do with the UTF-8 encoding. And in the end, what fixed it was changing the UTF-8 encoding to **"UTF-8 without BOM"** \- the default UTF-8 encoding just didn't cut it.
 
-<img class="alignnone size-full wp-image-1457" title="Corona SDK" src="http://uploads.psyked.co.uk/2011/11/corona-ribbon.png" alt="" width="500" height="280" />
+![](http://uploads.psyked.co.uk/2011/11/corona-ribbon.png "Corona SDK")

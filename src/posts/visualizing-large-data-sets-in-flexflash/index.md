@@ -8,5 +8,6 @@ tags:
 - data-visualization
 ---
 
-<p><a href="http://www.cynergysystems.com/blogs/page/andrewtrice?entry=visualizing_large_data_sets" target="_blank">http://www.cynergysystems.com/blogs/page/andrewtrice?entry=visualizing_large_data_sets</a></p>
-<p>Some pretty large data sets going off here...</p>
+[http://www.cynergysystems.com/blogs/page/andrewtrice?entry=visualizing\_large\_data_sets](http://www.cynergysystems.com/blogs/page/andrewtrice?entry=visualizing_large_data_sets)
+
+Some pretty large data sets going off here...

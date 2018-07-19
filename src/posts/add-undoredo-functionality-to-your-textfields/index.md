@@ -7,4 +7,4 @@ tags:
 - actionscript
 ---
 
-<a href="http://jacwright.com/blog/112/undo-redo-for-all-textfields/" target="_blank">http://jacwright.com/blog/112/undo-redo-for-all-textfields/</a>
+[http://jacwright.com/blog/112/undo-redo-for-all-textfields/](http://jacwright.com/blog/112/undo-redo-for-all-textfields/)

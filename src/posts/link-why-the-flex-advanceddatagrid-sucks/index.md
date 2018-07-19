@@ -8,4 +8,4 @@ tags:
 - flex-framework
 ---
 
-<a href="http://dougmccune.com/blog/2009/02/08/analyzing-the-size-of-the-flex-framework-or-why-i-hate-the-advanceddatagrid/ " target="_blank">http://dougmccune.com/blog/2009/02/08/analyzing-the-size-of-the-flex-framework-or-why-i-hate-the-advanceddatagrid/ </a>
+[http://dougmccune.com/blog/2009/02/08/analyzing-the-size-of-the-flex-framework-or-why-i-hate-the-advanceddatagrid/](http://dougmccune.com/blog/2009/02/08/analyzing-the-size-of-the-flex-framework-or-why-i-hate-the-advanceddatagrid/ )

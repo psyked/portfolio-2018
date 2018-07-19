@@ -10,4 +10,4 @@ tags:
 - eclipse
 ---
 
-<span lang="EN-US"><a href="http://www.developerfusion.com/news/article/9274/adobe-flex-reaches-out-to-net-developers/">http://www.developerfusion.com/news/article/9274/adobe-flex-reaches-out-to-net-developers/</a></span>
+[http://www.developerfusion.com/news/article/9274/adobe-flex-reaches-out-to-net-developers/](http://www.developerfusion.com/news/article/9274/adobe-flex-reaches-out-to-net-developers/)

@@ -9,10 +9,11 @@ tags:
 - competitions
 ---
 
-<p style="float: left; margin-right: 10px;"><a title="The Sandbox Designs Competition for WordPress" href="http://www.sndbx.org/">The Sandbox Designs Competition for WordPress</a></p>
-Apparently, there hasn't been one like it since 2004, but now <a title="Open link in a new window." href="http://www.plaintxt.org/about/" target="_blank">Scott of plaintxt.org</a> is holding a "<a title="Open link in a new window." href="http://www.sndbx.org/details/" target="_blank">Sandbox design competition</a>" (Sandbox being the name of the Wordpress theme that it'll all be based around)
+[The Sandbox Designs Competition for WordPress](http://www.sndbx.org/ "The Sandbox Designs Competition for WordPress")
 
-Sandbox is, as you'll see if you read the <em>about</em> section, a highly semantic theme for wordpress, dynamically generating a wealth of useful variations and classes, and effectively puts an unprecidented level of visual control into the CSS. Unprecidented vs. your normal Wordpress theme, that is. 24,000 possible class selectors, apparently. Not that you'd use that many, I hope.
+Apparently, there hasn't been one like it since 2004, but now [Scott of plaintxt.org](http://www.plaintxt.org/about/ "Open link in a new window.") is holding a "[Sandbox design competition](http://www.sndbx.org/details/ "Open link in a new window.")" (Sandbox being the name of the Wordpress theme that it'll all be based around)
+
+Sandbox is, as you'll see if you read the _about_ section, a highly semantic theme for wordpress, dynamically generating a wealth of useful variations and classes, and effectively puts an unprecidented level of visual control into the CSS. Unprecidented vs. your normal Wordpress theme, that is. 24,000 possible class selectors, apparently. Not that you'd use that many, I hope.
 
 The competition runs until July 29th, with judgements made on the 6th August (when all of the entries will be released)
 

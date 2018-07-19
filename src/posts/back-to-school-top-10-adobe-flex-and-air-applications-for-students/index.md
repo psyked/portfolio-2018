@@ -9,4 +9,4 @@ tags:
 - students
 ---
 
-<a href="http://www.adobe.com/devnet/flex/articles/apps_students.html" target="_blank">http://www.adobe.com/devnet/flex/articles/apps_students.html</a>
+[http://www.adobe.com/devnet/flex/articles/apps_students.html](http://www.adobe.com/devnet/flex/articles/apps_students.html)

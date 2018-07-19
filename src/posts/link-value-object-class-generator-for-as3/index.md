@@ -10,8 +10,10 @@ tags:
 
 A bit specialist perhaps, and the need for such a tool might become redundant if the Flash Builder hype is to be believed, but I found this quite useful for speeding up the process of writing a value-object class in AS3.
 
-<a href="http://projects.stroep.nl/ValueObjectGenerator/">http://projects.stroep.nl/ValueObjectGenerator/</a>
-<h3>What is a value object anyway?</h3>
+[http://projects.stroep.nl/ValueObjectGenerator/](http://projects.stroep.nl/ValueObjectGenerator/)
+
+### What is a value object anyway?
+
 For the uninitiated, a value object class is essentially a class with very little or no application logic inside it.
 
 Instead of being a file that actually does something, it's more of a class for just storing data.  What makes it special is that AS3 classes are not all dynamic, so you have to plan what data you need to store and how you'll store it; and you can achieve a vast majority of that with value object classes.

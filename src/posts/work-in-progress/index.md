@@ -9,8 +9,8 @@ tags:
 - university-projects
 ---
 
-I decided to give <a href="http://www.psyked.co.uk/adobe/flash/i-found-one-of-my-old-uni-projects.htm" title="Open link in the same window">my old uni project</a> an overhaul, and to that effect I've been putting in a few hours work to convert the old project to Actionscript 2, and take advantage of the newer features of Flash.  Aside from incorporating or replacing elements of the original code with classes, I've also made a few improvements on the visuals, and stripped out the player interaction in order to concentrate more on what interests me most - the AI 'simulation'.
+I decided to give [my old uni project](http://www.psyked.co.uk/adobe/flash/i-found-one-of-my-old-uni-projects.htm "Open link in the same window") an overhaul, and to that effect I've been putting in a few hours work to convert the old project to Actionscript 2, and take advantage of the newer features of Flash. Aside from incorporating or replacing elements of the original code with classes, I've also made a few improvements on the visuals, and stripped out the player interaction in order to concentrate more on what interests me most - the AI 'simulation'.
 
-Give me a few more [weeks worth of] evenings and I think I'll have a far more exciting display, but for the meantime;
+Give me a few more \[weeks worth of\] evenings and I think I'll have a far more exciting display, but for the meantime;
 
-[kml_flashembed movie="http://uploads.psyked.co.uk/prototype_as2.swf" height="480" width="640" /]
+\[kml\_flashembed movie="http://uploads.psyked.co.uk/prototype\_as2.swf" height="480" width="640" /\]

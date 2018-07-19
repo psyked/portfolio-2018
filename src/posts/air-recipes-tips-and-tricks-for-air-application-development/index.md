@@ -7,4 +7,4 @@ tags:
 - air
 ---
 
-<a href="http://blogs.adobe.com/air/2008/11/air_recipes_tips_and_tricks_fo.html">http://blogs.adobe.com/air/2008/11/air_recipes_tips_and_tricks_fo.html</a>
+[http://blogs.adobe.com/air/2008/11/air\_recipes\_tips\_and\_tricks_fo.html](http://blogs.adobe.com/air/2008/11/air_recipes_tips_and_tricks_fo.html)
