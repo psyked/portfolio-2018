@@ -9,24 +9,24 @@ tags:
 - wordpress-themes
 ---
 
-Ok, so I didn't get my ass into gear and enter the competition - but others did, and their designs are now available to view online. The results are announced tomorrow (being Monday) <a title="Open link in a new window." href="http://www.sndbx.org" target="_blank">Check out the competition website.</a>
+Ok, so I didn't get my ass into gear and enter the competition - but others did, and their designs are now available to view online. The results are announced tomorrow (being Monday) [Check out the competition website.](http://www.sndbx.org "Open link in a new window.")
 
 I've had a mosey through the designs, and these are my favourates...
 
-<strong>Blackbox</strong>
+**Blackbox**
 
-<img src="http://uploads.psyked.co.uk/2007/08/sndbxorg2.jpg" alt="sndbxorg2.jpg" />
+![sndbxorg2.jpg](http://uploads.psyked.co.uk/2007/08/sndbxorg2.jpg)
 
-<strong>MIX</strong>
+**MIX**
 
-<img src="http://uploads.psyked.co.uk/2007/08/sndbxorg.jpg" alt="sndbxorg.jpg" />
+![sndbxorg.jpg](http://uploads.psyked.co.uk/2007/08/sndbxorg.jpg)
 
-<strong>Sandpress</strong>
+**Sandpress**
 
-<img src="http://uploads.psyked.co.uk/2007/08/sndbxorg3.jpg" alt="sndbxorg3.jpg" />
+![sndbxorg3.jpg](http://uploads.psyked.co.uk/2007/08/sndbxorg3.jpg)
 
-<strong>Shades of Grey</strong>
+**Shades of Grey**
 
-<img src="http://uploads.psyked.co.uk/2007/08/sndbxorg4.jpg" alt="sndbxorg4.jpg" />
+![sndbxorg4.jpg](http://uploads.psyked.co.uk/2007/08/sndbxorg4.jpg)
 
 I'm pipping Sandpress for the win, with Shades of Grey and possibly MIX in the followup. Hands-down, Sandpress has the professional polish that makes all other entries pale in comparision. Shades is nice overall, with good structure, but lacks oopfh. MIX has a nice structure, but some nasty colours and graphics. Blackbox is a bit rough, but I like how different and bold the design is - but as for being adopted as a mainstream, bundled theme (which is what the competition is about), I don't think there's a chance.

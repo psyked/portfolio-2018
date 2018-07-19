@@ -9,11 +9,12 @@ tags:
 - air
 ---
 
-<em>"James!"</em> they say, <em>"you've been dying to play with Flex and Air.  Make us an application to accompany our E-Newsletter!"</em>  How could I refuse?
+_"James!"_ they say, _"you've been dying to play with Flex and Air. Make us an application to accompany our E-Newsletter!"_ How could I refuse?
 
-<em>"You have until friday." </em>
+_"You have until friday."_
 
 So that's what I've been doing.
-<p style="text-align: center"><img src="http://uploads.psyked.co.uk/2007/08/flexair.jpg" alt="flexair.jpg" /></p>
-<p style="text-align: center">&nbsp;</p>
-I have unfortunately, no previous experience with Flex, Air or even ActionScript 3, so this is proving to be interesting.  Marketing has settled on producing an RSS reader - stay tuned and I'll let you know how things turn out in couple o' days.
+
+![flexair.jpg](http://uploads.psyked.co.uk/2007/08/flexair.jpg)
+
+I have unfortunately, no previous experience with Flex, Air or even ActionScript 3, so this is proving to be interesting. Marketing has settled on producing an RSS reader - stay tuned and I'll let you know how things turn out in couple o' days.

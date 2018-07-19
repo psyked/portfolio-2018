@@ -7,23 +7,25 @@ tags:
 - wordpress-plugins
 ---
 
-<em>'Recent Posts Range'</em> is an expansion of the functionality offered by the built-in Wordpress Widget, <em>'Recent Posts'</em> and allows you to specifiy a starting index for your 'Recent Posts' display.  Why would we need this?  Well, when you have a few post summaries on your homepage, it seems futile to be displaying the same links again in the sidebar, wouldn't you agree?
+_'Recent Posts Range'_ is an expansion of the functionality offered by the built-in Wordpress Widget, _'Recent Posts'_ and allows you to specifiy a starting index for your 'Recent Posts' display. Why would we need this? Well, when you have a few post summaries on your homepage, it seems futile to be displaying the same links again in the sidebar, wouldn't you agree?
 
-With this widget, you can display some more of your older posts, without cluttering things up too much.  Heck, you could even use it with the standard 'Recent Posts' widget to get 'Older posts'.
+With this widget, you can display some more of your older posts, without cluttering things up too much. Heck, you could even use it with the standard 'Recent Posts' widget to get 'Older posts'.
 
-<a href="http://uploads.psyked.co.uk/2007/11/recent-posts-range-widget.zip" title="recent-posts-range-widget.zip">Download Recent Posts Range now!</a>
-<h3>Customizable widget Features:</h3>
-<ul>
-	<li>Wordpress 2.3 Compatable!</li>
-	<li>Name</li>
-	<li>Start index</li>
-	<li>Number of posts</li>
-	<li>Optional (on/off) Post date display</li>
-	<li>Optional (on/off) Post exerpt display</li>
-</ul>
+[Download Recent Posts Range now!](http://uploads.psyked.co.uk/2007/11/recent-posts-range-widget.zip "recent-posts-range-widget.zip")
+
+### Customizable widget Features:
+
+*   Wordpress 2.3 Compatable!
+*   Name
+*   Start index
+*   Number of posts
+*   Optional (on/off) Post date display
+*   Optional (on/off) Post exerpt display
+
 Doesn't feature (i.e. I can't figure it out) :
-<ul>
-	<li>Post category / tag exclusions</li>
-</ul>
-<h3><a href="http://uploads.psyked.co.uk/2007/11/recent-posts-range-widget.zip" title="recent-posts-range-widget.zip">Download Recent Posts Range now!</a></h3>
+
+*   Post category / tag exclusions
+
+### [Download Recent Posts Range now!](http://uploads.psyked.co.uk/2007/11/recent-posts-range-widget.zip "recent-posts-range-widget.zip")
+
 It's funny where a caffeine-fuelled night will ends up.

@@ -9,8 +9,8 @@ tags:
 - component
 ---
 
-If you're ever looking for an autocompletion component in the Flex framework, I'd strongly suggest you check this one out: <a href="http://hillelcoren.com/flex-autocomplete/" target="_blank">http://hillelcoren.com/flex-autocomplete/</a> Quite simply it's awesome, it's fully featured and packs a helluva lot of options into such a small package.
+If you're ever looking for an autocompletion component in the Flex framework, I'd strongly suggest you check this one out: [http://hillelcoren.com/flex-autocomplete/](http://hillelcoren.com/flex-autocomplete/) Quite simply it's awesome, it's fully featured and packs a helluva lot of options into such a small package.
 
 I swapped an old ComoBox component for it just now, and it worked fantastically with no additional configuration.
 
-Check out the demo for it here: <a href="http://web.me.com/hillelcoren/Site/Demo.html">http://web.me.com/hillelcoren/Site/Demo.html</a>
+Check out the demo for it here: [http://web.me.com/hillelcoren/Site/Demo.html](http://web.me.com/hillelcoren/Site/Demo.html)

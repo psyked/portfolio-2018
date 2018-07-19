@@ -8,6 +8,6 @@ tags:
 - icons
 ---
 
-<span style="text-decoration: underline;"><span style="text-decoration: line-through;">http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html</span></span> [<strong>Update:</strong> Original link dead!]
+http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html \[**Update:** Original link dead!\]
 
-<a href="http://www.noupe.com/freebie/50-most-beautiful-icon-sets-created-in-2008.html">http://www.noupe.com/freebie/50-most-beautiful-icon-sets-created-in-2008.html</a> [<strong>Update 2:</strong> New link found!]
+[http://www.noupe.com/freebie/50-most-beautiful-icon-sets-created-in-2008.html](http://www.noupe.com/freebie/50-most-beautiful-icon-sets-created-in-2008.html) \[**Update 2:** New link found!\]
