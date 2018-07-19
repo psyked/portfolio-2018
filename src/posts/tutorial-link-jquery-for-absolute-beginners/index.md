@@ -8,6 +8,6 @@ tags:
 - jquery
 ---
 
-<a href="http://blog.themeforest.net/tutorials/jquery-for-absolute-beginners-video-series/">http://blog.themeforest.net/tutorials/jquery-for-absolute-beginners-video-series/</a>
+[http://blog.themeforest.net/tutorials/jquery-for-absolute-beginners-video-series/](http://blog.themeforest.net/tutorials/jquery-for-absolute-beginners-video-series/)
 
 These look great (apart from the fact that he uses Visual Studio 2008 as his editing environment!). If you prefer video’s to books (or just like a combination) then you would do well to work through these.

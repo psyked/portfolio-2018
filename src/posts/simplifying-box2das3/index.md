@@ -16,20 +16,20 @@ Well, that's the eventual aim anyway.
 
 Here's the result of the first round of development - creating a Box2D world and adding objects, in about 6 lines of code.
 
-<pre><code>var options:Box2DWorldOptions = new Box2DWorldOptions( 500, 280, 30, 9.8 );
-options.setWorldEdges( true, true, true, true );
-var world:Box2DWorld = Box2DUtils.createBoxedWorld( options );
-world.debugDraw = true;
-world.animateOnEnterFrame = true;
-addChild( world );
-for ( var i:int = 0; i < 30; i++ )
-{
-world.createCircle( 500 * Math.random(), 280 * Math.random(), 50 * Math.random());
-}</code></pre>
+    var options:Box2DWorldOptions = new Box2DWorldOptions( 500, 280, 30, 9.8 );
+        options.setWorldEdges( true, true, true, true );
+    var world:Box2DWorld = Box2DUtils.createBoxedWorld( options );
+        world.debugDraw = true;
+        world.animateOnEnterFrame = true;
+    addChild( world );
+    for ( var i:int = 0; i < 30; i++ )
+    {
+        world.createCircle( 500 * Math.random(), 280 * Math.random(), 50 * Math.random());
+    }
 
 And here's the result:
 
-[kml_flashembed movie="http://uploads.psyked.co.uk/2010/01/Box2DExperiments.swf" height="280" width="500" /]
+\[kml_flashembed movie="http://uploads.psyked.co.uk/2010/01/Box2DExperiments.swf" height="280" width="500" /\]
 
 Not at the point of getting any interaction, or anything more interesting yet, but I've create a utility class for creating Box2D worlds and a Box2DWorld class (as opposed to b2World, which it extends).  The aim of these classes is to condense about 40 - 60 lines of initialisation and basic scenarios into just a few lines, using default variables whilst still allowing for optional overrides.  So if you wanted a world with 0 gravity, that's just a case of changing it at the start.
 

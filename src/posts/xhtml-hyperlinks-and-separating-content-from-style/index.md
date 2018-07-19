@@ -6,7 +6,6 @@ date: 2007-10-15T20:58:51Z
 tags:
 - html
 - javascript
-- a-list-apart
 - hyperlinks
 - xhtml
 ---

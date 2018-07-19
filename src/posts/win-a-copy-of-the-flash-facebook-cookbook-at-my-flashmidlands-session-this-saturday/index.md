@@ -16,4 +16,6 @@ In the session I will be looking at working with the Facebook Graph API and Flas
 
 I’ll be using Flash Builder and the Flex framework to show examples of how everything works in practice, and then we’ll have a look at the possibilities and limitations of what you can do with Flash and Facebook.
 
-If that sounds fun, and you're in the UK, and you can get to Warwick on Saturday, join me! \[box type="note"\]I'm terrified enough by the idea of giving a presentation, so more people can't hurt!\[/box\]
+If that sounds fun, and you're in the UK, and you can get to Warwick on Saturday, join me! 
+
+> I'm terrified enough by the idea of giving a presentation, so more people can't hurt!

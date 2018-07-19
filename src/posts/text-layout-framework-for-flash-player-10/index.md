@@ -7,4 +7,4 @@ tags:
 - flash
 ---
 
-<a href="http://labs.adobe.com/technologies/textlayout/" target="_blank">http://labs.adobe.com/technologies/textlayout/</a> looks / sounds cool.
+[http://labs.adobe.com/technologies/textlayout/](http://labs.adobe.com/technologies/textlayout/) looks / sounds cool.

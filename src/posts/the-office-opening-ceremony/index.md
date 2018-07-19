@@ -9,13 +9,13 @@ tags:
 - opening
 ---
 
-Remember a <a href="http://www.psyked.co.uk/press-release/moving-offices.htm" target="_blank">few weeks ago</a>, when I muttered something about moving offices?  Well, now we've moved it was about time we had an official opening ceremony - regardless of how corny that might be - but hey, at least we've something to celebrate.  (Especially if you pay much attention to the doom and gloom News).
+Remember a [few weeks ago](http://www.psyked.co.uk/press-release/moving-offices.htm), when I muttered something about moving offices?  Well, now we've moved it was about time we had an official opening ceremony - regardless of how corny that might be - but hey, at least we've something to celebrate.  (Especially if you pay much attention to the doom and gloom News).
 
-<img class="alignnone size-full wp-image-386" title="officeopening" src="http://uploads.psyked.co.uk/2008/11/officeopening.jpg" alt="" width="500" height="280" />
+![](http://uploads.psyked.co.uk/2008/11/officeopening.jpg "officeopening")
 
 I know you're all wishing you were there, but there has to be a limit on attendance.  But fear not - if you weren't there on the day, we have a short film prepared, and will follow up with some photos from the day, just as soon as our official photographer gets sends the images over. ( Hint, hint - Mark ).
 
-Check out <a href="http://www.mmtdigital.co.uk/news" target="_blank">the news story on MMT Digital's website</a>, or check below the jump to watch our video.
+Check out [the news story on MMT Digital's website](http://www.mmtdigital.co.uk/news), or check below the jump to watch our video.
 
 
 

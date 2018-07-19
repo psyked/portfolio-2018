@@ -11,4 +11,4 @@ tags:
 
 I got sent this earlier and found it amusing, so what the heck - enjoy!
 
-Or view it on YouTube: <a href="http://uk.youtube.com/watch?v=gdAKgJDahzw">http://uk.youtube.com/watch?v=gdAKgJDahzw</a>
+Or view it on YouTube: [http://uk.youtube.com/watch?v=gdAKgJDahzw](http://uk.youtube.com/watch?v=gdAKgJDahzw)

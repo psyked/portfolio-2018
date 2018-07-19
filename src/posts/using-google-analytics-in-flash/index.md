@@ -9,4 +9,4 @@ tags:
 - google-analytics
 ---
 
-Some time soon(ish) I'll get around to this myself, but the Adobe Developer Center now contains a short overview of the Google Analytics classes for flash, written by Nick Mihailovski:<a href="http://www.adobe.com/devnet/flash/articles/google_analytics_flash.html"><span style="color: #000000; text-decoration: none;"> </span></a><a href="http://www.adobe.com/devnet/flash/articles/google_analytics_flash.html">http://www.adobe.com/devnet/flash/articles/google_analytics_flash.html</a>
+Some time soon(ish) I'll get around to this myself, but the Adobe Developer Center now contains a short overview of the Google Analytics classes for flash, written by Nick Mihailovski:[](http://www.adobe.com/devnet/flash/articles/google_analytics_flash.html)[http://www.adobe.com/devnet/flash/articles/google\_analytics\_flash.html](http://www.adobe.com/devnet/flash/articles/google_analytics_flash.html)

@@ -10,11 +10,11 @@ tags:
 - showcase
 ---
 
-<a title="Open link in a new window" href="http://www.ultrashock.com/" target="_blank"><img class="alignnone size-full wp-image-217" title="ultrashock" src="/content/images/2008/04/ultrashock.jpg" alt="" width="500" height="280" /></a>
+[![](/content/images/2008/04/ultrashock.jpg "ultrashock")](http://www.ultrashock.com/ "Open link in a new window")
 
 Ultrashock is one of those sites whose forums I tend to stumble around quite frequently on the 'net - but I've only recently taken a good look at it. The site itself is pretty impressive you know. It's mostly full browser flash, and a few of the interface elements gives away that it's based in Flex, presumably with some very custom UI elements.
 
-There's the whole <a title="Open link in a new window" href="http://www.asual.com/swfaddress/" target="_blank">SWFAddress</a> deeplinking going on, Flash and Flex integration, and a very seamless transition to non-Flash elements, like the Forums and Wordpress powered blog. If you're looking for a showcase Flex site, here's a goodie. <a title="Open link in a new window" href="http://www.thefwa.com/?app=winners&id=6489" target="_blank">FWA</a> thinks so too.
+There's the whole [SWFAddress](http://www.asual.com/swfaddress/ "Open link in a new window") deeplinking going on, Flash and Flex integration, and a very seamless transition to non-Flash elements, like the Forums and Wordpress powered blog. If you're looking for a showcase Flex site, here's a goodie. [FWA](http://www.thefwa.com/?app=winners&id=6489 "Open link in a new window") thinks so too.
 
 
 
