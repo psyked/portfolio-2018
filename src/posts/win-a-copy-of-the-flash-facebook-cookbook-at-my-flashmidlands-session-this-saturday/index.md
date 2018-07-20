@@ -8,9 +8,9 @@ tags:
 - the-flash-facebook-cookbook
 ---
 
-On Saturday 19th November I'll be doing a session on [the Flash Facebook Cookbook](http://www.psyked.co.uk/category/the-flash-facebook-cookbook) at the [FlashMidlands meetup](http://www.flashmidlands.com/2011/10/next-meeting-warwick-university-date-tbc/), and will have a copy or two of the book to give away.
+On Saturday 19th November I'll be doing a session on [the Flash Facebook Cookbook](/tag/the-flash-facebook-cookbook) at the [FlashMidlands meetup](http://www.flashmidlands.com/2011/10/next-meeting-warwick-university-date-tbc/), and will have a copy or two of the book to give away.
 
-![](https://uploads.psyked.co.uk/2011/11/packt-presentation.png "FlashMidlands presentation")
+![](packt-presentation.png "FlashMidlands presentation")
 
 In the session I will be looking at working with the Facebook Graph API and Flash. Starting where the Flash Facebook Cookbook starts we’ll cover relevant background theory on how the APIs work – how to authenticate applications and obtain access tokens, how to request data from, and send data to Facebook, and how to obtain Extended Permissions from the user.
 

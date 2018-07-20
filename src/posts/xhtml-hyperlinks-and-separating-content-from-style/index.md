@@ -16,7 +16,7 @@ That's great in theory - but unless you're armed with a plethora of cross-browse
 
 I've been pointed down the JavaScript road by several people, but I don't quite get how JavaScript is _the_ solution after all, JavaScript made popup blockers what they are today. Nevertheless, here's [an interesting article from A List Apart](http://www.alistapart.com/articles/popuplinks "Open link in a new window"). They cover several solutions, most of which are ugly and, well, not a real solution to avoiding the target attribute. The final option they cover however, is just the charm.
 
-[![](http://uploads.psyked.co.uk/2007/10/alistapartcom.jpg)](http://www.alistapart.com/articles/popuplinks "Open link in a new window")
+[![](alistapartcom.jpg)](http://www.alistapart.com/articles/popuplinks "Open link in a new window")
 
 ### So, how does it work?
 
