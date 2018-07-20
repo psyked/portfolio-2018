@@ -10,6 +10,6 @@ tags:
 - google-analytics
 ---
 
-Well, I <em>was</em> going to go and write all about this myself, but Matthew McNeely has beaten me to it, it seems, with his coverage of using Google Analytics in Flash and Flex applications. Go check it out!
+Well, I _was_ going to go and write all about this myself, but Matthew McNeely has beaten me to it, it seems, with his coverage of using Google Analytics in Flash and Flex applications. Go check it out!
 
-<a href="http://www.insideria.com/2009/02/using-google-analytics-within.html" target="_blank">http://www.insideria.com/2009/02/using-google-analytics-within.html</a>
+[http://www.insideria.com/2009/02/using-google-analytics-within.html](http://www.insideria.com/2009/02/using-google-analytics-within.html)

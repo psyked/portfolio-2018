@@ -8,8 +8,8 @@ tags:
 - community
 ---
 
-<a href="http://thinkvitamin.com/features/i-can-haz-community/" target="_blank"><img class="alignnone size-full wp-image-618" title="i can haz community?" src="/content/images/2009/01/icanhaz.png" alt="i can haz community?" width="500" height="280" /></a>
+[![i can haz community?](/content/images/2009/01/icanhaz.png "i can haz community?")](http://thinkvitamin.com/features/i-can-haz-community/)
 
-Ben Huh from <a href="http://icanhascheezburger.com/" target="_blank">I Can Has Cheeseburger</a> gives you 15 top tips on how to take your community to the next level, one user at a time.
+Ben Huh from [I Can Has Cheeseburger](http://icanhascheezburger.com/) gives you 15 top tips on how to take your community to the next level, one user at a time.
 
-<a href="http://thinkvitamin.com/features/i-can-haz-community/" target="_blank">http://thinkvitamin.com/features/i-can-haz-community/</a>
+[http://thinkvitamin.com/features/i-can-haz-community/](http://thinkvitamin.com/features/i-can-haz-community/)

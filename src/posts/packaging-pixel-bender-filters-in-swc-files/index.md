@@ -10,6 +10,6 @@ tags:
 
 This is a useful post - it talks about how you can embed a Pixel Bender filter into a SWC, which you could then use for including in other projects.
 
-<a href="http://www.mikechambers.com/blog/2008/09/08/encapsulating-custom-pixel-bender-filters-in-actionscript-3/">http://www.mikechambers.com/blog/2008/09/08/encapsulating-custom-pixel-bender-filters-in-actionscript-3/</a>
+[http://www.mikechambers.com/blog/2008/09/08/encapsulating-custom-pixel-bender-filters-in-actionscript-3/](http://www.mikechambers.com/blog/2008/09/08/encapsulating-custom-pixel-bender-filters-in-actionscript-3/)
 
 Why? Well, it make sense if you don't want to rely on multiple source files, or more likely, if you don't want people messing around with your Pixel Bender source files (or pinching your intellectual property).

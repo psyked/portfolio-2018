@@ -10,7 +10,8 @@ tags:
 
 Free fonts, Free Vectors indeed.
 
-Where to go for free fonts? <a href="http://www.urbanfonts.com/" title="Open this link in a new window." target="_blank">Urbanfonts </a> and / or <a href="http://betterfonts.com/" title="Open this link in a new window." target="_blank">Betterfonts</a>.
-<p align="left">Where to go for free Vector Art?  <a href="http://www.vecteezy.com/" title="Open this link in a new window." target="_blank">Vecteezy</a>.  Free Brushes (for Photoshop / Illustrator, you know)  <a href="http://www.brusheezy.com/" title="Open this link in a new window." target="_blank">Brusheezy</a>.</p>
+Where to go for free fonts? [Urbanfonts](http://www.urbanfonts.com/ "Open this link in a new window.") and / or [Betterfonts](http://betterfonts.com/ "Open this link in a new window.").
 
-<p align="center"><a href="http://www.urbanfonts.com/" title="Open this link in a new window." target="_blank"><img src="http://uploads.psyked.co.uk/2007/06/urbanfontscom.jpg" alt="urbanfontscom.jpg" /></a> <a href="http://betterfonts.com/" title="Open this link in a new window." target="_blank"><img src="http://uploads.psyked.co.uk/2007/06/betterfontscom.jpg" alt="betterfontscom.jpg" /></a> <a href="http://www.vecteezy.com/" title="Open this link in a new window." target="_blank"><img src="http://uploads.psyked.co.uk/2007/06/vecteezycom.jpg" alt="vecteezycom.jpg" /></a> <a href="http://www.brusheezy.com/" title="Open this link in a new window." target="_blank"><img src="http://uploads.psyked.co.uk/2007/06/brusheezycom.jpg" alt="brusheezycom.jpg" /></a></p>
+Where to go for free Vector Art? [Vecteezy](http://www.vecteezy.com/ "Open this link in a new window."). Free Brushes (for Photoshop / Illustrator, you know) [Brusheezy](http://www.brusheezy.com/ "Open this link in a new window.").
+
+[![urbanfontscom.jpg](http://uploads.psyked.co.uk/2007/06/urbanfontscom.jpg)](http://www.urbanfonts.com/ "Open this link in a new window.") [![betterfontscom.jpg](http://uploads.psyked.co.uk/2007/06/betterfontscom.jpg)](http://betterfonts.com/ "Open this link in a new window.") [![vecteezycom.jpg](http://uploads.psyked.co.uk/2007/06/vecteezycom.jpg)](http://www.vecteezy.com/ "Open this link in a new window.") [![brusheezycom.jpg](http://uploads.psyked.co.uk/2007/06/brusheezycom.jpg)](http://www.brusheezy.com/ "Open this link in a new window.")

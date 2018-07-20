@@ -7,5 +7,6 @@ tags:
 - flash
 ---
 
-<p>Scroll down and watch the video</p>
-<p><a href="http://www.sebleedelisle.com/?p=383">http://www.sebleedelisle.com/?p=383</a></p>
+Scroll down and watch the video
+
+[http://www.sebleedelisle.com/?p=383](http://www.sebleedelisle.com/?p=383)

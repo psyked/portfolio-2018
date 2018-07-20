@@ -6,7 +6,6 @@ date: 2007-11-27T08:01:15Z
 tags:
 - css
 - html
-- a-list-apart
 - accessibility
 ---
 
@@ -20,7 +19,11 @@ Luckily with a smidgen of CSS and an up-to-date browser, you can solve at least 
 
 The long and short of it is this snippet of code;
 
-`#content a:link:after, #content a:visited:after { content: " (" attr(href) ") "; font-size: 90%; }`
+    #content a:link:after, 
+    #content a:visited:after { 
+        content: " (" attr(href) ") ";
+        font-size: 90%;
+    }
 
 ### How does it work?
 

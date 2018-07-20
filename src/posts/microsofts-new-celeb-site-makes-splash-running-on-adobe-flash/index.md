@@ -9,5 +9,4 @@ tags:
 - silverlight
 ---
 
-<a href="http://www.techflash.com/Microsofts_new_celeb_site_makes_splash__running_on_Adobe_Flash39153282.html" target="_blank">http://www.techflash.com/Microsofts_new_celeb_site_makes_splash__running
-_on_Adobe_Flash39153282.html</a>
+[http://www.techflash.com/Microsofts\_new\_celeb\_site\_makes\_splash\_\_running \_on\_Adobe_Flash39153282.html](http://www.techflash.com/Microsofts_new_celeb_site_makes_splash__running_on_Adobe_Flash39153282.html)

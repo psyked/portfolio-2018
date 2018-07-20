@@ -10,6 +10,6 @@ tags:
 
 This tool (Badger) allows you to easily create air badges for use on your website and offers live previews of the badge. Grant Skinner explains…
 
-<a href=" http://www.gskinner.com/blog/archives/2008/09/beware_the_air.html " target="_blank">http://www.gskinner.com/blog/archives/2008/09/beware_the_air.html </a>
+[http://www.gskinner.com/blog/archives/2008/09/beware\_the\_air.html]( http://www.gskinner.com/blog/archives/2008/09/beware_the_air.html )
 
-Also, see the article "<a href="http://www.adobe.com/devnet/air/articles/badger_for_air_apps.html" target="_blank">Using Badger for Adobe AIR applictions</a>" on the Adobe Developer Connection site.
+Also, see the article "[Using Badger for Adobe AIR applictions](http://www.adobe.com/devnet/air/articles/badger_for_air_apps.html)" on the Adobe Developer Connection site.

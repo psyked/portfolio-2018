@@ -10,4 +10,4 @@ tags:
 - hobnox
 ---
 
-<p>This is one of the new flash 10 RIAs that had everyone excited at Flash on the Beach, it's amazing! <a href="http://www.hobnox.com/index.1056.en.html">http://www.hobnox.com/index.1056.en.html</a></p>
+This is one of the new flash 10 RIAs that had everyone excited at Flash on the Beach, it's amazing! [http://www.hobnox.com/index.1056.en.html](http://www.hobnox.com/index.1056.en.html)

@@ -8,8 +8,8 @@ tags:
 - externalinterface
 ---
 
-Here's a couple of scripts that were linked to in the FlexCoders mailing list, some Actionscript 3.0 classes for easily handling  the Google Analytics API (via ExternalInterface).  I haven't had a chance to test them yet, but it might be useful to someone!
+Here's a couple of scripts that were linked to in the FlexCoders mailing list, some Actionscript 3.0 classes for easily handling the Google Analytics API (via ExternalInterface). I haven't had a chance to test them yet, but it might be useful to someone!
 
-<a title="Open link in a new window" href="http://underground-bunker.com/transfer/gaTracker.as" target="_blank">GA Tracker Class</a>
+[GA Tracker Class](http://underground-bunker.com/transfer/gaTracker.as "Open link in a new window")
 
-<a title="Open link in a new window" href="http://underground-bunker.com/transfer/urchinTracker.as" target="_blank">Urchin Tracker Class</a>
+[Urchin Tracker Class](http://underground-bunker.com/transfer/urchinTracker.as "Open link in a new window")

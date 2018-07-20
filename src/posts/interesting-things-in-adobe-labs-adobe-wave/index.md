@@ -8,9 +8,9 @@ tags:
 - air
 ---
 
-<a href="http://labs.adobe.com/wiki/index.php/Adobe_Wave" target="_blank"><img class="alignnone size-full wp-image-397" title="adobewave" src="http://uploads.psyked.co.uk/2008/11/adobewave.jpg" alt="" width="500" height="280" /></a>
+[![](http://uploads.psyked.co.uk/2008/11/adobewave.jpg "adobewave")](http://labs.adobe.com/wiki/index.php/Adobe_Wave)
 
-<a href="http://labs.adobe.com/wiki/index.php/Adobe_Wave" target="_blank">Adobe Wave</a> is just one of the interesting projects on the Adobe Labs site - a "one-line API call" for displaying desktop notifications, built on Adobe AIR and hosted by Adobe.  Adobe are certainly committed to making AIR a success, and one of the ways they're doing this is by developing and releasing applications like this.
+[Adobe Wave](http://labs.adobe.com/wiki/index.php/Adobe_Wave) is just one of the interesting projects on the Adobe Labs site - a "one-line API call" for displaying desktop notifications, built on Adobe AIR and hosted by Adobe.  Adobe are certainly committed to making AIR a success, and one of the ways they're doing this is by developing and releasing applications like this.
 
 
 

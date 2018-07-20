@@ -7,8 +7,8 @@ tags:
 - flash
 ---
 
-<a href="http://www.adobe.com/newsletters/edge/june2008/articles/article2/download/GeoGlobe.html" target="_blank"><img class="alignnone size-full wp-image-778" title="Geocoding and Papervision" src="/content/images/2009/02/createworld.jpg" alt="Geocoding and Papervision" width="500" height="280" /></a>
+[![Geocoding and Papervision](/content/images/2009/02/createworld.jpg "Geocoding and Papervision")](http://www.adobe.com/newsletters/edge/june2008/articles/article2/download/GeoGlobe.html)
 
-In the June 2008 edition of the Adobe Edge newsletter, there was an article <a href="http://www.adobe.com/newsletters/edge/june2008/articles/article2/index.html" target="_blank">"Learn how to geocode with Papervision3D and Adobe Flex"</a>.  You can also <a href="http://www.adobe.com/newsletters/edge/june2008/articles/article2/download/GeoGlobe.html" target="_blank">view the demo directly</a>.
+In the June 2008 edition of the Adobe Edge newsletter, there was an article ["Learn how to geocode with Papervision3D and Adobe Flex"](http://www.adobe.com/newsletters/edge/june2008/articles/article2/index.html).  You can also [view the demo directly](http://www.adobe.com/newsletters/edge/june2008/articles/article2/download/GeoGlobe.html).
 
 Pretty awesome, eh?  All of the sample source code is available from the Adobe Edge page.

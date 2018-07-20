@@ -5,7 +5,6 @@ title: Brighter Horizons for Web Education
 date: 2009-01-28T08:30:04Z
 tags:
 - external-links
-- a-list-apart
 - education
 ---
 

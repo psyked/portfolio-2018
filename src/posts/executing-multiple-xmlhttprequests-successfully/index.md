@@ -9,7 +9,7 @@ tags:
 - xmlhttprequest
 ---
 
-So I'm hacking together a simple client-side AJAX - based on <a href="http://en.wikipedia.org/wiki/AHAH" target="_blank">AHAH</a> - and all of the example scripts only work with a single request.  Attempting to use the same script twice meant that the results would overwrite each other.  Ughh.
+So I'm hacking together a simple client-side AJAX - based on [AHAH](http://en.wikipedia.org/wiki/AHAH) \- and all of the example scripts only work with a single request.  Attempting to use the same script twice meant that the results would overwrite each other.  Ughh.
 
 The problem it turned out, was as a simple as the latter requests replacing the newer request, because their references were being overwritten.  So instead of using a single variable, I figured "why not pass the references around in the functions".  Here it is then, an AHAH-based set of AJAX functions, that works for multiple simultaneous function calls.
 

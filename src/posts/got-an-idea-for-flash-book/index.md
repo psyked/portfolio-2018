@@ -12,6 +12,6 @@ tags:
 
 Is there a book you'd like to see about Flash or ActionScript development?
 
-<img class="alignnone size-full wp-image-1321" title="Packt Publishing cover images" src="http://uploads.psyked.co.uk/2011/06/packt-covers.png" alt="" width="500" height="280" />
+![](http://uploads.psyked.co.uk/2011/06/packt-covers.png "Packt Publishing cover images")
 
-Well, now's your chance to make it happen - they've a call for suggestions open to everyone, which you can participate in by visiting the URL <a title="Open the Packt Flash call for suggestions in a new window." href="http://www.google.com/moderator/#16/e=8e0cc" target="_blank">http://www.google.com/moderator/#16/e=8e0cc</a> and signing up. It uses <strong>Google Moderator</strong>, which allows you to vote for, and submit new suggestions for new book titles.
+Well, now's your chance to make it happen - they've a call for suggestions open to everyone, which you can participate in by visiting the URL [http://www.google.com/moderator/#16/e=8e0cc](http://www.google.com/moderator/#16/e=8e0cc "Open the Packt Flash call for suggestions in a new window.") and signing up. It uses **Google Moderator**, which allows you to vote for, and submit new suggestions for new book titles.

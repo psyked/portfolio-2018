@@ -7,7 +7,7 @@ tags:
 - iphone
 ---
 
-<img class="alignnone size-full wp-image-1223" title="Apple / Sauron image" src="http://uploads.psyked.co.uk/2010/05/iphone-sauron.png" alt="" width="500" height="280" />
+![](http://uploads.psyked.co.uk/2010/05/iphone-sauron.png "Apple / Sauron image")
 
 It's finally happened. My tithe to Apple has been paid, and my iPhone has arrived on my desk.
 

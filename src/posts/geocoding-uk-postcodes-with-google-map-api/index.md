@@ -7,7 +7,7 @@ tags:
 - google-maps
 ---
 
-<a href="http://www.tomanthony.co.uk/blog/geocoding-uk-postcodes-with-google-map-api/">http://www.tomanthony.co.uk/blog/geocoding-uk-postcodes-with-google-map-api/</a>
+[http://www.tomanthony.co.uk/blog/geocoding-uk-postcodes-with-google-map-api/](http://www.tomanthony.co.uk/blog/geocoding-uk-postcodes-with-google-map-api/)
 
 Awesome news, you can actually Geocode UK Postcodes - without having to shell out on licensing costs to Royal Mail.
 

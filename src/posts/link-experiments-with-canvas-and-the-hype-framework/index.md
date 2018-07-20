@@ -9,10 +9,10 @@ tags:
 - markstar
 ---
 
-Over at <a title="Open markstar.co.uk in a new window." href="http://markstar.co.uk" target="_blank">markstar.co.uk</a>, you can see some cool experiments that Mark has been working on, and frankly the source code behind them is very cool.
+Over at [markstar.co.uk](http://markstar.co.uk "Open markstar.co.uk in a new window."), you can see some cool experiments that Mark has been working on, and frankly the source code behind them is very cool.
 
-<img class="alignnone size-full wp-image-1273" title="Look! Canvas!" src="/content/images/2011/03/canvas.png" alt="Look! Canvas!" width="500" height="280" />
+![Look! Canvas!](/content/images/2011/03/canvas.png "Look! Canvas!")
 
-The experiments themselves are based on the HTML5 Canvas element, and its drawing tools.  The experiments are part of a series, exploring the initial Canvas element, and then quickly moving into some more familiar Flash-style drawing features, before exploring the possibility of converting the Flash <a title="the HYPE Framework" href="http://www.hypeframework.org/" target="_blank">HYPE Framework</a> into an HTML5 Canvas version. All pretty interesting - can't wait to see if he gets onto some of the really cool complex examples of the HYPE Framework.
+The experiments themselves are based on the HTML5 Canvas element, and its drawing tools.  The experiments are part of a series, exploring the initial Canvas element, and then quickly moving into some more familiar Flash-style drawing features, before exploring the possibility of converting the Flash [HYPE Framework](http://www.hypeframework.org/ "the HYPE Framework") into an HTML5 Canvas version. All pretty interesting - can't wait to see if he gets onto some of the really cool complex examples of the HYPE Framework.
 
-You can check out <a title="The Canvas tagged articles archive." href="http://markstar.co.uk/blog/category/html5/canvas/" target="_blank">the series of experiments in the Canvas tag archive here.</a>
+You can check out [the series of experiments in the Canvas tag archive here.](http://markstar.co.uk/blog/category/html5/canvas/ "The Canvas tagged articles archive.")
