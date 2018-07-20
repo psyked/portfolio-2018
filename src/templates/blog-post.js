@@ -19,7 +19,7 @@ class BlogPostTemplate extends React.Component {
         {frontmatter.tags &&
           <div>
             <hr />
-            <div className="tags">
+            <div className="box tags">
               Tagged as:
               {frontmatter.tags.map(tag => {
                 return (
@@ -27,6 +27,11 @@ class BlogPostTemplate extends React.Component {
                 )
               })}
             </div>
+          </div>
+        }
+        {frontmatter.url &&
+          <div className="box">
+            This article was originally published at <a href={frontmatter.url}>{frontmatter.url}</a>
           </div>
         }
       </div>
@@ -38,19 +43,20 @@ export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostByPath($path: String!) {
-          site {
-        siteMetadata {
-          title
+    site {
+      siteMetadata {
+        title
         author
-        }
       }
+    }
     markdownRemark(frontmatter: {path: {eq: $path } }) {
-          id
+      id
       html
         frontmatter {
           title
-        date(formatString: "MMMM DD, YYYY")
-        tags
+          date(formatString: "MMMM DD, YYYY")
+          tags
+          url
       }
     }
   }

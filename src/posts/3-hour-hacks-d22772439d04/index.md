@@ -7,9 +7,6 @@ url: "https://medium.com/@psyked/3-hour-hacks-d22772439d04"
 image: "https://cdn-images-1.medium.com/max/1200/1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
-published_time: 2018-03-11T10:41:36.819Z
 creator: "@psyked"
 tags:
 - Hackaday
@@ -17,8 +14,6 @@ tags:
 - Inspiration
 date: 2018-03-11T10:41:36.819Z
 ---
-
-# 3 hour hacks
 
 ## Here’s my next big idea.
 

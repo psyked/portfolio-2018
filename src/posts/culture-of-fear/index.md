@@ -1,16 +1,11 @@
 ---
 path: /blog/culture-of-fear/
 title: "Culture of fear"
-og:url: "https://medium.com/@psyked/culture-of-fear-9850823040b0"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*q9eE6JDx90bujWY6Da8lhQ.png"
+url: "https://medium.com/@psyked/culture-of-fear-9850823040b0"
+image: "https://cdn-images-1.medium.com/max/1200/1*q9eE6JDx90bujWY6Da8lhQ.png"
 description: "Yes, it’s a project from Hell, but who’s to blame?"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*q9eE6JDx90bujWY6Da8lhQ.png"
-author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-03-29T13:19:47.428Z
-twitter:creator: "@psyked"
+author: "https://medium.com/@psyked"
+creator: "@psyked"
 date: 2018-03-29T13:19:47.428Z
 tags:
 - Medium
@@ -26,7 +21,7 @@ This tale of a project from hell (from Twitter, above, [direct link to the origi
 
 On the surface there’s the pure technical story, the gory details of a trainwreck of a project that makes for fascinating reading, but reading further into it and what really stands out to me is the efforts at deception that were employed to cover up the ongoing failures.
 
-![](1*q9eE6JDx90bujWY6Da8lhQ.png)
+![A literal trainwreck to accompany the figurative trainwreck.](1*q9eE6JDx90bujWY6Da8lhQ.png)
 
 A literal trainwreck to accompany the figurative trainwreck.
 
