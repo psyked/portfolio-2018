@@ -11,7 +11,7 @@ tags:
 
 This is very intriguing - a range of TVs with iPlayer, YouTube and other snazzy web-based features is available in the UK.  Of course, the idea might be old hat to a lot of people, but I only get really interesting in things when I hear that the stuff is available, here and now.
 
-![An Open Screen Project TV?](http://uploads.psyked.co.uk/2009/12/openscreentv.jpg "An Open Screen Project TV?")
+![An Open Screen Project TV?](openscreentv.jpg)
 
 They're made by a company called Cello, who I've only just heard about, and they sell a TV which you plug into your broadband and start streaming stuff off the internet with.
 

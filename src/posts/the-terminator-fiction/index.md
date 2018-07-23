@@ -7,7 +7,7 @@ tags:
 - bbci
 ---
 
-![](http://uploads.psyked.co.uk/2008/06/terminator.jpg "terminator")
+![](terminator.jpg)
 
 Surfing BBCi's interactive tv services, I couldn't help take notice of one ominous sounding news report - "Skynet military launch postponed" - yee gads! _Skynet_ ?!
 

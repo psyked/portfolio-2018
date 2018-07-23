@@ -11,4 +11,4 @@ Palm (the mobile phone maker) has joined the Open Screen project - which means t
 
 Hot on the heels of such an announcement, I've noticed that there's now a whole site dedicated to the Open Screen Project, available at [http://www.openscreenproject.org/](http://www.openscreenproject.org/).
 
-[![Open screen project](http://uploads.psyked.co.uk/2009/02/openscreen.jpg "Open screen project")](http://www.openscreenproject.org/)
+[![Open screen project](openscreen.jpg)

@@ -11,7 +11,7 @@ tags:
 
 Remember a [few weeks ago](http://www.psyked.co.uk/press-release/moving-offices.htm), when I muttered something about moving offices?  Well, now we've moved it was about time we had an official opening ceremony - regardless of how corny that might be - but hey, at least we've something to celebrate.  (Especially if you pay much attention to the doom and gloom News).
 
-![](http://uploads.psyked.co.uk/2008/11/officeopening.jpg "officeopening")
+![](officeopening.jpg)
 
 I know you're all wishing you were there, but there has to be a limit on attendance.  But fear not - if you weren't there on the day, we have a short film prepared, and will follow up with some photos from the day, just as soon as our official photographer gets sends the images over. ( Hint, hint - Mark ).
 
