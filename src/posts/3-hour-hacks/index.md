@@ -1,5 +1,5 @@
 ---
-path: /blog/3-hour-hacks-d22772439d04/
+path: /blog/3-hour-hacks/
 layout: "post"
 title: "3 hour hacks"
 description: "Here’s my next big idea."
