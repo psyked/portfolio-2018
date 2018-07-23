@@ -1,19 +1,22 @@
 ---
 path: /blog/generating-run-maps-with-node-js/
+layout: "post"
 title: "Generating Run Maps with Node.js"
-description: "The idea I have in mind is one that features the actual route data and statistics from my run; much like an improved version of the route snapshots offered by the Fitbit or Strava apps, and combining"
-og:title: "Generating Run Maps with Node.js"
-og:url: "https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc"
-og:image: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
-og:description: "Hacking away at the Mapbox and Fitbit data APIs"
-twitter:description: "Hacking away at the Mapbox and Fitbit data APIs"
-twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
-author: "James Ford"
-article:author: "https://medium.com/@psyked"
-article:published_time: 2018-03-26T08:31:01.119Z
-twitter:creator: "@psyked"
+description: "Hacking away at the Mapbox and Fitbit data APIs"
+url: "https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc"
+image: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
+src: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
+author: "https://medium.com/@psyked"
+creator: "@psyked"
+tags:
+- Maps
+- Side Project
+- Mapbox
+- Nodejs
+- D3js
 date: 2018-03-26T08:31:01.119Z
 ---
+
 ## Hacking away at the Mapbox and Fitbit data APIs
 
 #### The big idea 💡
@@ -179,6 +182,6 @@ This is as far as I’ve got with this little side project. My original objectiv
 
 Iconography and labels are my next big challenges, I think. Plotting a few icons on the map sounds easy enough, but I’d like to be able to automatically, intelligently annotate any route I upload. Something like that sounds complicated though — it would require going a step further and doing some kind of shape hitbox detection to avoid overlapping icons with the route, or with other icons. And labels. I’d never quite appreciated how complex labelling a road or a point of interest would be on a map, if you want to avoid overlapping labels or if you want labels to follow a road. This is going to take some effort to progress further!
 
-* * *
+---
 
 That’s the end of it for now. I’ve paused this project in favour of some other new and shiny side-project ideas, but I hope that at some point in the future I hope to come back to this project, finish it and get my own lovingly-generated poster printed.
