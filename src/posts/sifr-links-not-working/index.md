@@ -9,7 +9,7 @@ tags:
 
 Here's a funny story. Well, maybe not funny. Or particulary interesting - just informative. Maybe.
 
-[![logo_sifr2.gif](http://uploads.psyked.co.uk/2008/03/logo_sifr2.gif)](http://novemberborn.net/sifr3 "Open link in a new window")So I'm using sIFR text on a clients' website, which has always worked before - and the links stop working. There's no real consistancy - the links work in Internet Explorer on my computer, but not in Firefox, like they used to. Both browsers use the same security settings, flash versions, javascript versions, but one works and the other doesn't. Other people don't have the links working at all, regardless of the browser - and this seems to only be a problem we noticed recently.
+[![logo_sifr2.gif](logo_sifr2.gif)So I'm using sIFR text on a clients' website, which has always worked before - and the links stop working. There's no real consistancy - the links work in Internet Explorer on my computer, but not in Firefox, like they used to. Both browsers use the same security settings, flash versions, javascript versions, but one works and the other doesn't. Other people don't have the links working at all, regardless of the browser - and this seems to only be a problem we noticed recently.
 
 Well - a lot of investigating later - I find out that the revised sIFR version 3 works fine in all browsers. New code, or something like that. So we upgrade the code to version 3 (beta 2) and... well, it works - eventually.
 

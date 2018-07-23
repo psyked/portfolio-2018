@@ -31,7 +31,7 @@ I guess we've got the rise of social networking to thank for this - amongst othe
 
 ### Blogger.
 
-![blogspotcom.jpg](http://uploads.psyked.co.uk/2007/11/blogspotcom.jpg)
+![blogspotcom.jpg](blogspotcom.jpg)
 
 I think [Blogger](www.blogger.com) is a pretty big influence on the current designs that are out there.
 
@@ -39,11 +39,11 @@ Visit any blogger site and you can't help but notice the bar at the top. Branded
 
 
 
-![smashingmagazinecom.jpg](http://uploads.psyked.co.uk/2007/11/smashingmagazinecom.jpg)Smashing Magazines' theme is designed by [W3-Edge](http://w3-markup.com/) and is quite brilliant at scaling for different resolutions, not least I suspect, because of the lack of a bulky left-hand navigation.
+![smashingmagazinecom.jpg](smashingmagazinecom.jpg) and is quite brilliant at scaling for different resolutions, not least I suspect, because of the lack of a bulky left-hand navigation.
 
 
 
-![psdtutscom.jpg](http://uploads.psyked.co.uk/2007/11/psdtutscom.jpg)PSDTuts quite recently dropped their memorable brown-on-brown design for one like this. It's nice, but have they sacrificed too much uniqueness in favour of content?
+![psdtutscom.jpg](psdtutscom.jpg)PSDTuts quite recently dropped their memorable brown-on-brown design for one like this. It's nice, but have they sacrificed too much uniqueness in favour of content?
 
 
 
@@ -51,4 +51,4 @@ Where has the navigation gone? It's all in the top. Up there, with the logo. And
 
 The web seems to be shaking off its' historic top-nav / side-nav / content in a centre-aligned box look and feel, and going back to the document / content ideal.Pity too, I've only just finished redesigning THIS website…
 
-![psykedcouk.jpg](http://uploads.psyked.co.uk/2007/11/psykedcouk.jpg)
+![psykedcouk.jpg](psykedcouk.jpg)

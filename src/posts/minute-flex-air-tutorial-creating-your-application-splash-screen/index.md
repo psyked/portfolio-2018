@@ -10,7 +10,7 @@ tags:
 - tutorial
 ---
 
-![](http://uploads.psyked.co.uk/2008/11/mysplashscreen.jpg "mysplashscreen")
+![](mysplashscreen.jpg)
 
 Ah, the old splash screen - a familiar thing for anyone using Adobe products, I should imagine.
 

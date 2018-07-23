@@ -15,7 +15,7 @@ Seriously though, I'm not sure that it returned wrapped in the skin of a dead wo
 
 Anyway, enough mystical-sounding crap. What's this all about then?
 
-![adobeair.jpg](http://uploads.psyked.co.uk/2007/06/adobeair.jpg)
+![adobeair.jpg](adobeair.jpg)
 
 ## What's in a name?
 

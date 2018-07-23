@@ -11,7 +11,7 @@ tags:
 
 I like cookies - they're like the poor man's server-side session.
 
-![](http://uploads.psyked.co.uk/2008/12/cookies.jpg "cookies")
+![](cookies.jpg)
 
 Yes, Cookies aren't 100% reliable, I know, but I think for a lot of things, they're a damned good solution.  Flash has it's own version of cookies, of course - called Shared Objects - but there's a few problems I can think of with them;
 

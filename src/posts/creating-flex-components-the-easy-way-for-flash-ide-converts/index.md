@@ -25,13 +25,13 @@ In the explanations below I’ll be assuming you already have an understanding o
 
 If you look at the image below I’ve created a red box with the instance name of box in a MovieClip called RedBox. This is the basis of the component we will create; the aim is for the component to keep the red box centered when it is resized.
 
-![image1](http://uploads.psyked.co.uk/2008/12/image1.jpg "image1")
+![image1](image1.jpg)
 
 If you select the RedBox MovieClip in your library and go to **Commands > Convert Symbol to Flex Component** this will now, amongst other things, set the Flash file to produce a swc file when published, which you will later use in Flex, and added the FlexComponentBase to your library.
 
 You may receive an alert asking you if you wish to change the frame rate of your Flash file to 24fps, it is recommended to do this. The properties of the RedBox MovieClip should look the same as the image below. Note that the MovieClip now has a base class of mx.flash.UIMovieClip, this is the base class we will extend for our custom component.
 
-![image2](http://uploads.psyked.co.uk/2008/12/image2.jpg "image2")
+![image2](image2.jpg)
 
 The MovieClip is ready for use in Flex as a component, but if you try to do so it won’t perform as we want it to when it’s scaled. We will use the class below to do this, before we move on there’s a couple of things to note about the class.
 
@@ -67,7 +67,7 @@ The MovieClip is ready for use in Flex as a component, but if you try to do so i
 
 Finally we need to change the linkage of our RedBox MovieClip in the library, set those to the image below. Note that we change the base class to flash.display.MovieClip; this is because it’s ignored now that our custom class extends mx.flash.UIMovieClip. If you try to link the custom class to the MovieClip without changing the base class you’ll get an error.
 
-![image3](http://uploads.psyked.co.uk/2008/12/image3.jpg "image3")
+![image3](image3.jpg)
 
 That’s it, publish the file and it’s ready to drop into Flex.
 
@@ -75,7 +75,7 @@ That’s it, publish the file and it’s ready to drop into Flex.
 
 Create a new project in Flex, I’ll be using a new Web application, and add the swc file to the library path of the project (it’ll be the same name as the fla). Your Flex Build Path properties should look similar to the image below.
 
-![image4](http://uploads.psyked.co.uk/2008/12/image4.jpg "image4")
+![image4](image4.jpg)
 
 In the application tag of your mxml file you need to add the following attribute xmlns:ui="couk.psyked.ui.*" this will enable you to use the custom component and give you code hinting for it. If you’re not sure what this attribute does then you might want to look up xml namespaces.
 

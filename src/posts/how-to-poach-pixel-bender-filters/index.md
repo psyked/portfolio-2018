@@ -11,7 +11,7 @@ Pixel Bender is awesome - but I just haven't got into it yet, so I have no idea 
 
 Pixel Bender files fall into this class.  [BlackBookSafe](http://www.adobe.com/devnet/air/ajax/articles/blackbooksafe_anatomy.html) is where I first pinched Pixel Bender source files from, simply by looking at the folder created for the application in my 'Program Files' folder.  [Fotobooth](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&offeringid=10080&marketplaceid=1) is another example - a little more difficult - but the source files for all those clever Pixel Bender filters are just sitting, waiting for you to hack around with them...
 
-![Pixel Bender filter files](http://uploads.psyked.co.uk/2009/02/pixelbender.jpg "Pixel Bender filter files")
+![Pixel Bender filter files](pixelbender.jpg)
 
 ### Enough yammering, tell me something useful!
 

@@ -8,7 +8,7 @@ tags:
 - geolocation
 ---
 
-[![](http://uploads.psyked.co.uk/2011/04/geolocation.png "Geolocation screenshot")](http://www.psyked.co.uk/geolocation/index.html)
+[![](geolocation.png)
 
 I've been exploring the [HTML5 Geolocation specification](http://www.w3.org/TR/geolocation-API/ "Open the W3C specification for Geolocation") recently, and it's both fascinating and a little scary how accurate your browsers' Geolocation capabilities have become, especially if you're working on a machine with Wifi capabilities.
 

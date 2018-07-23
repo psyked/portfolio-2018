@@ -42,7 +42,7 @@ I'd love a newer version of the Flash Player on my PS3, or a snazzy digi-box int
 
 ## 3 : The lineup.
 
-![](http://uploads.psyked.co.uk/2008/05/sponsors.jpg "sponsors")
+![](sponsors.jpg)
 
 *   BBC
 *   Cisco

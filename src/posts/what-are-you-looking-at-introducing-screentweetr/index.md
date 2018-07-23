@@ -13,7 +13,7 @@ tags:
 
 Screentweetr is my latest little side project; an AIR application for uploading desktop screenshots to twitter image services. You can download it now, from the [AIR Marketplace](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&marketplaceid=1&publisherid=10603&offeringid=13500).
 
-[![Screentweetr](http://uploads.psyked.co.uk/2009/06/screentweetr1.jpg "Screentweetr")](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&marketplaceid=1&publisherid=10603&offeringid=13500)
+[![Screentweetr](screentweetr1.jpg)
 
 ### So, what is Screentweetr?
 
@@ -25,7 +25,7 @@ You might have seen my previous post: ["Print Screen detection in AIR"](http://
 
 What the user sees, initially, is not much (apart from the welcome screen).  When you take a screenshot however, a chirpy little notification window appears and offers you a way to upload your screenshot.
 
-![Screentweetr](http://uploads.psyked.co.uk/2009/06/screentweetr2.jpg "Screentweetr")
+![Screentweetr](screentweetr2.jpg)
 
 The advantage really is in the process - no longer is it a case of "Print screen", \[paste into image software, save,\] open website, select file, upload, tag, post - it's now a case of "Print screen", tag, upload.  You don't even end up creating an actual file on your computer - it's all virtual. (Which maybe isn't all good, but hey).
 

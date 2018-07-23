@@ -8,7 +8,7 @@ tags:
 - offices
 ---
 
-[![](http://uploads.psyked.co.uk/2008/10/movingoffices1.jpg "movingoffices1")](http://www.mmtdigital.co.uk/RVEc4d1cd790afe4ac4be58071a72c98148,,.aspx)
+[![](movingoffices1.jpg)
 
 An event more entertaining than BBC's "Strictly come dancing", more thrilling than debugging year-old code, [MMT Digital](http://www.mmtdigital.co.uk) is moving to brand spanking new offices.
 

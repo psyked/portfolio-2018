@@ -7,7 +7,7 @@ tags:
 - wordpress-plugins
 ---
 
-[![Smashing Magazine Logo](http://uploads.psyked.co.uk/2007/05/logo.gif)](http://www.smashingmagazine.com/2007/08/17/404-error-pages-reloaded/ "Open link in a new window")
+[![Smashing Magazine Logo](logo.gif)
 
 Right up-top there in the usability stakes is the fact that you should always give your visitors what they want.  That's tough, especially when the page they end up with is "Error 404".  I'm not going to go off on a rant about what you can do, but what I do is thanks to a few neat Wordpress Plugins.Basically, the 404's you'll see on Psyked contain a few elements - A search box, related links, top categories and top posts.
 

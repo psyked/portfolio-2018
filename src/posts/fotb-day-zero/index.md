@@ -10,7 +10,7 @@ tags:
 - ftob
 ---
 
-[![](http://uploads.psyked.co.uk/2008/09/fotb0.jpg "fotb0")](None)
+[![](fotb0.jpg)
 
 It's coming up to 8pm on Sunday 28th, and that means the Workshops day for [Flash on the Beach 2008](http://www.flashonthebeach.com/) is over - but the fun begins again in only another 12 hours, with talks such as ["Brilliant Ideas that I've blatantly stolen"](http://www.flashonthebeach.com/sessions/index.php?pageid=2112), ["Mash-up widgets with Adobe AIR"](http://www.flashonthebeach.com/sessions/index.php?pageid=2194) and ["Modulating a lot"](http://www.flashonthebeach.com/sessions/index.php?pageid=2186) on the cards for tomorrow.
 

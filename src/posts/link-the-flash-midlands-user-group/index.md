@@ -8,6 +8,6 @@ tags:
 - user-groups
 ---
 
-[![Flash Midlands User Group](http://uploads.psyked.co.uk/2009/02/swfmidlands.jpg "Flash Midlands User Group")](http://www.flashmidlands.com/)
+[![Flash Midlands User Group](swfmidlands.jpg)
 
 There's a Flash Midlands user group? And I'm in 'the midlands' and I never knew? Time to rectify that, I think. Well, there's a meeting on the 14th March - just under a month - I think I might pop along, if I can.

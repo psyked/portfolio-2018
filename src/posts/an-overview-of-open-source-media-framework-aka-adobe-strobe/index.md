@@ -17,7 +17,7 @@ OSMF (Open Source Media Framework) is a new Open Source project from Adobe, desi
 *   [http://opensource.adobe.com/wiki/display/osmf/Open+Source+Media+Framework](http://midlands.webmail.mmtdigital.co.uk/exchweb/bin/redir.asp?URL=http://opensource.adobe.com/wiki/display/osmf/Open%2BSource%2BMedia%2BFramework)
 *   You can find more technical details & code examples on [Jodie's blog.](http://www.jodieorourke.com/view.php?id=111&blog=news)
 
-![OSMF](http://uploads.psyked.co.uk/2009/08/osmf.jpg "OSMF")
+![OSMF](osmf.jpg)
 
 ### Why OSMF is needed:
 

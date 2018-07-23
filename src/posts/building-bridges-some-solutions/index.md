@@ -15,37 +15,37 @@ In a non-too-subtle way, I thought I'd drum up a bit more enthusiasm for [this y
 
 ### Type 1: The Basic solution.
 
-[![](http://uploads.psyked.co.uk/2009/12/basic.png "The Basic Solution.")](http://uploads.psyked.co.uk/2009/12/basic.png)
+[![](http://uploads.psyked.co.uk/2009/12/basic.png "The Basic Solution.")](basic.png)
 
 Oh yes, it works for the first level, but just you try that on some of the later ones...
 
 ### Type 2: Adding some support
 
-[![](http://uploads.psyked.co.uk/2009/12/secure.png "Type 2: Adding some support")](http://uploads.psyked.co.uk/2009/12/secure.png)
+[![](http://uploads.psyked.co.uk/2009/12/secure.png "Type 2: Adding some support")](secure.png)
 
 That's the basic principle for solving the later levels...
 
 ### Type 3: Support overkill
 
-[![](http://uploads.psyked.co.uk/2009/12/sturdy.png "Type 3: Support overkill")](http://uploads.psyked.co.uk/2009/12/sturdy.png)
+[![](http://uploads.psyked.co.uk/2009/12/sturdy.png "Type 3: Support overkill")](sturdy.png)
 
 One things' for sure, it ain't goin' down lightly.
 
 ### Type 4: The Leap of Faith
 
-[![](http://uploads.psyked.co.uk/2009/12/leapoffaith.png "Type 4: The Leap of Faith")](http://uploads.psyked.co.uk/2009/12/leapoffaith.png)
+[![](http://uploads.psyked.co.uk/2009/12/leapoffaith.png "Type 4: The Leap of Faith")](leapoffaith.png)
 
 It doesn't all have to join up, you know.  You could just build ramps!
 
 ### Type 5: That's a ropey one...
 
-[![](http://uploads.psyked.co.uk/2009/12/ropey.png "Type 5: That's a ropey one...")](http://uploads.psyked.co.uk/2009/12/ropey.png)
+[![](http://uploads.psyked.co.uk/2009/12/ropey.png "Type 5: That's a ropey one...")](ropey.png)
 
 Rope bridges. Flexible, and surprisingly strong.
 
 ### Type 6: The unconventional solution
 
-[![](http://uploads.psyked.co.uk/2009/12/unconventional.png "Type 6: The unconventional solution")](http://uploads.psyked.co.uk/2009/12/unconventional.png)
+[![](http://uploads.psyked.co.uk/2009/12/unconventional.png "Type 6: The unconventional solution")](unconventional.png)
 
 Sometimes the best solution isn't the most obvious.
 

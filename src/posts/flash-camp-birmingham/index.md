@@ -7,7 +7,7 @@ tags:
 - flash
 ---
 
-[![Flash Camp - Birmingham](http://uploads.psyked.co.uk/2009/05/flashcampbirmingham.jpg "Flash Camp - Birmingham")](http://flashcamp.co.uk/)
+[![Flash Camp - Birmingham](flashcampbirmingham.jpg)
 
 **Flash Camp Birmingham** is now open for registrations - it's on June 16th (2009), 12pm - 8pm.
 

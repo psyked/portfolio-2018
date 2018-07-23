@@ -9,7 +9,7 @@ tags:
 - windows-themes
 ---
 
-![pimpmypc.png](http://uploads.psyked.co.uk/2007/12/pimpmypc.png)From time to time it's fun to give your computer an overhaul. Here's a few simple, and not-so-simple ways rejuvinate your humdrum old Windows machine. And I'm assuming that we're using Windows XP here - not ole' Vista.
+![pimpmypc.png](pimpmypc.png)From time to time it's fun to give your computer an overhaul. Here's a few simple, and not-so-simple ways rejuvinate your humdrum old Windows machine. And I'm assuming that we're using Windows XP here - not ole' Vista.
 
 ### #1 A New theme!
 
@@ -23,15 +23,15 @@ Better late than never, the theme Royale appeared with Windows 2006 Media Center
 
 *   Being a non-Microsoft product, the Royale Remixed theme requires a patch to one of the windows core dll's - to allow unsigned graphics. [Get the patch from here](http://www.softpedia.com/get/System/OS-Enhancements/UXTheme-MultiPatcher.shtml "Open link in a new window"), and then download the [Royale Remixed theme installer from here](http://oddbasket.deviantart.com/art/Royale-Remixed-44294818 "Open link in a new window"). If you're having trouble with this, there's a nice tutorial / walkthrough on the patching process [here](http://www.zune-online.com/news/zune/zune-multicolor-theme-for-windows.html "Open link in a new window").
 
-![royale.jpg](http://uploads.psyked.co.uk/2007/12/royale.jpg)
+![royale.jpg](royale.jpg)
 
-![zune.jpg](http://uploads.psyked.co.uk/2007/12/zune.jpg)
+![zune.jpg](zune.jpg)
 
 ### #2 Viruscan!
 
 It's a perfect opportunity to go bug-hunting, and even if you don't have a virus-scanner, there's a particulary good (albeit depressingly slow) virus-scanner available online at [TrendMicro](http://housecall.trendmicro.com/ "Open link in a new window"). (Housecall 6.5) This is one to do overnight really, but you can be sure that it'll isolate any little beasties or suspious programs you've caught since your last check. Peace of mind, n'all?
 
-![trendmicrocom.jpg](http://uploads.psyked.co.uk/2007/12/trendmicrocom.jpg)
+![trendmicrocom.jpg](trendmicrocom.jpg)
 
 ### #3 Dump your old stuff.
 

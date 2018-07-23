@@ -12,7 +12,7 @@ tags:
 
 Just what Adobe AIR is, is an unusual concept. But I think I'm getting the hang of it.
 
-![airframework.jpg](http://uploads.psyked.co.uk/2008/04/airframework.jpg)
+![airframework.jpg](airframework.jpg)
 
 ### **Adobe AIR is not...**
 

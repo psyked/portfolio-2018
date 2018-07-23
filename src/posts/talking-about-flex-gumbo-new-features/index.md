@@ -13,7 +13,7 @@ After seeing [Andrew Shorten's](http://www.ashorten.com/) presentation on Flex 4
 
 Flex 4 is looking exciting - Flex is one helluva good tool anyway, so the step from the Flash IDE to Flex builder that I experienced is hard to top when going from Flex 3 to Flex 4, but there are a few nice features that I remember from the presentation. _\[Note - this is all done from memory, so please correct me if I've said anything incorrect.\]_
 
-_![Flex 4](http://uploads.psyked.co.uk/2009/04/flex4.jpg "Flex 4")_
+_![Flex 4](flex4.jpg)_
 
 ### Remote services - autogeneration of data models.
 

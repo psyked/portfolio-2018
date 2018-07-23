@@ -10,7 +10,7 @@ tags:
 - fotb
 ---
 
-![](http://uploads.psyked.co.uk/2008/09/fotb1.jpg "fotb1")
+![](fotb1.jpg)
 
 Wow.  That's another day gone - its funny really, you feel like you've been here for ages based on what you've seen, but then you step back and realise it's only Monday.
 

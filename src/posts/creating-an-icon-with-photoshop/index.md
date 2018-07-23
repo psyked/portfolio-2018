@@ -16,4 +16,4 @@ Very easily, you can now save out both normal and package icons from Photoshop, 
 
 It's about time I had a proper favicon for this site, so I stole some inspiration from Adobe and added my own little twist. Voila!
 
-![icon.gif](http://uploads.psyked.co.uk/2007/07/icon.gif)
+![icon.gif](icon.gif)

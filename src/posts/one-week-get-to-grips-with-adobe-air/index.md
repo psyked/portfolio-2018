@@ -15,6 +15,6 @@ _"You have until friday."_
 
 So that's what I've been doing.
 
-![flexair.jpg](http://uploads.psyked.co.uk/2007/08/flexair.jpg)
+![flexair.jpg](flexair.jpg)
 
 I have unfortunately, no previous experience with Flex, Air or even ActionScript 3, so this is proving to be interesting. Marketing has settled on producing an RSS reader - stay tuned and I'll let you know how things turn out in couple o' days.

@@ -13,6 +13,6 @@ Well, I know this is a bit behind the official announcement, but the Adobe **on 
 
 [See the official site here.](http://onair.adobe.com/schedule/cities/london.php "Open link in a new window")
 
-![adobecom.jpg](http://uploads.psyked.co.uk/2008/02/adobecom.jpg)
+![adobecom.jpg](adobecom.jpg)
 
 I've never been to something like this before, so it should be fun.

@@ -18,4 +18,4 @@ Doesn't look like much, as I'm sure you'll agree, but these techie things don't 
 
 [](http://www.psyked.co.uk/resources/optimizing-your-css-online.htm/cdburnerxpsejpg/ "Open this link in a new window.")
 
-[![cdburnerxpse.jpg](http://uploads.psyked.co.uk/2007/06/cdburnerxpse.jpg)](http://www.psyked.co.uk/resources/optimizing-your-css-online.htm/cdburnerxpsejpg/ "Open this link in a new window.")
+[![cdburnerxpse.jpg](cdburnerxpse.jpg)

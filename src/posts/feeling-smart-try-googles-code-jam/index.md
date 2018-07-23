@@ -9,7 +9,7 @@ tags:
 - google
 ---
 
-[![](http://uploads.psyked.co.uk/2008/07/codejam.jpg "codejam")](http://code.google.com/codejam/)
+[![](codejam.jpg)
 
 Google Code Jam is a pretty much a coding competition.  You can use any programming language you like, they'll give you a problem, and you have to solve it.  Sound fun?  Well, you have between four and eight minutes to submit your answers, and you'll get three to six problems per round.  Still sound like fun?
 

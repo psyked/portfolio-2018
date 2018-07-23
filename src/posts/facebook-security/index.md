@@ -7,11 +7,11 @@ date: 2008-05-30T21:10:51Z
 
 Ah [Facebook](http://www.facebook.com). As a rule of thumb you shouldn't really add any more personal information than's nessessary to a website - but people tend to just forget that, especially on social networking sites. And noone really reads the legal & privacy notices - because they're about as flexible as the EULA on your videogames, just explain in very careful words just how much they are allowing themselves to abuse your trust.
 
-![](http://uploads.psyked.co.uk/2008/05/facebook.jpg "facebook")
+![](facebook.jpg)
 
 Just how safe is your data on Facebook then? When you start out, there's a lot of inital restriction using the website, having to have 'friends' or 'groups'. The most any stranger can see is a small thumbnail, your name and perhaps a few groups or your country. Think that's safe enough? Wait until you've listened to a bit of scaremongering about the third-party applications...
 
-[![](http://uploads.psyked.co.uk/2008/05/bbcreport.jpg "bbcreport")](http://news.bbc.co.uk/1/hi/technology/7376738.stm)
+[![](bbcreport.jpg)
 
 Eesh, that sounds bad, doesn't it?
 

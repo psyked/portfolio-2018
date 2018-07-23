@@ -9,7 +9,7 @@ tags:
 - vba
 ---
 
-![](http://uploads.psyked.co.uk/2008/11/desktopmashups.jpg "desktopmashups")
+![](desktopmashups.jpg)
 
 It's a fast-paced industry, with Digital Production studios (like us) transforming all manner of content from clients into wide variety of other formats. We'll take school textbooks for example and transform them into interactive textbooks, or spreadsheets of contact details and translate them into Google Map pages.  A labour-intensive task?  It doesn't have to be, if you're clever about things (and a little flexible, and willing to get your hands dirty with alien programming languages).
 

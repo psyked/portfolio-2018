@@ -9,7 +9,7 @@ tags:
 
 Some might say slow on the uptake, some would argue that I'm not jumping on the bandwagon without considering where it's going.
 
-![I'm on Twitter](http://uploads.psyked.co.uk/2009/02/twitter.jpg "I'm on Twitter")
+![I'm on Twitter](twitter.jpg)
 
 In the end it was Will Hawkins \[[blog](http://blog.arryawke.co.uk/), [twitter](http://twitter.com/arryawke)\] that convinced me to start using Twitter a bit more - even without the ability to tweet from my iPhone (which I don't have) it still looks like a valuable tool.
 

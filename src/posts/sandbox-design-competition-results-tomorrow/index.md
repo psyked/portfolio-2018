@@ -15,18 +15,18 @@ I've had a mosey through the designs, and these are my favourates...
 
 **Blackbox**
 
-![sndbxorg2.jpg](http://uploads.psyked.co.uk/2007/08/sndbxorg2.jpg)
+![sndbxorg2.jpg](sndbxorg2.jpg)
 
 **MIX**
 
-![sndbxorg.jpg](http://uploads.psyked.co.uk/2007/08/sndbxorg.jpg)
+![sndbxorg.jpg](sndbxorg.jpg)
 
 **Sandpress**
 
-![sndbxorg3.jpg](http://uploads.psyked.co.uk/2007/08/sndbxorg3.jpg)
+![sndbxorg3.jpg](sndbxorg3.jpg)
 
 **Shades of Grey**
 
-![sndbxorg4.jpg](http://uploads.psyked.co.uk/2007/08/sndbxorg4.jpg)
+![sndbxorg4.jpg](sndbxorg4.jpg)
 
 I'm pipping Sandpress for the win, with Shades of Grey and possibly MIX in the followup. Hands-down, Sandpress has the professional polish that makes all other entries pale in comparision. Shades is nice overall, with good structure, but lacks oopfh. MIX has a nice structure, but some nasty colours and graphics. Blackbox is a bit rough, but I like how different and bold the design is - but as for being adopted as a mainstream, bundled theme (which is what the competition is about), I don't think there's a chance.

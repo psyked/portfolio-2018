@@ -14,7 +14,7 @@ Or should I say, _finally_ introducing ImageSizer.  If you've been here previou
 
 Two months later and I'm finally getting around to implimenting what I offered him then, that we'd post it online and see what people think.  Well, here it is.
 
-![](http://uploads.psyked.co.uk/2008/11/imagesizer1.jpg "imagesizer1")
+![](imagesizer1.jpg)
 
 
 

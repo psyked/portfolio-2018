@@ -8,7 +8,7 @@ tags:
 - e-newsletter
 ---
 
-[![autumnnewsletter](http://uploads.psyked.co.uk/2008/12/autumnnewsletter.jpg "autumnnewsletter")](http://www.mmtdigital.co.uk/MMT_e-newsletters/Autumn2008/Autumn2008.html)
+[![autumnnewsletter](autumnnewsletter.jpg)
 
 MMT Digital's Christmas E-Newsletter is due out soon, so I thought it might be a pertinent time to recap our earlier email, the Autumn E-Newsletter. And hey, this isn't just a company promotional post, I actually want to blog this, because I very much like the design and also because I wrote one of the featured articles!
 

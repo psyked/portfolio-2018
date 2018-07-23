@@ -14,7 +14,7 @@ tags:
 
 One of the great things about Flex Builder is that it's developed on top of the already existing [Eclipse IDE](http://www.eclipse.org/), and is itself just one of many uses the Eclipse project is put to.  Which means that many of the things you may want to do in your projects have already been explored by others.  One such thing is automated tasks.
 
-![ANT Tasks in Flex](http://uploads.psyked.co.uk/2009/12/anttasks.jpg "ANT Tasks in Flex")
+![ANT Tasks in Flex](anttasks.jpg)
 
 Turns out there's something called [ANT](http://ant.apache.org/faq.html#what-is-ant), which "\[... does a really good job at building things\]".  As Eclipse is the basis for Flex Builder, a lot of the plugins for Eclipse - and all the variants of it - work just fine in Flex Builder.  There's a plugin for Eclipse which adds ANT support for example, and then further plugins which add even more task types to ANT, such as FTP support.
 

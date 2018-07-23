@@ -11,7 +11,7 @@ tags:
 
 So a little while ago, Halloween in fact, I threw together a demo of some face-detection stuff I'd been looking at. \[[Check out the original post here.](http://www.psyked.co.uk/adobe/flash/webcam-face-detection-spooky-goings-on.htm)\]  We originally had the demo on the MMT Digital homepage, but recently that's been updated and my demo got lost in the process, so I've restored it here, along with the Flex project for it.
 
-[![Augmented Reality Halloween](http://uploads.psyked.co.uk/2009/10/halloween.jpg "Augmented Reality Halloween")](http://www.mmtdigital.co.uk/RVEc4d1cd790afe4ac4be58071a72c98148,,.aspx)
+[![Augmented Reality Halloween](halloween.jpg)
 
 
 

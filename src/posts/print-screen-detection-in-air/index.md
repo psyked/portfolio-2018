@@ -9,7 +9,7 @@ tags:
 
 Here's a little something I've been working on recently - Print Screen support in AIR. It has to be AIR because only AIR allows you to access the OS clipboard, and only AIR seems to have access to the full keyboard. There's a few things I've looked at and various snippets of code, so I'll cover them in roughly the order I figured it all out...
 
-![Print Screen Monitor](http://uploads.psyked.co.uk/2009/04/printscreenmonitor.jpg "Print Screen Monitor")
+![Print Screen Monitor](printscreenmonitor.jpg)
 
 ### Getting your Print Screen data.
 

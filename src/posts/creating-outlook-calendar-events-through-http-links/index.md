@@ -16,7 +16,7 @@ From the users' point of view, your Calendar event appears as every other hyperl
 
 From the developers' point of view, once you have your server configured correctly, it's just a case of creating and linking to an .ics file instead of a .htm file - at which point the client's email software should take over.
 
-![](http://uploads.psyked.co.uk/2008/08/icalendar.jpg "icalendar")
+![](icalendar.jpg)
 
 ## Does it work for me?
 

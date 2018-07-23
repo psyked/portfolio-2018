@@ -20,7 +20,7 @@ Here's a couple of resources I've found from that day...
 
 ### Things every Flash developer should know
 
-[![](http://uploads.psyked.co.uk/2008/10/gskinner.gif "gskinner")](http://gskinner.com/talks/thingseveryflash/)
+[![](gskinner.gif)
 
 ### The Best 8 to 12 Hours of my Life.
 

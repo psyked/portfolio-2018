@@ -9,7 +9,7 @@ tags:
 - university-projects
 ---
 
-![uniproject.jpg](http://uploads.psyked.co.uk/2008/02/uniproject.jpg)
+![uniproject.jpg](uniproject.jpg)
 
 Submitted on 02/12/2005, this is pretty much my first attempt at full-on Actionscript programming. When the project started, I was having to look up things like 'functions' on Google to see what all those forums were talking about. This was definately my biggest step into the murky waters of flash programming, and one I'm pleased I took. 1189 lines of Actionscript later, and I had my (considerably adjusted from the inital spec) prototype.
 

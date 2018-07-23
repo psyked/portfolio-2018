@@ -7,7 +7,7 @@ date: 2008-06-18T22:01:16Z
 
 Adobe have just released their first major update to AIR since its release, Adobe AIR 1.1 (catchy!). - The release notes of which you can read [here](http://download.macromedia.com/pub/air/documentation/1_1/adobe_air_1-1_faq.pdf).
 
-![](http://uploads.psyked.co.uk/2008/06/air11.jpg "air11")
+![](air11.jpg)
 
 Aside from a few tweaks and general updates, and a few requested features making an appearance, the focus for most people seems to be the multilingual capabilities. There's a whole 10 new languages supported.
 

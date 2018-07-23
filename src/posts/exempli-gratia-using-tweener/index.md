@@ -17,7 +17,7 @@ To use Tweener in your projects, the first step is to download the class files t
 
 ## Download Tweener
 
-[![](http://uploads.psyked.co.uk/2008/07/googelcode.jpg "googelcode")](http://code.google.com/p/tweener/)
+[![](googelcode.jpg)
 
 There are currently 3 versions of the Tweener class, one for (AS2) Flash player 7 & Flash Lite 2, one for (AS2) Flash Player 8, and one for (AS3) Flash Player 9. For which one you download is down to your project, but the interface and implimentation is pretty much the same across each of the versions.
 

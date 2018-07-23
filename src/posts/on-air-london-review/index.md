@@ -9,7 +9,7 @@ tags:
 - work
 ---
 
-![onairreview.jpg](http://uploads.psyked.co.uk/2008/04/onairreview.jpg)
+![onairreview.jpg](onairreview.jpg)
 
 Well, despite coming down with a killer headache 1/2 way through the event, I thoroughly enjoyed the London leg of the on AIR tour. All the guys from Adobe and \[most of\] the 'guest speakers' were really interesting. Toying around with AIR before the event helped understand things a little better, but looking up stuff on the 'net just doesn't compare to having it demonstrated on the tour. Like the [worlds smallest video player](http://www.webkitchen.be/2008/03/07/play-video-in-your-dock-with-air/ "Open link in a new window").
 

@@ -12,7 +12,7 @@ You know those lovely font embedding options?
 
 Wouldn't it be great if you could make your own character sets?
 
-![customfontembedding.jpg](http://uploads.psyked.co.uk/2008/03/customfontembedding.jpg)
+![customfontembedding.jpg](customfontembedding.jpg)
 
 As great as the default options are (All, Uppercase, Lowercase, Numerals) the latter 3 combined don't contain all of the visible characters - and the 'All' option embeds thousands of other useless characters. So how about this?
 
