@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/modular-code-libraries-ftw-d0db70a5365a"
 image: "https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2017-01-12T09:07:00.606Z
 creator: "@psyked"
 tags:

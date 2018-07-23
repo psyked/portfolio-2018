@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pokeproject-dev-diary-day-two-a6019e6cf0f0"
 image: "https://cdn-images-1.medium.com/max/1200/1*lEV7DsAymsMz79d5bbTjCw.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*lEV7DsAymsMz79d5bbTjCw.jpeg"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2016-09-14T19:05:00.016Z
 creator: "@psyked"
 tags:

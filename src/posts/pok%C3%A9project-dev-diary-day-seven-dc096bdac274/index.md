@@ -1,5 +1,5 @@
 ---
-path: /blog/pok%C3%A9project-dev-diary-day-seven-dc096bdac274/
+path: /blog/poképroject-dev-diary-day-seven-dc096bdac274/
 layout: "post"
 title: "PokéProject Dev Diary: Day Seven"
 description: "This thing ain’t gonna market itself."
@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-seven-dc096bdac2
 image: "https://cdn-images-1.medium.com/max/1200/1*9N5G_8K-XFMZxRNJAYtpBQ.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*9N5G_8K-XFMZxRNJAYtpBQ.jpeg"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2016-10-06T21:01:01.030Z
 creator: "@psyked"
 tags:

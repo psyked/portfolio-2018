@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-5f
 image: "https://cdn-images-1.medium.com/max/1200/1*vJ4GLgd7aQ6D4npiimypIw.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*vJ4GLgd7aQ6D4npiimypIw.jpeg"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2017-10-04T21:16:30.796Z
 creator: "@psyked"
 date: 2017-10-04T21:16:30.796Z

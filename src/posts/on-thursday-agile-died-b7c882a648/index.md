@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/on-thursday-agile-died-b7c882a648"
 image: "https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2016-05-25T07:36:02.250Z
 creator: "@psyked"
 tags:

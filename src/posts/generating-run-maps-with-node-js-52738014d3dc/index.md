@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc"
 image: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2018-03-26T08:31:01.119Z
 creator: "@psyked"
 tags:

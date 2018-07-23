@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7
 image: "https://cdn-images-1.medium.com/max/1200/1*rU7_XZWxTWMKPwGjNcPFJg.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*rU7_XZWxTWMKPwGjNcPFJg.png"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2017-06-07T22:26:30.011Z
 creator: "@psyked"
 date: 2017-06-07T22:26:30.011Z

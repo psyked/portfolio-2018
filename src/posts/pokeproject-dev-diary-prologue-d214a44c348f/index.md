@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-prologue-d214a44c348
 image: "https://cdn-images-1.medium.com/max/1200/1*3eWOlkdwOZoxG4h_RlDyAw.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*3eWOlkdwOZoxG4h_RlDyAw.jpeg"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2016-09-09T20:15:21.689Z
 creator: "@psyked"
 date: 2016-09-09T20:15:21.689Z

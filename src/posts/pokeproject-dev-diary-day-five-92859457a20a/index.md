@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-five-92859457a20
 image: "https://cdn-images-1.medium.com/max/1200/1*Kp3dePIQiFvW6HuPg7Dxpg.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*Kp3dePIQiFvW6HuPg7Dxpg.jpeg"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2016-09-20T20:11:03.647Z
 creator: "@psyked"
 date: 2016-09-20T20:11:03.647Z

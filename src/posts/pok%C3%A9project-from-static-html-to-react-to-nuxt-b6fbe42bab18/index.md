@@ -1,5 +1,5 @@
 ---
-path: /blog/pok%C3%A9project-from-static-html-to-react-to-nuxt-b6fbe42bab18/
+path: /blog/poképroject-from-static-html-to-react-to-nuxt-b6fbe42bab18/
 layout: "post"
 title: "PokéProject: from Static HTML, to React, to Nuxt."
 description: "This is the story of my development journey with PokéProject. Hopefully this isn’t the complete story, and there’s much more to be told…"
@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-from-static-html-to-react-to-n
 image: "https://cdn-images-1.medium.com/max/1200/1*_ktZpY0rhoRFlnsM-7k8MA.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*_ktZpY0rhoRFlnsM-7k8MA.png"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2017-04-10T08:11:00.000Z
 creator: "@psyked"
 tags:

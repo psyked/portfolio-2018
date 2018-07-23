@@ -7,7 +7,7 @@ tags:
 - adobe-air
 ---
 
-[![](/content/images/2008/12/adm.jpg "adm")](http://www.dehats.com/drupal/?q=node/55)
+[![adm](adm.jpg)](http://www.dehats.com/drupal/?q=node/55)
 
 [Application Descriptior Manager](http://www.dehats.com/drupal/?q=node/55) is another application like the [AIR Badger](http://www.gskinner.com/blog/archives/2008/09/beware_the_air.html) and [Icon Generator](http://clockmaker.jp/labs/air_icon/) \- a development tool, built in AIR, for developing AIR applications.  It's useful, functional and has reassuring touches like auto-backup, or version upgrade buttons.
 

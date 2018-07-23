@@ -9,8 +9,6 @@ og:description: "Hacking away at the Mapbox and Fitbit data APIs"
 twitter:description: "Hacking away at the Mapbox and Fitbit data APIs"
 twitter:image:src: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
 author: "James Ford"
-og:type: "article"
-twitter:card: "summary_large_image"
 article:author: "https://medium.com/@psyked"
 article:published_time: 2018-03-26T08:31:01.119Z
 twitter:creator: "@psyked"

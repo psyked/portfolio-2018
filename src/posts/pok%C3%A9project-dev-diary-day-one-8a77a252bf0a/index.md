@@ -1,5 +1,5 @@
 ---
-path: /blog/pok%C3%A9project-dev-diary-day-one-8a77a252bf0a/
+path: /blog/poképroject-dev-diary-day-one-8a77a252bf0a/
 layout: "post"
 title: "PokéProject Dev Diary: Day One"
 description: "Let’s get this show on the road."
@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-one-8a77a252bf0a
 image: "https://cdn-images-1.medium.com/max/1200/1*JVQ_04qxa14C0EPudeE1ng.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*JVQ_04qxa14C0EPudeE1ng.png"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2016-09-11T19:59:19.663Z
 creator: "@psyked"
 tags:

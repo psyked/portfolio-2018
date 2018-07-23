@@ -1,5 +1,5 @@
 ---
-path: /blog/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239/
+path: /blog/poképroject-adventures-with-lego-bricks-cd9401091239/
 layout: "post"
 title: "PokéProject: Adventures with LEGO Bricks"
 description: "Part 2: Making optimal use of the available bricks."
@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd
 image: "https://cdn-images-1.medium.com/max/1200/1*khfGNAUXONDNEk-K-2-InQ.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*khfGNAUXONDNEk-K-2-InQ.png"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2017-06-07T06:48:12.747Z
 creator: "@psyked"
 tags:

@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/hallmarks-of-a-modern-development-workflow-cont
 image: "https://cdn-images-1.medium.com/max/1200/1*E1XjKEGR0WniQFa2W1IIeg.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*E1XjKEGR0WniQFa2W1IIeg.jpeg"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2017-01-30T09:15:00.000Z
 creator: "@psyked"
 date: 2017-01-30T09:15:00.000Z

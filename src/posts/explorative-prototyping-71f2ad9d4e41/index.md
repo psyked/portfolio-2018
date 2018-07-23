@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/explorative-prototyping-71f2ad9d4e41"
 image: "https://cdn-images-1.medium.com/max/1200/1*t-PnNMQ78_vCBb4t1MA0Iw.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*t-PnNMQ78_vCBb4t1MA0Iw.png"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2016-05-17T19:48:34.316Z
 creator: "@psyked"
 tags:

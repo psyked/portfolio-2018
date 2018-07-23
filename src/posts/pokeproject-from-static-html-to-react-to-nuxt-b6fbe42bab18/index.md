@@ -7,8 +7,6 @@ url: "https://medium.com/@psyked/pok%C3%A9project-from-static-html-to-react-to-n
 image: "https://cdn-images-1.medium.com/max/1200/1*_ktZpY0rhoRFlnsM-7k8MA.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*_ktZpY0rhoRFlnsM-7k8MA.png"
 author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
 published_time: 2017-04-10T08:11:00.000Z
 creator: "@psyked"
 date: 2017-04-10T08:11:00.000Z
