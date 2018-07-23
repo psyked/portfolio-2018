@@ -8,7 +8,7 @@ tags:
 - flex-3-5-sdk
 ---
 
-![](http://uploads.psyked.co.uk/2010/01/broken-air-update-framework.jpg "broken-air-update-framework")
+![](broken-air-update-framework.jpg)
 
 _Arrgh!_ All of a sudden the AIR Update Framework stops working.  No explanation, no errors; nothing. Where you'd expect to see your update notification popping up, you get a window just like the one above - no content, just the default Flex blue background colour.
 

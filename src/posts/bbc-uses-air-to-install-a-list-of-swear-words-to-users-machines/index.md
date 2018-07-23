@@ -9,7 +9,7 @@ tags:
 - swearing
 ---
 
-![](http://uploads.psyked.co.uk/2008/08/bbc-swear.jpg "bbc-swear")
+![](bbc-swear.jpg)
 
 **James Cannings** from **MMT Digital** alerted me to this, and has written a post about it at: [http://www.mmtdigital.co.uk/monkeymagic](http://www.mmtdigital.co.uk/monkeymagic), and here's my thoughts on it:
 

@@ -13,7 +13,7 @@ tags:
 
 Well, that was fast (and rightly so).  This morning I posted about the [BBC Sports' Olympics AIR Application containing a text file of offensive language](http://www.psyked.co.uk/adobe/apollo/bbc-uses-air-to-install-a-list-of-swear-words-to-users-machines.htm) but now, roughly 1.5 hours after posting here, and 6.5 hours after it being initally posted, a new update has appeared for the Olympics AIR Application.
 
-![](http://uploads.psyked.co.uk/2008/08/bbc-fixed.jpg "bbc-fixed")
+![](bbc-fixed.jpg)
 
 The release notes mention that it's updating the listing events schedule (which it may well be) but it's also changing the contents of the **bbc-swear.txt** file to say '**deprecated functionality**'. (Instead of 1399 ways to swear.)
 

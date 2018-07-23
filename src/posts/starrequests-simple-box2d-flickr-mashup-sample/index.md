@@ -21,7 +21,7 @@ All of the code for this demo, along with a few others, are available from [GitH
 
 If you can't see the demo, for whatever reason, I've stuck an image of it below this paragraph.  There's a search term box, a numeric stepper for the number of images, and a search button.  When you click 'Get images' it performs a search on the Flickr API, which returns a list of images.  I'm then using the StarRequests library to sequentially load the images from Flickr, and throwing them into Simple-Box2D to display them in a funky interactive way.
 
-![](http://uploads.psyked.co.uk/2010/06/starrequest-example.jpg "Demo (JPEG)")
+![](starrequest-example.jpg)
 
 ### StarRequests
 

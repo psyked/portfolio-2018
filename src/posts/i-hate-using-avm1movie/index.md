@@ -7,7 +7,7 @@ tags:
 - actionscript
 ---
 
-![](http://uploads.psyked.co.uk/2010/11/avm1movie-hydra.jpg)
+![](avm1movie-hydra.jpg)
 
 Developer beware.  AVM1Movie content (running ActionScript 2 content inside ActionScript 3 movies) is a spiralling nexus of doom that will lead to your eventual insanity, if you persist in walking down that path.
 

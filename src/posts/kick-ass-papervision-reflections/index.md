@@ -8,6 +8,6 @@ tags:
 - papervision-3d
 ---
 
-[![](http://uploads.psyked.co.uk/2008/11/papervision-reflection.jpg "papervision-reflection")](http://blog.zupko.info/?p=156)
+[![](papervision-reflection.jpg)
 
 Would you look at that. I'm still amazed by what people can do in Papervision3D. [http://blog.zupko.info/?p=156](http://blog.zupko.info/?p=156)

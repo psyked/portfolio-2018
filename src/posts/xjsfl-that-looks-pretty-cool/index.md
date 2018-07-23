@@ -9,7 +9,7 @@ tags:
 - jsfl
 ---
 
-[![](http://uploads.psyked.co.uk/2010/08/xjsfl-header.png "xJSFL - Rapid development")](http://www.xjsfl.com/)
+[![](xjsfl-header.png)
 
 xJSFL \[[http://www.xjsfl.com/](http://www.xjsfl.com/)\] is a scripting library for extending the JSFL functionality of the Flash IDE. Its aim is to do for JSFL what the jQuery library did for Javascript which, by the way, was awesome.  Basically it extends the JSFL syntax to make it easier and faster to develop.
 

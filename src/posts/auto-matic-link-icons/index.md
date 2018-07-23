@@ -12,7 +12,7 @@ CSS 2.1 has many new wonderful capabilities, and I'm going to show you one of my
 
 First, a look at the end result :-
 
-![](http://uploads.psyked.co.uk/2007/07/auto-matic-link-icons.png "Auto-matic Link icons")
+![](auto-matic-link-icons.png)
 
 Now, you may have seen similar things on a few websites already, wikipedia certainly makes use of the technique to highlight external links. The astute of you may notice that the 'external' link isn't actually external - think of it more as 'absolute'. How do we achieve these results automatically? Well, that's with the power of the new CSS selectors. [456BereaSt.](http://www.456bereastreet.com/archive/200509/css_21_selectors_part_1/) has a nice article on them, but the stuff we're concerned with is the attribute selectors.
 

@@ -12,7 +12,7 @@ tags:
 
 Well, here it is, my first Adobe AIR application from Flash.
 
-![utf-8bot.png](http://uploads.psyked.co.uk/2008/04/utf-8bot.png)
+![utf-8bot.png](utf-8bot.png)
 
 
 

@@ -7,7 +7,7 @@ tags:
 - javascript
 ---
 
-![The DOM Monster!](http://uploads.psyked.co.uk/2011/03/dom-monster.png "The DOM Monster!")
+![The DOM Monster!](dom-monster.png)
 
 I'm always on the look out for new yardsticks to measure by code by, and here's another one that I've been introduced to recently. It's called [the DOM Monster](http://mir.aculo.us/dom-monster/ "The DOM Monster""), and it's something that you can drag and drop into your browser bookmarks bar, and then later click on to evaluate the current HTML page, based on things like its content, complexity, nesting levels and general content optimization.
 

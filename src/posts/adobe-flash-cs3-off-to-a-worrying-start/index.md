@@ -9,7 +9,7 @@ tags:
 - cs3
 ---
 
-![Adobe Flash CS3 Icon](http://uploads.psyked.co.uk/2007/05/adobe-flash-9.png)I'm afraid I'm only commenting on hearsay here, not actually firsthand experience. Because we still don't have Adobe Studio CS3 at work. Yes I know, a professional "New Media" agency doesn't have the latest and greatest software... shocking.
+![Adobe Flash CS3 Icon](adobe-flash-9.png)I'm afraid I'm only commenting on hearsay here, not actually firsthand experience. Because we still don't have Adobe Studio CS3 at work. Yes I know, a professional "New Media" agency doesn't have the latest and greatest software... shocking.
 
 But anyway. People have been conversing / moaning / arguing on FlashCoders mailing list today, about how Flash CS3 weighs in at around 400mb and a 30min+ install time, compared to Flash 8's 110mb and less install time.
 

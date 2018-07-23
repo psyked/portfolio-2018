@@ -13,6 +13,6 @@ Cyn.in is an AIR-based communications.. um.. thing?  It seems designed for grou
 
 Sorry Cynapse - it's a nice idea but I'm a bit nonplussed, especially given the hype that got generated for it.
 
-[![cyn-in2](http://uploads.psyked.co.uk/2009/01/cyn-in2.jpg "cyn-in2")](http://blogs.adobe.com/air/2008/12/adobe_air_powered_cynin_deskto.html)
+[![cyn-in2](cyn-in2.jpg)
 
 Of course, why not go make your own mind up:[](http://blogs.adobe.com/air/2008/12/adobe_air_powered_cynin_deskto.html)[http://blogs.adobe.com/air/2008/12/adobe\_air\_powered\_cynin\_deskto.html](http://blogs.adobe.com/air/2008/12/adobe_air_powered_cynin_deskto.html)

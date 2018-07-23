@@ -8,7 +8,7 @@ tags:
 - actionscript
 ---
 
-![](http://uploads.psyked.co.uk/2010/02/box2d-shapes-2.jpg "box2d-shapes-2")
+![](box2d-shapes-2.jpg)
 
 _^ This time, that's an image - saves on the page rendering time!_
 

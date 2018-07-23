@@ -11,7 +11,7 @@ tags:
 - shottts
 ---
 
-![](http://uploads.psyked.co.uk/2011/05/shottts-logo.png "The Shottts Logo")
+![](shottts-logo.png)
 
 [Shottts](http://appworld.blackberry.com/webstore/content/30821 "View the Shottts application on the BlackBerry App World website.") is an AIR application developed for the [BlackBerry Playbook Tablet](http://uk.blackberry.com/playbook-tablet/ "Read more about the Playbook Tablet"), developed by Mark Starling, of [http://markstar.co.uk](http://markstar.co.uk "Open http://markstar.co.uk in a new window.") fame.
 

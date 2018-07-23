@@ -18,11 +18,11 @@ I feel like I should put that in bold or something, because it's probably my mos
 
 **In Flash IDE:**
 
-**[![](http://uploads.psyked.co.uk/2010/01/flashview.jpg "flashview")](flashview.jpg)**
+**[![](flashview.jpg)**
 
 **In Box2D:**
 
-**[![](http://uploads.psyked.co.uk/2010/01/box2dview.jpg "box2dview")](box2dview.jpg)**
+**[![](box2dview.jpg)**
 
 You can [download the source for this demo here](http://uploads.psyked.co.uk/2010/01/simplebox2d_demo_100113.zip).
 

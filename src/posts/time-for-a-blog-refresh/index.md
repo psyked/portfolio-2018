@@ -14,22 +14,22 @@ A couple of my favourates are the **Modern** and **Corporate Sandbox**, but **Ba
 
 ### Modern
 
-[![](http://uploads.psyked.co.uk/2008/12/modern.jpg "modern")](http://www.ulfpettersson.se/design/modern/)
+[![](modern.jpg)
 
 ### Basic
 
-[![](http://uploads.psyked.co.uk/2008/12/basic.jpg "basic")](http://www.themelab.com/free-wordpress-themes/)
+[![](basic.jpg)
 
 ### Corporate Sandbox
 
-[![](http://uploads.psyked.co.uk/2008/12/corporate-sandbox.jpg "corporate-sandbox")](http://rubiqube.com/corporate-sandbox/)
+[![](corporate-sandbox.jpg)
 
 ### Deadwood Lite
 
-[![](http://uploads.psyked.co.uk/2008/12/deadwood-lite.jpg "deadwood-lite")](http://graphpaperpress.com/2008/01/05/deadwood-lite/)
+[![](deadwood-lite.jpg)
 
 ### Natural Power
 
-[![](http://uploads.psyked.co.uk/2008/12/natural-power.jpg "natural-power")](http://xfep.com/wordpress/wordpress-theme-natural-power/)
+[![](natural-power.jpg)
 
 You can see a more complete list of Themes at [http://blogsessive.com/blogging-tips/20-corporate-free-wordpress-themes/](http://blogsessive.com/blogging-tips/20-corporate-free-wordpress-themes/).

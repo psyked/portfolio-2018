@@ -12,7 +12,7 @@ tags:
 
 If you've been living under a rock for the past week - or maybe just been on holiday - you might not've heard about Google's new web browser called [Google Chrome](http://www.google.com/chrome).  Chrome is a direct competitior to other browsers such as Internet Explorer, Firefox or Safari.
 
-![](http://uploads.psyked.co.uk/2008/09/google-chrome.jpg "google-chrome")
+![](google-chrome.jpg)
 
 
 

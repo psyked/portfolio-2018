@@ -11,7 +11,7 @@ The FLVPlayback component that comes with Flash CS3 has been given a bit of a fa
 
 Both versions have support for FullScreen, High-Def video and embedded Captioning, but what 'excites' me is that the ActionScript 3 version of the FLVPlayback component has the FullScreen and Captioning features built right into the default skin and moreover, the skin is far more flexible;
 
-![blog-post-flvplayback.jpg](http://uploads.psyked.co.uk/2008/04/blog-post-flvplayback.jpg)
+![blog-post-flvplayback.jpg](blog-post-flvplayback.jpg)
 
 Nice, eh? You should be able to see that, in the ActionScript 3 version of the component, you are able to pick the background colour and opacity of the skin - no more messing around with custom skins for simple jobs - as well as the new component buttons in your Flash Video arsenal.
 

@@ -14,7 +14,7 @@ Madness in a good way, of course. Like all those people who queue outside stores
 
 Adobe are at it again, it seems. You may remember that the [flex sdk went open-source](http://www.psyked.co.uk/adobe/flex/flex-goes-open-source-what-does-this-mean.htm "Open link in a new window") just over a year ago, and now the swf and flv formats themselves are going open source. Here is [the press-release](http://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html), and here's [the official site for the "Open Screen Project"](http://www.adobe.com/openscreenproject/ "Open link in a new window").
 
-![](http://uploads.psyked.co.uk/2008/05/open-screen.jpg "open-screen")
+![](open-screen.jpg)
 
 ## So, what is the Open Screen Project, and why do we care?
 

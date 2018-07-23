@@ -7,7 +7,7 @@ tags:
 - iphone
 ---
 
-![](http://uploads.psyked.co.uk/2010/05/iphone-sauron.png "Apple / Sauron image")
+![](iphone-sauron.png)
 
 It's finally happened. My tithe to Apple has been paid, and my iPhone has arrived on my desk.
 

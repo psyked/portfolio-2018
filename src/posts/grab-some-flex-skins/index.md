@@ -15,4 +15,4 @@ tags:
 
 The winning entries, and the article about them, can be found at [http://scalenine.com/blog/2008/10/16/and-the-winners-are/](http://scalenine.com/blog/2008/10/16/and-the-winners-are/)...
 
-[![](http://uploads.psyked.co.uk/2008/10/skintowin.jpg "skintowin")](skintowin.jpg)
+[![](skintowin.jpg)

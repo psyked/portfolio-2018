@@ -15,7 +15,7 @@ Wow.  Because I'm so lazy at actually blogging about things, at least two full 
 
 ### Individual files output
 
-![Individual files output](http://uploads.psyked.co.uk/2009/10/new-output-screen.jpg "Individual files output")
+![Individual files output](new-output-screen.jpg)
 
 > "Hey, that sounds like a good idea."
 
@@ -25,13 +25,13 @@ It seems to work well for what I often want ImageSizer to be able to do when I'm
 
 ### Image rotation
 
-![Image Rotation](http://uploads.psyked.co.uk/2009/10/image-rotation.jpg "Image Rotation")
+![Image Rotation](image-rotation.jpg)
 
 Image rotation!  Ok, at the moment it's a limited 90-degree step rotation, but I'm sure that's useful for a lot of situations.  Images can easily be rotated using the buttons illustrated in the image above.
 
 ### A Splash Screen.
 
-![ImageSizer Splash screen](http://uploads.psyked.co.uk/2009/10/imagesizer-splash.jpg "ImageSizer Splash screen")
+![ImageSizer Splash screen](imagesizer-splash.jpg)
 
 It hasn't been easy developing ImageSizer, and as a result - I'm sad to say - it hasn't always been smooth sailing.  My tendency to finish coding in the wee hours of the morning and immediately release exciting new things can often be blamed for the introduction of new issues.  ImageSizer has had its fair share of bugs, and those bugs tended to focus on the startup processes of the application, which makes an application Splash Screen sound like a good idea.  At least this way you can see the application is running, even if it hangs a bit while it fetches your settings.
 

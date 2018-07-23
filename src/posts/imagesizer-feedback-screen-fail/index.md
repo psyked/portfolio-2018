@@ -11,6 +11,6 @@ This is a 'public service announcement'.  Basically, the ImageSizer feedback sc
 
 It's all fixed now, but if you've sent feedback or have a burning comment to make then please, send it again. (And sorry for the trouble.)
 
-![ImageSizer feedback screen](http://uploads.psyked.co.uk/2009/03/feedback-screen.jpg "ImageSizer feedback screen")
+![ImageSizer feedback screen](feedback-screen.jpg)
 
 I'm planning on a few further updates for ImageSizer soon, to make this process a little better...
