@@ -4,6 +4,8 @@ layout: post
 title: Recent Posts Range Widget
 date: 2007-11-11T00:58:51Z
 tags:
+- php
+- wordpress
 - wordpress-plugins
 ---
 
@@ -11,7 +13,7 @@ _'Recent Posts Range'_ is an expansion of the functionality offered by the built
 
 With this widget, you can display some more of your older posts, without cluttering things up too much. Heck, you could even use it with the standard 'Recent Posts' widget to get 'Older posts'.
 
-[Download Recent Posts Range now!](http://uploads.psyked.co.uk/2007/11/recent-posts-range-widget.zip "recent-posts-range-widget.zip")
+~~Download Recent Posts Range now!~~
 
 ### Customizable widget Features:
 
@@ -26,6 +28,6 @@ Doesn't feature (i.e. I can't figure it out) :
 
 *   Post category / tag exclusions
 
-### [Download Recent Posts Range now!](http://uploads.psyked.co.uk/2007/11/recent-posts-range-widget.zip "recent-posts-range-widget.zip")
+### ~~Download Recent Posts Range now!~~
 
 It's funny where a caffeine-fuelled night will ends up.
