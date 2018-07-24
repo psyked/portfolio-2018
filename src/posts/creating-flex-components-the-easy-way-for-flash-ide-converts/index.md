@@ -39,30 +39,31 @@ The MovieClip is ready for use in Flex as a component, but if you try to do so i
 *   The class extends mx.flash.UIMovieClip, this is the base class the Flex Component kit gave the class initially.
 *   We’ve overridden the setActualSize() method so that we control what happens when the component is resized. Firstly we check to ensure that it’s necessary we change properties of the children in the component, if the new dimensions do not match the current dimensions then we change them and adjust the children (in this case our box).
 
+
     package couk.psyked.ui
     {
-    import flash.display.MovieClip;
-    import mx.flash.UIMovieClip;
-    //
-    public class RedBox extends UIMovieClip
-    {
-    public function RedBox():void
-    {
-    super();
-    }
-    //
-    override public function setActualSize( newWidth:Number, newHeight:Number ):void
-    {
-    if (newWidth != _width || newHeight != _height)
-    {
-    _width = newWidth;
-    _height = newHeight;
-    //
-    box.x = ( _width - box.width ) / 2;
-    box.y = ( _height - box.height ) / 2;
-    }
-    }
-    }
+        import flash.display.MovieClip;
+        import mx.flash.UIMovieClip;
+        //
+        public class RedBox extends UIMovieClip
+        {
+            public function RedBox():void
+            {
+                super();
+            }
+            //
+            override public function setActualSize( newWidth:Number, newHeight:Number ):void
+            {
+                if (newWidth != _width || newHeight != _height)
+                {
+                    _width = newWidth;
+                    _height = newHeight;
+                    //
+                    box.x = ( _width - box.width ) / 2;
+                    box.y = ( _height - box.height ) / 2;
+                }
+            }
+        }
     }
 
 Finally we need to change the linkage of our RedBox MovieClip in the library, set those to the image below. Note that we change the base class to flash.display.MovieClip; this is because it’s ignored now that our custom class extends mx.flash.UIMovieClip. If you try to link the custom class to the MovieClip without changing the base class you’ll get an error.

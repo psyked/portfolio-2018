@@ -21,6 +21,7 @@
 
 @import './normalize';
 @import './mixins'; 
+@import './vars'; 
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
@@ -44,8 +45,9 @@ img {
 
 body {
 	margin: 0;
-	padding: 1em;
-	background: repeating-linear-gradient(45deg,#00b0f0,#00b0f0 10px,#009dd6 0,#009dd6 20px);
+	padding: 0;
+	// padding: 1em;
+	// background: repeating-linear-gradient(45deg,#00b0f0,#00b0f0 10px,#009dd6 0,#009dd6 20px);
 }
 
 .body {
@@ -131,4 +133,11 @@ html {
 h1 {
   @include fluid-type(padding-bottom padding-top, 20em, 70em, 2em, 6em);
   @include fluid-type(font-size, 20em, 70em, 2em, 3em);
+}
+
+pre {
+  overflow: scroll;
+  background: $bg-alt;
+  padding: $margin-sm;
+  margin: #{$margin-lg} #{-$margin-sm};
 }

@@ -2,13 +2,14 @@
 
 .menuLink {
     margin-right: $margin-sm;
+    color: $bg;
 }
 
 .active {
-    color:$red;
+    color: $red;
 }
 
 .root {
-    background:$fg;
+    background: $fg;
     padding: $margin-sm;
 }
