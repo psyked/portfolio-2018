@@ -1,7 +1,7 @@
 ---
-path: /blog/version-2-bb6e7a08644d/
+path: /blog/duotone-version-2/
 layout: "post"
-title: "Version 2"
+title: "Duotone: Version 2"
 description: "Refactoring and enhancing an MVP"
 url: "https://medium.com/@psyked/version-2-bb6e7a08644d"
 image: "https://cdn-images-1.medium.com/max/1200/1*dfcatQafd-1zeFuKUnABPw.gif"
@@ -15,8 +15,6 @@ tags:
 - Duotone
 date: 2018-03-20T23:01:53.855Z
 ---
-
-# Version 2
 
 ## Refactoring and enhancing an MVP
 
