@@ -16,9 +16,6 @@ tags:
 - Front End Development
 date: 2018-07-11T11:11:46.274Z
 ---
-# Fluid widths in responsive websites.
-
-## Front End Design Principle Rambles #1
 
 I’ve recently worked with the team behind the Derby University website \[[https://www.derby.ac.uk/](https://www.derby.ac.uk/)\] and one of the details that I really like about the implementation of the design is that it features more than just fluid widths, it also features fluid font sizes. I’ll get onto what that means in another post, but for now I want to talk a little about using fluid widths.
 
