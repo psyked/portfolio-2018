@@ -13,4 +13,4 @@ It's so hard to find useful resources for Icons on the web. Especially product i
 
 Regardless, I found a cool set of these Icons the other day, thanks to [koregraphik](http://www.koregraphik.com/downloads/adobe-cs3/ "Open koregraphik in a new window"). The icons aren't exact rips of the 'real' icons, but they're very close. (Scaled down to 32x32 the rounded corners are neglible, and actually make the icon look smoother) They look sweet at full scale, and that's good enough for me.
 
-![Adobe Flash CS3 Icon](/content/images/2007/05/adobe-flash-9.png)![Adobe Director CS3 Icon](/content/images/2007/05/adobe-director-11.png)![Adobe Photoshop CS3 Icon](/content/images/2007/05/adobe-photoshop-cs3.png)
+![Adobe Flash CS3 Icon](adobe-flash-9.png)![Adobe Director CS3 Icon](adobe-director-11.png)![Adobe Photoshop CS3 Icon](adobe-photoshop-cs3.png)
