@@ -1,22 +1,15 @@
 ---
-path: /blog/amateur-data-spelunking-bfe67ead9113/
+path: /blog/amateur-data-spelunking
 layout: "post"
 title: "Amateur data spelunking"
 description: "Raw data has a strangely alluring quality — it has the power to answer all of your questions, as well as the power to ask even more."
 url: "https://medium.com/@psyked_james/amateur-data-spelunking-bfe67ead9113"
-image: "https://cdn-images-1.medium.com/max/1200/1*_T7QbAHd9V-3svG9Fvj_KQ.jpeg"
-src: "https://cdn-images-1.medium.com/max/1200/1*_T7QbAHd9V-3svG9Fvj_KQ.jpeg"
+image: "1*_T7QbAHd9V-3svG9Fvj_KQ.jpeg"
 author: "https://medium.com/@psyked_james"
-type: "article"
-card: "summary_large_image"
-published_time: 2014-10-07T16:37:30.166Z
 creator: "@psyked_james"
 date: 2014-10-07T16:37:30.166Z
 ---
   
-
-# Amateur data spelunking
-
 ## with New Relic Insights
 
 ---
@@ -57,15 +50,15 @@ On our website we’re already using _Google Analytics_, which tells us how many
 
 The obvious way to get this information is to count the number of active user ‘sessions’ on the website. To do that we’ll send the following **NRQL** to the Insights API:
 
-SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}'
+    SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}'
 
 Which in this case gives us **104 sessions**. That looks a little high for this website, but that’s because we haven’t specified a time range and it’s defaulting to 1 hour. _Google Analytics_ does their real-time data in 5 minute slices, so we’ll try that next:
 
-SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}' SINCE 5 minutes ago
+    SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}' SINCE 5 minutes ago
 
 That gives us **10 sessions — **which is better — but it doesn’t quite compare to _Google Analytics_ yet, which actually gives you some trending information. So let’s try a comparison with the last 5 minutes instead.
 
-SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}' SINCE 5 minutes ago COMPARE WITH 5 minutes ago
+    SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}' SINCE 5 minutes ago COMPARE WITH 5 minutes ago
 
 ![](1*CXq8YnNpC8Op7GjBZjloRw.png)
 
@@ -73,7 +66,7 @@ That’s a much better real-time view, and it matches up pretty well with our ex
 
 Simple numbers and comparisons are one way of looking at this data, but we can get a better idea of trends if we take larger slices of data and display them using charts. To get a simple chart of this data we can add a TIMESERIES, using this snippet of code:
 
-SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}' SINCE 6 hours ago TIMESERIES 1 minute
+    SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}' SINCE 6 hours ago TIMESERIES 1 minute
 
 Which will generate this graph of minute-by-minute active session data:
 
@@ -87,7 +80,7 @@ Which will generate this graph of minute-by-minute active session data:
 
 Knowing the number of users on our website is one part, but we also want to have an idea of how much content they’re interacting with while on our website, and for that we can simply count the number of PageViews:
 
-SELECT count(*) FROM PageView WHERE appName = '{name}' TIMESERIES auto SINCE 1 day ago
+    SELECT count(*) FROM PageView WHERE appName = '{name}' TIMESERIES auto SINCE 1 day ago
 
 Which will generate a chart like this (below) — which in this case is particularly useful for showing us when our peak load times are during a single day.
 
@@ -105,7 +98,7 @@ Our stats so far are just replicating what we can get elsewhere, so now it’s t
 
 In this case, there’s three different sets of scores that we want to pull in — the score for the application server, for our database server, and another for external websites and services. To do that we can use a query like this:
 
-SELECT apdex(databaseDuration), apdex(duration), apdex(externalDuration) FROM Transaction WHERE appName ='{name}' TIMESERIES auto SINCE 1 day ago
+    SELECT apdex(databaseDuration), apdex(duration), apdex(externalDuration) FROM Transaction WHERE appName ='{name}' TIMESERIES auto SINCE 1 day ago
 
 Which will create a slightly different type of chart — by using commas to select three different sets of data, we get a multi-line chart.
 
@@ -123,11 +116,11 @@ Accurately determining the answers to this really depends on your application an
 
 Our application has a few key areas, and these areas can — in part — be deduced by looking at the page URL and throwing a few wildcards into the query. To see the number of users in a section called ‘Planner’ we could add the condition…
 
-AND pageUrl LIKE '%planner%'
+    AND pageUrl LIKE '%planner%'
 
 … to our existing query to create …
 
-SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}' AND pageUrl LIKE '%planner%' SINCE 5 minutes ago COMPARE WITH 5 minutes ago
+    SELECT uniqueCount(session) FROM PageView WHERE appName = '{name}' AND pageUrl LIKE '%planner%' SINCE 5 minutes ago COMPARE WITH 5 minutes ago
 
 Which — when compared with our previous query — starts to give us a better picture of the proportional usage of certain features.
 
@@ -141,7 +134,7 @@ But what if we _can’t_ determine the feature usage by URLs alone? What if we�
 
 One such area of our website that we have is the ‘Resource Viewer’ which uses the same base URL structure to display many different types of content. To inspect this kind of data, we need to be looking at our applications’ transaction data, with a query like this:
 
-SELECT count(*) FROM Transaction WHERE appName = '{name}' AND name LIKE 'WebTransaction/Action/default/player/%'
+    SELECT count(*) FROM Transaction WHERE appName = '{name}' AND name LIKE 'WebTransaction/Action/default/player/%'
 
 Again we’re using wildcards and URL-like inspection of our data, but we’re instead using it on our internal PHP-applications’ routing structure, to inspect the data that isn’t otherwise available. The result of such a query looks like this:
 
@@ -149,7 +142,7 @@ Again we’re using wildcards and URL-like inspection of our data, but we’re i
 
 Which, whilst vaguely interesting, doesn’t really tell us anything about the _types_ of resources that have been loaded. To do that, we need to give the API a little more information about how to group the results, by telling it the FACET of data that we’re interested in, like so:
 
-SELECT count(*) FROM Transaction WHERE appName = '{name}' AND name LIKE 'WebTransaction/Action/default/player/%' SINCE 1 day ago FACET name
+    SELECT count(*) FROM Transaction WHERE appName = '{name}' AND name LIKE 'WebTransaction/Action/default/player/%' SINCE 1 day ago FACET name
 
 Which gives us the much more useful and interesting specifics:
 
