@@ -13,7 +13,7 @@ For all the buzz it's getting, you'd think HTML5 was an avalanche of new feature
 
 First things first - **what features actually make up HTML5, and how widely supported are they? Turns out, there's already a site which tracks the features and their browser support:**
 
-[![](litmus.png)
+![](litmus.png)
 
 [http://www.findmebyip.com/litmus](http://www.findmebyip.com/litmus)
 
