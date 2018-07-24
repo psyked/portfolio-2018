@@ -1,7 +1,7 @@
 ---
-path: /blog/secret-weapon-1-kuler/
+path: /blog/web-designers-secret-weapon-1-kuler/
 layout: post
-title: 'Secret Weapon 1 : Kuler'
+title: "A Web Designers' Secret Weapon #1 : Kuler"
 date: 2007-05-15T21:55:15Z
 tags:
 - flex
@@ -9,8 +9,6 @@ tags:
 - resources
 - tools
 ---
-
-![Martal Artist 001](/content/images/2007/05/martal.thumbnail.gif)
 
 Print Designers have it easy, you know. They get things like Pantone Books, and well, things like that. Time to even the score? I think so, and obviously so does [Adobe](http://www.adobe.com "Open adobe's website in a new window").
 
