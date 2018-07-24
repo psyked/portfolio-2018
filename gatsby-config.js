@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: "Psyked.co.uk",
+    title: "Psyked: James' Web Development website",
     author: "James Ford",
     description: "James' personal website"
   },
-  pathPrefix: `/portfolio-2018`,
+  // pathPrefix: `/portfolio-2018`,
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
