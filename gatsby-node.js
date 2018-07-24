@@ -20,8 +20,11 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           edges {
             node {
               frontmatter {
-                path,
+                path
                 tags
+                title
+                image
+                date
               }
             }
           }
@@ -33,19 +36,26 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           console.log(result.errors)
           reject(result.errors)
         }
+        const posts = result.data.allMarkdownRemark.edges;
 
         // Create blog posts pages.
-        _.each(result.data.allMarkdownRemark.edges, edge => {
+        _.each(posts, (edge, index) => {
+          const next = index === 0 ? false : posts[index - 1].node
+          const prev = index === posts.length - 1 ? false : posts[index + 1].node
           createPage({
             path: edge.node.frontmatter.path,
-            component: blogPost
+            component: blogPost,
+            context: {
+              prev,
+              next
+            }
           })
         })
 
         // Tag pages:
         let tags = [];
         // Iterate through each post, putting all found tags into `tags`
-        _.each(result.data.allMarkdownRemark.edges, edge => {
+        _.each(posts, edge => {
           if (_.get(edge, "node.frontmatter.tags")) {
             tags = tags.concat(edge.node.frontmatter.tags);
           }
