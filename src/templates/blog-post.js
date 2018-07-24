@@ -15,14 +15,7 @@ class BlogPostTemplate extends React.Component {
     return (
       <div>
         <Helmet title={`${title} | ${siteTitle}`} />
-        {image && (
-          <BannerLanding title={title} lead={description} image={image} />
-        )}
-        {!image && (
-          <header className="major">
-            <h1>{title}</h1>
-          </header>
-        )}
+        <BannerLanding title={title} lead={description} image={image} />
         <div style={{
           padding: '1em 2em'
         }} dangerouslySetInnerHTML={{ __html: post.html }} />

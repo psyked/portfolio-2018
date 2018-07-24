@@ -7,7 +7,6 @@ const Header = (props) => (
     <header className={styles.root}>
         <nav>
             <Link to="/" className={styles.menuLink} activeClassName={styles.active} exact>Home</Link>
-            <Link to="/readme/" className={styles.menuLink} activeClassName={styles.active}>README</Link>
             <Link to="/blog/" className={styles.menuLink} activeClassName={styles.active}>Blog</Link>
         </nav>
     </header>

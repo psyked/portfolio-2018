@@ -1,12 +1,14 @@
+@import "../assets/scss/vars.scss";
+
 .menuLink {
-    margin-right: 1em;
+    margin-right: $margin-sm;
 }
 
 .active {
-    color:red;
+    color:$red;
 }
 
 .root {
-    background:black;
-    padding: 1em;
+    background:$fg;
+    padding: $margin-sm;
 }

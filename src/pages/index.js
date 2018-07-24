@@ -3,13 +3,17 @@ import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import Banner from '../components/Banner'
 
+import ReactMarkdown from 'react-markdown'
+import content from 'raw!./README.md'
+
 class HomeIndex extends React.Component {
     render() {
         const siteTitle = this.props.data.site.siteMetadata.title
         const siteDescription = this.props.data.site.siteMetadata.description
 
         return (
-            <div>
+            <main>
+
                 <Helmet>
                     <title>{siteTitle}</title>
                     <meta name="description" content={siteDescription} />
@@ -17,7 +21,9 @@ class HomeIndex extends React.Component {
 
                 <Banner />
 
-            </div >
+                <ReactMarkdown source={content} />
+
+            </main>
         )
     }
 }
