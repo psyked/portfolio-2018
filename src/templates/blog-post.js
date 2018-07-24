@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import BannerLanding from '../components/BannerLanding'
+import Tiles from '../components/Tiles'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -22,7 +23,9 @@ class BlogPostTemplate extends React.Component {
             <h1>{title}</h1>
           </header>
         )}
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div style={{
+          padding: '1em 2em'
+        }} dangerouslySetInnerHTML={{ __html: post.html }} />
         {tags &&
           <div>
             <hr />
@@ -41,7 +44,8 @@ class BlogPostTemplate extends React.Component {
             This article was originally published at <a href={url}>{url}</a>
           </div>
         )}
-        {prev && (
+        <Tiles tiles={[prev, next]} />
+        {/* {prev && (
           <Link to={prev.frontmatter.path}>
             Previous Post: {prev.frontmatter.title}
           </Link>
@@ -50,7 +54,7 @@ class BlogPostTemplate extends React.Component {
           <Link to={next.frontmatter.path}>
             Next Post: {next.frontmatter.title}
           </Link>
-        )}
+        )} */}
       </div>
     )
   }

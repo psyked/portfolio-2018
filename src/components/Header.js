@@ -1,12 +1,14 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+import styles from './header.module.scss'
+
 const Header = (props) => (
-    <header id="header" className="alt">
+    <header className={styles.root}>
         <nav>
-            <Link to="/" className="menu-link" activeClassName="active" exact>Home</Link>
-            <Link to="/readme/" className="menu-link" activeClassName="active">README</Link>
-            <Link to="/blog/" className="menu-link" activeClassName="active">Blog</Link>
+            <Link to="/" className={styles.menuLink} activeClassName={styles.active} exact>Home</Link>
+            <Link to="/readme/" className={styles.menuLink} activeClassName={styles.active}>README</Link>
+            <Link to="/blog/" className={styles.menuLink} activeClassName={styles.active}>Blog</Link>
         </nav>
     </header>
 )

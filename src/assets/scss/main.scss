@@ -1,100 +1,73 @@
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/skel';
-@import '../css/font-awesome.min.css';
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic');
-@import url('https://fonts.googleapis.com/css?family=Patrick+Hand');
+// html, 
+// body, 
+// .pattern-bg {
+// 	background: repeating-linear-gradient(45deg, _palette(highlight), _palette(highlight) 10px, _palette(highlight-alt) 10px, _palette(highlight-alt) 20px);
+// }
 
-/*
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+// .body {
+// 	padding: 1em;
+// }
 
-	@include skel-breakpoints((
-		xlarge: '(max-width: 1680px)',
-		large: '(max-width: 1280px)',
-		medium: '(max-width: 980px)',
-		small: '(max-width: 736px)',
-		xsmall: '(max-width: 480px)',
-		xxsmall: '(max-width: 360px)'
-	));
+// .tags {
+// 	margin-top: 1em;
 
-	@include skel-layout((
-		reset: 'full',
-		boxModel: 'border',
-		// grid: ( gutters: 2em ),
-		// breakpoints: (
-		// 	large: (
-		// 		grid: ( gutters: 1.5em )
-		// 	),
-		// 	small: (
-		// 		grid: ( gutters: 1.25em )
-		// 	)
-		// )
-	));
+// 	a {
+// 		background: _palette(bg-alt);
+// 		padding: .25em .5em;
+// 		margin: 0 0 0  .25em;
+// 		color: _palette(fg);
+// 	}
+// }
 
-	@mixin inner {
-		> .inner {
-			@include padding(4em, 0);
-			margin: 0 auto;
-			max-width: _size(inner);
-			width: calc(100% - 6em);
+@import './normalize';
+@import './mixins'; 
 
-			@include breakpoint(small) {
-				@include padding(3em, 0);
-				width: calc(100% - 3em);
-			}
-		}
-	}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
-// Base.
+$min_width: 320px;
+$max_width: 1200px;
+$min_font: 16px;
+$max_font: 24px;
 
-	@import 'base/page';
-	@import 'base/typography';
+html {
+  @include fluid-type($min_width, $max_width, $min_font, $max_font);
+  font-family: 'Roboto', sans-serif;
+}
 
-// Component.
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Open Sans', sans-serif;
+}
 
-	@import 'components/section';
-	@import 'components/form';
-	@import 'components/box';
-	@import 'components/icon';
-	@import 'components/image';
-	@import 'components/list';
-	@import 'components/table';
-	@import 'components/button';
-	@import 'components/tiles';
-	@import 'components/contact-method';
-	@import 'components/spotlights';
+img {
+	max-width: 100%;
+}
 
-// Layout.
+body {
+	margin: 0;
+	padding: 1em;
+	background: repeating-linear-gradient(45deg,#00b0f0,#00b0f0 10px,#009dd6 0,#009dd6 20px);
+}
 
-	@import 'layout/header';
-	@import 'layout/banner';
-	@import 'layout/main';
-	@import 'layout/contact';
-	@import 'layout/footer';
-	@import 'layout/wrapper';
-	@import 'layout/menu';
+.body {
+	background: #fcfcfd;
+}
 
-	html, 
-	body, 
-	.pattern-bg {
-		background: repeating-linear-gradient(45deg, _palette(highlight), _palette(highlight) 10px, _palette(highlight-alt) 10px, _palette(highlight-alt) 20px);
-	}
+.inner {
+	// padding: 1em;
+}
 
-	.body {
-		padding: 1em;
-	}
+$mod_1: 1.2; // mobile
+$mod_2: 1.5; // desktop
 
-	.tags {
-		margin-top: 1em;
-
-		a {
-			background: _palette(bg-alt);
-			padding: .25em .5em;
-			margin: 0 0 0  .25em;
-			color: _palette(fg);
-		}
-	}
+h1 {  
+	font-size: $mod_1*$mod_1*$mod_1*$mod_1 *1rem; 
+  @include fluid-type($min_width, $max_width, $mod_1*$mod_1*$mod_1 *$min_font, $mod_2*$mod_2*$mod_2 *$min_font);
+}
+h2 {  
+  font-size: $mod_1*$mod_1*$mod_1 *1rem; 
+  @include fluid-type($min_width, $max_width, $mod_1*$mod_1*$mod_1 *$min_font, $mod_2*$mod_2*$mod_2 *$min_font);
+}
+h3 { 
+  font-size: $mod_1*$mod_1 *1rem;
+  @include fluid-type($min_width, $max_width, $mod_1*$mod_1 *$min_font, $mod_2*$mod_2 *$min_font);
+}

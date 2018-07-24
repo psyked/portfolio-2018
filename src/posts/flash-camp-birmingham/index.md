@@ -2,12 +2,13 @@
 path: /blog/flash-camp-birmingham/
 layout: post
 title: Flash Camp Birmingham
+image: flashcampbirmingham.jpg
 date: 2009-05-07T20:12:50Z
 tags:
 - flash
 ---
 
-[![Flash Camp - Birmingham](flashcampbirmingham.jpg)
+![Flash Camp - Birmingham](flashcampbirmingham.jpg)
 
 **Flash Camp Birmingham** is now open for registrations - it's on June 16th (2009), 12pm - 8pm.
 

@@ -12,7 +12,10 @@ const Tags = ({ pathContext, data }) => {
         } tagged with "${tag}"`;
 
     return (
-        <div>
+        <div style={{
+            padding: '1em 2em'
+        }}>
+            <Link to="/tags">All tags</Link>
             <h1>{tagHeader}</h1>
             <ul>
                 {edges.map(({ node }) => {
@@ -24,8 +27,7 @@ const Tags = ({ pathContext, data }) => {
                     );
                 })}
             </ul>
-            <Link to="/tags">All tags</Link>
-        </div>
+        </div >
     );
 };
 
