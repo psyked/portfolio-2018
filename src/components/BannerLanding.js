@@ -1,15 +1,16 @@
 import React from 'react'
 
-const BannerLanding = (props) => (
-    <section id="banner" className="style2">
+const BannerLanding = ({ title, lead, image }) => (
+    <section id="banner" className="style2" style={{ background: 'grey', backgroundImage: `url(${image})` }}>
         <div className="inner">
             <header className="major">
-                <h1>Landing</h1>
+                <h1>{title}</h1>
             </header>
-            <div className="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br />
-                sed veroeros. tempus adipiscing nulla.</p>
-            </div>
+            {lead &&
+                <div className="content">
+                    <p>{lead}</p>
+                </div>
+            }
         </div>
     </section>
 )
