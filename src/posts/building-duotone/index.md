@@ -4,7 +4,7 @@ layout: "post"
 title: "Building “duotone”"
 description: "Applying filters to images and generating downloads with client-side Javascript"
 url: "https://medium.com/@psyked/building-duotone-fc7e0d9a3b9e"
-image: https://cdn-images-1.medium.com/max/1200/1*1v5wB-0SlpzMcdxODc75Fw.png
+image: 1*1v5wB-0SlpzMcdxODc75Fw.png
 author: "https://medium.com/@psyked"
 published_time: 2018-03-13T23:22:11.253Z
 creator: "@psyked"

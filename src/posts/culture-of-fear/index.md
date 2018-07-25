@@ -2,7 +2,7 @@
 path: /blog/culture-of-fear/
 title: "Culture of fear"
 url: "https://medium.com/@psyked/culture-of-fear-9850823040b0"
-image: https://cdn-images-1.medium.com/max/1200/1*q9eE6JDx90bujWY6Da8lhQ.png
+image: 1*q9eE6JDx90bujWY6Da8lhQ.png
 description: "Yes, it’s a project from Hell, but who’s to blame?"
 author: "https://medium.com/@psyked"
 creator: "@psyked"

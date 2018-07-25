@@ -4,7 +4,7 @@ layout: "post"
 title: "Modular Code Libraries FTW"
 description: "Thanks to the fact that I work alongside a bunch of awesome people, today I’ve been introduced to the date-fns library, and it struck a…"
 url: "https://medium.com/@psyked/modular-code-libraries-ftw-d0db70a5365a"
-image: https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png
+image: 1*pZ9iKrsUlMQIo_isecaj0A.png
 src: "https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png"
 author: "https://medium.com/@psyked"
 published_time: 2017-01-12T09:07:00.606Z

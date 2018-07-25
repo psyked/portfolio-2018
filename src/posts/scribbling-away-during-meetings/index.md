@@ -4,7 +4,7 @@ layout: "post"
 title: "Scribbling away during meetings."
 description: "I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered…"
 url: "https://medium.com/@psyked/scribbling-away-during-meetings-bf1c1a46f018"
-image: https://cdn-images-1.medium.com/max/1200/1*V8WgG38jMeJ2lITvnlLM5A.jpeg
+image: 1*V8WgG38jMeJ2lITvnlLM5A.jpeg
 author: "https://medium.com/@psyked"
 published_time: 2017-01-24T18:49:23.000Z
 creator: "@psyked"

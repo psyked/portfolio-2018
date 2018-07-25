@@ -4,7 +4,7 @@ layout: "post"
 title: "PokéProject Dev Diary: Day Five"
 description: "Move fast, change things."
 url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-five-92859457a20a"
-image: https://cdn-images-1.medium.com/max/1200/1*Kp3dePIQiFvW6HuPg7Dxpg.jpeg
+image: 1*Kp3dePIQiFvW6HuPg7Dxpg.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*Kp3dePIQiFvW6HuPg7Dxpg.jpeg"
 author: "https://medium.com/@psyked"
 published_time: 2016-09-20T20:11:03.647Z

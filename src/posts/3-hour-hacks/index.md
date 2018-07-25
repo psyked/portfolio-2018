@@ -4,7 +4,7 @@ layout: "post"
 title: "3 hour hacks"
 description: "Here’s my next big idea."
 url: "https://medium.com/@psyked/3-hour-hacks-d22772439d04"
-image: https://cdn-images-1.medium.com/max/1200/1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg
+image: 1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg
 author: "https://medium.com/@psyked"
 creator: "@psyked"
 tags:

@@ -4,7 +4,7 @@ layout: "post"
 title: "PokéProject Dev Diary: Day Four"
 description: "Adverts, and going live."
 url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-four-25aed272eb17"
-image: https://cdn-images-1.medium.com/max/1200/1*ar_BjfWyVqeI7iWpilFueQ.png
+image: 1*ar_BjfWyVqeI7iWpilFueQ.png
 src: "https://cdn-images-1.medium.com/max/1200/1*ar_BjfWyVqeI7iWpilFueQ.png"
 author: "https://medium.com/@psyked"
 published_time: 2016-09-19T19:16:16.296Z

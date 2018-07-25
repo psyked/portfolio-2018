@@ -4,7 +4,7 @@ layout: "post"
 title: "PokéProject Dev Diary: Prologue"
 description: "I’ve written a little before about my exploits as I try to live in “a constant state of Hackathon” but this time I thought I’d change it…"
 url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-prologue-d214a44c348f"
-image: https://cdn-images-1.medium.com/max/1200/1*3eWOlkdwOZoxG4h_RlDyAw.jpeg
+image: 1*3eWOlkdwOZoxG4h_RlDyAw.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*3eWOlkdwOZoxG4h_RlDyAw.jpeg"
 author: "https://medium.com/@psyked"
 published_time: 2016-09-09T20:15:21.689Z

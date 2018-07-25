@@ -4,7 +4,7 @@ layout: "post"
 title: "PokéProject: Adventures with LEGO Bricks"
 description: "Part 3: From a theory to the real world."
 url: "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276"
-image: https://cdn-images-1.medium.com/max/1200/1*rU7_XZWxTWMKPwGjNcPFJg.png
+image: 1*rU7_XZWxTWMKPwGjNcPFJg.png
 src: "https://cdn-images-1.medium.com/max/1200/1*rU7_XZWxTWMKPwGjNcPFJg.png"
 author: "https://medium.com/@psyked"
 published_time: 2017-06-07T22:26:30.011Z

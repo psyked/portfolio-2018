@@ -4,7 +4,7 @@ layout: "post"
 title: "PokéProject Dev Diary: Day Six"
 description: "Move fast, break shit."
 url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-six-c263ef30fd0c"
-image: https://cdn-images-1.medium.com/max/1200/1*p5_Ies7YdsgoJcMFxHQoHg.jpeg
+image: 1*p5_Ies7YdsgoJcMFxHQoHg.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*p5_Ies7YdsgoJcMFxHQoHg.jpeg"
 author: "https://medium.com/@psyked"
 published_time: 2016-09-26T08:16:02.077Z

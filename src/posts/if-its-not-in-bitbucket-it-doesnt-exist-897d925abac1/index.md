@@ -4,7 +4,7 @@ layout: "post"
 title: "If it’s not in Bitbucket, it doesn’t exist."
 description: "Reinforcing Development Best Practices with brutally inflexible rules."
 url: "https://medium.com/@psyked_james/if-its-not-in-bitbucket-it-doesnt-exist-897d925abac1"
-image: https://cdn-images-1.medium.com/max/1200/1*2I4FcjP7sBgn0rgkTZIKIA.jpeg
+image: 1*2I4FcjP7sBgn0rgkTZIKIA.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*2I4FcjP7sBgn0rgkTZIKIA.jpeg"
 author: "https://medium.com/@psyked_james"
 type: "article"

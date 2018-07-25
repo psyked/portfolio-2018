@@ -4,7 +4,7 @@ layout: "post"
 title: "Git Zero to Git Hero"
 description: "Mastering git requires a mentor. Let me be yours."
 url: "https://medium.com/@psyked_james/git-zero-to-git-hero-900578ab90c2"
-image: https://cdn-images-1.medium.com/max/1200/1*fBeL90Mv68uUg15HtKliUA.jpeg
+image: 1*fBeL90Mv68uUg15HtKliUA.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*fBeL90Mv68uUg15HtKliUA.jpeg"
 author: "https://medium.com/@psyked_james"
 type: "article"
