@@ -4,6 +4,7 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import BannerLanding from '../components/BannerLanding'
 import Tiles from '../components/Tiles'
+import Tags from '../components/Tags'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -19,35 +20,13 @@ class BlogPostTemplate extends React.Component {
         <div style={{
           padding: '1em 2em'
         }} dangerouslySetInnerHTML={{ __html: post.html }} />
-        {tags &&
-          <div>
-            <hr />
-            <div className="box tags">
-              Tagged as:
-              {tags.map(tag => {
-                return (
-                  <span key={tag}><Link to={`/tag/${tag}`}>{tag}</Link> </span>
-                )
-              })}
-            </div>
-          </div>
-        }
+        <Tags tags={tags} />
         {url && (
           <div className="box">
             This article was originally published at <a href={url}>{url}</a>
           </div>
         )}
         <Tiles tiles={[prev, next]} />
-        {/* {prev && (
-          <Link to={prev.frontmatter.path}>
-            Previous Post: {prev.frontmatter.title}
-          </Link>
-        )}
-        {next && (
-          <Link to={next.frontmatter.path}>
-            Next Post: {next.frontmatter.title}
-          </Link>
-        )} */}
       </div>
     )
   }
