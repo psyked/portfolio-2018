@@ -1,0 +1,2 @@
+webpackJsonp([0xc92ebdf99ff3],{1592:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Flash vs. Silverlight 2.0",path:"/blog/flash-vs-silverlight-20/"}}}]}},pathContext:{tag:"silverlight"}}}});
+//# sourceMappingURL=path---tag-silverlight-41e46cd044a93c3f163d.js.map

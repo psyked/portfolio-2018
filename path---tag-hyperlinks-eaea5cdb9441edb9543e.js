@@ -1,2 +1,2 @@
-webpackJsonp([0x5cee168f16e7],{1497:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"XHTML, Hyperlinks and separating content from style.",path:"/blog/xhtml-hyperlinks-and-separating-content-from-style/"}}}]}},pathContext:{tag:"hyperlinks"}}}});
+webpackJsonp([0x5cee168f16e7],{1490:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"XHTML, Hyperlinks and separating content from style.",path:"/blog/xhtml-hyperlinks-and-separating-content-from-style/"}}}]}},pathContext:{tag:"hyperlinks"}}}});
 //# sourceMappingURL=path---tag-hyperlinks-eaea5cdb9441edb9543e.js.map

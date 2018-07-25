@@ -1,2 +1,2 @@
-webpackJsonp([0x89ba098aaf75],{1616:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A different approach to tagging?",path:"/blog/a-different-approach-to-tagging/"}}}]}},pathContext:{tag:"tagging"}}}});
+webpackJsonp([0x89ba098aaf75],{1609:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A different approach to tagging?",path:"/blog/a-different-approach-to-tagging/"}}}]}},pathContext:{tag:"tagging"}}}});
 //# sourceMappingURL=path---tag-tagging-66ecee60898acb800ac9.js.map
