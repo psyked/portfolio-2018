@@ -1,2 +1,2 @@
-webpackJsonp([0xfe035878f671],{1623:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject: from Static HTML, to React, to Nuxt.",path:"/blog/poképroject-from-static-html-to-react-to-nuxt-b6fbe42bab18/"}}}]}},pathContext:{tag:"React"}}}});
+webpackJsonp([0xfe035878f671],{1624:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject: from Static HTML, to React, to Nuxt.",path:"/blog/poképroject-from-static-html-to-react-to-nuxt-b6fbe42bab18/"}}}]}},pathContext:{tag:"React"}}}});
 //# sourceMappingURL=path---tag-react-fc076dd0ac76b0170edd.js.map

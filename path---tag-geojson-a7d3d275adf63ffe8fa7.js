@@ -1,2 +1,2 @@
-webpackJsonp([0xf0a5a44f03eb],{1510:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"RunMaps v2.0: Breaking free of Mapbox",path:"/blog/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01/"}}}]}},pathContext:{tag:"Geojson"}}}});
+webpackJsonp([0xf0a5a44f03eb],{1511:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"RunMaps v2.0: Breaking free of Mapbox",path:"/blog/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01/"}}}]}},pathContext:{tag:"Geojson"}}}});
 //# sourceMappingURL=path---tag-geojson-a7d3d275adf63ffe8fa7.js.map

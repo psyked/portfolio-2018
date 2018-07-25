@@ -1,2 +1,2 @@
-webpackJsonp([0xc8ae9ed68a5],{1646:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject Dev Diary: Day Six",path:"/blog/poképroject-dev-diary-day-six-c263ef30fd0c/"}}}]}},pathContext:{tag:"Ssl"}}}});
+webpackJsonp([0xc8ae9ed68a5],{1647:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject Dev Diary: Day Six",path:"/blog/poképroject-dev-diary-day-six-c263ef30fd0c/"}}}]}},pathContext:{tag:"Ssl"}}}});
 //# sourceMappingURL=path---tag-ssl-e4e2cea4b321a6ea8340.js.map
