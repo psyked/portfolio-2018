@@ -50,7 +50,13 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           tags
           url
-          image
+          image {
+            childImageSharp{
+              sizes(maxWidth: 630) {
+                  ...GatsbyImageSharpSizes
+              }
+          }
+          }
           description
       }
     }

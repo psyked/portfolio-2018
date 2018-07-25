@@ -1,4 +1,7 @@
 import React from 'react'
+import { withPrefix } from 'gatsby-link'
+import Img from 'gatsby-image'
+
 
 const BannerLanding = ({ title, lead, image }) => (
     <header style={{
@@ -19,6 +22,8 @@ const BannerLanding = ({ title, lead, image }) => (
             position: 'relative',
             padding: '6em 2em 2em'
         }}>
+            {image && <Img sizes={image.childImageSharp.sizes} />}
+
             <header>
                 <h1>{title}</h1>
             </header>
