@@ -1,5 +1,5 @@
 ---
-path: /blog/pokeproject-adventures-with-lego-bricks-5ffefc875a8f/
+path: /blog/poképroject-adventures-with-lego-bricks-5ffefc875a8f/
 layout: "post"
 title: "PokéProject: Adventures with LEGO Bricks"
 description: "Part Four: Into the real world."
@@ -9,12 +9,12 @@ src: "https://cdn-images-1.medium.com/max/1200/1*vJ4GLgd7aQ6D4npiimypIw.jpeg"
 author: "https://medium.com/@psyked"
 published_time: 2017-10-04T21:16:30.796Z
 creator: "@psyked"
+tags:
+- Lego
+- Pokemon
+- Side Project
 date: 2017-10-04T21:16:30.796Z
 ---
-
-# PokéProject: Adventures with LEGO Bricks
-
-## Part Four: Into the real world.
 
 A while ago now, I set out on a side project adventure, which I’ve previously documented [in Part 1,](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d) [Part 2](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239) and [Part 3.](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276) Finally though it’s time to make the leap into the real world and “eat my own dog food,” so to speak.
 

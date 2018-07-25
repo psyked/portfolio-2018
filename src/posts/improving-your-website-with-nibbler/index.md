@@ -10,7 +10,7 @@ tags:
 - validation
 ---
 
-![](/content/images/2011/11/love-nibbler.png "I love Nibbler")
+![I love Nibbler](love-nibbler.png)
 
 If you haven't encountered [Nibbler](http://nibbler.silktide.com/ "Visit the Nibbler website.") before, Nibbler is a free-to-use website quality checker.  It's developed and maintained by [Silktide](http://www.silktide.com/), and is a tool for checking up to 5 pages of a website against 20 different quality checks - from Social Media to W3C compliance, Alternative text to Semantic HTML.
 

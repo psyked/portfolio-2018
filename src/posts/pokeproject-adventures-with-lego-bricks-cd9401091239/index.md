@@ -1,5 +1,5 @@
 ---
-path: /blog/pokeproject-adventures-with-lego-bricks-cd9401091239/
+path: /blog/poképroject-adventures-with-lego-bricks-cd9401091239/
 layout: "post"
 title: "PokéProject: Adventures with LEGO Bricks"
 description: "Part 2: Making optimal use of the available bricks."
@@ -9,12 +9,13 @@ src: "https://cdn-images-1.medium.com/max/1200/1*khfGNAUXONDNEk-K-2-InQ.png"
 author: "https://medium.com/@psyked"
 published_time: 2017-06-07T06:48:12.747Z
 creator: "@psyked"
+tags:
+- Lego
+- Pokemon
+- JavaScript
+- Side Project
 date: 2017-06-07T06:48:12.747Z
 ---
-
-# PokéProject: Adventures with LEGO Bricks
-
-## Part 2: Making optimal use of the available bricks.
 
 By this point I’ve already mapped my colour palette of my source image to the available LEGO brick colours as described in [my previous post,](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d) and now I want to move beyond simple colour trickery and onto making this idea a physical reality.
 
