@@ -2,12 +2,13 @@
 path: /blog/link-voice-synthesis-in-adobe-air-2-0/
 layout: post
 title: 'Link: Voice synthesis in Adobe AIR 2.0'
+image: voice-synth.png
 date: 2010-04-09T07:56:27Z
 tags:
 - voice-synthesis
 ---
 
-![](/content/images/2010/04/voice-synth.png "Voice Synth with AIR 2.0")
+![](voice-synth.png "Voice Synth with AIR 2.0")
 
 Here's another cool library for AIR applications.  It works for both Windows and Mac environments, and uses the NativeProcess access of AIR version 2 to tap into the built-in voice synthesis functionality of the operating system.  It's still in development, is more developed for Mac than for Windows (at the moment) but it's looking pretty good already.
 
