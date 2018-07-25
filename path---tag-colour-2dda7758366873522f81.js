@@ -1,0 +1,2 @@
+webpackJsonp([0xfca25ab78a0b],{1484:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Kuler Desktop released!",path:"/blog/kuler-desktop-released/"}}},{node:{frontmatter:{title:"Secret Weapon 1 : Kuler",path:"/blog/secret-weapon-1-kuler/"}}}]}},pathContext:{tag:"colour"}}}});
+//# sourceMappingURL=path---tag-colour-2dda7758366873522f81.js.map

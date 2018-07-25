@@ -1,0 +1,2 @@
+webpackJsonp([0x85b80f7dff91],{1059:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---talking-about-flex-gumbo-new-features-86b4775ddc21e5f54d18.js.map

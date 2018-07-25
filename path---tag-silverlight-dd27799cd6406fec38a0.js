@@ -1,0 +1,2 @@
+webpackJsonp([0xc92ebdf99ff3],{1637:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Microsoft's new celeb site makes splash ... running on Adobe Flash",path:"/blog/microsofts-new-celeb-site-makes-splash-running-on-adobe-flash/"}}},{node:{frontmatter:{title:"Flash vs. Silverlight 2.0",path:"/blog/flash-vs-silverlight-20/"}}}]}},pathContext:{tag:"silverlight"}}}});
+//# sourceMappingURL=path---tag-silverlight-dd27799cd6406fec38a0.js.map

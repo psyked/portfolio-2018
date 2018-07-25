@@ -1,0 +1,2 @@
+webpackJsonp([51211297728745],{992:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---mmt-digitals-2010-christmas-game-86b4775ddc21e5f54d18.js.map

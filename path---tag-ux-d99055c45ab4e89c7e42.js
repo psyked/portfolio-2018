@@ -1,0 +1,2 @@
+webpackJsonp([0x8d1fa6b220b3],{1673:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject Dev Diary: Day Two",path:"/blog/pokeproject-dev-diary-day-two-a6019e6cf0f0/"}}}]}},pathContext:{tag:"UX"}}}});
+//# sourceMappingURL=path---tag-ux-d99055c45ab4e89c7e42.js.map

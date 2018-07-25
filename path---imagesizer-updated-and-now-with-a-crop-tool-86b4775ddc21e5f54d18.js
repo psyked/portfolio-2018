@@ -1,0 +1,2 @@
+webpackJsonp([0xa047fbdb3627],{920:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---imagesizer-updated-and-now-with-a-crop-tool-86b4775ddc21e5f54d18.js.map

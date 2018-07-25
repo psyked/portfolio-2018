@@ -1,0 +1,2 @@
+webpackJsonp([98349485754544],{1840:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Work in progress...",path:"/blog/work-in-progress/"}}},{node:{frontmatter:{title:"I found one of my old uni projects...",path:"/blog/i-found-one-of-my-old-uni-projects/"}}}]}},pathContext:{tag:"university-projects"}}}});
+//# sourceMappingURL=path---tag-university-projects-5dad7270320f3516bdd9.js.map

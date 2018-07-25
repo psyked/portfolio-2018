@@ -1,0 +1,2 @@
+webpackJsonp([0xce70b0c99bad],{1727:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Everything you know about CSS is wrong.",path:"/blog/everything-you-know-about-css-is-wrong/"}}}]}},pathContext:{tag:"tables"}}}});
+//# sourceMappingURL=path---tag-tables-434bf12d06b5bec1e955.js.map

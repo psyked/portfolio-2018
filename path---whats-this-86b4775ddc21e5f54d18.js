@@ -1,0 +1,2 @@
+webpackJsonp([0x8fcf0411e4ad],{1108:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---whats-this-86b4775ddc21e5f54d18.js.map

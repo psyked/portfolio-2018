@@ -1,0 +1,2 @@
+webpackJsonp([0x93ffbe16222e],{1400:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Psyked.co.uk",author:"James Ford"}},markdownRemark:null},pathContext:{prev:{frontmatter:{path:"poképroject-dev-diary-day-six-c263ef30fd0c",tags:null,title:"",image:null,date:null}},next:{frontmatter:{path:"poképroject-dev-diary-day-four-25aed272eb17",tags:null,title:"",image:null,date:null}}}}}});
+//# sourceMappingURL=path---pokeproject-dev-diary-day-one-8-a-77-a-252-bf-0-a-9ba336d82a08b296cb45.js.map

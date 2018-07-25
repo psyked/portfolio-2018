@@ -1,0 +1,2 @@
+webpackJsonp([93398598539432],{1601:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Keeping your finger on the pulse with Smashing Magazine",path:"/blog/secret-weapon-2-smashing-magazine/"}}}]}},pathContext:{tag:"magazines"}}}});
+//# sourceMappingURL=path---tag-magazines-39b57cba68e37deec3a3.js.map

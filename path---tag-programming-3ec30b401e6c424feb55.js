@@ -1,0 +1,2 @@
+webpackJsonp([0xffc058315d11],{1662:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"What to look for from a (prospective) Developer",path:"/blog/what-to-look-for-from-a-prospective-developer/"}}},{node:{frontmatter:{title:"Explorative Prototyping",path:"/blog/explorative-prototyping-71f2ad9d4e41/"}}}]}},pathContext:{tag:"Programming"}}}});
+//# sourceMappingURL=path---tag-programming-3ec30b401e6c424feb55.js.map

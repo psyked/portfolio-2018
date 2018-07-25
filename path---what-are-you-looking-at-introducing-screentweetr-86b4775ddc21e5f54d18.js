@@ -1,0 +1,2 @@
+webpackJsonp([0xbfa1f3a04b78],{1105:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---what-are-you-looking-at-introducing-screentweetr-86b4775ddc21e5f54d18.js.map

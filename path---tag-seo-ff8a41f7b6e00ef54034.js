@@ -1,0 +1,2 @@
+webpackJsonp([0x9da03c15c64a],{1659:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Why your Next Marketing Hire should be a Robot.",path:"/blog/why-your-next-marketing-hire-should-be-a-robot/"}}}]}},pathContext:{tag:"seo"}}}});
+//# sourceMappingURL=path---tag-seo-ff8a41f7b6e00ef54034.js.map

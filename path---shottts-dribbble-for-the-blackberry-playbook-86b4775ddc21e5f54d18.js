@@ -1,0 +1,2 @@
+webpackJsonp([0xfe15564240dd],{1041:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---shottts-dribbble-for-the-blackberry-playbook-86b4775ddc21e5f54d18.js.map

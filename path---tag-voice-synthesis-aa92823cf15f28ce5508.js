@@ -1,0 +1,2 @@
+webpackJsonp([0x969de4e76a3d],{1678:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Link: Voice synthesis in Adobe AIR 2.0",path:"/blog/link-voice-synthesis-in-adobe-air-2-0/"}}}]}},pathContext:{tag:"voice-synthesis"}}}});
+//# sourceMappingURL=path---tag-voice-synthesis-aa92823cf15f28ce5508.js.map

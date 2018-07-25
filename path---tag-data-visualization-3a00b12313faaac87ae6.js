@@ -1,0 +1,2 @@
+webpackJsonp([0xd5ee646b42ad],{1606:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Video Link: Spatial Key",path:"/blog/video-link-spatial-key/"}}},{node:{frontmatter:{title:"Visualizing LARGE Data Sets in flex/flash",path:"/blog/visualizing-large-data-sets-in-flexflash/"}}}]}},pathContext:{tag:"data-visualization"}}}});
+//# sourceMappingURL=path---tag-data-visualization-3a00b12313faaac87ae6.js.map

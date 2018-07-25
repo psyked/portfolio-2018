@@ -1,0 +1,2 @@
+webpackJsonp([42342048648474],{1690:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"MMT Digital's 2010 Christmas Game",path:"/blog/mmt-digitals-2010-christmas-game/"}}}]}},pathContext:{tag:"xmas"}}}});
+//# sourceMappingURL=path---tag-xmas-6526d43fd1a5172f450e.js.map

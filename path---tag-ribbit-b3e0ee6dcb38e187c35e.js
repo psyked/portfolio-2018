@@ -1,0 +1,2 @@
+webpackJsonp([0x79b08f7c93fd],{1651:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"AIR iPhone Application",path:"/blog/air-iphone-application/"}}}]}},pathContext:{tag:"ribbit"}}}});
+//# sourceMappingURL=path---tag-ribbit-b3e0ee6dcb38e187c35e.js.map

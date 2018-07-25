@@ -1,0 +1,2 @@
+webpackJsonp([0x5c8e6aa8dc80],{1648:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Got an idea for Flash book?",path:"/blog/got-an-idea-for-flash-book/"}}},{node:{frontmatter:{title:"Introducing: The Flash Facebook Cookbook",path:"/blog/introducing-the-flash-facebook-cookbook/"}}}]}},pathContext:{tag:"packt"}}}});
+//# sourceMappingURL=path---tag-packt-193f31a04da92bfa70cf.js.map

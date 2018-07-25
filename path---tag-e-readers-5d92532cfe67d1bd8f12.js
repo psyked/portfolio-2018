@@ -1,0 +1,2 @@
+webpackJsonp([0x9f707a16b75c],{1496:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Can AIR revolutionise E-Readers?",path:"/blog/can-air-revolutionise-e-readers/"}}}]}},pathContext:{tag:"e-readers"}}}});
+//# sourceMappingURL=path---tag-e-readers-5d92532cfe67d1bd8f12.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xba21e4b84b7d],{1661:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Scribbling away during meetings.",path:"/blog/scribbling-away-during-meetings-bf1c1a46f018/"}}}]}},pathContext:{tag:"Productivity"}}}});
+//# sourceMappingURL=path---tag-productivity-29577ff37fe8a2d52fbd.js.map

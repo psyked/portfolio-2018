@@ -1,0 +1,2 @@
+webpackJsonp([18975493130696],{769:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---apollo-takes-to-the-air-86b4775ddc21e5f54d18.js.map

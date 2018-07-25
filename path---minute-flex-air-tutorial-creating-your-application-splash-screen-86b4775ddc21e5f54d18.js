@@ -1,0 +1,2 @@
+webpackJsonp([0x7958a9f88780],{987:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---minute-flex-air-tutorial-creating-your-application-splash-screen-86b4775ddc21e5f54d18.js.map

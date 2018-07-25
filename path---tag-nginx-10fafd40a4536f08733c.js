@@ -1,0 +1,2 @@
+webpackJsonp([0x8276a965f803],{1573:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject Dev Diary: Day Six",path:"/blog/poképroject-dev-diary-day-six-c263ef30fd0c/"}}}]}},pathContext:{tag:"Nginx"}}}});
+//# sourceMappingURL=path---tag-nginx-10fafd40a4536f08733c.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x6034592104a2],{935:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---is-flash-better-than-ajax-86b4775ddc21e5f54d18.js.map

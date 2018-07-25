@@ -1,0 +1,2 @@
+webpackJsonp([28764726558320],{1656:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Fluid widths in responsive websites.",path:"/blog/fluid-widths-in-responsive-websites-2a02499295d9/"}}}]}},pathContext:{tag:"Front End Development"}}}});
+//# sourceMappingURL=path---tag-front-end-development-cf799fb0abb4f88e9745.js.map

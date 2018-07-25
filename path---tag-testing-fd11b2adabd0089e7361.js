@@ -1,0 +1,2 @@
+webpackJsonp([0x87543041ea96],{1657:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Testing Performance, Speed and Best Practices with Lighthouse",path:"/blog/testing-performance-speed-and-best-practices-with-lighthouse/"}}}]}},pathContext:{tag:"testing"}}}});
+//# sourceMappingURL=path---tag-testing-fd11b2adabd0089e7361.js.map

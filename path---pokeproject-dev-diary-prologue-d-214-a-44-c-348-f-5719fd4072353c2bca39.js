@@ -1,0 +1,2 @@
+webpackJsonp([0x988b5dbaba29],{1404:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Psyked.co.uk",author:"James Ford"}},markdownRemark:null},pathContext:{prev:{frontmatter:{path:"/blog/print-screen-detection-in-air/",tags:["air"],title:"Print Screen detection in AIR",image:null,date:"2009-04-17T08:23:06.000Z"}},next:{frontmatter:{path:"poképroject-dev-diary-day-three-31afdf3e1302",tags:null,title:"",image:null,date:null}}}}}});
+//# sourceMappingURL=path---pokeproject-dev-diary-prologue-d-214-a-44-c-348-f-5719fd4072353c2bca39.js.map

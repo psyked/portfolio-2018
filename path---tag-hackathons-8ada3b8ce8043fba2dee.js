@@ -1,0 +1,2 @@
+webpackJsonp([72137001192032],{1619:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject: Adventures with LEGO Bricks",path:"/blog/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276/"}}}]}},pathContext:{tag:"Hackathons"}}}});
+//# sourceMappingURL=path---tag-hackathons-8ada3b8ce8043fba2dee.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xf1a34c073ee5],{1614:function(o,e){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What to look for from a (prospective) Developer",path:"/blog/what-to-look-for-from-a-prospective-developer-8ba2d9faa3d2/"}}}]}},pathContext:{tag:"Interviewing"}}}});
+//# sourceMappingURL=path---tag-interviewing-0c77c5f4dfe276d2fa13.js.map

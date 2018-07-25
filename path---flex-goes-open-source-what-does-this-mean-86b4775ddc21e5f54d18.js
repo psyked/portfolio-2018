@@ -1,0 +1,2 @@
+webpackJsonp([0x5eacdce217f8],{858:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---flex-goes-open-source-what-does-this-mean-86b4775ddc21e5f54d18.js.map

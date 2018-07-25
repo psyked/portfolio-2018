@@ -1,0 +1,2 @@
+webpackJsonp([0xcd100e46a8c5],{1424:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Psyked.co.uk",author:"James Ford"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---pokeproject-from-static-html-to-react-to-nuxt-b-6-fbe-42-bab-18-0cb44aee4b2edf83fdde.js.map

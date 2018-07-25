@@ -1,0 +1,2 @@
+webpackJsonp([0xd783715bbdf4],{767:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
+//# sourceMappingURL=path---an-incomplete-review-of-books-on-iphone-development-86b4775ddc21e5f54d18.js.map

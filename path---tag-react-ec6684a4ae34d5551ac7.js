@@ -1,0 +1,2 @@
+webpackJsonp([0xfe035878f671],{1784:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject: from Static HTML, to React, to Nuxt.",path:"/blog/pok%C3%A9project-from-static-html-to-react-to-nuxt-b6fbe42bab18/"}}}]}},pathContext:{tag:"React"}}}});
+//# sourceMappingURL=path---tag-react-ec6684a4ae34d5551ac7.js.map
