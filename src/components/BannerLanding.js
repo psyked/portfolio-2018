@@ -2,6 +2,8 @@ import React from 'react'
 import { withPrefix } from 'gatsby-link'
 import Img from 'gatsby-image'
 
+import styles from './banner.module.scss'
+
 
 const BannerLanding = ({ title, lead, image }) => (
     <header style={{
@@ -11,6 +13,11 @@ const BannerLanding = ({ title, lead, image }) => (
         backgroundPosition: 'center',
         position: 'relative'
     }}>
+        {image && image.childImageSharp && (
+            <aside className={styles.imageContainer}>
+                <Img sizes={image.childImageSharp.sizes} outerWrapperClassName={styles.wrapper} className={styles.wrapper} />
+            </aside>
+        )}
         <div style={{
             position: 'absolute',
             width: '100%',
@@ -22,8 +29,6 @@ const BannerLanding = ({ title, lead, image }) => (
             position: 'relative',
             padding: '6em 2em 2em'
         }}>
-            {image && image.childImageSharp && <Img sizes={image.childImageSharp.sizes} />}
-
             <header>
                 <h1>{title}</h1>
             </header>
