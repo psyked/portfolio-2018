@@ -1,2 +1,2 @@
-webpackJsonp([0xa28cb29af344],{1439:function(o,e){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Google Chrome is kinda awesome...",path:"/blog/google-chrome-is-kinda-awesome/"}}}]}},pathContext:{tag:"chrome"}}}});
+webpackJsonp([0xa28cb29af344],{1402:function(o,e){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Google Chrome is kinda awesome...",path:"/blog/google-chrome-is-kinda-awesome/"}}}]}},pathContext:{tag:"chrome"}}}});
 //# sourceMappingURL=path---tag-chrome-ed6cb3a744ca86950e27.js.map

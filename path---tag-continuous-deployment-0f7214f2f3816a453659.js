@@ -1,2 +1,2 @@
-webpackJsonp([0xb715036e318d],{1448:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hallmarks of a Modern development workflow - Continuous Integration & Deployment",path:"/blog/a-modern-development-workflow-ci-and-cd/"}}}]}},pathContext:{tag:"continuous-deployment"}}}});
+webpackJsonp([0xb715036e318d],{1411:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hallmarks of a Modern development workflow - Continuous Integration & Deployment",path:"/blog/a-modern-development-workflow-ci-and-cd/"}}}]}},pathContext:{tag:"continuous-deployment"}}}});
 //# sourceMappingURL=path---tag-continuous-deployment-0f7214f2f3816a453659.js.map

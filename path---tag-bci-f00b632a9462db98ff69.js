@@ -1,2 +1,2 @@
-webpackJsonp([0x5f19cbb714bc],{1420:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Link: Computer mind control with ActionScript 3.0",path:"/blog/link-computer-mind-control-with-actionscript-3-0/"}}}]}},pathContext:{tag:"bci"}}}});
+webpackJsonp([0x5f19cbb714bc],{1383:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Link: Computer mind control with ActionScript 3.0",path:"/blog/link-computer-mind-control-with-actionscript-3-0/"}}}]}},pathContext:{tag:"bci"}}}});
 //# sourceMappingURL=path---tag-bci-f00b632a9462db98ff69.js.map
