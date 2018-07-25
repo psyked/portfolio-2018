@@ -2,7 +2,7 @@
 path: /blog/why-your-next-marketing-hire-should-be-a-robot/
 layout: post
 title: Why your Next Marketing Hire should be a Robot.
-image: "4530183325_23734995e8_o.jpg"
+image: 4530183325_23734995e8_o.jpg
 date: 2017-01-03T09:15:00Z
 tags:
 - automating

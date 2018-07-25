@@ -4,7 +4,7 @@ layout: "post"
 title: "LOLBot or: How I Learned to Stop Worrying and Love my MVP"
 description: "The ups and ups of adopting an MVP mentality for our Hackathon, and how it helped us achieve victory."
 url: "https://medium.com/@psyked_james/lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514ad67a5c9"
-image: "https://cdn-images-1.medium.com/max/1200/1*l1TNV0hQXW2y4HnQnFsfMA.png"
+image: https://cdn-images-1.medium.com/max/1200/1*l1TNV0hQXW2y4HnQnFsfMA.png
 src: "https://cdn-images-1.medium.com/max/1200/1*l1TNV0hQXW2y4HnQnFsfMA.png"
 author: "https://medium.com/@psyked_james"
 type: "article"

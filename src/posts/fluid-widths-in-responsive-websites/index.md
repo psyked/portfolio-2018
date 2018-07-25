@@ -4,7 +4,7 @@ layout: "post"
 title: "Fluid widths in responsive websites."
 description: "Front End Design Principle Rambles #1"
 url: "https://medium.com/@psyked/fluid-widths-in-responsive-websites-2a02499295d9"
-image: "https://cdn-images-1.medium.com/max/1200/1*Key4MifVtUocntQlHnMM9g.jpeg"
+image: https://cdn-images-1.medium.com/max/1200/1*Key4MifVtUocntQlHnMM9g.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*Key4MifVtUocntQlHnMM9g.jpeg"
 author: "https://medium.com/@psyked"
 published_time: 2018-07-11T11:11:46.274Z

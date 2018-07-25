@@ -4,7 +4,7 @@ layout: "post"
 title: "Overcoming writer’s block"
 description: "I like writing. That’s not always been the case — it certainly wasn’t my forte back when I needed it at school and with my University…"
 url: "https://medium.com/@psyked/overcoming-writers-block-ceaf2939ab41"
-image: "https://cdn-images-1.medium.com/max/1200/1*KPvEX43rnvaf5dwgWv_9yQ.jpeg"
+image: https://cdn-images-1.medium.com/max/1200/1*KPvEX43rnvaf5dwgWv_9yQ.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*KPvEX43rnvaf5dwgWv_9yQ.jpeg"
 author: "https://medium.com/@psyked"
 published_time: 2017-02-19T20:05:00.000Z

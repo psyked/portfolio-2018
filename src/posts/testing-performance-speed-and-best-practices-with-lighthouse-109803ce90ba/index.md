@@ -4,8 +4,7 @@ layout: "post"
 title: "Testing Performance, Speed and Best Practices with Lighthouse"
 description: "Lighthouse is an open-source, automated tool for improving the quality of your web apps."
 url: "https://medium.com/@psyked/testing-performance-speed-and-best-practices-with-lighthouse-109803ce90ba"
-image: "https://cdn-images-1.medium.com/max/1200/0*gOsG-4Rh7_nf219f.jpg"
-src: "https://cdn-images-1.medium.com/max/1200/0*gOsG-4Rh7_nf219f.jpg"
+image: https://cdn-images-1.medium.com/max/1200/0*gOsG-4Rh7_nf219f.jpg
 author: "https://medium.com/@psyked"
 published_time: 2017-01-28T20:31:07.000Z
 creator: "@psyked"

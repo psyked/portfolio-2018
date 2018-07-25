@@ -4,8 +4,7 @@ layout: "post"
 title: "What to look for from a (prospective) Developer"
 description: "I’ve been doing a lot of interviews recently so I thought I would share a little more information about what I’m looking for…"
 url: "https://medium.com/@psyked/what-to-look-for-from-a-prospective-developer-8ba2d9faa3d2"
-image: "https://cdn-images-1.medium.com/max/1200/1*XIoDTJDLJK54iGi45TPrxQ.jpeg"
-src: "https://cdn-images-1.medium.com/max/1200/1*XIoDTJDLJK54iGi45TPrxQ.jpeg"
+image: https://cdn-images-1.medium.com/max/1200/1*XIoDTJDLJK54iGi45TPrxQ.jpeg
 author: "https://medium.com/@psyked"
 creator: "@psyked"
 tags:

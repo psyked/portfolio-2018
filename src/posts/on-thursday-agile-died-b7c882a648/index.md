@@ -4,7 +4,7 @@ layout: "post"
 title: "On Thursday, Agile died."
 description: "Last Thursday, the Agile in our project died. For most people around the world the day was unremarkable, but for us, on this particular Thursday, Agile was — finally — put out of its misery. For the…"
 url: "https://medium.com/@psyked/on-thursday-agile-died-b7c882a648"
-image: "https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg"
+image: https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg"
 author: "https://medium.com/@psyked"
 published_time: 2016-05-25T07:36:02.250Z

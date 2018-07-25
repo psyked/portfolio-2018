@@ -4,7 +4,7 @@ layout: "post"
 title: "How to effectively kill your Agile Team"
 description: "Agile methodology is the glorious present and future of software development, but the correct set of circumstances can seriously cripple a…"
 url: "https://medium.com/@psyked/how-to-effectively-kill-your-agile-team-2de8677b64e3"
-image: "https://cdn-images-1.medium.com/max/1200/1*NqOR1hq5mkjoR2AwRceUSQ.jpeg"
+image: https://cdn-images-1.medium.com/max/1200/1*NqOR1hq5mkjoR2AwRceUSQ.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*NqOR1hq5mkjoR2AwRceUSQ.jpeg"
 author: "https://medium.com/@psyked"
 published_time: 2017-04-26T08:03:00.000Z

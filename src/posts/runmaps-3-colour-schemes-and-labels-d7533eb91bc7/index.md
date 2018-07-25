@@ -4,7 +4,7 @@ layout: "post"
 title: "RunMaps 3: Colour Schemes and Labels"
 description: "Now it's time to pick up where we left the original development; improving the visuals by adding place labels and map markers."
 url: "https://medium.com/@psyked/runmaps-3-colour-schemes-and-labels-d7533eb91bc7"
-image: "https://cdn-images-1.medium.com/max/1200/1*w4ALp74pUYzMQl3Nt8p3aA.png"
+image: https://cdn-images-1.medium.com/max/1200/1*w4ALp74pUYzMQl3Nt8p3aA.png
 src: "https://cdn-images-1.medium.com/max/1200/1*w4ALp74pUYzMQl3Nt8p3aA.png"
 author: "https://medium.com/@psyked"
 published_time: 2018-05-26T14:22:30.597Z

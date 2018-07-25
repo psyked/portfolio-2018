@@ -4,8 +4,7 @@ layout: "post"
 title: "Generating Run Maps with Node.js"
 description: "Hacking away at the Mapbox and Fitbit data APIs"
 url: "https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc"
-image: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
-src: "https://cdn-images-1.medium.com/max/1200/1*wVcjl_TBtsD5N3HNWU6h9A.png"
+image: 1*wVcjl_TBtsD5N3HNWU6h9A.png
 author: "https://medium.com/@psyked"
 creator: "@psyked"
 tags:

@@ -4,7 +4,7 @@ layout: "post"
 title: "Amateur data spelunking"
 description: "Raw data has a strangely alluring quality — it has the power to answer all of your questions, as well as the power to ask even more."
 url: "https://medium.com/@psyked_james/amateur-data-spelunking-bfe67ead9113"
-image: "1*_T7QbAHd9V-3svG9Fvj_KQ.jpeg"
+image: 1*_T7QbAHd9V-3svG9Fvj_KQ.jpeg
 author: "https://medium.com/@psyked_james"
 creator: "@psyked_james"
 date: 2014-10-07T16:37:30.166Z
