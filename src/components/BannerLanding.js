@@ -22,7 +22,7 @@ const BannerLanding = ({ title, lead, image }) => (
             position: 'relative',
             padding: '6em 2em 2em'
         }}>
-            {image && <Img sizes={image.childImageSharp.sizes} />}
+            {image && image.childImageSharp && <Img sizes={image.childImageSharp.sizes} />}
 
             <header>
                 <h1>{title}</h1>
