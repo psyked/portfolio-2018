@@ -85,7 +85,7 @@ class Blog extends React.Component {
                         .map(key => {
                             const { year, posts } = groupedPosts[key]
                             return (
-                                <section style={{
+                                <section key={year} style={{
                                     padding: '1em 2em'
                                 }}>
                                     <h3>Posts from {year}</h3>

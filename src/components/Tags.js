@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 
 const PostTags = ({ tags }) => {
+    if (!tags) return <aside />
     return (
         <aside>
             Tagged as:
