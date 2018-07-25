@@ -1,13 +1,11 @@
 ---
-path: /blog/runmaps-3-colour-schemes-and-labels-d7533eb91bc7/
+path: /blog/runmaps-3-colour-schemes-and-labels/
 layout: "post"
 title: "RunMaps 3: Colour Schemes and Labels"
 description: "Now it's time to pick up where we left the original development; improving the visuals by adding place labels and map markers."
 url: "https://medium.com/@psyked/runmaps-3-colour-schemes-and-labels-d7533eb91bc7"
 image: 1*w4ALp74pUYzMQl3Nt8p3aA.png
-src: "https://cdn-images-1.medium.com/max/1200/1*w4ALp74pUYzMQl3Nt8p3aA.png"
 author: "https://medium.com/@psyked"
-published_time: 2018-05-26T14:22:30.597Z
 creator: "@psyked"
 tags:
 - Mapping
@@ -16,8 +14,6 @@ tags:
 - SVG
 date: 2018-05-26T14:22:30.597Z
 ---
-
-# RunMaps 3: Colour Schemes and Labels
 
 In my previous posts I’ve discussed [the initial development of my RunMaps side-project](https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc) and the subsequent [switch over to using Overpass API](https://medium.com/@psyked/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01) instead of the initial Mapbox APIs. Now it’s time to pick up where we left the original development; improving the visuals by adding place labels and map markers.
 
@@ -43,21 +39,21 @@ Those maps are looking pretty neat now, but they’re still missing labels that 
 
 Although the chaining syntax of D3.js still feels a little unnatural, I’ve now learnt that it’s the easiest path to rendering objects with geolocation data. All I have to do is create a new element in the SVG and then apply a transform based on the projection, using some code like this:
 
-const projection = d3.geoMercator();  
-const path = d3.geoPath().projection(projection);
+    const projection = d3.geoMercator();  
+    const path = d3.geoPath().projection(projection);
 
-svg  
-  .selectAll(".label")  
-  .data(thingsWithNames)  
-  .enter()  
-  .append("text")  
-  .attr("transform", function (_d_) {  
-    return "translate(" + path.centroid(d) + ")";  
-  })  
-  .style("text-anchor", "middle")  
-  .text(function (_d_) {  
-    return d.properties.name;  
-  })
+    svg  
+      .selectAll(".label")  
+      .data(thingsWithNames)  
+      .enter()  
+      .append("text")  
+      .attr("transform", function (_d_) {  
+        return "translate(" + path.centroid(d) + ")";  
+      })  
+      .style("text-anchor", "middle")  
+      .text(function (_d_) {  
+        return d.properties.name;  
+      })
 
 And I immediately get an output like this:
 

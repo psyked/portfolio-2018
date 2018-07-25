@@ -35,7 +35,7 @@ class Blog extends React.Component {
             }, {})
 
         return (
-            <div>
+            <div className="bodyContent">
                 <Helmet>
                     <title>{siteTitle}</title>
                     <meta name="description" content={siteDescription} />
@@ -46,9 +46,7 @@ class Blog extends React.Component {
                 </header>
 
                 <h3>Posts from 2018</h3>
-                <ul style={{
-                    padding: '1em 2em'
-                }}>
+                <ul>
                     {
                         edges
                             .filter(edge => !!edge.node.frontmatter.date)
@@ -85,9 +83,7 @@ class Blog extends React.Component {
                         .map(key => {
                             const { year, posts } = groupedPosts[key]
                             return (
-                                <section key={year} style={{
-                                    padding: '1em 2em'
-                                }}>
+                                <section key={year}>
                                     <h3>Posts from {year}</h3>
                                     <ul key={year}>
                                         {

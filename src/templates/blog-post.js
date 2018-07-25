@@ -17,12 +17,10 @@ class BlogPostTemplate extends React.Component {
       <div>
         <Helmet title={`${title} | ${siteTitle}`} />
         <BannerLanding title={title} lead={description} image={image} />
-        <div style={{
-          padding: '1em 2em'
-        }} dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div className="bodyContent" dangerouslySetInnerHTML={{ __html: post.html }} />
         <Tags tags={tags} />
         {url && (
-          <div className="box">
+          <div className="bodyContent">
             This article was originally published at <a href={url}>{url}</a>
           </div>
         )}

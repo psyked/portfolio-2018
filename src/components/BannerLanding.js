@@ -24,10 +24,9 @@ const BannerLanding = ({ title, lead, image }) => (
             height: '100%',
             background: 'rgba(0,0,0,.6)'
         }}></div>
-        <div style={{
+        <div className="bodyContent" style={{
             color: 'white',
-            position: 'relative',
-            padding: '6em 2em 2em'
+            position: 'relative'
         }}>
             <header>
                 <h1>{title}</h1>

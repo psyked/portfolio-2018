@@ -13,54 +13,55 @@ class HomeIndex extends React.Component {
         const siteDescription = this.props.data.site.siteMetadata.description
 
         return (
-            <main>
+            <div>
 
                 <Helmet>
                     <title>{siteTitle}</title>
                     <meta name="description" content={siteDescription} />
                 </Helmet>
 
-                <section id="banner" className="major">
-                    <div className="inner">
+                <section>
+                    <div>
+                        <img src={ProfileImage} width="120" height="120" />
+                    </div>
+                    <div>
+                        <header>
+                            <h1>Hi, I&apos;m James.</h1>
+                        </header>
                         <div>
-                            <div>
-                                <img src={ProfileImage} width="120" height="120" />
-                            </div>
-                            <div>
-                                <header className="major">
-                                    <h1>Hi, I&apos;m James.</h1>
-                                </header>
-                                <div className="content">
-                                    <h2>
-                                        Technical Lead at comparethemarket.com
-                        </h2>
-                                    <p>
-                                        I make things using <Link to={'/tag/javascript'}>Javascript</Link> and <Link to={'/tag/html'}>HTML5.</Link><br />
-                                        I particularly care about &ldquo;delightful details&rdquo; and working with visuals.
-                        </p>
-                                </div>
-                                <div className="content">
-                                    <ul className="icons large">
-                                        <li>
-                                            <a href="//twitter.com/psyked" className="icon alt fa-twitter"><span className={`label`}>Twitter</span></a></li>
-                                        <li>
-                                            <a href="//instagram.com/psyked" className="icon alt fa-instagram"><span className={`label`}>Instagram</span></a></li>
-                                        <li>
-                                            <a href="//github.com/psyked" className="icon alt fa-github"><span className={`label`}>GitHub</span></a></li>
-                                        <li>
-                                            <a href="//linkedin.com/in/jamesford" className="icon alt fa-linkedin"><span className={`label`}>LinkedIn</span></a></li>
-                                        <li>
-                                            <a href="//medium.com/@psyked" className="icon alt fa-medium"><span className={`label`}>Medium</span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                            <h2>Technical Lead at comparethemarket.com</h2>
+                            <p>
+                                I make things using <Link to={'/tag/javascript'}>Javascript</Link> and <Link to={'/tag/html'}>HTML5.</Link><br />
+                                I particularly care about &ldquo;delightful details&rdquo; and working with visuals.
+                            </p>
+                        </div>
+                        <div >
+                            <ul>
+                                <li>
+                                    <a href="//twitter.com/psyked" ><span>Twitter</span></a>
+                                </li>
+                                <li>
+                                    <a href="//instagram.com/psyked" ><span>Instagram</span></a>
+                                </li>
+                                <li>
+                                    <a href="//github.com/psyked" ><span>GitHub</span></a>
+                                </li>
+                                <li>
+                                    <a href="//linkedin.com/in/jamesford" ><span>LinkedIn</span></a>
+                                </li>
+                                <li>
+                                    <a href="//medium.com/@psyked" ><span>Medium</span></a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
-                </section >
+                </section>
 
-                <ReactMarkdown source={content} />
+                <section className="bodyContent">
+                    <ReactMarkdown source={content} />
+                </section>
 
-            </main>
+            </div>
         )
     }
 }

@@ -5,7 +5,7 @@ import Link from 'gatsby-link'
 const PostTags = ({ tags }) => {
     if (!tags) return <aside />
     return (
-        <aside>
+        <aside className="bodyContent">
             Tagged as:
               {tags.map(tag => {
                 const slug = tag

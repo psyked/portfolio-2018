@@ -12,9 +12,7 @@ const Tags = ({ pathContext, data }) => {
         } tagged with "${tag}"`;
 
     return (
-        <div style={{
-            padding: '1em 2em'
-        }}>
+        <div className="bodyContent">
             <Link to="/tags">All tags</Link>
             <h1>{tagHeader}</h1>
             <ul>

@@ -1,34 +1,8 @@
-// html, 
-// body, 
-// .pattern-bg {
-// 	background: repeating-linear-gradient(45deg, _palette(highlight), _palette(highlight) 10px, _palette(highlight-alt) 10px, _palette(highlight-alt) 20px);
-// }
-
-// .body {
-// 	padding: 1em;
-// }
-
-// .tags {
-// 	margin-top: 1em;
-
-// 	a {
-// 		background: _palette(bg-alt);
-// 		padding: .25em .5em;
-// 		margin: 0 0 0  .25em;
-// 		color: _palette(fg);
-// 	}
-// }
-
 @import './normalize';
 @import './mixins'; 
 @import './vars'; 
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
-
-// $min_width: 320px;
-// $max_width: 1200px;
-// $min_font: 16px;
-// $max_font: 24px;
 
 html {
   // @include fluid-type($min_width, $max_width, $min_font, $max_font);
@@ -46,33 +20,8 @@ img {
 body {
 	margin: 0;
 	padding: 0;
-	// padding: 1em;
-	// background: repeating-linear-gradient(45deg,#00b0f0,#00b0f0 10px,#009dd6 0,#009dd6 20px);
+  background: #fcfcfd;
 }
-
-.body {
-	background: #fcfcfd;
-}
-
-.inner {
-	// padding: 1em;
-}
-
-// $mod_1: 1.2; // mobile
-// $mod_2: 1.5; // desktop
-
-// h1 {  
-// 	font-size: $mod_1*$mod_1*$mod_1*$mod_1 *1rem; 
-//   @include fluid-type($min_width, $max_width, $mod_1*$mod_1*$mod_1 *$min_font, $mod_2*$mod_2*$mod_2 *$min_font);
-// }
-// h2 {  
-//   font-size: $mod_1*$mod_1*$mod_1 *1rem; 
-//   @include fluid-type($min_width, $max_width, $mod_1*$mod_1*$mod_1 *$min_font, $mod_2*$mod_2*$mod_2 *$min_font);
-// }
-// h3 { 
-//   font-size: $mod_1*$mod_1 *1rem;
-//   @include fluid-type($min_width, $max_width, $mod_1*$mod_1 *$min_font, $mod_2*$mod_2 *$min_font);
-// }
 
 // ----
 // libsass (v3.5.0.beta.2)
@@ -131,6 +80,7 @@ html {
 
 /* Multiple properties with same values */
 h1 {
+  margin: 0;
   @include fluid-type(padding-bottom padding-top, 20em, 70em, 2em, 6em);
   @include fluid-type(font-size, 20em, 70em, 2em, 3em);
 }
@@ -140,4 +90,12 @@ pre {
   background: $bg-alt;
   padding: $margin-sm;
   margin: #{$margin-lg} #{-$margin-sm};
+}
+
+.bodyContent {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 60em;
+  @include poly-fluid-sizing('padding-left', (320px: 16px, 768px: 48px));
+  @include poly-fluid-sizing('padding-right', (320px: 16px, 768px: 48px));
 }
