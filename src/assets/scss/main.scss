@@ -76,14 +76,17 @@ body {
 /* Single property */
 html {
   @include fluid-type(font-size, 320px, 1366px, 16px, 18px);
+  line-height: 1.5;
 }
 
 /* Multiple properties with same values */
 h1 {
-  margin: 0;
-  @include fluid-type(padding-bottom padding-top, 20em, 70em, 2em, 6em);
   @include fluid-type(font-size, 20em, 70em, 2em, 3em);
 }
+
+// h2 {
+//   @include fluid-type(font-size, 20em, 70em, 2em, 3em);
+// }
 
 pre {
   overflow: scroll;
@@ -98,4 +101,29 @@ pre {
   max-width: 60em;
   @include poly-fluid-sizing('padding-left', (320px: 16px, 768px: 48px));
   @include poly-fluid-sizing('padding-right', (320px: 16px, 768px: 48px));
+}
+
+hr {
+  @include fluid-type(margin-top, 20em, 70em, 2em, 4em);
+  @include fluid-type(margin-bottom, 20em, 70em, 2em, 4em);
+  background-image: linear-gradient(to right, $fg, $fg);
+  border: 0;
+  height: 1px;
+  margin: 0 auto;
+  max-width: 60em;
+  // margin-bottom: 40px;
+  // margin-top: 40px;
+  overflow: visible;
+  text-align: center;
+  
+  &:after {
+    background: $bg;
+    content: "• • •";
+    display: inline-block;
+    font: "BodoniXT" !important;
+    font-size: 1.4em;
+    padding: 0 0.4em;
+    position: relative;
+    top: -0.7em;
+  }
 }

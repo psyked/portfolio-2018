@@ -2,7 +2,7 @@
 
 > _Hi, I'm James._
 
-I prefer James instead of nicknames. My online handle is predominantly **@psyked,** which I came up with back in university. But don't call me that or everyone will be confused, including me.
+I prefer James instead of nicknames. My online 'handle' or username is predominantly **@psyked.**
 
 ### Why this website/document exists
 

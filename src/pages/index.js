@@ -20,22 +20,32 @@ class HomeIndex extends React.Component {
                     <meta name="description" content={siteDescription} />
                 </Helmet>
 
-                <section>
-                    <div>
-                        <img src={ProfileImage} width="120" height="120" />
-                    </div>
-                    <div>
-                        <header>
-                            <h1>Hi, I&apos;m James.</h1>
-                        </header>
+                <article className="bodyContent" style={{ marginTop: '1em' }}>
+                    <header style={{
+                        display: 'flex',
+                        alignItems: 'center'
+                    }}>
+                        <h1 style={{ flex: '1' }}
+                        >Hi, I&apos;m James Ford.</h1>
+                        <div style={{
+                            borderRadius: '50%',
+                            fontSize: '0',
+                            marginRight: '16px'
+                        }}>
+                            <img src={ProfileImage} width="120" height="120" style={{
+                                borderRadius: '50%',
+                            }} />
+                        </div>
+                    </header>
+                    <section>
                         <div>
                             <h2>Technical Lead at comparethemarket.com</h2>
                             <p>
-                                I make things using <Link to={'/tag/javascript'}>Javascript</Link> and <Link to={'/tag/html'}>HTML5.</Link><br />
-                                I particularly care about &ldquo;delightful details&rdquo; and working with visuals.
+                                I make things for the web using <Link to={'/tag/javascript'}>Javascript, </Link> <Link to={'/tag/css'}>CSS</Link> and <Link to={'/tag/html'}>HTML5.</Link><br />
+                                I particularly care about &ldquo;delightful details&rdquo;, &ldquo;invisible details&rdquo; and working with visuals.
                             </p>
                         </div>
-                        <div >
+                        <div>
                             <ul>
                                 <li>
                                     <a href="//twitter.com/psyked" ><span>Twitter</span></a>
@@ -54,10 +64,13 @@ class HomeIndex extends React.Component {
                                 </li>
                             </ul>
                         </div>
-                    </div>
-                </section>
+                    </section>
+                </article>
+
+                <hr />
 
                 <section className="bodyContent">
+                    <h2>Developer / Manager README</h2>
                     <ReactMarkdown source={content} />
                 </section>
 
@@ -69,25 +82,25 @@ class HomeIndex extends React.Component {
 export default HomeIndex
 
 export const pageQuery = graphql`
-    query PageQuery {
-                    site {
-                siteMetadata {
-                    title
-                description
-                }
-            },
-        allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date] }) {
-                    edges {
-                node {
-                    id
+query PageQuery {
+    site {
+        siteMetadata {
+            title
+            description
+        }
+    },
+    allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date] }) {
+        edges {
+            node {
+                id
                 excerpt(pruneLength: 250)
                 frontmatter {
                     date(formatString: "MMMM DD, YYYY")
-                path
-                title
-              }
+                    path
+                    title
+                }
             }
-          }
         }
-  }
+    }
+}
 `
