@@ -1,2 +1,2 @@
-webpackJsonp([50370580694040],{1558:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject: Adventures with LEGO Bricks",path:"/blog/poképroject-adventures-with-lego-bricks-c7b9b8385276/"}}}]}},pathContext:{tag:"Pixel Art"}}}});
+webpackJsonp([50370580694040],{1561:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject: Adventures with LEGO Bricks",path:"/blog/poképroject-adventures-with-lego-bricks-c7b9b8385276/"}}}]}},pathContext:{tag:"Pixel Art"}}}});
 //# sourceMappingURL=path---tag-pixel-art-ac4b25f938f2700b39bd.js.map
