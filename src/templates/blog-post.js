@@ -21,8 +21,8 @@ class BlogPostTemplate extends React.Component {
         <div className="bodyContent">
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr className="endPost" />
-          <Tags tags={tags} />
           <SourcePost url={url} />
+          <Tags tags={tags} />
         </div>
         <Tiles tiles={[prev, next]} />
       </div>

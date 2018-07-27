@@ -1,0 +1,21 @@
+@import '../assets/scss/vars';
+
+.tagsLabel {
+    display: inline-block;
+    margin-right: .5em;
+}
+
+.tag {
+    display: inline-block;
+    // background: $bg-alt;
+    // padding: .25em;
+    margin-right: .25em;
+    // margin-top: .25em;
+    white-space: nowrap;
+
+    a {
+        color: $fg;
+        text-decoration: none;
+        border-bottom: 1px dotted $fg;
+    }
+}
