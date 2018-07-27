@@ -18,9 +18,12 @@ class BlogPostTemplate extends React.Component {
       <div>
         <Helmet title={`${title} | ${siteTitle}`} />
         <BannerLanding title={title} lead={description} image={image} />
-        <div className="bodyContent" dangerouslySetInnerHTML={{ __html: post.html }} />
-        <Tags tags={tags} />
-        <SourcePost url={url} />
+        <div className="bodyContent">
+          <div dangerouslySetInnerHTML={{ __html: post.html }} />
+          <hr className="endPost" />
+          <Tags tags={tags} />
+          <SourcePost url={url} />
+        </div>
         <Tiles tiles={[prev, next]} />
       </div>
     )

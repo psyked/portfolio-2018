@@ -4,6 +4,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 html {
   // @include fluid-type($min_width, $max_width, $min_font, $max_font);
   font-family: 'Roboto', sans-serif;
@@ -106,13 +114,11 @@ pre {
 hr {
   @include fluid-type(margin-top, 20em, 70em, 2em, 4em);
   @include fluid-type(margin-bottom, 20em, 70em, 2em, 4em);
-  background-image: linear-gradient(to right, $fg, $fg);
+  background: $fg;
   border: 0;
   height: 1px;
   margin: 0 auto;
   max-width: 60em;
-  // margin-bottom: 40px;
-  // margin-top: 40px;
   overflow: visible;
   text-align: center;
   
@@ -120,10 +126,20 @@ hr {
     background: $bg;
     content: "• • •";
     display: inline-block;
-    font: "BodoniXT" !important;
     font-size: 1.4em;
     padding: 0 0.4em;
     position: relative;
     top: -0.7em;
+  }
+
+  &.endPost {
+    background: $red;
+    
+    &:after {
+      color: $red;
+      content: "END";
+      font-size: .7em;
+      top: -1.2em;
+    }
   }
 }
