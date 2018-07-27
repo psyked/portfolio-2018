@@ -1,0 +1,12 @@
+@import '../assets/scss/mixins';
+@import '../assets/scss/vars';
+
+.root {
+    box-sizing: border-box;
+    margin: 1em auto;
+    max-width: 60em;
+    padding: 1em;
+    @include poly-fluid-sizing('padding-left', (320px: 16px, 768px: 48px));
+    @include poly-fluid-sizing('padding-right', (320px: 16px, 768px: 48px));
+    background: linear-gradient(to right, darken($bg-alt, 10%) 0, darken($bg-alt, 10%) 8px, $bg-alt 8px);
+}

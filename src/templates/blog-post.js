@@ -5,6 +5,7 @@ import get from 'lodash/get'
 import BannerLanding from '../components/BannerLanding'
 import Tiles from '../components/Tiles'
 import Tags from '../components/Tags'
+import SourcePost from '../components/SourcePost'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -19,11 +20,7 @@ class BlogPostTemplate extends React.Component {
         <BannerLanding title={title} lead={description} image={image} />
         <div className="bodyContent" dangerouslySetInnerHTML={{ __html: post.html }} />
         <Tags tags={tags} />
-        {url && (
-          <div className="bodyContent">
-            This article was originally published at <a href={url}>{url}</a>
-          </div>
-        )}
+        <SourcePost url={url} />
         <Tiles tiles={[prev, next]} />
       </div>
     )
