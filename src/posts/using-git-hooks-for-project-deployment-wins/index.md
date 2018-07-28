@@ -7,7 +7,7 @@ tags:
 - git
 ---
 
-I'm amazed that I've never really used this before, but as well as using **Git **to manage your version history, you can also tap into built-in Git hooks to copy your project source code into another location after you've pushed your updates.
+I'm amazed that I've never really used this before, but as well as using **Git** to manage your version history, you can also tap into built-in Git hooks to copy your project source code into another location after you've pushed your updates.
 
 Essentially it's a cheap deployment process, and allows you to keep your source code repository and all its gubbins in one location, and serve your website from another.
 

@@ -2,6 +2,7 @@
 path: /blog/the-dom-monster/
 layout: post
 title: 'The DOM Monster'
+image: dom-monster.png
 date: 2011-03-24T17:22:57Z
 tags:
 - javascript

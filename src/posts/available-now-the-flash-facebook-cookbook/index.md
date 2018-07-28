@@ -9,7 +9,7 @@ tags:
 
 It's official: my first book for Flash Platform developers is now finished and available to buy (or simply download); and it's called the "Flash Facebook Cookbook".
 
-!\[The Flash Facebook Cookbook\](/content/images/2011/09/flash-facebook-cookbook.png)
+![The Flash Facebook Cookbook](/content/images/2011/09/flash-facebook-cookbook.png)
 
 In the event that the title doesn't give it away, this is all about working with Facebook from the Flash Platform (which covers both the Flash Player and AIR applications). It's formatted recipe style, with a motley collection of self-contained recipes that demonstrate some of what you can do with Flash and Facebook combined.
 
@@ -17,7 +17,7 @@ In the event that the title doesn't give it away, this is all about working with
 
 As for the writing itself, it's much more than just a set of recipes - or so I hope - as I've tried to include more than just the solution, but also the reasons and the theory behind the different facets of working with Facebook. It might be a long read, cover-to-cover, but the idea is that when you've done so you'll know Facebook just as well as you would if you'd had to figure it all out for yourself, from scratch.
 
-\[!\[Packt website screenshot\](/content/images/2011/09/packt-website-screenshot.png)\](http://www.packtpub.com/flash-facebook-cookbook-for-graph-api-applications/book)
+[![Packt website screenshot](/content/images/2011/09/packt-website-screenshot.png)](http://www.packtpub.com/flash-facebook-cookbook-for-graph-api-applications/book)
 
 You can either buy the printed version of the Cookbook or the download the eBook version, [direct from Packt Publishing website](http://www.packtpub.com/flash-facebook-cookbook-for-graph-api-applications/book "Open the Packt Publishing website in a new window/tab.") or from [Amazon.com](http://www.amazon.com/Flash-Facebook-Cookbook-James-Ford/dp/1849690723 "Open the Flash Facebook Cookbook on Amazon.com, in a new window/tab.")/[.co.uk](http://www.amazon.co.uk/Flash-Facebook-Cookbook-James-Ford/dp/1849690723 "Open the Flash Facebook Cookbook on Amazon.co.uk, in a new window/tab."). A sample chapter is also available from the Packt website, and I'm currently putting the finishing touches to the [accompanying Facebook App](http://apps.facebook.com/packt_facebook/ "Click here to open the Flash Facebook Cookbook's Facebook application in a new window/tab.").
 

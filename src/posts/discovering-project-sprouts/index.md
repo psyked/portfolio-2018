@@ -12,7 +12,7 @@ tags:
 
 *Project Sprouts ([http://projectsprouts.org/](http://projectsprouts.org/ "Open http://projectsprouts.org/ in a new window")) is something that I'm just starting to get into, following much encouragement from Mark, and a cool presentation from Simon Bailey ([http://www.newtriks.com/?tag=project-sprouts](http://www.newtriks.com/?tag=project-sprouts)).*
 
-![](/content/images/2011/07/FF181.jpg "Sprouts")
+![Sprouts](FF181.jpg)
 
 ### What is Project Sprouts?
 
@@ -30,25 +30,25 @@ It’s all built on Ruby([http://www.ruby-lang.org/en/](http://www.ruby-lang.org
 
 When you’ve got it installed, fire up your Ruby Command-Line window and type:
 
-    \# Install the ActionScript 3 / Flash Bundle:
+    # Install the ActionScript 3 / Flash Bundle:
     gem install flashsdk --pre
 
-    \# Generate a new ActionScript 3 project:
+    # Generate a new ActionScript 3 project:
     sprout-as3 SomeProject
 
-    \# Move into the new project:
+    # Move into the new project:
     cd SomeProject
 
-    \# Install dependencies:
+    # Install dependencies:
     bundle install
 
-    \# Compile and run the main project:
+    # Compile and run the main project:
     rake
 
-    \# Generate a class, test and test suite:
+    # Generate a class, test and test suite:
     sprout-class utils.MathUtil
 
-    \# Compile and run the test harness:
+    # Compile and run the test harness:
     rake test
 
 The initial four lines of code does what otherwise takes hours to achieve. (If you’re doing like-for-like tasks) It downloads the latest Flash SDK, configures it, creates a new project and compiles it. The latter two commands set up unit test templates and runs them. The unit testing templates never really seemed to make sense to me before seeing them used in Sprouts - a lot of setup, if you ask me.  But with the shell classes being auto-generated, it all seems to make sense now!

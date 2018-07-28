@@ -2,13 +2,14 @@
 path: /blog/experiments-with-html5-geolocation/
 layout: post
 title: Experiments with HTML5 Geolocation
+image: geolocation.png
 date: 2011-04-12T22:01:55Z
 tags:
 - html5
 - geolocation
 ---
 
-[![](geolocation.png)
+![](geolocation.png)
 
 I've been exploring the [HTML5 Geolocation specification](http://www.w3.org/TR/geolocation-API/ "Open the W3C specification for Geolocation") recently, and it's both fascinating and a little scary how accurate your browsers' Geolocation capabilities have become, especially if you're working on a machine with Wifi capabilities.
 
