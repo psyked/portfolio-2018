@@ -1,5 +1,5 @@
 ---
-path: /blog/runmaps-v2-0-breaking-free-of-mapbox-dbe3c3ca1a01/
+path: /blog/runmaps-v2-0-breaking-free-of-mapbox/
 layout: "post"
 title: "RunMaps v2.0: Breaking free of Mapbox"
 description: "Replacing Mapbox API Vector Tiles with the OpenStreetMap Overpass API, for fun, profit and better output rendering."
@@ -16,8 +16,6 @@ tags:
 - Geojson
 date: 2018-05-26T08:16:01.471Z
 ---
-
-# RunMaps v2.0: Breaking free of Mapbox
 
 In my previous post, [‘Generating Run Maps with Node.js’](https://medium.com/@psyked/generating-run-maps-with-node-js-52738014d3dc), I talked through the winding path that eventually led me to a place where I’d hooked up data from my activities on Fitbit with data from the Mapbox APIs and created a scalable vector image representation of my activity. It’s been a few weeks since that last post, I’ve had the opportunity to develop this project further, and now I’m going to talk about the next significant change; _dropping Mapbox._
 
