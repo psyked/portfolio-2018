@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
-import BannerLanding from '../components/BannerLanding'
+import Banner from '../components/Banner'
 import Tiles from '../components/Tiles'
 import Tags from '../components/Tags'
 import SourcePost from '../components/SourcePost'
@@ -17,7 +17,7 @@ class BlogPostTemplate extends React.Component {
     return (
       <div>
         <Helmet title={`${title} | ${siteTitle}`} />
-        <BannerLanding title={title} lead={description} image={image} />
+        <Banner title={title} lead={description} image={image} />
         <div className="bodyContent">
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr className="endPost" />

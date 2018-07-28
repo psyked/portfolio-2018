@@ -5,29 +5,14 @@ import Img from 'gatsby-image'
 import styles from './banner.module.scss'
 
 
-const BannerLanding = ({ title, lead, image }) => (
-    <header style={{
-        background: 'grey',
-        backgroundImage: `url(${image})`,
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-        position: 'relative',
-        paddingTop: '2em',
-        paddingBottom: '3em'
-    }}>
+const Banner = ({ title, lead, image }) => (
+    <header className={styles.header}>
         {image && image.childImageSharp && (
             <aside className={styles.imageContainer}>
                 <Img sizes={image.childImageSharp.sizes} outerWrapperClassName={styles.wrapper} className={styles.wrapper} />
             </aside>
         )}
-        <div style={{
-            position: 'absolute',
-            width: '100%',
-            height: '100%',
-            top: 0,
-            left: 0,
-            background: 'rgba(0,0,0,.6)'
-        }}></div>
+        <div className={styles.container}></div>
         <div className="bodyContent" style={{
             color: 'white',
             position: 'relative'
@@ -44,4 +29,4 @@ const BannerLanding = ({ title, lead, image }) => (
     </header>
 )
 
-export default BannerLanding
+export default Banner
