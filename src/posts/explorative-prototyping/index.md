@@ -2,7 +2,7 @@
 path: /blog/explorative-prototyping/
 layout: "post"
 title: "Explorative Prototyping"
-description: "I’ve been making a lot of simple prototypes recently."
+description: "Your next big idea might very well be your greatest success."
 url: "https://medium.com/@psyked/explorative-prototyping-71f2ad9d4e41"
 image: 1*t-PnNMQ78_vCBb4t1MA0Iw.png
 src: "https://cdn-images-1.medium.com/max/1200/1*t-PnNMQ78_vCBb4t1MA0Iw.png"
@@ -15,12 +15,6 @@ tags:
 - Programming
 date: 2016-05-17T19:48:34.316Z
 ---
-
-![](1*t-PnNMQ78_vCBb4t1MA0Iw.png)
-
-Your next big idea might very well be your greatest success.
-
-# Explorative Prototyping
 
 I’ve been making a lot of simple prototypes recently. Each one has at least one feature that is unique and uses a technology that is new to me, and each explores an idea that I’ve come up with myself.
 
