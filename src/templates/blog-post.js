@@ -49,11 +49,11 @@ export const pageQuery = graphql`
           tags
           url
           image {
-            childImageSharp{
+            childImageSharp {
               sizes(maxWidth: 630) {
                   ...GatsbyImageSharpSizes
               }
-          }
+            }
           }
           description
       }

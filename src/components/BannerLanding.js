@@ -11,7 +11,9 @@ const BannerLanding = ({ title, lead, image }) => (
         backgroundImage: `url(${image})`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
-        position: 'relative'
+        position: 'relative',
+        paddingTop: '2em',
+        paddingBottom: '3em'
     }}>
         {image && image.childImageSharp && (
             <aside className={styles.imageContainer}>
@@ -22,6 +24,8 @@ const BannerLanding = ({ title, lead, image }) => (
             position: 'absolute',
             width: '100%',
             height: '100%',
+            top: 0,
+            left: 0,
             background: 'rgba(0,0,0,.6)'
         }}></div>
         <div className="bodyContent" style={{
