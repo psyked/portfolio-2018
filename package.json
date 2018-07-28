@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "James Ford <psyked84@gmail.com>",
   "dependencies": {
+    "date-fns": "^1.29.0",
     "front-matter": "^2.3.0",
     "gatsby": "^1.9.277",
     "gatsby-image": "^1.0.55",

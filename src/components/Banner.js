@@ -1,11 +1,11 @@
 import React from 'react'
 import { withPrefix } from 'gatsby-link'
 import Img from 'gatsby-image'
+import { format } from 'date-fns'
 
 import styles from './banner.module.scss'
 
-
-const Banner = ({ title, lead, image }) => (
+const Banner = ({ title, date, description, image }) => (
     <header className={styles.header}>
         {image && image.childImageSharp && (
             <aside className={styles.imageContainer}>
@@ -20,11 +20,14 @@ const Banner = ({ title, lead, image }) => (
             <header>
                 <h1>{title}</h1>
             </header>
-            {lead &&
+            {description &&
                 <div>
-                    <p>{lead}</p>
+                    <h2>{description}</h2>
                 </div>
             }
+            <aside>
+                Published: {format(new Date(date), 'DD MMM YYYY')}
+            </aside>
         </div>
     </header>
 )

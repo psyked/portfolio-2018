@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Img from 'gatsby-image'
+import { format } from 'date-fns'
 
 import styles from './tiles.module.scss'
 
@@ -21,8 +22,8 @@ const Tiles = ({ tiles }) => {
                                     )}
                                     <div className={styles.blackout}></div>
                                     <h3 className={styles.link}>{tile.frontmatter.title}</h3>
-                                    <p>{tile.frontmatter.description}</p>
-                                    <p>{tile.frontmatter.date}</p>
+                                    <p className={styles.description}>{tile.frontmatter.description}</p>
+                                    <p className={styles.date}>{format(new Date(tile.frontmatter.date), 'DD MMM YYYY')}</p>
                                 </Link>
                             </section>
                         )

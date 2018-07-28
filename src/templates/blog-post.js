@@ -11,20 +11,21 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark || {}
     const { frontmatter: { title, tags, url, image, description } = {} } = post || {}
+    const { frontmatter = {} } = post || {}
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const { next, prev } = this.props.pathContext
 
     return (
       <div>
         <Helmet title={`${title} | ${siteTitle}`} />
-        <Banner title={title} lead={description} image={image} />
+        <Banner {...frontmatter} />
         <div className="bodyContent">
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr className="endPost" />
           <SourcePost url={url} />
           <Tags tags={tags} />
         </div>
-        <Tiles tiles={[prev, next]} />
+        <Tiles tiles={[next, prev]} />
       </div>
     )
   }
