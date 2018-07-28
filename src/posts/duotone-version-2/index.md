@@ -10,6 +10,7 @@ author: "https://medium.com/@psyked"
 published_time: 2018-03-20T23:01:53.855Z
 creator: "@psyked"
 tags:
+- Medium
 - Software Development
 - Side Project
 - Duotone
@@ -25,9 +26,7 @@ Keeping the project scope narrow allowed me to build and release [Duotone](https
 ---
 
 ![](1*-mcN2nl3eJLzIYq5PCQi_g.png)
-
 ![](1*afAgT9m7mk3dBdilBLvmgA.jpeg)
-
 Duotone output on the left, Original on the right.
 
 #### More features, or better features?
