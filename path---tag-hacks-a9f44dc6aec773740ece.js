@@ -1,2 +1,2 @@
-webpackJsonp([0xa386e6fb272f],{1485:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:'Hacking Facebook "Like" buttons for W3C Validation in HTML5',path:"/blog/hacking-facebook-like-buttons-for-w3c-validation-in-html5/"}}}]}},pathContext:{tag:"hacks"}}}});
+webpackJsonp([0xa386e6fb272f],{1486:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:'Hacking Facebook "Like" buttons for W3C Validation in HTML5',path:"/blog/hacking-facebook-like-buttons-for-w3c-validation-in-html5/"}}}]}},pathContext:{tag:"hacks"}}}});
 //# sourceMappingURL=path---tag-hacks-a9f44dc6aec773740ece.js.map

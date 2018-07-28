@@ -1,2 +1,2 @@
-webpackJsonp([88092992586056],{1385:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Shottts - Dribbble for the BlackBerry Playbook",path:"/blog/shottts-dribbble-for-the-blackberry-playbook/"}}}]}},pathContext:{tag:"blackberry"}}}});
+webpackJsonp([88092992586056],{1386:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Shottts - Dribbble for the BlackBerry Playbook",path:"/blog/shottts-dribbble-for-the-blackberry-playbook/"}}}]}},pathContext:{tag:"blackberry"}}}});
 //# sourceMappingURL=path---tag-blackberry-4765752dcb5fe9b7155d.js.map
