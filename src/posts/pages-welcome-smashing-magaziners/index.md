@@ -1,13 +1,11 @@
 ---
-path: /blog/pages-welcome-smashing-magaziners/
+path: /blog/404-pages/
 layout: post
-title: 404 pages - Welcome Smashing Magaziners!
+title: 404 pages
 date: 2007-08-19T20:29:16Z
 tags:
 - wordpress-plugins
 ---
-
-[![Smashing Magazine Logo](logo.gif)
 
 Right up-top there in the usability stakes is the fact that you should always give your visitors what they want.  That's tough, especially when the page they end up with is "Error 404".  I'm not going to go off on a rant about what you can do, but what I do is thanks to a few neat Wordpress Plugins.Basically, the 404's you'll see on Psyked contain a few elements - A search box, related links, top categories and top posts.
 

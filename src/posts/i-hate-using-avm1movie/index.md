@@ -2,6 +2,7 @@
 path: /blog/i-hate-using-avm1movie/
 layout: post
 title: I hate using AVM1Movie...
+image: avm1movie-hydra.jpg
 date: 2010-11-22T23:20:19Z
 tags:
 - actionscript

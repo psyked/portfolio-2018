@@ -8,7 +8,7 @@ tags:
 - icons
 ---
 
-[![](icon-generator-pro.png)
+![](icon-generator-pro.png)
 
 I love this application, Icon Generator Pro.  It's simple, but sometimes that's a good thing in an application, means it has focus - if you're going to do something, do it properly - that's one of the benefits of AIR, it makes it simple to create applications just like this.
 
