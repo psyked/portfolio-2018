@@ -61,8 +61,8 @@
       "path---blog-imagesizer-feedback-screen-fail-d22b4a6b27094ca04c02.js.map"
     ],
     "path---tag-d-3-js": [
-      "path---tag-d-3-js-28647bc2f624574dd9a6.js",
-      "path---tag-d-3-js-28647bc2f624574dd9a6.js.map"
+      "path---tag-d-3-js-c9b8c3bba7a45d3fc492.js",
+      "path---tag-d-3-js-c9b8c3bba7a45d3fc492.js.map"
     ],
     "path---blog-augmented-reality-with-flash": [
       "path---blog-augmented-reality-with-flash-e917593490628d82de47.js",
@@ -85,8 +85,8 @@
       "path---tag-education-5584dbdffec3ecad4089.js.map"
     ],
     "path---blog-culture-of-fear": [
-      "path---blog-culture-of-fear-91542f3015d8c8adcf24.js",
-      "path---blog-culture-of-fear-91542f3015d8c8adcf24.js.map"
+      "path---blog-culture-of-fear-e75745b95b54ec867a14.js",
+      "path---blog-culture-of-fear-e75745b95b54ec867a14.js.map"
     ],
     "path---tag-books": [
       "path---tag-books-c643eeb76cb7c7799bf3.js",
@@ -137,16 +137,16 @@
       "path---tag-agile-133a88bcbf7325eddfbe.js.map"
     ],
     "path---blog-runmaps-3-colour-schemes-and-labels": [
-      "path---blog-runmaps-3-colour-schemes-and-labels-2439c58708f24453361b.js",
-      "path---blog-runmaps-3-colour-schemes-and-labels-2439c58708f24453361b.js.map"
+      "path---blog-runmaps-3-colour-schemes-and-labels-ea8ceca5b0e3e72fea9f.js",
+      "path---blog-runmaps-3-colour-schemes-and-labels-ea8ceca5b0e3e72fea9f.js.map"
     ],
     "path---blog-duotone-version-2": [
       "path---blog-duotone-version-2-0a2170e015e029c06731.js",
       "path---blog-duotone-version-2-0a2170e015e029c06731.js.map"
     ],
     "path---blog-flash-player-set-to-include-hd-video": [
-      "path---blog-flash-player-set-to-include-hd-video-49d04d7fd877d5df1ebe.js",
-      "path---blog-flash-player-set-to-include-hd-video-49d04d7fd877d5df1ebe.js.map"
+      "path---blog-flash-player-set-to-include-hd-video-2f5045f6cb0ae0587763.js",
+      "path---blog-flash-player-set-to-include-hd-video-2f5045f6cb0ae0587763.js.map"
     ],
     "path---blog-runmaps-4-apply-ui-sprinkles-go-live-ceac-2-d-4-a-9936": [
       "path---blog-runmaps-4-apply-ui-sprinkles-go-live-ceac-2-d-4-a-9936-70765500543f95070c4b.js",
@@ -197,12 +197,12 @@
       "path---tag-spark-a07810afbe885bee48be.js.map"
     ],
     "path---tag-wordpress-plugins": [
-      "path---tag-wordpress-plugins-e6e49426280ac6d2ca08.js",
-      "path---tag-wordpress-plugins-e6e49426280ac6d2ca08.js.map"
+      "path---tag-wordpress-plugins-ebfbbad7454a4306c608.js",
+      "path---tag-wordpress-plugins-ebfbbad7454a4306c608.js.map"
     ],
     "path---blog-a-modern-development-workflow-ci-and-cd": [
-      "path---blog-a-modern-development-workflow-ci-and-cd-4ff609f18f54c1a5fa6f.js",
-      "path---blog-a-modern-development-workflow-ci-and-cd-4ff609f18f54c1a5fa6f.js.map"
+      "path---blog-a-modern-development-workflow-ci-and-cd-f27eb0da1cdc0268a24a.js",
+      "path---blog-a-modern-development-workflow-ci-and-cd-f27eb0da1cdc0268a24a.js.map"
     ],
     "path---tag-alchemy": [
       "path---tag-alchemy-b4bf76ad1ad38e62ca95.js",
@@ -303,10 +303,6 @@
     "component---src-pages-index-js": [
       "component---src-pages-index-js-905bb2dcd362e04f5a26.js",
       "component---src-pages-index-js-905bb2dcd362e04f5a26.js.map"
-    ],
-    "path---tag-gif": [
-      "path---tag-gif-f9a76915b7db9a7fdcfb.js",
-      "path---tag-gif-f9a76915b7db9a7fdcfb.js.map"
     ],
     "path---tag-facebook": [
       "path---tag-facebook-e30351f1aeec06f7c185.js",
@@ -413,8 +409,8 @@
       "path---blog-my-splash-screen-example-updated-with-applicationinfo-class-408bdd2f8e914046056f.js.map"
     ],
     "path---blog": [
-      "path---blog-6ff94ebac49678ee4196.js",
-      "path---blog-6ff94ebac49678ee4196.js.map"
+      "path---blog-c006e2c89980be79e3f9.js",
+      "path---blog-c006e2c89980be79e3f9.js.map"
     ],
     "path---tag-beta": [
       "path---tag-beta-a3299342d2bdca681f33.js",
@@ -423,10 +419,6 @@
     "path---tag-flexorm": [
       "path---tag-flexorm-9635dc0826541eeb79bd.js",
       "path---tag-flexorm-9635dc0826541eeb79bd.js.map"
-    ],
-    "path---blog-overcoming-writers-block-ceaf-2939-ab-41": [
-      "path---blog-overcoming-writers-block-ceaf-2939-ab-41-b4d88b1ba2ff92d5ca14.js",
-      "path---blog-overcoming-writers-block-ceaf-2939-ab-41-b4d88b1ba2ff92d5ca14.js.map"
     ],
     "path---tag-pixel-art": [
       "path---tag-pixel-art-ac4b25f938f2700b39bd.js",
@@ -452,10 +444,6 @@
       "path---blog-got-satisfaction-getsatisfaction-af654b7766ac34e2af75.js",
       "path---blog-got-satisfaction-getsatisfaction-af654b7766ac34e2af75.js.map"
     ],
-    "path---blog-explorative-prototyping-71-f-2-ad-9-d-4-e-41": [
-      "path---blog-explorative-prototyping-71-f-2-ad-9-d-4-e-41-f43ddb86ebe582e45e25.js",
-      "path---blog-explorative-prototyping-71-f-2-ad-9-d-4-e-41-f43ddb86ebe582e45e25.js.map"
-    ],
     "path---blog-from-static-html-to-react-to-nuxt": [
       "path---blog-from-static-html-to-react-to-nuxt-5afd46ef5c38c5ca5483.js",
       "path---blog-from-static-html-to-react-to-nuxt-5afd46ef5c38c5ca5483.js.map"
@@ -469,8 +457,8 @@
       "path---blog-google-analytics-class-as-3-97d2c3cb6bef534b04ca.js.map"
     ],
     "path---tags": [
-      "path---tags-af7cd8f19f57f7096e09.js",
-      "path---tags-af7cd8f19f57f7096e09.js.map"
+      "path---tags-4e3c269a687a43c91c64.js",
+      "path---tags-4e3c269a687a43c91c64.js.map"
     ],
     "path---blog-syncronising-scrollpane-components-in-actionscript-2": [
       "path---blog-syncronising-scrollpane-components-in-actionscript-2-caa734b974684f8e77cc.js",
@@ -684,10 +672,6 @@
       "path---tag-hobnox-d239085c0dbedf6ac651.js",
       "path---tag-hobnox-d239085c0dbedf6ac651.js.map"
     ],
-    "path---blog-link-experiments-with-canvas-and-the-hype-framework": [
-      "path---blog-link-experiments-with-canvas-and-the-hype-framework-992c7816bc417bba31b1.js",
-      "path---blog-link-experiments-with-canvas-and-the-hype-framework-992c7816bc417bba31b1.js.map"
-    ],
     "path---blog-stop-using-mxtransitionstween": [
       "path---blog-stop-using-mxtransitionstween-96859fa3bf26ca60e839.js",
       "path---blog-stop-using-mxtransitionstween-96859fa3bf26ca60e839.js.map"
@@ -697,8 +681,8 @@
       "path---tag-ftp-6599deed5a47881f1f20.js.map"
     ],
     "path---tag-flash": [
-      "path---tag-flash-fc259255feaffca01f41.js",
-      "path---tag-flash-fc259255feaffca01f41.js.map"
+      "path---tag-flash-e621a9164428ddd3db54.js",
+      "path---tag-flash-e621a9164428ddd3db54.js.map"
     ],
     "path---blog-git-zero-to-git-hero-900578-ab-90-c-2": [
       "path---blog-git-zero-to-git-hero-900578-ab-90-c-2-22804dbe62555949204a.js",
@@ -713,8 +697,8 @@
       "path---blog-best-practice-for-air-applications-1-of-7-03e0a74d63602ff4ee5d.js.map"
     ],
     "path---blog-on-thursday-agile-died-b-7-c-882-a-648": [
-      "path---blog-on-thursday-agile-died-b-7-c-882-a-648-3d4f7bc5a63d4aa086e8.js",
-      "path---blog-on-thursday-agile-died-b-7-c-882-a-648-3d4f7bc5a63d4aa086e8.js.map"
+      "path---blog-on-thursday-agile-died-b-7-c-882-a-648-621c576473689f73f6aa.js",
+      "path---blog-on-thursday-agile-died-b-7-c-882-a-648-621c576473689f73f6aa.js.map"
     ],
     "path---blog-imagesizer-updated-again": [
       "path---blog-imagesizer-updated-again-78baa2e9186ea0608724.js",
@@ -741,8 +725,8 @@
       "path---blog-amateur-data-spelunking-1ce79e4de536af7d6cef.js.map"
     ],
     "path---tag-side-project": [
-      "path---tag-side-project-0cafaeda15a9f660f130.js",
-      "path---tag-side-project-0cafaeda15a9f660f130.js.map"
+      "path---tag-side-project-2b92ef6bee7cfc7b84c1.js",
+      "path---tag-side-project-2b92ef6bee7cfc7b84c1.js.map"
     ],
     "path---tag-lego": [
       "path---tag-lego-48af29ab8c9deb5721cc.js",
@@ -753,8 +737,8 @@
       "path---blog-little-html-mysteries-alt-vs-title-6bb0fbcda621dfc54d3e.js.map"
     ],
     "path---tag-openstreetmap": [
-      "path---tag-openstreetmap-0ff3f98e43f36e6c1b65.js",
-      "path---tag-openstreetmap-0ff3f98e43f36e6c1b65.js.map"
+      "path---tag-openstreetmap-f4ff97dd4df04f518130.js",
+      "path---tag-openstreetmap-f4ff97dd4df04f518130.js.map"
     ],
     "path---tag-subversion": [
       "path---tag-subversion-677c1b589ae2187a777e.js",
@@ -801,24 +785,24 @@
       "path---blog-air-15-is-now-available-02bb6e0d55ee97463ab9.js.map"
     ],
     "path---blog-overcoming-writers-block": [
-      "path---blog-overcoming-writers-block-8364cea8b23e5b70ada5.js",
-      "path---blog-overcoming-writers-block-8364cea8b23e5b70ada5.js.map"
+      "path---blog-overcoming-writers-block-075eea9870a67f0f0d02.js",
+      "path---blog-overcoming-writers-block-075eea9870a67f0f0d02.js.map"
     ],
     "path---blog-using-git-hooks-for-project-deployment-wins": [
-      "path---blog-using-git-hooks-for-project-deployment-wins-7588c1ff932c3053378d.js",
-      "path---blog-using-git-hooks-for-project-deployment-wins-7588c1ff932c3053378d.js.map"
+      "path---blog-using-git-hooks-for-project-deployment-wins-f6bc50763fbd509256ca.js",
+      "path---blog-using-git-hooks-for-project-deployment-wins-f6bc50763fbd509256ca.js.map"
     ],
     "path---blog-targeting-multiple-browsers-with-css-and-some-javascript-trickery": [
       "path---blog-targeting-multiple-browsers-with-css-and-some-javascript-trickery-40d092dc2dbde449fc55.js",
       "path---blog-targeting-multiple-browsers-with-css-and-some-javascript-trickery-40d092dc2dbde449fc55.js.map"
     ],
     "path---blog-i-hate-using-avm-1-movie": [
-      "path---blog-i-hate-using-avm-1-movie-1337dc46641a4388df71.js",
-      "path---blog-i-hate-using-avm-1-movie-1337dc46641a4388df71.js.map"
+      "path---blog-i-hate-using-avm-1-movie-20c871edef779eb624ce.js",
+      "path---blog-i-hate-using-avm-1-movie-20c871edef779eb624ce.js.map"
     ],
     "path---tag-canvas": [
-      "path---tag-canvas-b5c523d565ef68f59eba.js",
-      "path---tag-canvas-b5c523d565ef68f59eba.js.map"
+      "path---tag-canvas-f641df4c809994692054.js",
+      "path---tag-canvas-f641df4c809994692054.js.map"
     ],
     "path---tag-nuxt": [
       "path---tag-nuxt-40a8290de851ead27738.js",
@@ -827,6 +811,10 @@
     "path---tag-audiotool": [
       "path---tag-audiotool-0ac039d5d2790214ce12.js",
       "path---tag-audiotool-0ac039d5d2790214ce12.js.map"
+    ],
+    "path---blog-404-pages": [
+      "path---blog-404-pages-b734fc17d1aa6daa4a3d.js",
+      "path---blog-404-pages-b734fc17d1aa6daa4a3d.js.map"
     ],
     "path---tag-fzip": [
       "path---tag-fzip-284e6b10b2990c7f09c7.js",
@@ -845,8 +833,8 @@
       "path---blog-adobe-air-is-5f2bf511345bca153965.js.map"
     ],
     "path---blog-cool-stuff-in-google-image-details": [
-      "path---blog-cool-stuff-in-google-image-details-2a64dbae2be73abf2cfb.js",
-      "path---blog-cool-stuff-in-google-image-details-2a64dbae2be73abf2cfb.js.map"
+      "path---blog-cool-stuff-in-google-image-details-73a8c9e2c0dcc3a067b1.js",
+      "path---blog-cool-stuff-in-google-image-details-73a8c9e2c0dcc3a067b1.js.map"
     ],
     "path---tag-university-projects": [
       "path---tag-university-projects-fc74e1916439e564c38e.js",
@@ -863,10 +851,6 @@
     "path---blog-will-linkedin-and-twitter-kill-telemarketing": [
       "path---blog-will-linkedin-and-twitter-kill-telemarketing-f46f6ce413b9db8913d6.js",
       "path---blog-will-linkedin-and-twitter-kill-telemarketing-f46f6ce413b9db8913d6.js.map"
-    ],
-    "path---blog-packaging-pixel-bender-filters-in-swc-files": [
-      "path---blog-packaging-pixel-bender-filters-in-swc-files-1e55eb9ff2c8091651c1.js",
-      "path---blog-packaging-pixel-bender-filters-in-swc-files-1e55eb9ff2c8091651c1.js.map"
     ],
     "path---tag-agileontap": [
       "path---tag-agileontap-08a4f5cea6960fae5a55.js",
@@ -933,8 +917,8 @@
       "path---blog-bbc-releases-an-air-version-of-the-iplayer-3f7191180adb25ebf54a.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-0ca5a96afa5b8a490de3.js",
-      "component---src-templates-blog-post-js-0ca5a96afa5b8a490de3.js.map"
+      "component---src-templates-blog-post-js-7c347b6943df3ba355fe.js",
+      "component---src-templates-blog-post-js-7c347b6943df3ba355fe.js.map"
     ],
     "path---tag-drm": [
       "path---tag-drm-0119d06fd766fbac51d2.js",
@@ -957,8 +941,8 @@
       "path---tag-rss-tag-58e90fdfd60a78627111.js.map"
     ],
     "path---tag-external-links": [
-      "path---tag-external-links-47e0a96363db43e0cfe8.js",
-      "path---tag-external-links-47e0a96363db43e0cfe8.js.map"
+      "path---tag-external-links-651f12be2d25b02cc179.js",
+      "path---tag-external-links-651f12be2d25b02cc179.js.map"
     ],
     "path---blog-how-to-poach-pixel-bender-filters": [
       "path---blog-how-to-poach-pixel-bender-filters-9f64f3f08ef0564bd798.js",
@@ -976,13 +960,9 @@
       "path---tag-shottts-3f4652d2c882fe82c846.js",
       "path---tag-shottts-3f4652d2c882fe82c846.js.map"
     ],
-    "path---blog-runmaps-v-2-0-breaking-free-of-mapbox-dbe-3-c-3-ca-1-a-01": [
-      "path---blog-runmaps-v-2-0-breaking-free-of-mapbox-dbe-3-c-3-ca-1-a-01-dc842c956e46d57323fd.js",
-      "path---blog-runmaps-v-2-0-breaking-free-of-mapbox-dbe-3-c-3-ca-1-a-01-dc842c956e46d57323fd.js.map"
-    ],
     "path---blog-explorative-prototyping": [
-      "path---blog-explorative-prototyping-affff155e59f71b636e3.js",
-      "path---blog-explorative-prototyping-affff155e59f71b636e3.js.map"
+      "path---blog-explorative-prototyping-c3602a5aac10e39a04f4.js",
+      "path---blog-explorative-prototyping-c3602a5aac10e39a04f4.js.map"
     ],
     "path---tag-developers": [
       "path---tag-developers-280cf6ceed760a295598.js",
@@ -1073,8 +1053,8 @@
       "path---tag-flex-4-73a8c6011f096ad5a80f.js.map"
     ],
     "path---blog-experiments-with-html-5-geolocation": [
-      "path---blog-experiments-with-html-5-geolocation-25f1602c26b6117b3a11.js",
-      "path---blog-experiments-with-html-5-geolocation-25f1602c26b6117b3a11.js.map"
+      "path---blog-experiments-with-html-5-geolocation-80b89a67dba6d0869203.js",
+      "path---blog-experiments-with-html-5-geolocation-80b89a67dba6d0869203.js.map"
     ],
     "path---tag-openservice": [
       "path---tag-openservice-fc04a8f477e964f6a888.js",
@@ -1135,10 +1115,6 @@
     "path---tag-presentations": [
       "path---tag-presentations-106ebde4eecbcd2c3d0a.js",
       "path---tag-presentations-106ebde4eecbcd2c3d0a.js.map"
-    ],
-    "path---tag-markstar": [
-      "path---tag-markstar-7ed2253a242412df4323.js",
-      "path---tag-markstar-7ed2253a242412df4323.js.map"
     ],
     "path---blog-reigning-in-your-linkspam": [
       "path---blog-reigning-in-your-linkspam-8f0b2d49349d22b410e9.js",
@@ -1217,8 +1193,8 @@
       "path---blog-rotating-bitmapdata-6e7362ea67bf58bfd55a.js.map"
     ],
     "path---blog-so-what-can-you-do-with-html-5": [
-      "path---blog-so-what-can-you-do-with-html-5-e04f61662a93e393dab5.js",
-      "path---blog-so-what-can-you-do-with-html-5-e04f61662a93e393dab5.js.map"
+      "path---blog-so-what-can-you-do-with-html-5-f910cbaad516b3a010ba.js",
+      "path---blog-so-what-can-you-do-with-html-5-f910cbaad516b3a010ba.js.map"
     ],
     "path---blog-displaying-link-locations-with-css": [
       "path---blog-displaying-link-locations-with-css-8edfac6584d0890b030d.js",
@@ -1289,8 +1265,8 @@
       "path---tag-namespaces-ae1dcdc1cfe60cfab7a0.js.map"
     ],
     "path---index": [
-      "path---index-6ff94ebac49678ee4196.js",
-      "path---index-6ff94ebac49678ee4196.js.map"
+      "path---index-c006e2c89980be79e3f9.js",
+      "path---index-c006e2c89980be79e3f9.js.map"
     ],
     "path---blog-imagesizer-is-now-available-from-the-adobe-air-marketplace": [
       "path---blog-imagesizer-is-now-available-from-the-adobe-air-marketplace-cdfe0d2c3c8f50508752.js",
@@ -1331,10 +1307,6 @@
     "path---tag-fitbit": [
       "path---tag-fitbit-6cedd96e30c4f62c2ad4.js",
       "path---tag-fitbit-6cedd96e30c4f62c2ad4.js.map"
-    ],
-    "path---tag-writing": [
-      "path---tag-writing-7900b4145aeb4155f0db.js",
-      "path---tag-writing-7900b4145aeb4155f0db.js.map"
     ],
     "path---tag-testing": [
       "path---tag-testing-fd11b2adabd0089e7361.js",
@@ -1405,8 +1377,8 @@
       "path---tag-iphone-b6d3ee1c707d91425b24.js.map"
     ],
     "path---blog-ie-8-beta-goes-public-and-what-are-those-new-features": [
-      "path---blog-ie-8-beta-goes-public-and-what-are-those-new-features-4aed9b5ac3b0c331205d.js",
-      "path---blog-ie-8-beta-goes-public-and-what-are-those-new-features-4aed9b5ac3b0c331205d.js.map"
+      "path---blog-ie-8-beta-goes-public-and-what-are-those-new-features-b11615168acbac3c0a72.js",
+      "path---blog-ie-8-beta-goes-public-and-what-are-those-new-features-b11615168acbac3c0a72.js.map"
     ],
     "path---blog-multitouch-applications-with-air": [
       "path---blog-multitouch-applications-with-air-2ff0f104e9538479bfe5.js",
@@ -1421,8 +1393,8 @@
       "path---blog-pokeproject-dev-diary-day-three-e57f9916266b2e717b13.js.map"
     ],
     "path---blog-why-your-next-marketing-hire-should-be-a-robot": [
-      "path---blog-why-your-next-marketing-hire-should-be-a-robot-b25eaf25fac763b51779.js",
-      "path---blog-why-your-next-marketing-hire-should-be-a-robot-b25eaf25fac763b51779.js.map"
+      "path---blog-why-your-next-marketing-hire-should-be-a-robot-2fcae19e7a676c7f7204.js",
+      "path---blog-why-your-next-marketing-hire-should-be-a-robot-2fcae19e7a676c7f7204.js.map"
     ],
     "path---blog-getting-started-with-ajax-prototype": [
       "path---blog-getting-started-with-ajax-prototype-9cfbd87806648c2f4e86.js",
@@ -1461,8 +1433,8 @@
       "path---blog-embossed-shadowed-text-in-flex-fded47a2a9cb819efc72.js.map"
     ],
     "path---blog-shottts-dribbble-for-the-blackberry-playbook": [
-      "path---blog-shottts-dribbble-for-the-blackberry-playbook-96e49034a51a5acd5b42.js",
-      "path---blog-shottts-dribbble-for-the-blackberry-playbook-96e49034a51a5acd5b42.js.map"
+      "path---blog-shottts-dribbble-for-the-blackberry-playbook-8d17a6a18b78b5eb05d2.js",
+      "path---blog-shottts-dribbble-for-the-blackberry-playbook-8d17a6a18b78b5eb05d2.js.map"
     ],
     "path---tag-xslt": [
       "path---tag-xslt-9e3191c2ee4566653a77.js",
@@ -1527,8 +1499,8 @@
       "path---tag-seo-97eb887f8322ab83f6fa.js.map"
     ],
     "path---blog-link-face-tracking-and-3-d-scene": [
-      "path---blog-link-face-tracking-and-3-d-scene-3c3a32517c3ad1c1cedb.js",
-      "path---blog-link-face-tracking-and-3-d-scene-3c3a32517c3ad1c1cedb.js.map"
+      "path---blog-link-face-tracking-and-3-d-scene-f911ae92860b400d7e44.js",
+      "path---blog-link-face-tracking-and-3-d-scene-f911ae92860b400d7e44.js.map"
     ],
     "path---blog-minute-flex-air-tutorial-creating-your-application-splash-screen": [
       "path---blog-minute-flex-air-tutorial-creating-your-application-splash-screen-c0b1a80aee23d800f694.js",
@@ -1559,8 +1531,8 @@
       "path---blog-flash-player-security-update-22d712d8eaad11fe02c6.js.map"
     ],
     "path---blog-is-it-time-to-use-visual-studio-code-as-your-ide": [
-      "path---blog-is-it-time-to-use-visual-studio-code-as-your-ide-fb77e2c534e44f630908.js",
-      "path---blog-is-it-time-to-use-visual-studio-code-as-your-ide-fb77e2c534e44f630908.js.map"
+      "path---blog-is-it-time-to-use-visual-studio-code-as-your-ide-fa64b65da2e5e873968c.js",
+      "path---blog-is-it-time-to-use-visual-studio-code-as-your-ide-fa64b65da2e5e873968c.js.map"
     ],
     "path---blog-introducing-imagesizer-042": [
       "path---blog-introducing-imagesizer-042-9cde2a60890e09afb2bf.js",
@@ -1615,8 +1587,8 @@
       "path---blog-openfaas-like-lamba-but-open-a38bf4688be14f1782c8.js.map"
     ],
     "path---tag-hackathon": [
-      "path---tag-hackathon-8fd6e4604461b9c5e923.js",
-      "path---tag-hackathon-8fd6e4604461b9c5e923.js.map"
+      "path---tag-hackathon-4111d43d7346116ecb84.js",
+      "path---tag-hackathon-4111d43d7346116ecb84.js.map"
     ],
     "path---tag-educational": [
       "path---tag-educational-f19b41fc11aa775b5239.js",
@@ -1635,8 +1607,8 @@
       "path---blog-alexkingorg-cool-wordpress-plugins-92463f2461b26113f385.js.map"
     ],
     "path---blog-xjsfl-that-looks-pretty-cool": [
-      "path---blog-xjsfl-that-looks-pretty-cool-9199561ac8a09731fc72.js",
-      "path---blog-xjsfl-that-looks-pretty-cool-9199561ac8a09731fc72.js.map"
+      "path---blog-xjsfl-that-looks-pretty-cool-4b476d95410fad97708a.js",
+      "path---blog-xjsfl-that-looks-pretty-cool-4b476d95410fad97708a.js.map"
     ],
     "path---tag-christmas-games": [
       "path---tag-christmas-games-d567d1a16806e7256554.js",
@@ -1651,8 +1623,8 @@
       "path---blog-actionscript-2-to-actionscript-3-communication-try-flashinterface-9eb7e165db47b036f38b.js.map"
     ],
     "path---blog-pokeproject-from-static-html-to-react-to-nuxt": [
-      "path---blog-pokeproject-from-static-html-to-react-to-nuxt-6b0d3d523f776fcafc48.js",
-      "path---blog-pokeproject-from-static-html-to-react-to-nuxt-6b0d3d523f776fcafc48.js.map"
+      "path---blog-pokeproject-from-static-html-to-react-to-nuxt-bd0fabcb30877a8c129c.js",
+      "path---blog-pokeproject-from-static-html-to-react-to-nuxt-bd0fabcb30877a8c129c.js.map"
     ],
     "path---blog-fast-and-fresh-loading-graphics-with-ajaxloadinfo": [
       "path---blog-fast-and-fresh-loading-graphics-with-ajaxloadinfo-75e3be68567ad157822c.js",
@@ -1675,16 +1647,16 @@
       "path---tag-performance-35124a457e963d5a96ee.js.map"
     ],
     "path---tag-html-5": [
-      "path---tag-html-5-02af79b9fac49e6b259f.js",
-      "path---tag-html-5-02af79b9fac49e6b259f.js.map"
+      "path---tag-html-5-333b44bfee847ea60a5c.js",
+      "path---tag-html-5-333b44bfee847ea60a5c.js.map"
     ],
     "path---tag-getsatisfaction": [
       "path---tag-getsatisfaction-bbdb8803462c6e71682c.js",
       "path---tag-getsatisfaction-bbdb8803462c6e71682c.js.map"
     ],
     "path---blog-available-now-the-flash-facebook-cookbook": [
-      "path---blog-available-now-the-flash-facebook-cookbook-2f408e0ca2aa204bffc7.js",
-      "path---blog-available-now-the-flash-facebook-cookbook-2f408e0ca2aa204bffc7.js.map"
+      "path---blog-available-now-the-flash-facebook-cookbook-387bd8402cfc059095f6.js",
+      "path---blog-available-now-the-flash-facebook-cookbook-387bd8402cfc059095f6.js.map"
     ],
     "path---tag-flickr": [
       "path---tag-flickr-905e05dc35501cc83b9a.js",
@@ -1695,8 +1667,8 @@
       "path---blog-building-duotone-ccc54e4bf7d20b421b24.js.map"
     ],
     "path---blog-the-dom-monster": [
-      "path---blog-the-dom-monster-bae2489983d3a25188b1.js",
-      "path---blog-the-dom-monster-bae2489983d3a25188b1.js.map"
+      "path---blog-the-dom-monster-a02ed67fa80fe2696aad.js",
+      "path---blog-the-dom-monster-a02ed67fa80fe2696aad.js.map"
     ],
     "path---blog-if-its-not-in-bitbucket-it-doesnt-exist": [
       "path---blog-if-its-not-in-bitbucket-it-doesnt-exist-8d21869aa03d374662b0.js",
@@ -1990,10 +1962,6 @@
       "path---tag-externalinterface-a37370d0448c4f380e34.js",
       "path---tag-externalinterface-a37370d0448c4f380e34.js.map"
     ],
-    "path---blog-pages-welcome-smashing-magaziners": [
-      "path---blog-pages-welcome-smashing-magaziners-3bc3168260b363f9e8a7.js",
-      "path---blog-pages-welcome-smashing-magaziners-3bc3168260b363f9e8a7.js.map"
-    ],
     "path---tag-asdoc": [
       "path---tag-asdoc-a380f40a8c206576593a.js",
       "path---tag-asdoc-a380f40a8c206576593a.js.map"
@@ -2019,8 +1987,8 @@
       "path---blog-desktop-mashups-f742b0fdd61a8489a2f0.js.map"
     ],
     "path---blog-actionscript-30-lets-you-work-with-zip-files": [
-      "path---blog-actionscript-30-lets-you-work-with-zip-files-f9db7c28b76bfe5c6ab9.js",
-      "path---blog-actionscript-30-lets-you-work-with-zip-files-f9db7c28b76bfe5c6ab9.js.map"
+      "path---blog-actionscript-30-lets-you-work-with-zip-files-6b772e3967b120fc5f80.js",
+      "path---blog-actionscript-30-lets-you-work-with-zip-files-6b772e3967b120fc5f80.js.map"
     ],
     "path---tag-debugging-tools": [
       "path---tag-debugging-tools-fb50ac4e20a3fa4ab425.js",
@@ -2051,9 +2019,9 @@
       "path---blog-what-to-look-for-from-a-prospective-developer-f37bd6d3b97b93e473f7.js.map"
     ],
     "app": [
-      "app-de091e8179f9f81431e5.js",
+      "app-678f5d5e31d030f6a262.js",
       "build-js-styles.css",
-      "app-de091e8179f9f81431e5.js.map",
+      "app-678f5d5e31d030f6a262.js.map",
       "build-js-styles.css.map"
     ],
     "path---tag-google": [
@@ -2065,8 +2033,8 @@
       "path---blog-scribbling-away-during-meetings-294cf8e2b967e0ce113c.js.map"
     ],
     "path---tag-mapbox": [
-      "path---tag-mapbox-ad1655faf7e4cbc708de.js",
-      "path---tag-mapbox-ad1655faf7e4cbc708de.js.map"
+      "path---tag-mapbox-f234f43f16f1c43b89b1.js",
+      "path---tag-mapbox-f234f43f16f1c43b89b1.js.map"
     ],
     "path---blog-im-on-twitter": [
       "path---blog-im-on-twitter-cac5ba47db5e452e7313.js",
@@ -2113,12 +2081,12 @@
       "path---blog-christmas-games-online-downloadable-61c5aaf4d8d6c4bbca9b.js.map"
     ],
     "path---blog-lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514-ad-67-a-5-c-9": [
-      "path---blog-lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514-ad-67-a-5-c-9-3c07341cf7f2876749dc.js",
-      "path---blog-lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514-ad-67-a-5-c-9-3c07341cf7f2876749dc.js.map"
+      "path---blog-lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514-ad-67-a-5-c-9-e8e88d357de61a49e937.js",
+      "path---blog-lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514-ad-67-a-5-c-9-e8e88d357de61a49e937.js.map"
     ],
     "path---blog-link-icon-generator-pro": [
-      "path---blog-link-icon-generator-pro-6d4b6e5550716abae5d8.js",
-      "path---blog-link-icon-generator-pro-6d4b6e5550716abae5d8.js.map"
+      "path---blog-link-icon-generator-pro-2ca6c9a9de5b34e25c3b.js",
+      "path---blog-link-icon-generator-pro-2ca6c9a9de5b34e25c3b.js.map"
     ],
     "path---blog-javascript-testing-with-node-js-testacular-jasmine": [
       "path---blog-javascript-testing-with-node-js-testacular-jasmine-e92dd0c2e3036a7f40d1.js",
@@ -2217,8 +2185,8 @@
       "path---tag-work-e9f348a6705bcfe2ff88.js.map"
     ],
     "path---tag-pixel-bender": [
-      "path---tag-pixel-bender-41eed1c08ad065a52518.js",
-      "path---tag-pixel-bender-41eed1c08ad065a52518.js.map"
+      "path---tag-pixel-bender-d7b72bdfdaa34721e23b.js",
+      "path---tag-pixel-bender-d7b72bdfdaa34721e23b.js.map"
     ],
     "path---blog-movieclip-saturation-class-actionscript-20": [
       "path---blog-movieclip-saturation-class-actionscript-20-76cb0a69513d96597dcf.js",
@@ -2245,16 +2213,16 @@
       "path---blog-git-101-force-sensitive-to-jedi-padawan-214dfdd6185c53185fcd.js.map"
     ],
     "path---tag-prototyping": [
-      "path---tag-prototyping-709897f8dcafb4176540.js",
-      "path---tag-prototyping-709897f8dcafb4176540.js.map"
+      "path---tag-prototyping-081368a10e5e69935824.js",
+      "path---tag-prototyping-081368a10e5e69935824.js.map"
     ],
     "path---blog-discovering-project-sprouts": [
-      "path---blog-discovering-project-sprouts-b0b456ea13f730b8fe94.js",
-      "path---blog-discovering-project-sprouts-b0b456ea13f730b8fe94.js.map"
+      "path---blog-discovering-project-sprouts-027663221681bc8b08aa.js",
+      "path---blog-discovering-project-sprouts-027663221681bc8b08aa.js.map"
     ],
     "path---blog-mmm-cookies-in-actionscript-javascript": [
-      "path---blog-mmm-cookies-in-actionscript-javascript-23f3015e648ff8aaa6ba.js",
-      "path---blog-mmm-cookies-in-actionscript-javascript-23f3015e648ff8aaa6ba.js.map"
+      "path---blog-mmm-cookies-in-actionscript-javascript-004d79b701101f8d624b.js",
+      "path---blog-mmm-cookies-in-actionscript-javascript-004d79b701101f8d624b.js.map"
     ],
     "path---tag-openfaas": [
       "path---tag-openfaas-56cdbb21a95552daa5b8.js",
@@ -2308,6 +2276,10 @@
       "path---blog-how-to-post-images-to-twitpic-with-actionscript-1e7b72b7f2e4b640110c.js",
       "path---blog-how-to-post-images-to-twitpic-with-actionscript-1e7b72b7f2e4b640110c.js.map"
     ],
+    "path---blog-runmaps-v-2-0-breaking-free-of-mapbox": [
+      "path---blog-runmaps-v-2-0-breaking-free-of-mapbox-1782b91e14f0a26bfe5c.js",
+      "path---blog-runmaps-v-2-0-breaking-free-of-mapbox-1782b91e14f0a26bfe5c.js.map"
+    ],
     "path---tag-software-development": [
       "path---tag-software-development-8f2cda72a9cbce41f4fa.js",
       "path---tag-software-development-8f2cda72a9cbce41f4fa.js.map"
@@ -2345,8 +2317,8 @@
       "path---tag-hackaday-739847522c59d6a6bd46.js.map"
     ],
     "path---tag-geojson": [
-      "path---tag-geojson-a7d3d275adf63ffe8fa7.js",
-      "path---tag-geojson-a7d3d275adf63ffe8fa7.js.map"
+      "path---tag-geojson-f26a67d7112e9ca8081f.js",
+      "path---tag-geojson-f26a67d7112e9ca8081f.js.map"
     ],
     "path---tag-http-link": [
       "path---tag-http-link-b47422ded02b6d3d041a.js",
@@ -2387,10 +2359,6 @@
     "path---tag-mdm-zinc": [
       "path---tag-mdm-zinc-5cba2540991f85392538.js",
       "path---tag-mdm-zinc-5cba2540991f85392538.js.map"
-    ],
-    "path---blog-the-history-of-the-humble-gif": [
-      "path---blog-the-history-of-the-humble-gif-1610026e30bdae93fdba.js",
-      "path---blog-the-history-of-the-humble-gif-1610026e30bdae93fdba.js.map"
     ],
     "path---tag-vectors": [
       "path---tag-vectors-caa78e88223a06fc054d.js",
@@ -2509,8 +2477,8 @@
       "path---tag-flex-framework-6074759ee6ecad8e8ab7.js.map"
     ],
     "path---tag-programming": [
-      "path---tag-programming-3179344df370a3fa6a50.js",
-      "path---tag-programming-3179344df370a3fa6a50.js.map"
+      "path---tag-programming-70ae57b09f56e428b27b.js",
+      "path---tag-programming-70ae57b09f56e428b27b.js.map"
     ]
   }
 }
