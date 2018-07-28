@@ -1,2 +1,2 @@
-webpackJsonp([28455483012606],{1576:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Discovering: Project Sprouts",path:"/blog/discovering-project-sprouts/"}}}]}},pathContext:{tag:"project-sprouts"}}}});
+webpackJsonp([28455483012606],{1567:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Discovering: Project Sprouts",path:"/blog/discovering-project-sprouts/"}}}]}},pathContext:{tag:"project-sprouts"}}}});
 //# sourceMappingURL=path---tag-project-sprouts-248d218b11bef87143f2.js.map

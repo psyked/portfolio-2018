@@ -192,10 +192,6 @@
       "path---blog-more-than-just-validation-e625a1427cd34abc1e94.js",
       "path---blog-more-than-just-validation-e625a1427cd34abc1e94.js.map"
     ],
-    "path---tag-amp-tag": [
-      "path---tag-amp-tag-7e69a520b2a4b24868ee.js",
-      "path---tag-amp-tag-7e69a520b2a4b24868ee.js.map"
-    ],
     "path---tag-spark": [
       "path---tag-spark-a07810afbe885bee48be.js",
       "path---tag-spark-a07810afbe885bee48be.js.map"
@@ -417,8 +413,8 @@
       "path---blog-my-splash-screen-example-updated-with-applicationinfo-class-408bdd2f8e914046056f.js.map"
     ],
     "path---blog": [
-      "path---blog-a965c56c21e5d164b2f5.js",
-      "path---blog-a965c56c21e5d164b2f5.js.map"
+      "path---blog-6ff94ebac49678ee4196.js",
+      "path---blog-6ff94ebac49678ee4196.js.map"
     ],
     "path---tag-beta": [
       "path---tag-beta-a3299342d2bdca681f33.js",
@@ -473,8 +469,8 @@
       "path---blog-google-analytics-class-as-3-97d2c3cb6bef534b04ca.js.map"
     ],
     "path---tags": [
-      "path---tags-b0319e9edcfbde6779b8.js",
-      "path---tags-b0319e9edcfbde6779b8.js.map"
+      "path---tags-af7cd8f19f57f7096e09.js",
+      "path---tags-af7cd8f19f57f7096e09.js.map"
     ],
     "path---blog-syncronising-scrollpane-components-in-actionscript-2": [
       "path---blog-syncronising-scrollpane-components-in-actionscript-2-caa734b974684f8e77cc.js",
@@ -560,10 +556,6 @@
       "path---tag-quirks-99759c18635eb7b39fc9.js",
       "path---tag-quirks-99759c18635eb7b39fc9.js.map"
     ],
-    "path---blog-flex-in-a-week-with-adobe-media-player": [
-      "path---blog-flex-in-a-week-with-adobe-media-player-cdb224001d16a6dfb87d.js",
-      "path---blog-flex-in-a-week-with-adobe-media-player-cdb224001d16a6dfb87d.js.map"
-    ],
     "path---tag-medium": [
       "path---tag-medium-6d2d87585786fd687d7e.js",
       "path---tag-medium-6d2d87585786fd687d7e.js.map"
@@ -633,8 +625,8 @@
       "path---tag-moss-6799c28dea609e19c94f.js.map"
     ],
     "path---blog-fotb-day-zero": [
-      "path---blog-fotb-day-zero-e9cb33f5b2013489a325.js",
-      "path---blog-fotb-day-zero-e9cb33f5b2013489a325.js.map"
+      "path---blog-fotb-day-zero-2158cdcde7dda48dd57a.js",
+      "path---blog-fotb-day-zero-2158cdcde7dda48dd57a.js.map"
     ],
     "path---tag-frameworks": [
       "path---tag-frameworks-404a285cce7a9a25835c.js",
@@ -705,8 +697,8 @@
       "path---tag-ftp-6599deed5a47881f1f20.js.map"
     ],
     "path---tag-flash": [
-      "path---tag-flash-895c66afaab653cac14c.js",
-      "path---tag-flash-895c66afaab653cac14c.js.map"
+      "path---tag-flash-fc259255feaffca01f41.js",
+      "path---tag-flash-fc259255feaffca01f41.js.map"
     ],
     "path---blog-git-zero-to-git-hero-900578-ab-90-c-2": [
       "path---blog-git-zero-to-git-hero-900578-ab-90-c-2-22804dbe62555949204a.js",
@@ -805,8 +797,8 @@
       "path---blog-viewing-flash-flex-air-documentation-offline-with-doc-ead42130309ccca36431.js.map"
     ],
     "path---blog-air-15-is-now-available": [
-      "path---blog-air-15-is-now-available-62db735184bee916b446.js",
-      "path---blog-air-15-is-now-available-62db735184bee916b446.js.map"
+      "path---blog-air-15-is-now-available-02bb6e0d55ee97463ab9.js",
+      "path---blog-air-15-is-now-available-02bb6e0d55ee97463ab9.js.map"
     ],
     "path---blog-overcoming-writers-block": [
       "path---blog-overcoming-writers-block-8364cea8b23e5b70ada5.js",
@@ -861,8 +853,8 @@
       "path---tag-university-projects-fc74e1916439e564c38e.js.map"
     ],
     "path---blog-introducing-the-air-badger": [
-      "path---blog-introducing-the-air-badger-4ded931d82ef1b17f98c.js",
-      "path---blog-introducing-the-air-badger-4ded931d82ef1b17f98c.js.map"
+      "path---blog-introducing-the-air-badger-98b62812c0dcafda16ab.js",
+      "path---blog-introducing-the-air-badger-98b62812c0dcafda16ab.js.map"
     ],
     "path---tag-box-2": [
       "path---tag-box-2-0e71f0b1e0f84493a4b6.js",
@@ -941,8 +933,8 @@
       "path---blog-bbc-releases-an-air-version-of-the-iplayer-3f7191180adb25ebf54a.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-a4170d6464ea279d2552.js",
-      "component---src-templates-blog-post-js-a4170d6464ea279d2552.js.map"
+      "component---src-templates-blog-post-js-0ca5a96afa5b8a490de3.js",
+      "component---src-templates-blog-post-js-0ca5a96afa5b8a490de3.js.map"
     ],
     "path---tag-drm": [
       "path---tag-drm-0119d06fd766fbac51d2.js",
@@ -963,10 +955,6 @@
     "path---tag-rss-tag": [
       "path---tag-rss-tag-58e90fdfd60a78627111.js",
       "path---tag-rss-tag-58e90fdfd60a78627111.js.map"
-    ],
-    "path---blog-flash-vs-silverlight-20": [
-      "path---blog-flash-vs-silverlight-20-2b06fbea8e9b7a04c4b8.js",
-      "path---blog-flash-vs-silverlight-20-2b06fbea8e9b7a04c4b8.js.map"
     ],
     "path---tag-external-links": [
       "path---tag-external-links-47e0a96363db43e0cfe8.js",
@@ -1301,8 +1289,8 @@
       "path---tag-namespaces-ae1dcdc1cfe60cfab7a0.js.map"
     ],
     "path---index": [
-      "path---index-a965c56c21e5d164b2f5.js",
-      "path---index-a965c56c21e5d164b2f5.js.map"
+      "path---index-6ff94ebac49678ee4196.js",
+      "path---index-6ff94ebac49678ee4196.js.map"
     ],
     "path---blog-imagesizer-is-now-available-from-the-adobe-air-marketplace": [
       "path---blog-imagesizer-is-now-available-from-the-adobe-air-marketplace-cdfe0d2c3c8f50508752.js",
@@ -1899,8 +1887,8 @@
       "path---tag-ansi-be9155272e5eb35f0a80.js.map"
     ],
     "path---tag-flex": [
-      "path---tag-flex-df3c10948dc6cc64f161.js",
-      "path---tag-flex-df3c10948dc6cc64f161.js.map"
+      "path---tag-flex-535a8b94da292c605e56.js",
+      "path---tag-flex-535a8b94da292c605e56.js.map"
     ],
     "path---blog-git-zero-to-git-hero": [
       "path---blog-git-zero-to-git-hero-936e541b6520267bde7c.js",
@@ -1919,8 +1907,8 @@
       "path---blog-using-google-analytics-in-flash-02c5ed32654d7a639f72.js.map"
     ],
     "path---blog-adobe-flex-reaches-out-to-net-developers": [
-      "path---blog-adobe-flex-reaches-out-to-net-developers-8c7b35711ded9c901f65.js",
-      "path---blog-adobe-flex-reaches-out-to-net-developers-8c7b35711ded9c901f65.js.map"
+      "path---blog-adobe-flex-reaches-out-to-net-developers-c9977995460d87f40a3f.js",
+      "path---blog-adobe-flex-reaches-out-to-net-developers-c9977995460d87f40a3f.js.map"
     ],
     "component---src-pages-blog-js": [
       "component---src-pages-blog-js-b5668fc11b07bb48ce54.js",
@@ -1981,10 +1969,6 @@
     "path---tag-games": [
       "path---tag-games-3c7f0ab79179aa5e64bb.js",
       "path---tag-games-3c7f0ab79179aa5e64bb.js.map"
-    ],
-    "path---tag-silverlight": [
-      "path---tag-silverlight-41e46cd044a93c3f163d.js",
-      "path---tag-silverlight-41e46cd044a93c3f163d.js.map"
     ],
     "path---tag-jquery": [
       "path---tag-jquery-10479b9282db11e800a2.js",
@@ -2067,9 +2051,9 @@
       "path---blog-what-to-look-for-from-a-prospective-developer-f37bd6d3b97b93e473f7.js.map"
     ],
     "app": [
-      "app-bffcc77dc7b38993dc8c.js",
+      "app-de091e8179f9f81431e5.js",
       "build-js-styles.css",
-      "app-bffcc77dc7b38993dc8c.js.map",
+      "app-de091e8179f9f81431e5.js.map",
       "build-js-styles.css.map"
     ],
     "path---tag-google": [
@@ -2319,10 +2303,6 @@
     "path---tag-hd-video": [
       "path---tag-hd-video-f86dd839f564d86a71da.js",
       "path---tag-hd-video-f86dd839f564d86a71da.js.map"
-    ],
-    "path---tag-adobe-media-player": [
-      "path---tag-adobe-media-player-afd5b546f2f58e5fb32c.js",
-      "path---tag-adobe-media-player-afd5b546f2f58e5fb32c.js.map"
     ],
     "path---blog-how-to-post-images-to-twitpic-with-actionscript": [
       "path---blog-how-to-post-images-to-twitpic-with-actionscript-1e7b72b7f2e4b640110c.js",
