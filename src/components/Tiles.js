@@ -1,36 +1,28 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Img from 'gatsby-image'
+
+import styles from './tiles.module.scss'
 
 const Tiles = ({ tiles }) => {
     return (
-        <aside style={{
-            width: '100%',
-            height: 'calc(33vw - 2em)',
-            display: 'flex',
-            flexDirection: 'row',
-            justifyContent: 'stretch'
-        }}>
+        <aside className={`bodyContent ${styles.tileContainer}`}>
             {tiles &&
                 tiles
                     .filter(tile => !!tile)
                     .map((tile, index) => {
                         return (
-                            <section key={index} style={{
-                                display: 'flex',
-                                flex: '1',
-                                padding: '2em',
-                                alignItems: 'center',
-                                backgroundImage: `url(${tile.frontmatter.image})`,
-                                // position: 'relative',
-                            }}>
-                                {/* <div style={{
-                                position: 'absolute',
-                                width: '100%',
-                                height: '100%',
-                                background: 'rgba(0,0,0,.6)'
-                            }}></div> */}
+                            <section key={index} className={styles.tile}>
                                 <Link to={tile.frontmatter.path}>
-                                    {tile.frontmatter.title}
+                                    {tile.frontmatter.image && tile.frontmatter.image.childImageSharp && (
+                                        <aside className={styles.imageContainer}>
+                                            <Img sizes={tile.frontmatter.image.childImageSharp.sizes} outerWrapperClassName={styles.wrapper} className={styles.wrapper} />
+                                        </aside>
+                                    )}
+                                    <div className={styles.blackout}></div>
+                                    <h3 className={styles.link}>{tile.frontmatter.title}</h3>
+                                    <p>{tile.frontmatter.description}</p>
+                                    <p>{tile.frontmatter.date}</p>
                                 </Link>
                             </section>
                         )

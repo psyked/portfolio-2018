@@ -24,6 +24,18 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 tags
                 title
                 date
+                description
+                image {
+                  childImageSharp {
+                    sizes(maxWidth: 630) {
+                      base64
+                      aspectRatio
+                      src
+                      srcSet
+                      sizes
+                    }
+                  }
+                }
               }
             }
           }

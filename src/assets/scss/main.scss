@@ -1,34 +1,35 @@
-@import './normalize';
-@import './mixins'; 
-@import './vars'; 
+@import "./normalize";
+@import "./mixins";
+@import "./vars";
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto");
 
 /* apply a natural box layout model to all elements, but allowing components to change */
 html {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
+
 *, *:before, *:after {
-  box-sizing: inherit;
+    box-sizing: inherit;
 }
 
 html {
-  // @include fluid-type($min_width, $max_width, $min_font, $max_font);
-  font-family: 'Roboto', sans-serif;
+    // @include fluid-type($min_width, $max_width, $min_font, $max_font);
+    font-family: 'Roboto', sans-serif;
 }
 
-h1,h2,h3,h4,h5,h6 {
-	font-family: 'Open Sans', sans-serif;
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
 }
 
 img {
-	max-width: 100%;
+    max-width: 100%;
 }
 
 body {
-	margin: 0;
-	padding: 0;
-  background: #fcfcfd;
+    margin: 0;
+    padding: 0;
+    background: #fcfcfd;
 }
 
 // ----
@@ -56,40 +57,41 @@ body {
 // =========================================================================
 
 @mixin fluid-type($properties, $min-vw, $max-vw, $min-value, $max-value) {
-  @each $property in $properties {
-    #{$property}: $min-value;
-  }
-
-  @media (min-width: $min-vw) {
     @each $property in $properties {
-      #{$property}: calc(#{$min-value} + #{strip-unit($max-value - $min-value)} * (100vw - #{$min-vw}) / #{strip-unit($max-vw - $min-vw)});
+        #{$property}: $min-value;
     }
-  }
 
-  @media (min-width: $max-vw) {
-    @each $property in $properties {
-      #{$property}: $max-value;
+    @media (min-width: $min-vw) {
+        @each $property in $properties {
+            #{$property}: calc(#{$min-value} + #{strip-unit($max-value - $min-value)} * (100vw - #{$min-vw}) / #{strip-unit($max-vw - $min-vw)});
+        }
     }
-  }
+
+    @media (min-width: $max-vw) {
+        @each $property in $properties {
+            #{$property}: $max-value;
+        }
+    }
 }
 
 @function strip-unit($number) {
-  @if type-of($number) == "number" and not unitless($number) {
-    @return $number / ($number * 0 + 1);
-  }
+    @if type-of($number) == "number" and not unitless($number) {
+        @return $number / ($number * 0 + 1);
+    }
 
-  @return $number;
+    @return $number;
 }
 
 /* Single property */
 html {
-  @include fluid-type(font-size, 320px, 1366px, 16px, 18px);
-  line-height: 1.5;
+    @include fluid-type(font-size, 320px, 1366px, 16px, 18px);
+
+    line-height: 1.5;
 }
 
 /* Multiple properties with same values */
 h1 {
-  @include fluid-type(font-size, 20em, 70em, 2em, 3em);
+    @include fluid-type(font-size, 20em, 70em, 2em, 3em);
 }
 
 // h2 {
@@ -97,49 +99,82 @@ h1 {
 // }
 
 pre {
-  overflow: scroll;
-  background: $bg-alt;
-  padding: $margin-sm;
-  margin: #{$margin-lg} #{-$margin-sm};
+    overflow: scroll;
+    background: $bg-alt;
+    padding: $margin-sm;
+    margin: #{$margin-lg} #{-$margin-sm};
 }
 
 .bodyContent {
-  box-sizing: border-box;
-  margin: 0 auto;
-  max-width: 60em;
-  @include poly-fluid-sizing('padding-left', (320px: 16px, 768px: 48px));
-  @include poly-fluid-sizing('padding-right', (320px: 16px, 768px: 48px));
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 60em;
+
+    @include poly-fluid-sizing("padding-left", (320px: 16px, 768px: 48px));
+    @include poly-fluid-sizing("padding-right", (320px: 16px, 768px: 48px));
 }
 
 hr {
-  @include fluid-type(margin-top, 20em, 70em, 2em, 4em);
-  @include fluid-type(margin-bottom, 20em, 70em, 2em, 4em);
-  background: $fg;
-  border: 0;
-  height: 1px;
-  margin: 0 auto;
-  max-width: 60em;
-  overflow: visible;
-  text-align: center;
-  
-  &:after {
-    background: $bg;
-    content: "• • •";
-    display: inline-block;
-    font-size: 1.4em;
-    padding: 0 0.4em;
-    position: relative;
-    top: -0.7em;
-  }
+    @include fluid-type(margin-top, 20em, 70em, 2em, 4em);
+    @include fluid-type(margin-bottom, 20em, 70em, 2em, 4em);
 
-  &.endPost {
-    background: $red;
-    
+    background: $fg;
+    border: 0;
+    height: 1px;
+    margin: 0 auto;
+    max-width: 60em;
+    overflow: visible;
+    text-align: center;
+
     &:after {
-      color: $red;
-      content: "END";
-      font-size: .7em;
-      top: -1.2em;
+        background: $bg;
+        content: "• • •";
+        display: inline-block;
+        font-size: 1.4em;
+        padding: 0 0.4em;
+        position: relative;
+        top: -0.7em;
     }
-  }
+
+    &.endPost {
+        background: $red;
+
+        &:after {
+            color: $red;
+            content: "END";
+            font-size: .7em;
+            top: -1.2em;
+        }
+    }
+}
+
+p {
+    & > .gatsby-resp-image-link {
+        width: calc(50% - .5em);
+        float: left;
+        
+        &:first-child {
+          margin-right: 1em;
+        }
+        
+        &:last-child {
+          &::after {
+            content: '';
+            display: block;
+            float: none;
+          }
+        }
+        
+        &:only-child {
+          float: none;
+          width: 100%;
+          margin-right: 0;
+        }
+      }
+      
+      & > img {
+        max-width: 100%;
+        width: auto;
+        margin: 0 auto;
+    }
 }

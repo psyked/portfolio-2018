@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-forty",
-  "description": "Gatsby Starter - Forty by HTML5 UP",
+  "name": "psyked-gatsby",
+  "description": "James' Personal Website",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "James Ford <psyked84@gmail.com>",
   "dependencies": {
     "front-matter": "^2.3.0",
     "gatsby": "^1.9.277",
@@ -16,20 +16,10 @@
     "gatsby-remark-images": "^1.5.56",
     "gatsby-source-filesystem": "^1.5.27",
     "gatsby-transformer-remark": "^1.7.37",
-    "gatsby-transformer-sharp": "^1.6.22",
+    "gatsby-transformer-sharp": "^1.6.27",
     "lodash": "^4.17.4",
     "react-markdown": "^3.3.4",
     "turndown": "^4.0.2"
-  },
-  "homepage": "https://github.com/ChangoMan/gatsby-starter-forty",
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
-  "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ChangoMan/gatsby-starter-forty.git"
   },
   "scripts": {
     "dev": "gatsby develop",
