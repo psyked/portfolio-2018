@@ -1,2 +1,2 @@
-webpackJsonp([68149925974642],{1785:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"The Flash Platform in your TV?",path:"/blog/the-flash-platform-in-your-tv/"}}},{node:{frontmatter:{title:"The real Computer Monster",path:"/blog/the-real-computer-monster/"}}}]}},pathContext:{tag:"youtube"}}}});
+webpackJsonp([68149925974642],{1787:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"The Flash Platform in your TV?",path:"/blog/the-flash-platform-in-your-tv/"}}},{node:{frontmatter:{title:"The real Computer Monster",path:"/blog/the-real-computer-monster/"}}}]}},pathContext:{tag:"youtube"}}}});
 //# sourceMappingURL=path---tag-youtube-976bfd985943fbdd96e5.js.map

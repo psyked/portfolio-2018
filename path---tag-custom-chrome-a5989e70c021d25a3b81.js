@@ -1,2 +1,2 @@
-webpackJsonp([25581691578769],{1550:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"ImageSizer version 0.4.9 released!",path:"/blog/imagesizer-version-049-released/"}}}]}},pathContext:{tag:"custom-chrome"}}}});
+webpackJsonp([25581691578769],{1551:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"ImageSizer version 0.4.9 released!",path:"/blog/imagesizer-version-049-released/"}}}]}},pathContext:{tag:"custom-chrome"}}}});
 //# sourceMappingURL=path---tag-custom-chrome-a5989e70c021d25a3b81.js.map

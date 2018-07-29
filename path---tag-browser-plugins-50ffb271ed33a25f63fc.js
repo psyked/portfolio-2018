@@ -1,2 +1,2 @@
-webpackJsonp([0xdf1d5778df58],{1530:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More than just validation...",path:"/blog/more-than-just-validation/"}}}]}},pathContext:{tag:"browser-plugins"}}}});
+webpackJsonp([0xdf1d5778df58],{1531:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More than just validation...",path:"/blog/more-than-just-validation/"}}}]}},pathContext:{tag:"browser-plugins"}}}});
 //# sourceMappingURL=path---tag-browser-plugins-50ffb271ed33a25f63fc.js.map

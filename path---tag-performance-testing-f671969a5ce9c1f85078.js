@@ -1,2 +1,2 @@
-webpackJsonp([0x73735ca64199],{1689:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Testing Performance, Speed and Best Practices with Lighthouse",path:"/blog/testing-performance-speed-and-best-practices-with-lighthouse-109803ce90ba/"}}}]}},pathContext:{tag:"Performance Testing"}}}});
+webpackJsonp([0x73735ca64199],{1691:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Testing Performance, Speed and Best Practices with Lighthouse",path:"/blog/testing-performance-speed-and-best-practices-with-lighthouse-109803ce90ba/"}}}]}},pathContext:{tag:"Performance Testing"}}}});
 //# sourceMappingURL=path---tag-performance-testing-f671969a5ce9c1f85078.js.map
