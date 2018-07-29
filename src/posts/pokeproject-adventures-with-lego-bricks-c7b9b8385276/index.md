@@ -10,6 +10,7 @@ author: "https://medium.com/@psyked"
 published_time: 2017-06-07T22:26:30.011Z
 creator: "@psyked"
 tags:
+- Medium
 - Lego
 - JavaScript
 - Pokemon

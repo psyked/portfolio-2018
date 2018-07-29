@@ -1,5 +1,5 @@
 ---
-path: /blog/git-zero-to-git-hero-900578ab90c2/
+path: /blog/git-zero-to-git-hero/
 layout: "post"
 title: "Git Zero to Git Hero"
 description: "Mastering git requires a mentor. Let me be yours."
@@ -7,11 +7,11 @@ url: "https://medium.com/@psyked_james/git-zero-to-git-hero-900578ab90c2"
 image: 1*fBeL90Mv68uUg15HtKliUA.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*fBeL90Mv68uUg15HtKliUA.jpeg"
 author: "https://medium.com/@psyked_james"
-type: "article"
-card: "summary_large_image"
 published_time: 2014-09-14T21:58:01.486Z
 creator: "@psyked_james"
 date: 2014-09-14T21:58:01.486Z
+tags:
+- Medium
 ---
   
 

@@ -10,6 +10,8 @@ author: "https://medium.com/@psyked"
 published_time: 2017-02-19T20:05:00.000Z
 creator: "@psyked"
 date: 2017-02-19T20:05:00.000Z
+tags:
+- Medium
 ---
 [Image Credit: Unsplash / Amador Loureiro](https://unsplash.com/search/letter-block?photo=BVyNlchWqzs)
 

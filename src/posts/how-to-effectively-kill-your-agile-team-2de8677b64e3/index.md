@@ -10,6 +10,8 @@ author: "https://medium.com/@psyked"
 published_time: 2017-04-26T08:03:00.000Z
 creator: "@psyked"
 date: 2017-04-26T08:03:00.000Z
+tags:
+- Medium
 ---
 
 ![](1*NqOR1hq5mkjoR2AwRceUSQ.jpeg)

@@ -9,6 +9,7 @@ author: "https://medium.com/@psyked"
 published_time: 2018-03-13T23:22:11.253Z
 creator: "@psyked"
 tags:
+- Medium
 - Design
 - Duotone
 - Side Project

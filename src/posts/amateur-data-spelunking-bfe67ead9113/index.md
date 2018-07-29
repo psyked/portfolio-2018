@@ -8,6 +8,8 @@ image: 1*_T7QbAHd9V-3svG9Fvj_KQ.jpeg
 author: "https://medium.com/@psyked_james"
 creator: "@psyked_james"
 date: 2014-10-07T16:37:30.166Z
+tags:
+- Medium
 ---
   
 ## with New Relic Insights

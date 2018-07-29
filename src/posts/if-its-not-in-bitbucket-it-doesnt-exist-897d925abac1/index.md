@@ -7,11 +7,11 @@ url: "https://medium.com/@psyked_james/if-its-not-in-bitbucket-it-doesnt-exist-8
 image: 1*2I4FcjP7sBgn0rgkTZIKIA.jpeg
 src: "https://cdn-images-1.medium.com/max/1200/1*2I4FcjP7sBgn0rgkTZIKIA.jpeg"
 author: "https://medium.com/@psyked_james"
-type: "article"
-card: "summary_large_image"
 published_time: 2014-09-14T12:24:15.574Z
 creator: "@psyked_james"
 date: 2014-09-14T12:24:15.574Z
+tags:
+- Medium
 ---
   
 

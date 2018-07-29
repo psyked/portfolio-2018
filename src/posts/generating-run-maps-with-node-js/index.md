@@ -8,6 +8,7 @@ image: 1*wVcjl_TBtsD5N3HNWU6h9A.png
 author: "https://medium.com/@psyked"
 creator: "@psyked"
 tags:
+- Medium
 - Maps
 - Side Project
 - Mapbox

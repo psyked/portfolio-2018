@@ -10,6 +10,7 @@ author: "https://medium.com/@psyked"
 published_time: 2017-06-05T11:45:10.366Z
 creator: "@psyked"
 tags:
+- Medium
 - Lego
 - Pokemon
 - Canvas

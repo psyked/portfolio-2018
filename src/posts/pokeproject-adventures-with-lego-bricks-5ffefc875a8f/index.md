@@ -10,6 +10,7 @@ author: "https://medium.com/@psyked"
 published_time: 2017-10-04T21:16:30.796Z
 creator: "@psyked"
 tags:
+- Medium
 - Lego
 - Pokemon
 - Side Project

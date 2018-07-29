@@ -10,6 +10,7 @@ author: "https://medium.com/@psyked"
 published_time: 2017-01-12T09:07:00.606Z
 creator: "@psyked"
 tags:
+- Medium
 - JavaScript
 - Web Development
 - Frameworks
