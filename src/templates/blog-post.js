@@ -15,9 +15,18 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const { next, prev } = this.props.pathContext
 
+    console.log(image)
+
     return (
       <div>
-        <Helmet title={`${title} | ${siteTitle}`} />
+        <Helmet title={`${title} | ${siteTitle}`}>
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:site" content="@psyked" />
+          <meta name="twitter:creator" content={frontmatter.creator} />
+          <meta name="twitter:title" content={title} />
+          <meta name="twitter:description" content={description} />
+          <meta name="twitter:image" content={image.childImageSharp.sizes.src} />
+        </Helmet>
         <Banner {...frontmatter} />
         <div className="bodyContent">
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
