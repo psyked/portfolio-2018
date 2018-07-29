@@ -15,8 +15,6 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const { next, prev } = this.props.pathContext
 
-    console.log(image)
-
     return (
       <div>
         <Helmet title={`${title} | ${siteTitle}`}>
@@ -25,7 +23,9 @@ class BlogPostTemplate extends React.Component {
           <meta name="twitter:creator" content={frontmatter.creator} />
           <meta name="twitter:title" content={title} />
           <meta name="twitter:description" content={description} />
-          <meta name="twitter:image" content={image.childImageSharp.sizes.src} />
+          {image && image.childImageSharp && (
+            <meta name="twitter:image" content={image.childImageSharp.sizes.src} />
+          )}
         </Helmet>
         <Banner {...frontmatter} />
         <div className="bodyContent">
