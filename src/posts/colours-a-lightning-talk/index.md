@@ -1,23 +1,23 @@
 ---
-path: /blog/colours-a-lightning-talk-%EF%B8%8F-80d209d58d3c/
-layout: "post"
-title: "Colours: A lightning Talk ⚡️"
-description: "I find colours fascinating, and I write code that goes into websites, so there’s bound to be a natural intersection between those two…"
-url: "https://medium.com/comparethemarket/colours-a-lightning-talk-%EF%B8%8F-80d209d58d3c"
-image: "https://cdn-images-1.medium.com/max/1200/1*sLQprE7Kw6UKNsNsE1UEeA.png"
-src: "https://cdn-images-1.medium.com/max/1200/1*sLQprE7Kw6UKNsNsE1UEeA.png"
-author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
+path: /blog/colours-a-lightning-talk/
+layout: 'post'
+title: 'Colours: A lightning Talk ⚡️'
+description: 'I find colours fascinating, and I write code that goes into websites, so there’s bound to be a natural intersection between those two…'
+url: 'https://medium.com/comparethemarket/colours-a-lightning-talk-%EF%B8%8F-80d209d58d3c'
+image: 'https://cdn-images-1.medium.com/max/1200/1*sLQprE7Kw6UKNsNsE1UEeA.png'
+src: 'https://cdn-images-1.medium.com/max/1200/1*sLQprE7Kw6UKNsNsE1UEeA.png'
+author: 'https://medium.com/@psyked'
+type: 'article'
+card: 'summary_large_image'
 published_time: 2018-09-24T12:32:50.599Z
-creator: "@psyked"
-parsely-link: "https://medium.com/comparethemarket/colours-a-lightning-talk-%EF%B8%8F-80d209d58d3c"
+creator: '@psyked'
+parsely-link: 'https://medium.com/comparethemarket/colours-a-lightning-talk-%EF%B8%8F-80d209d58d3c'
 tags:
-- Front End Development
-- Side Project
-- Presentations
-- Colour
-- Tech
+  - Front End Development
+  - Side Project
+  - Presentations
+  - Colour
+  - Tech
 date: 2018-09-24T12:32:50.599Z
 ---
 
@@ -77,7 +77,7 @@ It’s cool and all, but all that this actually means is that there’s 16.7 mil
 
 Knowing that colours are just numbers, the obvious thing to do is to try and create a confetti simulator, generating random colours for your confetti using the following code:
 
-Math.random() * 0xFFFFFF
+Math.random() \* 0xFFFFFF
 
 However, it quickly becomes apparent that most of the colours that you’ll generate with this method are fairly unappealing. 90% of the colours you’ll create using this method are either too light, too dark, or are a nasty shade of brownish-green.
 
@@ -276,16 +276,16 @@ A little while ago I thought it would be a neat idea to convert pixel art into L
 I’ve written about this process before on Medium, and the links to the more in-depth articles are available at these links:
 
 [**PokéProject: Adventures with LEGO Bricks**  
-_Part 1: Using JavaScript and HTML5 canvas elements to convert images into 2 dimensional LEGO brick plans._medium.com](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d")[](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d)
+\_Part 1: Using JavaScript and HTML5 canvas elements to convert images into 2 dimensional LEGO brick plans.\_medium.com](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d 'https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d')[](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-7f24c02f6d9d)
 
 [**PokéProject: Adventures with LEGO Bricks**  
-_Part 2: Making optimal use of the available bricks._medium.com](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239 "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239")[](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239)
+\_Part 2: Making optimal use of the available bricks.\_medium.com](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239 'https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239')[](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-cd9401091239)
 
 [**PokéProject: Adventures with LEGO Bricks**  
-_Part 3: From a theory to the real world._medium.com](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276 "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276")[](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276)
+\_Part 3: From a theory to the real world.\_medium.com](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276 'https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276')[](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-c7b9b8385276)
 
 [**PokéProject: Adventures with LEGO Bricks**  
-_Part Four: Into the real world._medium.com](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-5ffefc875a8f "https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-5ffefc875a8f")[](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-5ffefc875a8f)
+\_Part Four: Into the real world.\_medium.com](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-5ffefc875a8f 'https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-5ffefc875a8f')[](https://medium.com/@psyked/pok%C3%A9project-adventures-with-lego-bricks-5ffefc875a8f)
 
 ![](1*OAu1fhTTOzpeV5MR3Y6gNw.png)
 
