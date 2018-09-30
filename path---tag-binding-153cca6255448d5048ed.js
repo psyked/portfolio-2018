@@ -1,2 +1,2 @@
-webpackJsonp([0x68e6c825b975],{1521:function(n,t){n.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Using [Bindable] & ChangeWatcher in ActionScript-only classes",path:"/blog/using-bindable-changewatcher-in-actionscript-only-classes/"}}}]}},pathContext:{tag:"binding"}}}});
+webpackJsonp([0x68e6c825b975],{1517:function(n,t){n.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Using [Bindable] & ChangeWatcher in ActionScript-only classes",path:"/blog/using-bindable-changewatcher-in-actionscript-only-classes/"}}}]}},pathContext:{tag:"binding"}}}});
 //# sourceMappingURL=path---tag-binding-153cca6255448d5048ed.js.map

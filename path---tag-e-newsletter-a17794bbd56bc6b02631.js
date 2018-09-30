@@ -1,2 +1,2 @@
-webpackJsonp([0x9d5ed16a9dac],{1571:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"E-Newsletter / The benefits of using Adobe AIR.",path:"/blog/e-newsletter-the-benefits-of-using-adobe-air/"}}}]}},pathContext:{tag:"e-newsletter"}}}});
+webpackJsonp([0x9d5ed16a9dac],{1568:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"E-Newsletter / The benefits of using Adobe AIR.",path:"/blog/e-newsletter-the-benefits-of-using-adobe-air/"}}}]}},pathContext:{tag:"e-newsletter"}}}});
 //# sourceMappingURL=path---tag-e-newsletter-a17794bbd56bc6b02631.js.map

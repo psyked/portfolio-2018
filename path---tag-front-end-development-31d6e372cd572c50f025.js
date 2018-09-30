@@ -1,0 +1,2 @@
+webpackJsonp([28764726558320],{1600:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Colours: A lightning Talk ⚡️",path:"/blog/colours-a-lightning-talk/"}}},{node:{frontmatter:{title:"Fluid widths in responsive websites.",path:"/blog/fluid-widths-in-responsive-websites/"}}}]}},pathContext:{tag:"Front End Development"}}}});
+//# sourceMappingURL=path---tag-front-end-development-31d6e372cd572c50f025.js.map

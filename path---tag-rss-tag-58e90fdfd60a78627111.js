@@ -1,2 +1,2 @@
-webpackJsonp([0x62a06f2b6033],{1722:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"XSLT and RSS feeds.",path:"/blog/xslt-and-rss-feeds/"}}},{node:{frontmatter:{title:"RSS.  Bling or no Bling?",path:"/blog/rss-bling-or-no-bling/"}}}]}},pathContext:{tag:"rss-tag"}}}});
+webpackJsonp([0x62a06f2b6033],{1717:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"XSLT and RSS feeds.",path:"/blog/xslt-and-rss-feeds/"}}},{node:{frontmatter:{title:"RSS.  Bling or no Bling?",path:"/blog/rss-bling-or-no-bling/"}}}]}},pathContext:{tag:"rss-tag"}}}});
 //# sourceMappingURL=path---tag-rss-tag-58e90fdfd60a78627111.js.map

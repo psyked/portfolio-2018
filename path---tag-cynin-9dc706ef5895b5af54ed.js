@@ -1,2 +1,2 @@
-webpackJsonp([78295041819719],{1553:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Cyn.in Desktop",path:"/blog/cynin-desktop/"}}}]}},pathContext:{tag:"cynin"}}}});
+webpackJsonp([78295041819719],{1550:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Cyn.in Desktop",path:"/blog/cynin-desktop/"}}}]}},pathContext:{tag:"cynin"}}}});
 //# sourceMappingURL=path---tag-cynin-9dc706ef5895b5af54ed.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([22228385779806],{1588:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Link: Introducing ZaaIL – 40+ Image format support for Flash",path:"/blog/link-introducing-zaail-40-image-format-support-for-flash/"}}}]}},pathContext:{tag:"flash-player"}}}});
+webpackJsonp([22228385779806],{1585:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Link: Introducing ZaaIL – 40+ Image format support for Flash",path:"/blog/link-introducing-zaail-40-image-format-support-for-flash/"}}}]}},pathContext:{tag:"flash-player"}}}});
 //# sourceMappingURL=path---tag-flash-player-ee2ebb6f52bdb5ec4645.js.map
