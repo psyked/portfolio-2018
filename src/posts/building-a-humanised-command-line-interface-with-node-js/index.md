@@ -1,23 +1,23 @@
 ---
-path: /blog/building-a-humanised-command-line-interface-with-node-js-d951273a3d94/
-layout: "post"
-title: "Building a humanised command-line interface with Node.js"
-description: "Because config management sucks."
-url: "https://medium.com/comparethemarket/building-a-humanised-command-line-interface-with-node-js-d951273a3d94"
-image: "https://cdn-images-1.medium.com/max/1200/1*h89l_KJR8w2NrzQXtPCAmw.jpeg"
-src: "https://cdn-images-1.medium.com/max/1200/1*h89l_KJR8w2NrzQXtPCAmw.jpeg"
-author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
+path: /blog/building-a-humanised-command-line-interface-with-node-js/
+layout: 'post'
+title: 'Building a humanised command-line interface with Node.js'
+description: 'Because config management sucks.'
+url: 'https://medium.com/comparethemarket/building-a-humanised-command-line-interface-with-node-js-d951273a3d94'
+image: 'https://cdn-images-1.medium.com/max/1200/1*h89l_KJR8w2NrzQXtPCAmw.jpeg'
+src: 'https://cdn-images-1.medium.com/max/1200/1*h89l_KJR8w2NrzQXtPCAmw.jpeg'
+author: 'https://medium.com/@psyked'
+type: 'article'
+card: 'summary_large_image'
 published_time: 2018-08-13T08:31:01.041Z
-creator: "@psyked"
-parsely-link: "https://medium.com/comparethemarket/building-a-humanised-command-line-interface-with-node-js-d951273a3d94"
+creator: '@psyked'
+parsely-link: 'https://medium.com/comparethemarket/building-a-humanised-command-line-interface-with-node-js-d951273a3d94'
 tags:
-- JavaScript
-- Nodejs
-- Command Line Interface
-- User Experience
-- Tech
+  - JavaScript
+  - Nodejs
+  - Command Line Interface
+  - User Experience
+  - Tech
 date: 2018-08-13T08:31:01.041Z
 ---
 
@@ -102,7 +102,7 @@ From then on it switches over to an interactive experience, which looks like thi
 This experience is all facilitated by a module called **Inquirer**, which adds a really simple layer of code that supports several common types of question to the command line.
 
 [**SBoudrias/Inquirer.js**  
-_Inquirer.js - A collection of common interactive command line user interfaces._github.com](https://github.com/SBoudrias/Inquirer.js "https://github.com/SBoudrias/Inquirer.js")[](https://github.com/SBoudrias/Inquirer.js)
+\_Inquirer.js - A collection of common interactive command line user interfaces.\_github.com](https://github.com/SBoudrias/Inquirer.js 'https://github.com/SBoudrias/Inquirer.js')[](https://github.com/SBoudrias/Inquirer.js)
 
 Inquirer can prompt for several types of data, chain questions together, validate the responses and more. To achieve the questions used in the screen capture above I’m using the following code (below):
 

@@ -1,19 +1,26 @@
 ---
 path: /blog/rethinking-my-personal-website/
-layout: "post"
-title: "Rethinking my “personal” website."
-description: "Repositioning, repurposing and ultimately rebuilding and replacing my Ghost blog with a Gatsby static site."
-url: "https://medium.com/@psyked/rethinking-my-personal-website-5e591e78b261"
-image: "1*83xPh48eAhxdgQmOIH-9jQ.jpeg"
-author: "https://medium.com/@psyked"
+layout: 'post'
+title: 'Rethinking my “personal” website.'
+description: 'Repositioning, repurposing and ultimately rebuilding and replacing my Ghost blog with a Gatsby static site.'
+url: 'https://medium.com/@psyked/rethinking-my-personal-website-5e591e78b261'
+image: 'https://cdn-images-1.medium.com/max/1200/1*83xPh48eAhxdgQmOIH-9jQ.jpeg'
+src: 'https://cdn-images-1.medium.com/max/1200/1*83xPh48eAhxdgQmOIH-9jQ.jpeg'
+author: 'https://medium.com/@psyked'
+type: 'article'
+card: 'summary_large_image'
 published_time: 2018-07-29T19:41:59.179Z
-creator: "@psyked"
+creator: '@psyked'
+parsely-link: 'https://medium.com/@psyked/rethinking-my-personal-website-5e591e78b261'
 tags:
-- Medium
-- Blogging
-- Gatsbyjs
+  - Blogging
+  - Gatsbyjs
 date: 2018-07-29T19:41:59.179Z
 ---
+
+# Rethinking my “personal” website.
+
+## Repositioning, repurposing and ultimately rebuilding and replacing my Ghost blog with a Gatsby static site.
 
 #### Then & Now
 
@@ -34,7 +41,7 @@ Photo by [rawpixel](https://unsplash.com/photos/flhzHp-F814?utm_source=unsplash&
 From the beginning, my website has been a blog. Originally it was based in WordPress, and then when I got more into the idea of Node.js I switched over to using Ghost.
 
 [**Ghost - The Professional Publishing Platform**  
-_Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone. Start a…_ghost.org](https://ghost.org/ "https://ghost.org/")[](https://ghost.org/)
+\_Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone. Start a…\_ghost.org](https://ghost.org/ 'https://ghost.org/')[](https://ghost.org/)
 
 I’m still a fan of the Markdown-based editor of Ghost, but as an already fully-formed platform it doesn’t give me the freedom to easily customise its appearance or functionality, and it’s still very focussed on being a blog.
 
@@ -57,7 +64,7 @@ If I’m to have anything but a blog as my personal website, I need to drop Ghos
 Gatsby is a project which uses React and extends it with fancy features such as static site generation. It has starter kits, both with and without built in Markdown file support, and it’s more easily completely customised than Ghost because of the familiar React base on which it’s built.
 
 [**Home**  
-_Modern Development, for the Content Web_gatsbyjs.com](https://gatsbyjs.com/ "https://gatsbyjs.com/")[](https://gatsbyjs.com/)
+\_Modern Development, for the Content Web_gatsbyjs.com](https://gatsbyjs.com/ 'https://gatsbyjs.com/')[](https://gatsbyjs.com/)
 
 With the greater flexibility of Gatsby over Ghost, I’m expecting to be able to import my old blog content as Markdown files, render them as static content in a subsection of the website whilst also creating additional pages for things like a portfolio using familiar React component approaches.
 

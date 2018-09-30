@@ -1,24 +1,23 @@
 ---
-path: /blog/lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514ad67a5c9/
-layout: "post"
-title: "LOLBot or: How I Learned to Stop Worrying and Love my MVP"
-description: "The ups and ups of adopting an MVP mentality for our Hackathon, and how it helped us achieve victory."
-url: "https://medium.com/@psyked_james/lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514ad67a5c9"
+path: /blog/lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp/
+layout: 'post'
+title: 'LOLBot or: How I Learned to Stop Worrying and Love my MVP'
+description: 'The ups and ups of adopting an MVP mentality for our Hackathon, and how it helped us achieve victory.'
+url: 'https://medium.com/@psyked_james/lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514ad67a5c9'
 image: 1*l1TNV0hQXW2y4HnQnFsfMA.png
-src: "https://cdn-images-1.medium.com/max/1200/1*l1TNV0hQXW2y4HnQnFsfMA.png"
-author: "https://medium.com/@psyked_james"
-type: "article"
-card: "summary_large_image"
+src: 'https://cdn-images-1.medium.com/max/1200/1*l1TNV0hQXW2y4HnQnFsfMA.png'
+author: 'https://medium.com/@psyked_james'
+type: 'article'
+card: 'summary_large_image'
 published_time: 2015-04-05T23:42:54.971Z
-creator: "@psyked_james"
+creator: '@psyked_james'
 tags:
-- Medium
-- Hackathons
-- Agile
-- Development
+  - Medium
+  - Hackathons
+  - Agile
+  - Development
 date: 2015-04-05T23:42:54.971Z
 ---
-  
 
 # Project LOLBot or: How I Learned to Stop Worrying and Love My M.V.P.
 
@@ -46,8 +45,6 @@ Neither the jokes themselves, nor the smartness of the bot, really matters at th
 
 When planning a project, particularly a ‘simple’ one, it’s all too easy to oversimplify the solution and underestimate its complexity. When that happens you end up planning a project which you don’t have time to complete, you (inadvertently) introduce feature creep and you introduce risks to your success.
 
-  
-
 > With the limited timescale presented by a 15-hour Hackathon, mastering the art of always delivering an M.V.P. is the logical route to success.
 
 ---
@@ -64,8 +61,6 @@ I think it’s fair to say that software developers generally are not fans of be
 
 Richard Dingwall’s article on Duct-tape programmers discusses why we dislike shipping ‘cheap’ code: [http://richarddingwall.name/2009/09/24/duct-tape-programmers-ship-once/](http://richarddingwall.name/2009/09/24/duct-tape-programmers-ship-once/)
 
-  
-
 ## The Results are in.
 
 #### Best laid plans, as they say. So, how did it go?
@@ -80,39 +75,39 @@ Here’s a more detailed summary of what we achieved:
 
 #### Week 1
 
-*   Keyword detection
-*   Integration with external, x3 public jokes API
-*   Slack integration
-*   Twitter integration
-*   24/7 running on server
+- Keyword detection
+- Integration with external, x3 public jokes API
+- Slack integration
+- Twitter integration
+- 24/7 running on server
 
 #### Week 2
 
-*   Google Spreadsheets integration as database host
-*   Per-channel de-duplication of jokes
-*   Available jokes x4
-*   New command: **tell {target} a joke**
-*   Reply syntax improvements
+- Google Spreadsheets integration as database host
+- Per-channel de-duplication of jokes
+- Available jokes x4
+- New command: **tell {target} a joke**
+- Reply syntax improvements
 
 #### Week 3
 
-*   Scheduled jokes
-*   Drop support for ‘yo momma’ & ‘chuck norris’ jokes
-*   MongoDB Migration
-*   New command: **/status**
+- Scheduled jokes
+- Drop support for ‘yo momma’ & ‘chuck norris’ jokes
+- MongoDB Migration
+- New command: **/status**
 
 #### Week 4
 
-*   Submission & approval process
-*   Channel targeting commands
-*   Custom messages
-*   Event / activity tracking via Google Analytics
+- Submission & approval process
+- Channel targeting commands
+- Custom messages
+- Event / activity tracking via Google Analytics
 
 #### Week 5
 
-*   **/help** mode
-*   Improvements to Google Analytics
-*   More channel targeting
+- **/help** mode
+- Improvements to Google Analytics
+- More channel targeting
 
 ---
 

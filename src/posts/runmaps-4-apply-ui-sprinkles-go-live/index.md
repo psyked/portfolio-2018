@@ -1,20 +1,20 @@
 ---
-path: /blog/runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936/
-layout: "post"
-title: "RunMaps #4: Apply UI Sprinkles & Go Live!"
-description: "With all this effort spent building RunMaps, wouldn’t it be a shame to not share it with the world?"
-url: "https://medium.com/@psyked/runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936"
+path: /blog/runmaps-4-apply-ui-sprinkles-go-live/
+layout: 'post'
+title: 'RunMaps #4: Apply UI Sprinkles & Go Live!'
+description: 'With all this effort spent building RunMaps, wouldn’t it be a shame to not share it with the world?'
+url: 'https://medium.com/@psyked/runmaps-4-apply-ui-sprinkles-go-live-ceac2d4a9936'
 image: 1*Q5ErbRicXQ2cSw9VhhPXXg.png
-src: "https://cdn-images-1.medium.com/max/1200/1*Q5ErbRicXQ2cSw9VhhPXXg.png"
-author: "https://medium.com/@psyked"
+src: 'https://cdn-images-1.medium.com/max/1200/1*Q5ErbRicXQ2cSw9VhhPXXg.png'
+author: 'https://medium.com/@psyked'
 published_time: 2018-06-08T12:12:28.418Z
-creator: "@psyked"
+creator: '@psyked'
 tags:
-- MVP
-- Side Project
-- Maps
-- Strava
-- Fitbit
+  - MVP
+  - Side Project
+  - Maps
+  - Strava
+  - Fitbit
 date: 2018-06-08T12:12:28.418Z
 ---
 

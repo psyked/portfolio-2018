@@ -1,15 +1,15 @@
 ---
-path: /blog/the-6-deadly-sins-of-unit-testing-6b60d79b7238/
-layout: "post"
-title: "The 6 Deadly Sins of Unit Testing"
+path: /blog/the-6-deadly-sins-of-unit-testing/
+layout: 'post'
+title: 'The 6 Deadly Sins of Unit Testing'
 description: "Much like the ‘original 7', recognising and understanding ‘the enemy within’ helps us avoid falling into the same old traps."
-url: "https://medium.com/@psyked_james/the-6-deadly-sins-of-unit-testing-6b60d79b7238"
+url: 'https://medium.com/@psyked_james/the-6-deadly-sins-of-unit-testing-6b60d79b7238'
 image: 1*EdvNML9-fMAhW7yrrntxWA.jpeg
-author: "https://medium.com/@psyked_james"
-type: "article"
-card: "summary_large_image"
+author: 'https://medium.com/@psyked_james'
+type: 'article'
+card: 'summary_large_image'
 published_time: 2014-09-28T21:27:41.662Z
-creator: "@psyked_james"
+creator: '@psyked_james'
 date: 2014-09-28T21:27:41.662Z
 ---
 
@@ -21,14 +21,12 @@ Not _all_ of the traditional ‘7 deadly sins’ that we know and love apply to 
 
 So without further ado, here’s my 6 Deadly Sins of Unit Testing:
 
-*   Gluttony
-*   Sloth
-*   Pride
-*   Vanity
-*   Ignorance
-*   Wastefulness
-
-  
+- Gluttony
+- Sloth
+- Pride
+- Vanity
+- Ignorance
+- Wastefulness
 
 ## Gluttony
 
@@ -46,8 +44,6 @@ Such tests lack an inherent focus, and a lack of focus means that your tests wil
 
 And of course, bloated tests are slower and more resource intensive. An ideal testing environment is one where we have instant feedback as we code. If your tests are bloated, the likelihood of being able to have that instant feedback is much reduced.
 
-  
-
 ## Sloth
 
 > “Unit Tests are extra work. I don’t like extra work.”
@@ -61,8 +57,6 @@ The second scenario is that the lack of unit tests is an indicator that the prin
 > Unfortunately for the lazy developer, the solution to absent or untestable code is perseverance and planning — the opposite of laziness!
 
 Learning to make tests that work reliably and effectively is a skill as important as learning to code. Adopting upfront planning isn’t a magic bullet that will help you write effective tests, but refactoring can be the cure-all solution that transforms ugly code into well-structured code.
-
-  
 
 ## Pride
 
@@ -81,8 +75,6 @@ In these scenarios, you might as well have not written your tests in the first p
 3.  Just as your tests serve to document how your code is designed to work, they should also document how it should behave when given invalid data — and that’s going to be invaluable in the future.
 
 Being too _Proud_ of your code means that you’re not looking closely at its limitations, and that you’re making assumptions about the future requirements. In the real world your code needs to be robust _and_ flexible, and you need your tests to make ensure that’s true of your code.
-
-  
 
 ## Vanity
 
@@ -104,8 +96,6 @@ Never assume that you have enough tests, or that simply achieving the fabled 100
 
 > Your statistics are not the only measure of success, so don’t get obsessed with them.
 
-  
-
 ## Ignorance
 
 > “I didn’t write that code, so I don’t need to test any of it.”
@@ -118,8 +108,6 @@ The difficulty comes with the integration points between that externally develop
 
 > You can still have ‘Black Box’ code in your project and be ignorant of how it works, so long as you remember to test the point at which it’s integrated with your own.
 
-  
-
 ## Wastefulness
 
 > “I have loads of tests that all essentially say the same thing.”
@@ -131,21 +119,21 @@ Pointless tests, duplicated tests, and tests that essentially all say the same t
 In one sense, it’s logical to be incremental in your development. On the other hand, if an entire test or test suite fails on a single assertion, does it really matter if it’s failing because a single specific check fails or because several vague ‘incremental’ checks fail? Or put it this way; would you rather work with (and crucially, maintain) tests like this:
 
 check('expected api', function() {  
-    ...  
-    expect(obj).toBeDefined();  
-    expect(obj).toBeType('object');  
-    expect(obj.init).toBeDefined();  
-    expect(obj.init).toBeType('function');  
-    expect(obj.init()).toBeType('object')  
-    ...  
+ ...  
+ expect(obj).toBeDefined();  
+ expect(obj).toBeType('object');  
+ expect(obj.init).toBeDefined();  
+ expect(obj.init).toBeType('function');  
+ expect(obj.init()).toBeType('object')  
+ ...  
 });
 
 Or this?
 
 check('expected api', function() {  
-    ...  
-    expect(obj.init()).toBeType('object');  
-    ...  
+ ...  
+ expect(obj.init()).toBeType('object');  
+ ...  
 });
 
 They’re both going to fail when it comes to that final, specific check. Your verbosity isn’t really helping you at all here.
