@@ -1,2 +1,2 @@
-webpackJsonp([0x65df2322a0aa],{1556:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"On Thursday, Agile died.",path:"/blog/on-thursday-agile-died/"}}}]}},pathContext:{tag:"Developers"}}}});
+webpackJsonp([0x65df2322a0aa],{1555:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"On Thursday, Agile died.",path:"/blog/on-thursday-agile-died/"}}}]}},pathContext:{tag:"Developers"}}}});
 //# sourceMappingURL=path---tag-developers-72a23b081fd0ea6dc105.js.map
