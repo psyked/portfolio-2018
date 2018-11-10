@@ -1,2 +1,2 @@
-webpackJsonp([0x6aa44462c907],{1746:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Missapplication of Terminology",path:"/blog/missapplication-of-terminology/"}}}]}},pathContext:{tag:"terminology"}}}});
+webpackJsonp([0x6aa44462c907],{1751:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Missapplication of Terminology",path:"/blog/missapplication-of-terminology/"}}}]}},pathContext:{tag:"terminology"}}}});
 //# sourceMappingURL=path---tag-terminology-0f0498d0d60c7e98cf57.js.map

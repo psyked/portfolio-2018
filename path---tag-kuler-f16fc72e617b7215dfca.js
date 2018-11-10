@@ -1,2 +1,2 @@
-webpackJsonp([0xd68907fea633],{1646:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Kuler Desktop released!",path:"/blog/kuler-desktop-released/"}}}]}},pathContext:{tag:"kuler"}}}});
+webpackJsonp([0xd68907fea633],{1650:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Kuler Desktop released!",path:"/blog/kuler-desktop-released/"}}}]}},pathContext:{tag:"kuler"}}}});
 //# sourceMappingURL=path---tag-kuler-f16fc72e617b7215dfca.js.map

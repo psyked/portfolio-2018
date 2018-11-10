@@ -1,2 +1,2 @@
-webpackJsonp([0xc064f93ebe05],{1673:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Building “duotone”",path:"/blog/building-duotone/"}}}]}},pathContext:{tag:"Nuxtjs"}}}});
+webpackJsonp([0xc064f93ebe05],{1677:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Building “duotone”",path:"/blog/building-duotone/"}}}]}},pathContext:{tag:"Nuxtjs"}}}});
 //# sourceMappingURL=path---tag-nuxtjs-489f068078a7f4f0c564.js.map
