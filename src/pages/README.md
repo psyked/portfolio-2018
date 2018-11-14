@@ -14,12 +14,16 @@ Writing a self-README feels like a good way to share my own thoughts about worki
 
 By some definitions I'm an Introvert, and by others an Extrovert. If you're interested, I come out as an ["Architect" (INTJ)](https://www.16personalities.com/intj-personality) or a ["Mediator" (INFP)](https://www.16personalities.com/infp-personality) in Myers-Briggs tests, according to how I'm feeling. In practice that generally means that in chaotic or social environments I tend towards being more quiet and reserved, but I'm motivated by the feedback of other people rather than myself.
 
-### Social Media & other websites
+### Social Media & me (other websites)
 
-I'm on [Twitter](https://twitter.com/psyked) and [Instagram,](https://www.instagram.com/psyked/) if you're interested.
-
-I'm also on [GitHub,](https://github.com/psyked/) [GitLab](https://gitlab.com/psyked1) and [StackOverflow.](https://stackoverflow.com/users/377961/james-ford) I publish articles as often as I can on [Medium,](https://medium.com/@psyked) and mirror them on [GitHub Pages.](https://psyked.github.io/blog/)
+I'm on [Twitter](https://twitter.com/psyked) and [Instagram.](https://www.instagram.com/psyked/) I also have accounts on [GitHub,](https://github.com/psyked/) [GitLab,](https://gitlab.com/psyked1) [StackOverflow](https://stackoverflow.com/users/377961/james-ford) and [LinkedIn.](https://www.linkedin.com/in/jamesford/) I publish articles as often as I can on [Medium,](https://medium.com/@psyked) and mirror them on [GitHub Pages.](https://psyked.github.io/blog/)
 
 ### Hobbies & Interests
 
 I read for pleasure and I enjoy writing. I prefer Science Fiction or Fantasy Novels and the occasional Thriller. I appreciate good, engaging writing.
+
+Pokémon holds a special, nostalic, place in my interests; as does generative art. I'm also a fan of LEGO™, and fascinated by the development of Emoji - from both a technical and cultural point of view.
+
+### Professional Interests
+
+I'm interested in techniques and tools for managing teams of developers. Day-to-day I work with a React project in a Monorepo. I'm interested in things like HTML5 APIs, CSS and SASS, Docker, Jenkins, Node, Babel, Postcss, Redux and general architecture patterns for Javascript applications, in no particular order.
