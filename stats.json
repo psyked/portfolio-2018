@@ -304,9 +304,9 @@
       "path---blog-e-newsletter-the-benefits-of-using-adobe-air-08f0e53b03d600fad4b9.js",
       "path---blog-e-newsletter-the-benefits-of-using-adobe-air-08f0e53b03d600fad4b9.js.map"
     ],
-    "component---src-pages-index-js": [
-      "component---src-pages-index-js-bd0633c9127f74630d8b.js",
-      "component---src-pages-index-js-bd0633c9127f74630d8b.js.map"
+    "component---src-pages-tags-jsx": [
+      "component---src-pages-tags-jsx-e24caba3533003382791.js",
+      "component---src-pages-tags-jsx-e24caba3533003382791.js.map"
     ],
     "path---tag-facebook": [
       "path---tag-facebook-e30351f1aeec06f7c185.js",
@@ -1614,6 +1614,10 @@
       "path---blog-alexkingorg-cool-wordpress-plugins-92463f2461b26113f385.js",
       "path---blog-alexkingorg-cool-wordpress-plugins-92463f2461b26113f385.js.map"
     ],
+    "component---src-pages-blog-jsx": [
+      "component---src-pages-blog-jsx-fd2c47748f11ae3b12af.js",
+      "component---src-pages-blog-jsx-fd2c47748f11ae3b12af.js.map"
+    ],
     "path---blog-xjsfl-that-looks-pretty-cool": [
       "path---blog-xjsfl-that-looks-pretty-cool-4b476d95410fad97708a.js",
       "path---blog-xjsfl-that-looks-pretty-cool-4b476d95410fad97708a.js.map"
@@ -1701,10 +1705,6 @@
     "path---blog-missapplication-of-terminology": [
       "path---blog-missapplication-of-terminology-bd50c107a8f7e12c64db.js",
       "path---blog-missapplication-of-terminology-bd50c107a8f7e12c64db.js.map"
-    ],
-    "component---src-pages-tags-js": [
-      "component---src-pages-tags-js-e24caba3533003382791.js",
-      "component---src-pages-tags-js-e24caba3533003382791.js.map"
     ],
     "path---blog-what-are-you-looking-at-introducing-screentweetr": [
       "path---blog-what-are-you-looking-at-introducing-screentweetr-858f308c355714a33bea.js",
@@ -1882,9 +1882,9 @@
       "path---blog-adobe-flex-reaches-out-to-net-developers-c9977995460d87f40a3f.js",
       "path---blog-adobe-flex-reaches-out-to-net-developers-c9977995460d87f40a3f.js.map"
     ],
-    "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-b5668fc11b07bb48ce54.js",
-      "component---src-pages-blog-js-b5668fc11b07bb48ce54.js.map"
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-eb2287eda5f3995499d7.js",
+      "component---src-pages-index-jsx-eb2287eda5f3995499d7.js.map"
     ],
     "path---blog-an-overview-of-open-source-media-framework-aka-adobe-strobe": [
       "path---blog-an-overview-of-open-source-media-framework-aka-adobe-strobe-2efa2c5361ad7ea90512.js",
@@ -2027,9 +2027,9 @@
       "path---blog-what-to-look-for-from-a-prospective-developer-29a31204d915ce030375.js.map"
     ],
     "app": [
-      "app-22d2b945f5f3dc4258eb.js",
+      "app-1a96573cab548bce39d1.js",
       "build-js-styles.css",
-      "app-22d2b945f5f3dc4258eb.js.map",
+      "app-1a96573cab548bce39d1.js.map",
       "build-js-styles.css.map"
     ],
     "path---tag-google": [
