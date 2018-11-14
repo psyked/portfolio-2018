@@ -88,7 +88,6 @@ class HomeIndex extends React.Component {
         <hr />
 
         <section className="bodyContent">
-          <h2>README</h2>
           <ReactMarkdown source={content} />
         </section>
 
