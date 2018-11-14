@@ -2,24 +2,24 @@
 
 > _Hi, I'm James._
 
-I prefer James instead of nicknames. My online 'handle' or username is predominantly **@psyked.**
+I prefer James when face-to-face. My online handle / username is predominantly **@psyked.**
 
 ### Why this website/document exists
 
-Writing a self-README feels like a good way to share my own thoughts about working with myself, in a format that's curated by me and always available - unlike an email, Slack message or passing conversations which can get lost or misrepresented over time. [Plus, all of the cool kids are doing it.](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+Writing a self-README feels like a good way to share my own thoughts about working with myself, in a format that's curated by me and always available - unlike an email, Slack message or passing conversations which could get lost or misrepresented over time. [Plus, all of the cool kids are doing it.](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 
 ## About Me
 
 ### Personality
 
-By some definitions I'm an Introvert, and by others an Extrovert. What that means in practice is that in chaotic or social environments I tend to be more quiet and reserved, but I'm motivated by the feedback of other people rather than myself.
+By some definitions I'm an Introvert, and by others an Extrovert. If you're interested, I come out as an ["Architect" (INTJ)](https://www.16personalities.com/intj-personality) or a ["Mediator" (INFP)](https://www.16personalities.com/infp-personality) in Myers-Briggs tests, according to how I'm feeling. In practice that generally means that in chaotic or social environments I tend towards being more quiet and reserved, but I'm motivated by the feedback of other people rather than myself.
 
 ### Social Media & other websites
 
-I'm on [Twitter](https://twitter.com/psyked) and [Instagram,](https://www.instagram.com/psyked/) if you're interested. I use Twitter to harvest industry-related news, and generally avoid making a splash. I use Instagram to record the visual things that I like, but generally nothing too personally identifiable.
+I'm on [Twitter](https://twitter.com/psyked) and [Instagram,](https://www.instagram.com/psyked/) if you're interested.
 
-There's also my accounts on [GitHub,](https://github.com/psyked/) [GitLab](https://gitlab.com/psyked1) and [StackOverflow.](https://stackoverflow.com/users/377961/james-ford)
+I'm also on [GitHub,](https://github.com/psyked/) [GitLab](https://gitlab.com/psyked1) and [StackOverflow.](https://stackoverflow.com/users/377961/james-ford) I publish articles as often as I can on [Medium,](https://medium.com/@psyked) and mirror them on [GitHub Pages.](https://psyked.github.io/blog/)
 
 ### Hobbies & Interests
 
-I read for pleasure and I enjoy writing. I prefer Science Fiction or Fantasy Novels and the occasional Thriller. I appreciate good, engaging writing. I publish things as often as I can on places like [Medium](https://medium.com/@psyked) and [my blog.](https://psyked.co.uk)
+I read for pleasure and I enjoy writing. I prefer Science Fiction or Fantasy Novels and the occasional Thriller. I appreciate good, engaging writing.
