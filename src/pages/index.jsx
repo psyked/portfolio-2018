@@ -1,6 +1,13 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
+import {
+  FaGithub,
+  FaTwitter,
+  FaInstagram,
+  FaMedium,
+  FaLinkedin,
+} from 'react-icons/fa'
 
 import ProfileImage from '../assets/images/profile-image.jpg'
 
@@ -50,34 +57,51 @@ class HomeIndex extends React.Component {
               <p>
                 I make things for the web, primarily with{' '}
                 <Link to={'/tag/react'}>React.</Link>
-                <br />
+                {' '}This is my 'personal' website, powered by Gatsby and hosted on GitHub Pages.
+                It exists to mirror any content I create elsewhere on the web.
               </p>
             </div>
             <div>
-              <ul>
+              <h3>Elsewhere, on social media;</h3>
+              <ul className="external-profiles">
                 <li>
                   <a href="//twitter.com/psyked">
-                    <span>Twitter</span>
+                    <span>
+                      <FaTwitter />
+                      Twitter
+                    </span>
                   </a>
                 </li>
                 <li>
                   <a href="//instagram.com/psyked">
-                    <span>Instagram</span>
+                    <span>
+                      <FaInstagram />
+                      Instagram
+                    </span>
                   </a>
                 </li>
                 <li>
                   <a href="//github.com/psyked">
-                    <span>GitHub</span>
+                    <span>
+                      <FaGithub />
+                      GitHub
+                    </span>
                   </a>
                 </li>
                 <li>
                   <a href="//linkedin.com/in/jamesford">
-                    <span>LinkedIn</span>
+                    <span>
+                      <FaLinkedin />
+                      LinkedIn
+                    </span>
                   </a>
                 </li>
                 <li>
                   <a href="//medium.com/@psyked">
-                    <span>Medium</span>
+                    <span>
+                      <FaMedium />
+                      Medium
+                    </span>
                   </a>
                 </li>
               </ul>
