@@ -1,2 +1,2 @@
-webpackJsonp([0x88c4add80799],{1519:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Best Practice for AIR applications (1 of 7)",path:"/blog/best-practice-for-air-applications-1-of-7/"}}}]}},pathContext:{tag:"best-practice"}}}});
+webpackJsonp([0x88c4add80799],{1525:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Best Practice for AIR applications (1 of 7)",path:"/blog/best-practice-for-air-applications-1-of-7/"}}}]}},pathContext:{tag:"best-practice"}}}});
 //# sourceMappingURL=path---tag-best-practice-48ef4bf1bd193d819fd4.js.map
