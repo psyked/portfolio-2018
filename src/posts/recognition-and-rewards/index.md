@@ -1,5 +1,5 @@
 ---
-path: /blog/recognition-and-rewards-899434d5bda2/
+path: /blog/recognition-and-rewards/
 layout: "post"
 title: "Recognition and Rewards"
 description: "Incentivising gratitude in the workplace"
