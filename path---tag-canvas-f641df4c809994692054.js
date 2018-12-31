@@ -1,2 +1,2 @@
-webpackJsonp([92937317303370],{1539:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Generating images for download with HTML5 and Canvas",path:"/blog/generating-images-for-download-with-html5-and-canvas/"}}}]}},pathContext:{tag:"canvas"}}}});
+webpackJsonp([92937317303370],{1537:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Generating images for download with HTML5 and Canvas",path:"/blog/generating-images-for-download-with-html5-and-canvas/"}}}]}},pathContext:{tag:"canvas"}}}});
 //# sourceMappingURL=path---tag-canvas-f641df4c809994692054.js.map

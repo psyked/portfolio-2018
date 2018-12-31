@@ -1,2 +1,2 @@
-webpackJsonp([0xc2ef1f5e865f],{1785:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Putting our Component library on a diet.",path:"/blog/putting-our-component-library-on-a-diet-88aee7f457a/"}}}]}},pathContext:{tag:"Webpack"}}}});
+webpackJsonp([0xc2ef1f5e865f],{1782:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Putting our Component library on a diet.",path:"/blog/putting-our-component-library-on-a-diet-88aee7f457a/"}}}]}},pathContext:{tag:"Webpack"}}}});
 //# sourceMappingURL=path---tag-webpack-2a4a7b0a3286324e897b.js.map

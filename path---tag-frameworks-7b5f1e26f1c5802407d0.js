@@ -1,2 +1,2 @@
-webpackJsonp([73947230055980],{1609:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Modular Code Libraries FTW",path:"/blog/modular-code-libraries-ftw/"}}}]}},pathContext:{tag:"Frameworks"}}}});
+webpackJsonp([73947230055980],{1607:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Modular Code Libraries FTW",path:"/blog/modular-code-libraries-ftw/"}}}]}},pathContext:{tag:"Frameworks"}}}});
 //# sourceMappingURL=path---tag-frameworks-7b5f1e26f1c5802407d0.js.map

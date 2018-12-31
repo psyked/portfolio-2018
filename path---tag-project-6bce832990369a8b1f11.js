@@ -1,2 +1,2 @@
-webpackJsonp([49195166548425],{1720:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject Dev Diary: Prologue",path:"/blog/poképroject-dev-diary-prologue/"}}}]}},pathContext:{tag:"Project"}}}});
+webpackJsonp([49195166548425],{1717:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject Dev Diary: Prologue",path:"/blog/poképroject-dev-diary-prologue/"}}}]}},pathContext:{tag:"Project"}}}});
 //# sourceMappingURL=path---tag-project-6bce832990369a8b1f11.js.map

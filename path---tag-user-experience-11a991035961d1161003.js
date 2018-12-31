@@ -1,2 +1,2 @@
-webpackJsonp([3443763025629],{1775:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Building a humanised command-line interface with Node.js",path:"/blog/building-a-humanised-command-line-interface-with-node-js/"}}}]}},pathContext:{tag:"User Experience"}}}});
+webpackJsonp([3443763025629],{1772:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Building a humanised command-line interface with Node.js",path:"/blog/building-a-humanised-command-line-interface-with-node-js/"}}}]}},pathContext:{tag:"User Experience"}}}});
 //# sourceMappingURL=path---tag-user-experience-11a991035961d1161003.js.map

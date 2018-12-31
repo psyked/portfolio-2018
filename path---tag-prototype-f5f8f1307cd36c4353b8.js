@@ -1,2 +1,2 @@
-webpackJsonp([0xa157128559d1],{1721:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Getting started with AJAX / Prototype",path:"/blog/getting-started-with-ajax-prototype/"}}}]}},pathContext:{tag:"prototype"}}}});
+webpackJsonp([0xa157128559d1],{1718:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Getting started with AJAX / Prototype",path:"/blog/getting-started-with-ajax-prototype/"}}}]}},pathContext:{tag:"prototype"}}}});
 //# sourceMappingURL=path---tag-prototype-f5f8f1307cd36c4353b8.js.map
