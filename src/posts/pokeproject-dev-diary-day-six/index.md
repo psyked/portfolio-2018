@@ -18,12 +18,6 @@ tags:
 date: 2016-09-26T08:16:02.077Z
 ---
 
-# PokéProject Dev Diary: Day Six
-
-## Move fast, break shit.
-
-![](1*p5_Ies7YdsgoJcMFxHQoHg.jpeg)
-
 Sometimes you wish you’d never started.
 
 Well, day six was a bit of a depressing development experience.

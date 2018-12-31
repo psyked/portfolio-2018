@@ -17,10 +17,6 @@ tags:
 date: 2016-09-19T19:16:16.296Z
 ---
 
-# PokéProject Dev Diary: Day Four
-
-## Adverts, and going live.
-
 At this point, we’ve [prototyped our idea](https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-one-8a77a252bf0a), [improved it visually](https://medium.com/@psyked/pokeproject-dev-diary-day-two-a6019e6cf0f0), [sorted out our own store of data](https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-three-31afdf3e1302), and now it’s time to — finally — go live.
 
 ![](1*ar_BjfWyVqeI7iWpilFueQ.png)

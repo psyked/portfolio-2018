@@ -18,11 +18,7 @@ tags:
 date: 2016-09-09T20:15:21.689Z
 ---
 
-![](1*3eWOlkdwOZoxG4h_RlDyAw.jpeg)
-
 Cover image from @MindJournal / Unsplash: [https://unsplash.com/@mindjournals](https://unsplash.com/@mindjournals)
-
-# PokéProject Dev Diary: Prologue
 
 I’ve written a little before about my exploits as I try to live in [“a constant state of Hackathon”](https://medium.com/@psyked/explorative-prototyping-71f2ad9d4e41#.3nklt53n5) but this time I thought I’d change it up a bit and actually write about the process as it goes. You never know, this might be the project which catapults itself into the limelight and becomes a commercial success — and if it doesn’t, well… it might still be interesting to read about.
 

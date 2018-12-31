@@ -17,10 +17,6 @@ tags:
 date: 2016-09-17T13:21:53.274Z
 ---
 
-# PokéProject Dev Diary: Day Three
-
-Changing the theme a bit, today has all been about data, APIs and data transformation.
-
 > “Being as [LEAN](https://en.wikipedia.org/wiki/Lean_software_development) and [AGILE](https://en.wikipedia.org/wiki/Agile_software_development) as possible _can_ be interpreted as being as-lazy-as-possible about your solutions for as-long-as they work, and that’s certainly the case so far with PokéProject.”
 
 But now it’s become apparent that the original “_Google it, ctrl+c, ctrl+v”_ data solution is no longer fit for purpose, so I’ve gone back to the drawing board to create a Node.js-based data collector, which harvests data from endpoints like [PokeAPI](https://pokeapi.co) and transforms it into a streamlined data set, one that’s both _more complete_ and _more tailored_ to the task at hand.

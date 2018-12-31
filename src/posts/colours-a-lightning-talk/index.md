@@ -4,7 +4,7 @@ layout: 'post'
 title: 'Colours: A lightning Talk ⚡️'
 description: 'I find colours fascinating, and I write code that goes into websites, so there’s bound to be a natural intersection between those two…'
 url: 'https://medium.com/comparethemarket/colours-a-lightning-talk-%EF%B8%8F-80d209d58d3c'
-image: 'https://cdn-images-1.medium.com/max/1200/1*sLQprE7Kw6UKNsNsE1UEeA.png'
+image: '1*sLQprE7Kw6UKNsNsE1UEeA.png'
 src: 'https://cdn-images-1.medium.com/max/1200/1*sLQprE7Kw6UKNsNsE1UEeA.png'
 author: 'https://medium.com/@psyked'
 type: 'article'
@@ -20,8 +20,6 @@ tags:
   - Tech
 date: 2018-09-24T12:32:50.599Z
 ---
-
-# Colours: A lightning Talk ⚡️
 
 > I find colours fascinating, and I write code that goes into websites, so there’s bound to be a natural intersection between those two subjects.
 

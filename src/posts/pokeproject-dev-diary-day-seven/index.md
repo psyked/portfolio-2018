@@ -17,12 +17,6 @@ tags:
 date: 2016-10-06T21:01:01.030Z
 ---
 
-# PokéProject Dev Diary: Day Seven
-
-## This thing ain’t gonna market itself.
-
-![](1*9N5G_8K-XFMZxRNJAYtpBQ.jpeg)
-
 Image from Jason Rosewell / Unsplash / [https://unsplash.com/photos/ASKeuOZqhYU](https://unsplash.com/photos/ASKeuOZqhYU)
 
 I’m running this ‘Development Diary’ on roughly a week’s worth of lag now, and after [yesterday’s disastrous server-upgrade failure](https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-six-c263ef30fd0c#.4picapmw5) I thought it was about time I stepped back from the code and looked a little closer at marketing, specifically how to get some ‘organic’ traffic going towards PokéProject.

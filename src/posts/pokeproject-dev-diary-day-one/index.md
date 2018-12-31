@@ -17,12 +17,6 @@ tags:
 date: 2016-09-11T19:59:19.663Z
 ---
 
-# PokéProject Dev Diary: Day One
-
-## Let’s get this show on the road.
-
-![](1*W6yZivoD-KCYSSExde0BIQ.png)
-
 We have [our inspiration](https://medium.com/@psyked/pok%C3%A9project-dev-diary-prologue-d214a44c348f#.fra9ia259), so now it’s time to throw a prototype together. I’m pacing the development of this project out in blocks of a few hours at a time, and usually in an evening.
 
 Fortunately I’ve done quite a few different projects before, and have got a starting point in my [new project template](https://github.com/psyked/starter-project-template), which includes tech like SASS, Babel and Grunt, in the way that I like to use ‘em.

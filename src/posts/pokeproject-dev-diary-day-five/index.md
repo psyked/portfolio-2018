@@ -18,12 +18,6 @@ tags:
 date: 2016-09-20T20:11:03.647Z
 ---
 
-# PokéProject Dev Diary: Day Five
-
-## Move fast, change things.
-
-![](1*Kp3dePIQiFvW6HuPg7Dxpg.jpeg)
-
 Cover image by Alice Achterhof / Unsplash: [https://unsplash.com/search/painting?photo=FwF_fKj5tBo](https://unsplash.com/search/painting?photo=FwF_fKj5tBo)
 
 [PokéProject](https://www.pokeproject.co.uk/) has been live for just over a day now, and I’ve had some initial feedback from early users.

@@ -1,10 +1,10 @@
 ---
-path: /blog/eslint-visual-studio-code-editor-integration-for-the-win-1bcf38f6ccd4/
+path: /blog/eslint-visual-studio-code-editor-integration-for-the-win/
 layout: "post"
 title: "ESLint + Visual Studio Code: Editor integration For The Win"
 description: "Coding is complicated so  it helps to have a ‘helping hand’ while you work."
 url: "https://medium.com/comparethemarket/eslint-visual-studio-code-editor-integration-for-the-win-1bcf38f6ccd4"
-image: "https://cdn-images-1.medium.com/max/1200/1*xsrntccR6nCD51Gr9zKwvg.png"
+image: "1*xsrntccR6nCD51Gr9zKwvg.png"
 src: "https://cdn-images-1.medium.com/max/1200/1*xsrntccR6nCD51Gr9zKwvg.png"
 author: "https://medium.com/@psyked"
 type: "article"
@@ -20,8 +20,6 @@ tags:
 - Tech
 date: 2018-10-18T09:31:36.220Z
 ---
-
-# ESLint + Visual Studio Code: Editor integration For The Win
 
 Coding is complicated — there are loads of best practices to remember, guidelines to follow and ‘known issues’ to avoid — so it helps to have a ‘helping hand’ while you work.
 

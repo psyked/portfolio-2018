@@ -4,7 +4,7 @@ layout: "post"
 title: "Recognition and Rewards"
 description: "Incentivising gratitude in the workplace"
 url: "https://medium.com/comparethemarket/recognition-and-rewards-899434d5bda2"
-image: "https://cdn-images-1.medium.com/max/1200/1*NxKaG9HNtdzjS5jkKPevwA.jpeg"
+image: "1*NxKaG9HNtdzjS5jkKPevwA.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*NxKaG9HNtdzjS5jkKPevwA.jpeg"
 author: "https://medium.com/@psyked"
 type: "article"
@@ -20,16 +20,6 @@ tags:
 - Life At Ctm
 date: 2018-12-04T13:44:59.927Z
 ---
-
-# Recognition and Rewards
-
-## Incentivising gratitude in the workplace
-
-[![Go to the profile of James Ford](@psyked?source=post_header_lockup)
-
-[James Ford](https://medium.com/@psyked?source=post_header_lockup)BlockedUnblockFollowFollowing
-
-Dec 4
 
 Being recognised and rewarded for your efforts in the workplace is important, as is taking the time to recognise and reward others. Taking the time to deliver a direct, verbal expression of gratitude can mean a lot to its recipient, but adding a tangible reward makes it even better.
 

@@ -4,7 +4,7 @@ layout: 'post'
 title: 'Rethinking my “personal” website.'
 description: 'Repositioning, repurposing and ultimately rebuilding and replacing my Ghost blog with a Gatsby static site.'
 url: 'https://medium.com/@psyked/rethinking-my-personal-website-5e591e78b261'
-image: 'https://cdn-images-1.medium.com/max/1200/1*83xPh48eAhxdgQmOIH-9jQ.jpeg'
+image: '1*83xPh48eAhxdgQmOIH-9jQ.jpeg'
 src: 'https://cdn-images-1.medium.com/max/1200/1*83xPh48eAhxdgQmOIH-9jQ.jpeg'
 author: 'https://medium.com/@psyked'
 type: 'article'
@@ -17,10 +17,6 @@ tags:
   - Gatsbyjs
 date: 2018-07-29T19:41:59.179Z
 ---
-
-# Rethinking my “personal” website.
-
-## Repositioning, repurposing and ultimately rebuilding and replacing my Ghost blog with a Gatsby static site.
 
 #### Then & Now
 

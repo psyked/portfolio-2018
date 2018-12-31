@@ -4,7 +4,7 @@ layout: "post"
 title: "Putting our Component library on a diet."
 description: "Performance matters, and “Houston, we have a problem.”"
 url: "https://medium.com/comparethemarket/putting-our-component-library-on-a-diet-88aee7f457a"
-image: "https://cdn-images-1.medium.com/max/1200/1*-urAq0XXMQ4RSLRAiP600Q.jpeg"
+image: "1*-urAq0XXMQ4RSLRAiP600Q.jpeg"
 src: "https://cdn-images-1.medium.com/max/1200/1*-urAq0XXMQ4RSLRAiP600Q.jpeg"
 author: "https://medium.com/@psyked"
 type: "article"
@@ -20,12 +20,6 @@ tags:
 - Tech
 date: 2018-11-06T16:49:11.453Z
 ---
-
-# Putting our Component library on a diet.
-
-## Performance matters, and “Houston, we have a problem.”
-
-![](1*-urAq0XXMQ4RSLRAiP600Q.jpeg)
 
 Photo by [Bernard Hermant](https://unsplash.com/photos/bSpqe48INMg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/balloon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
