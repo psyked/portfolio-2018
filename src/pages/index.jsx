@@ -12,7 +12,7 @@ import {
 import ProfileImage from '../assets/images/profile-image.jpg'
 
 import ReactMarkdown from 'react-markdown'
-import content from 'raw!./README.md'
+import content from 'raw!../../README.md'
 
 class HomeIndex extends React.Component {
   render() {
