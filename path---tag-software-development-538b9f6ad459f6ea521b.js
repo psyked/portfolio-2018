@@ -1,0 +1,2 @@
+webpackJsonp([0xebcd53bbe181],{1745:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:4,edges:[{node:{frontmatter:{title:"Inspired by Open Source.",path:"/blog/inspired-by-open-source/"}}},{node:{frontmatter:{title:"Recognition and Rewards",path:"/blog/recognition-and-rewards/"}}},{node:{frontmatter:{title:"Culture of fear",path:"/blog/culture-of-fear/"}}},{node:{frontmatter:{title:"Duotone: Version 2",path:"/blog/duotone-version-2/"}}}]}},pathContext:{tag:"Software Development"}}}});
+//# sourceMappingURL=path---tag-software-development-538b9f6ad459f6ea521b.js.map

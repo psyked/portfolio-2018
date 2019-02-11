@@ -1,2 +1,2 @@
-webpackJsonp([0x9468657cd0c3],{1675:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"RunMaps #4: Apply UI Sprinkles & Go Live!",path:"/blog/runmaps-4-apply-ui-sprinkles-go-live/"}}}]}},pathContext:{tag:"MVP"}}}});
+webpackJsonp([0x9468657cd0c3],{1680:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"RunMaps #4: Apply UI Sprinkles & Go Live!",path:"/blog/runmaps-4-apply-ui-sprinkles-go-live/"}}}]}},pathContext:{tag:"MVP"}}}});
 //# sourceMappingURL=path---tag-mvp-50f0a082f1495114e1de.js.map

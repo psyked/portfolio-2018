@@ -1,2 +1,2 @@
-webpackJsonp([0x9c0a29aea572],{1612:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Launchball - an awesome Flash game",path:"/blog/launchball-an-awesome-flash-game/"}}}]}},pathContext:{tag:"game"}}}});
+webpackJsonp([0x9c0a29aea572],{1616:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Launchball - an awesome Flash game",path:"/blog/launchball-an-awesome-flash-game/"}}}]}},pathContext:{tag:"game"}}}});
 //# sourceMappingURL=path---tag-game-29f5118db6dcbd9de144.js.map
