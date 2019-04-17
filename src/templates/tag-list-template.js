@@ -5,6 +5,8 @@ import { graphql } from 'gatsby'
 // Components
 import Link from 'gatsby-link'
 
+import Layout from '../components/layout'
+
 const Tags = ({ pathContext, data }) => {
   const { tag } = pathContext
   const { edges, totalCount } = data.allMarkdownRemark
@@ -13,20 +15,22 @@ const Tags = ({ pathContext, data }) => {
   } tagged with "${tag}"`
 
   return (
-    <div className="bodyContent">
-      <Link to="/tags">All tags</Link>
-      <h1>{tagHeader}</h1>
-      <ul>
-        {edges.map(({ node }) => {
-          const { path, title } = node.frontmatter
-          return (
-            <li key={path}>
-              <Link to={path}>{title}</Link>
-            </li>
-          )
-        })}
-      </ul>
-    </div>
+    <Layout>
+      <div className="bodyContent">
+        <Link to="/tags">All tags</Link>
+        <h1>{tagHeader}</h1>
+        <ul>
+          {edges.map(({ node }) => {
+            const { path, title } = node.frontmatter
+            return (
+              <li key={path}>
+                <Link to={path}>{title}</Link>
+              </li>
+            )
+          })}
+        </ul>
+      </div>
+    </Layout>
   )
 }
 

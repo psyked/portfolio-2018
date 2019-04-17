@@ -8,6 +8,7 @@ import Banner from '../components/Banner'
 import Tiles from '../components/Tiles'
 import Tags from '../components/Tags'
 import SourcePost from '../components/SourcePost'
+import Layout from '../components/Layout'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -19,7 +20,7 @@ class BlogPostTemplate extends React.Component {
     const { next, prev } = this.props.pathContext
 
     return (
-      <div>
+      <Layout>
         <Helmet title={`${title} | ${siteTitle}`}>
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:site" content="@psyked" />
@@ -41,7 +42,7 @@ class BlogPostTemplate extends React.Component {
           <Tags tags={tags} />
         </div>
         <Tiles tiles={[next, prev]} />
-      </div>
+      </Layout>
     )
   }
 }
