@@ -1,7 +1,9 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
-import { PreviousMap } from '../../node_modules/postcss'
+import { graphql } from 'gatsby'
+
+import Layout from '../components/layout'
 
 class Blog extends React.Component {
   render() {
@@ -29,79 +31,83 @@ class Blog extends React.Component {
       }, {})
 
     return (
-      <div className="bodyContent">
-        <Helmet>
-          <title>{siteTitle}</title>
-          <meta name="description" content={siteDescription} />
-        </Helmet>
+      <Layout>
+        <div className="bodyContent">
+          <Helmet>
+            <title>{siteTitle}</title>
+            <meta name="description" content={siteDescription} />
+          </Helmet>
 
-        <header className="major">
-          <h2>Recent Blog Posts</h2>
-        </header>
+          <header className="major">
+            <h2>Recent Blog Posts</h2>
+          </header>
 
-        <h3>Posts from 2018</h3>
-        <ul>
-          {edges
-            .filter(edge => !!edge.node.frontmatter.date)
-            .filter(
-              edge =>
-                new Date(edge.node.frontmatter.date) > new Date('2018-01-01')
-            )
-            .map(edge => {
+          <h3>Posts from 2018</h3>
+          <ul>
+            {edges
+              .filter(edge => !!edge.node.frontmatter.date)
+              .filter(
+                edge =>
+                  new Date(edge.node.frontmatter.date) > new Date('2018-01-01')
+              )
+              .map(edge => {
+                return (
+                  <li key={edge.node.id}>
+                    <Link to={edge.node.frontmatter.path}>
+                      {edge.node.frontmatter.title} (
+                      {edge.node.frontmatter.date})
+                    </Link>
+                  </li>
+                )
+              })}
+          </ul>
+
+          <header className="major">
+            <h2>Blog Post Archive</h2>
+          </header>
+
+          <aside className="box">
+            <p>
+              This is a curated collection of published articles written by
+              myself. Some legacy blog posts that lack substantial unique
+              content have been culled. Some articles are copies that were
+              originally published elsewhere. Formatting may have changed and
+              assets or external resources may have been adversely affected by
+              the passage of time and the evolution of technology.
+            </p>
+          </aside>
+
+          {Object.keys(groupedPosts)
+            .filter(key => parseInt(key, 10) < 2018)
+            .sort((a, b) => b - a)
+            .map(key => {
+              const { year, posts } = groupedPosts[key]
               return (
-                <li key={edge.node.id}>
-                  <Link to={edge.node.frontmatter.path}>
-                    {edge.node.frontmatter.title} ({edge.node.frontmatter.date})
-                  </Link>
-                </li>
+                <section key={year}>
+                  <h3>Posts from {year}</h3>
+                  <ul key={year}>
+                    {posts
+                      .filter(post => !!post.frontmatter.date)
+                      .filter(
+                        post =>
+                          new Date(post.frontmatter.date) <
+                          new Date('2018-01-01')
+                      )
+                      .map(post => {
+                        return (
+                          <li key={post.id}>
+                            <Link to={post.frontmatter.path}>
+                              {post.frontmatter.title} ({post.frontmatter.date})
+                            </Link>
+                          </li>
+                        )
+                      })}
+                  </ul>
+                </section>
               )
             })}
-        </ul>
-
-        <header className="major">
-          <h2>Blog Post Archive</h2>
-        </header>
-
-        <aside className="box">
-          <p>
-            This is a curated collection of published articles written by
-            myself. Some legacy blog posts that lack substantial unique content
-            have been culled. Some articles are copies that were originally
-            published elsewhere. Formatting may have changed and assets or
-            external resources may have been adversely affected by the passage
-            of time and the evolution of technology.
-          </p>
-        </aside>
-
-        {Object.keys(groupedPosts)
-          .filter(key => parseInt(key, 10) < 2018)
-          .sort((a, b) => b - a)
-          .map(key => {
-            const { year, posts } = groupedPosts[key]
-            return (
-              <section key={year}>
-                <h3>Posts from {year}</h3>
-                <ul key={year}>
-                  {posts
-                    .filter(post => !!post.frontmatter.date)
-                    .filter(
-                      post =>
-                        new Date(post.frontmatter.date) < new Date('2018-01-01')
-                    )
-                    .map(post => {
-                      return (
-                        <li key={post.id}>
-                          <Link to={post.frontmatter.path}>
-                            {post.frontmatter.title} ({post.frontmatter.date})
-                          </Link>
-                        </li>
-                      )
-                    })}
-                </ul>
-              </section>
-            )
-          })}
-      </div>
+        </div>
+      </Layout>
     )
   }
 }

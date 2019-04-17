@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import {
   FaGithub,
@@ -9,10 +10,12 @@ import {
   FaLinkedin,
 } from 'react-icons/fa'
 
+import Layout from '../components/layout'
+
 import ProfileImage from '../assets/images/profile-image.jpg'
 
 import ReactMarkdown from 'react-markdown'
-import content from 'raw!../../README.md'
+import content from 'raw-loader!../../README.md'
 
 class HomeIndex extends React.Component {
   render() {
@@ -20,7 +23,7 @@ class HomeIndex extends React.Component {
     const siteDescription = this.props.data.site.siteMetadata.description
 
     return (
-      <div>
+      <Layout>
         <Helmet>
           <title>{siteTitle}</title>
           <meta name="description" content={siteDescription} />
@@ -56,9 +59,9 @@ class HomeIndex extends React.Component {
               <h2>Technical Lead at comparethemarket.com</h2>
               <p>
                 I make things for the web, primarily with{' '}
-                <Link to={'/tag/react'}>React.</Link>
-                {' '}This is my 'personal' website, powered by Gatsby and hosted on GitHub Pages.
-                It exists to mirror any content I create elsewhere on the web.
+                <Link to={'/tag/react'}>React.</Link> This is my 'personal'
+                website, powered by Gatsby and hosted on GitHub Pages. It exists
+                to mirror any content I create elsewhere on the web.
               </p>
             </div>
             <div>
@@ -116,7 +119,7 @@ class HomeIndex extends React.Component {
         </section>
 
         <hr className="endPost" />
-      </div>
+      </Layout>
     )
   }
 }
