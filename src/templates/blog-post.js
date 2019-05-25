@@ -17,7 +17,7 @@ class BlogPostTemplate extends React.Component {
       post || {}
     const { frontmatter = {} } = post || {}
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
-    const { next, prev } = this.props.pathContext
+    const { next, prev } = this.props.pageContext
 
     return (
       <Layout>
