@@ -24,7 +24,11 @@ class HomeIndex extends React.Component {
 
     return (
       <Layout>
-        <Helmet>
+        <Helmet
+          htmlAttributes={{
+            lang: 'en',
+          }}
+        >
           <title>{siteTitle}</title>
           <meta name="description" content={siteDescription} />
         </Helmet>

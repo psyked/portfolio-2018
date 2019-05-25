@@ -21,7 +21,12 @@ const TagsPage = ({
 }) => (
   <Layout>
     <div className="bodyContent">
-      <Helmet title={title} />
+      <Helmet
+        title={title}
+        htmlAttributes={{
+          lang: 'en',
+        }}
+      />
       <h1>Tags</h1>
       <ul>
         {group.map(tag => (

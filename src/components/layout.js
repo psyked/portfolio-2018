@@ -13,7 +13,11 @@ class Template extends React.Component {
 
     return (
       <div>
-        <Helmet />
+        <Helmet
+          htmlAttributes={{
+            lang: 'en',
+          }}
+        />
         <Header />
         <main>{children}</main>
         <Footer />

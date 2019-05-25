@@ -33,7 +33,11 @@ class Blog extends React.Component {
     return (
       <Layout>
         <div className="bodyContent">
-          <Helmet>
+          <Helmet
+            htmlAttributes={{
+              lang: 'en',
+            }}
+          >
             <title>{siteTitle}</title>
             <meta name="description" content={siteDescription} />
           </Helmet>

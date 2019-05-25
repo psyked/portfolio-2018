@@ -21,7 +21,12 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout>
-        <Helmet title={`${title} | ${siteTitle}`}>
+        <Helmet
+          title={`${title} | ${siteTitle}`}
+          htmlAttributes={{
+            lang: 'en',
+          }}
+        >
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:site" content="@psyked" />
           <meta name="twitter:creator" content={frontmatter.creator} />
