@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Psyked: James' Web Development website",
-    author: "James Ford",
-    description: "James' personal website"
+    title: 'James Ford',
+    author: 'James Ford',
+    description: "James Ford's Portfolio",
   },
   // pathPrefix: `/portfolio-2018`,
   plugins: [
@@ -10,7 +10,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/posts`,
-        name: "posts",
+        name: 'posts',
       },
     },
     {
@@ -30,7 +30,7 @@ module.exports = {
               maxWidth: 630,
             },
           },
-          "gatsby-remark-copy-linked-files",
+          'gatsby-remark-copy-linked-files',
         ],
       },
     },
@@ -42,9 +42,9 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Open Sans','Roboto']
-        }
-      }
-    }
+          families: ['Open Sans', 'Roboto'],
+        },
+      },
+    },
   ],
 }
