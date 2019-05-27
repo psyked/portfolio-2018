@@ -5,6 +5,8 @@ import { graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 
+const currentYear = new Date().getFullYear()
+
 class Blog extends React.Component {
   render() {
     const {
@@ -46,13 +48,14 @@ class Blog extends React.Component {
             <h2>Recent Blog Posts</h2>
           </header>
 
-          <h3>Posts from 2018</h3>
+          <h3>Posts from {currentYear}</h3>
           <ul>
             {edges
               .filter(edge => !!edge.node.frontmatter.date)
               .filter(
                 edge =>
-                  new Date(edge.node.frontmatter.date) > new Date('2018-01-01')
+                  new Date(edge.node.frontmatter.date) >
+                  new Date(currentYear + '-01-01')
               )
               .map(edge => {
                 return (
@@ -82,7 +85,7 @@ class Blog extends React.Component {
           </aside>
 
           {Object.keys(groupedPosts)
-            .filter(key => parseInt(key, 10) < 2018)
+            .filter(key => parseInt(key, 10) < currentYear)
             .sort((a, b) => b - a)
             .map(key => {
               const { year, posts } = groupedPosts[key]
@@ -95,7 +98,7 @@ class Blog extends React.Component {
                       .filter(
                         post =>
                           new Date(post.frontmatter.date) <
-                          new Date('2018-01-01')
+                          new Date(currentYear + '-01-01')
                       )
                       .map(post => {
                         return (
