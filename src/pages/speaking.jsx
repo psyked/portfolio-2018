@@ -37,7 +37,7 @@ class Speaking extends Component {
               <>
                 <section>
                   <h3>{presentation.frontmatter.title}</h3>
-                  {presentation.excerpt}
+                  {presentation.html}
                 </section>
                 <hr />
               </>
