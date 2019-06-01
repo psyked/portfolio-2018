@@ -4,20 +4,29 @@ module.exports = {
     author: 'James Ford',
     description: "James Ford's Portfolio",
   },
+  // uncomment this if you're going to host at anything other than the root of the domain.
   // pathPrefix: `/portfolio-2018`,
   plugins: [
+    // make the contents of posts available to graphql
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/posts`,
+        path: `${__dirname}/content/posts`,
         name: 'posts',
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/presentations`,
+        path: `${__dirname}/content/presentations`,
         name: 'presentations',
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/projects`,
+        name: 'projects',
       },
     },
     {
