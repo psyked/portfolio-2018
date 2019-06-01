@@ -36,8 +36,12 @@ class Speaking extends Component {
             return (
               <>
                 <section>
-                  <h3>{presentation.frontmatter.title}</h3>
-                  {presentation.html}
+                  <header>
+                    <h3>{presentation.frontmatter.title}</h3>
+                  </header>
+                  <main
+                    dangerouslySetInnerHTML={{ __html: presentation.html }}
+                  />
                 </section>
                 <hr />
               </>
