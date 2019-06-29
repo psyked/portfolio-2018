@@ -11,11 +11,60 @@ import {
 } from 'react-icons/fa'
 
 import Layout from '../components/layout'
+import styled from 'styled-components'
 
 import ProfileImage from '../assets/images/profile-image.jpg'
 
 import ReactMarkdown from 'react-markdown'
 import content from 'raw-loader!../../README.md'
+
+const TwitterLink = styled.li`
+  background: #00acee;
+
+  a {
+    color: #ffffff;
+  }
+`
+
+const GitHubLink = styled.li`
+  background: #181818;
+
+  a {
+    color: #ffffff;
+  }
+`
+
+const LinkedInLink = styled.li`
+  background: #0077b5;
+
+  a {
+    color: #ffffff;
+  }
+`
+
+const MediumLink = styled.li`
+  background: #37b042;
+
+  a {
+    color: #ffffff;
+  }
+`
+
+const InstagramLink = styled.li`
+  background: #d6249f;
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+
+  a {
+    color: #ffffff;
+  }
+`
 
 class HomeIndex extends React.Component {
   render() {
@@ -71,46 +120,46 @@ class HomeIndex extends React.Component {
             <div>
               <h3>Elsewhere, on social media;</h3>
               <ul className="external-profiles">
-                <li>
+                <TwitterLink>
                   <a href="//twitter.com/psyked">
                     <span>
                       <FaTwitter />
                       Twitter
                     </span>
                   </a>
-                </li>
-                <li>
+                </TwitterLink>
+                <InstagramLink>
                   <a href="//instagram.com/psyked">
                     <span>
                       <FaInstagram />
                       Instagram
                     </span>
                   </a>
-                </li>
-                <li>
+                </InstagramLink>
+                <GitHubLink>
                   <a href="//github.com/psyked">
                     <span>
                       <FaGithub />
                       GitHub
                     </span>
                   </a>
-                </li>
-                <li>
+                </GitHubLink>
+                <LinkedInLink>
                   <a href="//linkedin.com/in/jamesford">
                     <span>
                       <FaLinkedin />
                       LinkedIn
                     </span>
                   </a>
-                </li>
-                <li>
+                </LinkedInLink>
+                <MediumLink>
                   <a href="//medium.com/@psyked">
                     <span>
                       <FaMedium />
                       Medium
                     </span>
                   </a>
-                </li>
+                </MediumLink>
               </ul>
             </div>
           </section>

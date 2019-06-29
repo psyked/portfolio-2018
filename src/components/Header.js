@@ -22,21 +22,20 @@ const MenuLink = styled(Link)`
 
   &.active {
     background-color: hsl(346, 88%, 52%);
-    border-radius: 0.3em;
 
     &::after {
       top: 100%;
-      left: 50%;
+      left: 0%;
       border: solid transparent;
-      content: ' ';
+      content: '';
       height: 0;
       width: 0;
       position: absolute;
       pointer-events: none;
       border-color: hsla(346, 88%, 52%, 0);
       border-top-color: hsl(346, 88%, 52%);
-      border-width: 0.6em;
-      margin-left: -0.6em;
+      border-left-color: hsl(346, 88%, 52%);
+      border-width: 0.25em;
     }
   }
 `
