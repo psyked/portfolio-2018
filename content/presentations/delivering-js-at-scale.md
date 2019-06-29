@@ -2,8 +2,9 @@
 path: 'speaking/delivering-js-at-scale'
 layout: 'presentation'
 title: 'Delivering JS at Scale'
-presentedAt: 
-  name: LeicesterJS
+presentedAt:
+  LeicesterJS:
+    name: LeicesterJS
     date: 2019-03-21
     link: https://www.meetup.com/leicesterjs/events/259296374/
     recording: https://www.youtube.com/watch?v=wTIpkyw-8LU
