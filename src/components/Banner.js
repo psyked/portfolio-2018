@@ -5,10 +5,11 @@ import { format } from 'date-fns'
 import styled from 'styled-components'
 
 const Wrapper = styled.header`
-  background: center center / cover $border;
+  background: center center / cover hsl(240, 100%, 12%);
   position: relative;
   padding-top: 2em;
   padding-bottom: 3em;
+  margin-top: -1em;
 `
 
 const Overlay = styled.aside`
@@ -17,15 +18,16 @@ const Overlay = styled.aside`
   height: 100%;
   top: 0px;
   left: 0px;
-  background: rgba($border, 0.6);
+  background: rgba(hsl(240, 100%, 12%), 0.6);
 `
 
-const ImageContainer = styled.aside`   position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-overflow: hidden;
+const ImageContainer = styled.aside`
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }`
 
 const ImageWrapper = styled(Img)`

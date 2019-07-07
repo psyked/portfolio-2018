@@ -1,23 +1,23 @@
 ---
 path: /blog/eslint-visual-studio-code-editor-integration-for-the-win/
-layout: "post"
-title: "ESLint + Visual Studio Code: Editor integration For The Win"
-description: "Coding is complicated so  it helps to have a ‘helping hand’ while you work."
-url: "https://medium.com/comparethemarket/eslint-visual-studio-code-editor-integration-for-the-win-1bcf38f6ccd4"
-image: "1*xsrntccR6nCD51Gr9zKwvg.png"
-src: "https://cdn-images-1.medium.com/max/1200/1*xsrntccR6nCD51Gr9zKwvg.png"
-author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
+layout: 'post'
+title: 'ESLint + Visual Studio Code: Editor integration For The Win'
+description: 'Coding is complicated so  it helps to have a ‘helping hand’ while you work.'
+url: 'https://medium.com/comparethemarket/eslint-visual-studio-code-editor-integration-for-the-win-1bcf38f6ccd4'
+image: '1*xsrntccR6nCD51Gr9zKwvg.png'
+src: 'https://cdn-images-1.medium.com/max/1200/1*xsrntccR6nCD51Gr9zKwvg.png'
+author: 'https://medium.com/@psyked'
+type: 'article'
+card: 'summary_large_image'
 published_time: 2018-10-18T09:31:36.220Z
-creator: "@psyked"
-parsely-link: "https://medium.com/comparethemarket/eslint-visual-studio-code-editor-integration-for-the-win-1bcf38f6ccd4"
+creator: '@psyked'
+parsely-link: 'https://medium.com/comparethemarket/eslint-visual-studio-code-editor-integration-for-the-win-1bcf38f6ccd4'
 tags:
-- JavaScript
-- Eslint
-- Visual Studio Code
-- Developer Tools
-- Tech
+  - JavaScript
+  - Eslint
+  - Visual Studio Code
+  - Developer Tools
+  - Tech
 date: 2018-10-18T09:31:36.220Z
 ---
 
@@ -28,7 +28,7 @@ Coding is complicated — there are loads of best practices to remember, gui
 ESLint — [https://eslint.org/](https://eslint.org/)
 
 [**ESLint - Pluggable JavaScript linter**  
-_A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code…_eslint.org](https://eslint.org/ "https://eslint.org/")[](https://eslint.org/)
+\_A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code…\_eslint.org](https://eslint.org/ 'https://eslint.org/')[](https://eslint.org/)
 
 [ESLint](https://eslint.org/) is an extendible linter — or code checking tool — that can be set up as a standalone tool or integrated into the Visual Studio Code editor.
 
@@ -45,33 +45,33 @@ First, a preamble: I’m going to start by setting up a React project using `cre
 To get a new project set up, run the following commands:
 
 [**facebook/create-react-app**  
-_Create React apps with no build configuration. Contribute to facebook/create-react-app development by creating an…_github.com](https://github.com/facebook/create-react-app "https://github.com/facebook/create-react-app")[](https://github.com/facebook/create-react-app)
+\_Create React apps with no build configuration. Contribute to facebook/create-react-app development by creating an…\_github.com](https://github.com/facebook/create-react-app 'https://github.com/facebook/create-react-app')[](https://github.com/facebook/create-react-app)
 
 First, install [create-react-app](https://github.com/facebook/create-react-app):
 
-npm i -g create-react-app
+    npm i -g create-react-app
 
 Then, to create a new project:
 
-create-react-app eslint-integration-example
+    create-react-app eslint-integration-example
 
 And when we want to, we can run the project like so:
 
-cd eslint-integration-example  
-npm start
+    cd eslint-integration-example
+    npm start
 
 #### Setting up ESLint
 
 ESLint could be installed globally, but for better portability and resilience let’s add it, and some plugins and settings, to the project, with the following command:
 
-npm install --save-dev \  
-eslint \  
-babel-eslint \  
-eslint-config-airbnb \  
-eslint-config-babel \  
-eslint-config-prettier \  
-eslint-plugin-import \  
-eslint-plugin-react
+    npm install --save-dev \
+    eslint \
+    babel-eslint \
+    eslint-config-airbnb \
+    eslint-config-babel \
+    eslint-config-prettier \
+    eslint-plugin-import \
+    eslint-plugin-react
 
 With all of those plugins installed, my `package.json` file looks like this:
 
@@ -112,7 +112,7 @@ It’s already pretty neat to be able to run ESLint and highlight issues with ou
 The ESLint plugin can be installed from the Visual Studio Marketplace, and gives easy integration with Visual Studio Code.
 
 [**ESLint - Visual Studio Marketplace**  
-_Extension for Visual Studio Code - Integrates ESLint JavaScript into VS Code._marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint")[](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+\_Extension for Visual Studio Code - Integrates ESLint JavaScript into VS Code.\_marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint 'https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint')[](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 What does it actually do though? It adds inline code error highlighting, which transforms your editing experience (as illustrated below)
 
@@ -136,18 +136,18 @@ Seeing this editor integration does rely on having the correct plugin installed 
 
 Create a file called `extensions.json` in a directory named `.vscode` in the root of the project, with the following content:
 
-{  
-  "recommendations": \[  
-    "dbaeumer.vscode-eslint",  
-    "esbenp.prettier-vscode",  
-    "dzannotti.vscode-babel-coloring"  
-  \]  
-}
+    {
+      "recommendations": \[
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "dzannotti.vscode-babel-coloring"
+      \]
+    }
 
 The official documentation for this feature can be found here:
 
 [**Managing Extensions in Visual Studio Code**  
-_The features that Visual Studio Code includes out-of-the-box are just the start. VS Code extensions let you add…_code.visualstudio.com](https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions "https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions")[](https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions)
+\_The features that Visual Studio Code includes out-of-the-box are just the start. VS Code extensions let you add…\_code.visualstudio.com](https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions 'https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions')[](https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions)
 
 ---
 

@@ -28,7 +28,8 @@ img {
 body {
     margin: 0;
     padding: 0;
-    background: #fcfcfd;
+    background: #a0b1ba;
+    // background: #fcfcfd;
 }
 
 /* Single property */
@@ -54,10 +55,19 @@ pre {
     margin: #{$margin-lg} #{-$margin-sm};
 }
 
-.bodyContent {
-    box-sizing: border-box;
+main {
     margin: 0 auto;
     max-width: 60em;
+    background: $bg;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.bodyContent {
+    box-sizing: border-box;
+    // margin: 0 auto;
+    // max-width: 60em;
+    
 
     @include poly-fluid-sizing("padding-left", (320px: 16px, 768px: 48px));
     @include poly-fluid-sizing("padding-right", (320px: 16px, 768px: 48px));

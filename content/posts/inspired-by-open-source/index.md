@@ -21,16 +21,6 @@ tags:
 date: 2019-02-05T11:10:18.670Z
 ---
 
-# Inspired by Open Source.
-
-## Inner-sourcing at Compare the Market.
-
-[![Go to the profile of James Ford](@psyked?source=post_header_lockup)
-
-[James Ford](https://medium.com/@psyked)BlockedUnblockFollowFollowing
-
-Feb 5
-
 The Open Source community is an inspiration for us at ComparetheMarket — how it operates, the quality of their output and the ways they manage and engage with the community — all of it raises our expectations and standards, and I love that. 😍
 
 ---
