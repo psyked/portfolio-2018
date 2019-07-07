@@ -3,8 +3,7 @@ path: 'speaking/sharing-code-with-200-engineers'
 layout: 'presentation'
 title: 'Sharing code with 200 Engineers'
 presentedAt:
-  ReactLondon:
-    name: React London
+  - name: React London
     date: 2019-06-24
 ---
 

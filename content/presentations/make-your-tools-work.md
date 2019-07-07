@@ -4,8 +4,7 @@ layout: 'presentation'
 title: 'Make Your Tools Work'
 description: 'Specifically, make your tools work for you.'
 presentedAt:
-  CompareTheMarket:
-    name: Compare the Market
+  - name: Compare the Market
     date: 2018-11-21
 ---
 

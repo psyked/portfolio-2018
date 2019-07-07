@@ -3,8 +3,7 @@ path: 'speaking/inner-source-ecosystems'
 layout: 'presentation'
 title: 'Inner Source Ecosystems'
 presentedAt:
-  Time2React:
-    name: Time to React
+  - name: Time to React
     date: 2019-03-21
     link: https://www.meetup.com/meetup-group-timetoreact/events/260304925/
     recording: https://youtu.be/5WSZXwNbh_Y

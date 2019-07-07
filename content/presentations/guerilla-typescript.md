@@ -3,8 +3,7 @@ path: 'speaking/guerilla-typescript'
 layout: 'presentation'
 title: 'Guerilla TypeScript'
 presentedAt:
-  CompareTheMarket:
-    name: Compare the Market
+  - name: Compare the Market
     date: 2019-05-24
 ---
 
