@@ -2,15 +2,24 @@ import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 
-import styles from './header.module.scss'
-
 const Header = styled.header`
-  background: hsl(240, 14%, 19%);
-  border-bottom: 1px solid hsl(240, 14%, 99%);
-  padding: 0.5em;
+  max-width: 60em;
+  margin: 0 auto;
   position: sticky;
-  top: 0;
   z-index: 100;
+  display: block;
+  margin-bottom: -60px;
+`
+
+const Nav = styled.nav`
+  border-radius: 0.3em;
+  background: hsl(240, 14%, 19%);
+  border: 1px solid hsl(240, 14%, 99%);
+  padding: 0.5em 0.2em 0.5em 0.7em;
+  top: 0;
+  display: inline-block;
+  margin-top: 0.5em;
+  margin-left: -2em;
 `
 
 const MenuLink = styled(Link)`
@@ -20,29 +29,19 @@ const MenuLink = styled(Link)`
   margin-left: -0.4em;
   position: relative;
 
-  &.active {
-    background-color: hsl(346, 88%, 52%);
+  &:last-child {
+    margin-right: 0;
+  }
 
-    &::after {
-      top: 100%;
-      left: 0%;
-      border: solid transparent;
-      content: '';
-      height: 0;
-      width: 0;
-      position: absolute;
-      pointer-events: none;
-      border-color: hsla(346, 88%, 52%, 0);
-      border-top-color: hsl(346, 88%, 52%);
-      border-left-color: hsl(346, 88%, 52%);
-      border-width: 0.25em;
-    }
+  &.active {
+    border-radius: 0.15em;
+    background-color: hsl(346, 88%, 52%);
   }
 `
 
 const HeaderComponent = props => (
   <Header>
-    <nav className="bodyContent">
+    <Nav>
       <MenuLink to="/" activeClassName="active" exact>
         Home
       </MenuLink>
@@ -52,7 +51,7 @@ const HeaderComponent = props => (
       <MenuLink to="/speaking/" activeClassName="active">
         Public Speaking
       </MenuLink>
-    </nav>
+    </Nav>
   </Header>
 )
 

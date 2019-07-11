@@ -12,7 +12,7 @@ class Template extends React.Component {
     const { children } = this.props
 
     return (
-      <div>
+      <>
         <Helmet
           htmlAttributes={{
             lang: 'en',
@@ -21,7 +21,7 @@ class Template extends React.Component {
         <Header />
         <main>{children}</main>
         <Footer />
-      </div>
+      </>
     )
   }
 }
