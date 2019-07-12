@@ -26,17 +26,42 @@ img {
 }
 
 body {
+    --bg: #fcfcfd;
+    --fg: #a0b1ba;
+    --text-color: hsl(240, 14%, 19%);
+    --link-color: #2962FF;
+    --link-visited-color: #6200EA;
+    
     margin: 0;
     padding: 0;
-    // background: #a0b1ba;
-    background: #fcfcfd;
-    // background: #a0b1ba;
-    background-image: radial-gradient(#a0b1ba 5%, transparent 0);
+    background: var(--bg);
+    color:var(--text-color);
+    background-image: radial-gradient(var(--fg) 5%, transparent 0);
     background-size: 1em 1em;
+    transition: background-color .3s ease-in, color .3s ease-in;
     
-    @media (prefers-color-scheme: dark) {
-        background: #a0b1ba;
-        background-image: radial-gradient(#fcfcfd 5%, transparent 0);
+    &.dark {
+        --fg: #fcfcfd;
+        --bg: #37474F;
+        --text-color: #fcfcfd;
+        --link-color: #FFEB3B;
+        --link-visited-color: #FFC107;
+
+        background-image: radial-gradient(black 5%, transparent 0);
+    }
+    
+    a {
+        transition: color .3s ease-in;
+
+        &:link,
+        &:active,
+        &:hover {
+            color:var(--link-color);
+        }
+        
+        &:visited {
+            color:var(--link-visited-color);
+        }
     }
 }
 
@@ -52,10 +77,6 @@ h1 {
     @include fluid-type(font-size, 20em, 70em, 2em, 3em);
 }
 
-// h2 {
-//   @include fluid-type(font-size, 20em, 70em, 2em, 3em);
-// }
-
 pre {
     overflow: scroll;
     background: $bg-alt;
@@ -66,10 +87,11 @@ pre {
 main {
     margin: 0 auto;
     max-width: 60em;
-    background: $bg;
+    background: var(--bg);
     padding-top:1em;
     padding-bottom:1em;
-    padding-top:60px;
+    padding-top:68px;
+    transition: background .3s ease-in;
 }
 
 main
@@ -118,7 +140,7 @@ hr {
     @include fluid-type(margin-top, 20em, 70em, 2em, 4em);
     @include fluid-type(margin-bottom, 20em, 70em, 2em, 4em);
 
-    background: $fg;
+    background: var(--fg);
     border: 0;
     height: 1px;
     margin: 0 auto;
@@ -127,7 +149,7 @@ hr {
     text-align: center;
 
     &:after {
-        background: $bg;
+        background: var(--bg);
         content: "• • •";
         display: inline-block;
         font-size: 1.4em;
