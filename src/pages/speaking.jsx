@@ -74,7 +74,6 @@ class Speaking extends Component {
               html,
             },
           }) => {
-            console.log(tags)
             return (
               <>
                 <hr />
