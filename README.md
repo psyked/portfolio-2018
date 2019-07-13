@@ -8,8 +8,6 @@ I prefer James when face-to-face. My online handle / username is predominantly *
 
 Writing a self-README feels like a good way to share my own thoughts about working with myself, in a format that's curated by me and always available - unlike an email, Slack message or passing conversations which could get lost or misrepresented over time. [Plus, all of the cool kids are doing it.](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 
----
-
 ## About me
 
 ### Personality
@@ -29,8 +27,6 @@ Pokémon holds a special, nostalic, place in my interests; as does generative ar
 ### Professional Interests
 
 I'm interested in techniques and tools for managing teams of developers. Day-to-day I work with a React project in a Monorepo. I'm interested in things like HTML5 APIs, CSS and SASS, Docker, Jenkins, Node, Babel, Postcss, Redux and general architecture patterns for Javascript applications, in no particular order.
-
----
 
 ## About this website
 

@@ -2,6 +2,8 @@
 path: 'speaking/delivering-js-at-scale'
 layout: 'presentation'
 title: 'Delivering JS at Scale'
+tags:
+  - Delivery
 presentedAt:
   - name: LeicesterJS
     date: 2019-03-21

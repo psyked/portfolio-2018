@@ -2,6 +2,9 @@
 path: 'speaking/guerilla-typescript'
 layout: 'presentation'
 title: 'Guerilla TypeScript'
+tags:
+  - TypeScript
+  - Documentation
 presentedAt:
   - name: Compare the Market
     date: 2019-05-24

@@ -42,7 +42,7 @@ body {
     
     &.dark {
         --fg: #fcfcfd;
-        --bg: #37474F;
+        --bg: hsl(240, 14%, 19%);
         --text-color: #fcfcfd;
         --link-color: #FFEB3B;
         --link-visited-color: #FFC107;
@@ -147,7 +147,8 @@ hr {
     max-width: 60em;
     overflow: visible;
     text-align: center;
-
+    transition: background .3s ease-in;
+    
     &:after {
         background: var(--bg);
         content: "• • •";
@@ -156,6 +157,7 @@ hr {
         padding: 0 0.4em;
         position: relative;
         top: -0.7em;
+        transition: background .3s ease-in;
     }
 
     &.endPost {

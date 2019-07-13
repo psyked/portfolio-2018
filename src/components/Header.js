@@ -20,6 +20,7 @@ const Nav = styled.nav`
   padding: 0.5em 0.2em 0.5em 0.7em;
   top: 0;
   display: inline-block;
+  border: 1px solid var(--text-color);
 `
 
 const MenuLink = styled(Link)`

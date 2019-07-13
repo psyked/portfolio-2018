@@ -2,6 +2,8 @@
 path: 'speaking/inner-source-ecosystems'
 layout: 'presentation'
 title: 'Inner Source Ecosystems'
+tags:
+  - Inner Source
 presentedAt:
   - name: Time to React
     date: 2019-03-21
