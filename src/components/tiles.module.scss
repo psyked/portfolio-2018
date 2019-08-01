@@ -25,7 +25,7 @@
     padding: 2em;
     position: relative;
 
-    a {
+    a, a:link, a:active, a:visited, a:hover {
         color: $bg;
         // text-decoration: none;
     }

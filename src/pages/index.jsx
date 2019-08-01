@@ -21,32 +21,68 @@ import content from 'raw-loader!../../README.md'
 const TwitterLink = styled.li`
   background: #00acee;
 
-  a {
+  a,
+  a:link,
+  a:active,
+  a:hover,
+  a:visited {
     color: #ffffff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 `
 
 const GitHubLink = styled.li`
   background: #181818;
 
-  a {
+  a,
+  a:link,
+  a:active,
+  a:hover,
+  a:visited {
     color: #ffffff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 `
 
 const LinkedInLink = styled.li`
   background: #0077b5;
 
-  a {
+  a,
+  a:link,
+  a:active,
+  a:hover,
+  a:visited {
     color: #ffffff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 `
 
 const MediumLink = styled.li`
   background: #37b042;
 
-  a {
+  a,
+  a:link,
+  a:active,
+  a:hover,
+  a:visited {
     color: #ffffff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 `
 
@@ -61,8 +97,17 @@ const InstagramLink = styled.li`
     #285aeb 90%
   );
 
-  a {
+  a,
+  a:link,
+  a:active,
+  a:hover,
+  a:visited {
     color: #ffffff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 `
 
