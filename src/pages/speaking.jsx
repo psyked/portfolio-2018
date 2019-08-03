@@ -5,7 +5,7 @@ import { graphql } from 'gatsby'
 import { format } from 'date-fns'
 import styled from 'styled-components'
 
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 const padding = `& {
     box-sizing: border-box;

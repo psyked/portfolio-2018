@@ -10,7 +10,7 @@ import {
   FaLinkedin,
 } from 'react-icons/fa'
 
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 import styled from 'styled-components'
 
 import ProfileImage from '../assets/images/profile-image.jpg'

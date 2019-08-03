@@ -9,7 +9,7 @@ import kebabCase from 'lodash/kebabCase'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 const TagsPage = ({
   data: {
