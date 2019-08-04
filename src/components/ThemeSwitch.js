@@ -78,7 +78,7 @@ class ThemeSwitch extends React.Component {
     return (
       <ThemeToggler>
         {({ theme, toggleTheme }) => (
-          <SwitchWrapper class="switch">
+          <SwitchWrapper className="switch">
             <Input
               type="checkbox"
               onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}

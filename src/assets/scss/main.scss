@@ -92,7 +92,7 @@ main {
     padding-bottom:1em;
     // padding-top:68px;
     transition: background .3s ease-in;
-    outline: 0.5em solid var(--fg);
+    outline: 0.1em solid var(--fg);
 }
 
 .bodyContent {
@@ -126,6 +126,13 @@ hr {
         position: relative;
         top: -0.7em;
         transition: background .3s ease-in;
+    }
+
+    &:first-child {
+        margin-top: 0;
+        &:after {
+            visibility: hidden;
+        }
     }
 
     &.endPost {

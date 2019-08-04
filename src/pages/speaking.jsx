@@ -6,6 +6,7 @@ import { format } from 'date-fns'
 import styled from 'styled-components'
 
 import Layout from '../components/Layout'
+import Banner from '../components/SpeakingBanner'
 
 const padding = `& {
     box-sizing: border-box;
@@ -63,61 +64,63 @@ class Speaking extends Component {
           <meta name="description" content={siteDescription} />
         </Helmet>
 
-        <header className="major">
-          <Heading>Public Speaking</Heading>
-        </header>
+        <Banner title="Public Speaking" />
 
-        {presentations.map(
-          ({
-            node: {
-              frontmatter: { title, presentedAt, tags },
-              html,
-            },
-          }) => {
-            return (
-              <>
-                <hr />
-                <Section>
-                  <header>
-                    <h3>{title}</h3>
-                  </header>
-                  <article dangerouslySetInnerHTML={{ __html: html }} />
-                  <footer>
-                    <p>
-                      Presented at:&nbsp;
-                      {presentedAt.map(({ name, date, link, recording }) => {
-                        return (
-                          <span>
-                            <a href={link}>
-                              {`${name}, ${format(
-                                new Date(date),
-                                'Do MMMM YYYY'
-                              )}`}
-                            </a>
-                            {!!recording && (
-                              <>
-                                &nbsp;<a href={recording}>[View Recording]</a>
-                              </>
-                            )}
-                          </span>
-                        )
-                      })}
-                    </p>
-                    {tags && (
+        <section>
+          {presentations.map(
+            ({
+              node: {
+                frontmatter: { title, presentedAt, tags },
+                html,
+              },
+            }) => {
+              return (
+                <>
+                  <hr />
+                  <Section>
+                    <header>
+                      <h3>{title}</h3>
+                    </header>
+                    <article dangerouslySetInnerHTML={{ __html: html }} />
+                    <footer>
                       <p>
-                        Tagged as:&nbsp;
-                        {tags.map((name, i) => [
-                          i > 0 && ', ',
-                          <Link to={`/tag/${name.toLowerCase()}`}>{name}</Link>,
-                        ])}
+                        Presented at:&nbsp;
+                        {presentedAt.map(({ name, date, link, recording }) => {
+                          return (
+                            <span key={name}>
+                              <a href={link}>
+                                {`${name}, ${format(
+                                  new Date(date),
+                                  'Do MMMM YYYY'
+                                )}`}
+                              </a>
+                              {!!recording && (
+                                <>
+                                  &nbsp;<a href={recording}>[View Recording]</a>
+                                </>
+                              )}
+                            </span>
+                          )
+                        })}
                       </p>
-                    )}
-                  </footer>
-                </Section>
-              </>
-            )
-          }
-        )}
+                      {tags && (
+                        <p>
+                          Tagged as:&nbsp;
+                          {tags.map((name, i) => [
+                            i > 0 && ', ',
+                            <Link key={name} to={`/tag/${name.toLowerCase()}`}>
+                              {name}
+                            </Link>,
+                          ])}
+                        </p>
+                      )}
+                    </footer>
+                  </Section>
+                </>
+              )
+            }
+          )}
+        </section>
         <hr className="endPost" />
       </Layout>
     )

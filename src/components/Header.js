@@ -60,7 +60,7 @@ const HeaderComponent = props => (
   <Header>
     <Wrapper>
       <Nav>
-        <MenuLink to="/" activeClassName="active" exact>
+        <MenuLink to="/" activeClassName="active" exact="true">
           Home
         </MenuLink>
         <MenuLink to="/blog/" activeClassName="active">

@@ -7,7 +7,7 @@ import styled from 'styled-components'
 const Wrapper = styled.header`
   background: center center / cover hsl(240, 100%, 12%);
   position: relative;
-  padding-top: 2em;
+  padding-top: calc(68px + 2em);
   padding-bottom: 3em;
   margin-top: -1em;
 `
@@ -18,7 +18,7 @@ const Overlay = styled.aside`
   height: 100%;
   top: 0px;
   left: 0px;
-  background: rgba(hsl(240, 100%, 12%), 0.6);
+  background: hsla(240, 100%, 12%, 0.6);
 `
 
 const ImageContainer = styled.aside`
@@ -34,11 +34,11 @@ const ImageWrapper = styled(Img)`
   height: 100%;
 `
 
-const Banner = ({ title, date, description, image }) => (
-  <Wrapper>
+const Banner = ({ title, date, description, image, ...props }) => (
+  <Wrapper {...props}>
     {image && image.childImageSharp && (
       <ImageContainer>
-        <ImageWrapper sizes={image.childImageSharp.sizes} />
+        <ImageWrapper {...image.childImageSharp} />
       </ImageContainer>
     )}
     <Overlay />
@@ -49,15 +49,19 @@ const Banner = ({ title, date, description, image }) => (
         position: 'relative',
       }}
     >
-      <header>
-        <h1>{title}</h1>
-      </header>
-      {description && (
+      {!!title && (
+        <header>
+          <h1>{title}</h1>
+        </header>
+      )}
+      {!!description && (
         <div>
           <h2>{description}</h2>
         </div>
       )}
-      <aside>Published: {format(new Date(date), 'DD MMM YYYY')}</aside>
+      {!!date && (
+        <aside>Published: {format(new Date(date), 'DD MMM YYYY')}</aside>
+      )}
     </div>
   </Wrapper>
 )
