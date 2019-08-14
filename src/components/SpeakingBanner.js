@@ -17,5 +17,5 @@ export default props => {
       }
     }
   `)
-  return <Banner {...props} image={image} style={{ minHeight: '320px' }} />
+  return <Banner {...props} image={image} />
 }

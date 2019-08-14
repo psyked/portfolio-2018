@@ -34,10 +34,6 @@ const padding = `& {
     }
   }`
 
-const Heading = styled.h2`
-  ${padding}
-`
-
 const Section = styled.section`
   ${padding}
 `
@@ -64,7 +60,17 @@ class Speaking extends Component {
           <meta name="description" content={siteDescription} />
         </Helmet>
 
-        <Banner title="Public Speaking" />
+        <Banner
+          title="Public Speaking"
+          imageCredit={
+            <span>
+              <a href="https://twitter.com/JackHowell">Jack Howell</a> at{' '}
+              <a href="https://twitter.com/DPiPboro/status/1152660388598689793">
+                DPiP
+              </a>
+            </span>
+          }
+        />
 
         <section>
           {presentations.map(

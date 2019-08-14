@@ -16,6 +16,7 @@ class Blog extends React.Component {
         site: {
           siteMetadata: { title: siteTitle, description: siteDescription },
         },
+        image,
       },
     } = this.props
 
@@ -44,7 +45,21 @@ class Blog extends React.Component {
           <meta name="description" content={siteDescription} />
         </Helmet>
 
-        <Banner title="Blog Posts" />
+        <Banner
+          title="Blog Posts"
+          image={image}
+          imageCredit={
+            <span>
+              <a href="https://unsplash.com/@yingchih_hao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
+                Yingchih Hao
+              </a>{' '}
+              on{' '}
+              <a href="/search/photos/keyboard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
+                Unsplash
+              </a>
+            </span>
+          }
+        />
         <div className="bodyContent">
           <h3>Posts from {currentYear}</h3>
           <ul>
@@ -140,6 +155,15 @@ export const pageQuery = graphql`
             path
             title
           }
+        }
+      }
+    }
+    image: file(relativePath: { eq: "yingchih-hao-TZj-urJKRao-unsplash.jpg" }) {
+      childImageSharp {
+        # Specify a fluid image and fragment
+        # The default maxWidth is 800 pixels
+        fluid {
+          ...GatsbyImageSharpFluid
         }
       }
     }
