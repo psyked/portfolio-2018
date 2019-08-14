@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
+import Banner from '../components/Banner'
 
 const currentYear = new Date().getFullYear()
 
@@ -34,20 +35,17 @@ class Blog extends React.Component {
 
     return (
       <Layout>
+        <Helmet
+          htmlAttributes={{
+            lang: 'en',
+          }}
+        >
+          <title>{siteTitle}</title>
+          <meta name="description" content={siteDescription} />
+        </Helmet>
+
+        <Banner title="Blog Posts" />
         <div className="bodyContent">
-          <Helmet
-            htmlAttributes={{
-              lang: 'en',
-            }}
-          >
-            <title>{siteTitle}</title>
-            <meta name="description" content={siteDescription} />
-          </Helmet>
-
-          <header className="major">
-            <h2>Recent Blog Posts</h2>
-          </header>
-
           <h3>Posts from {currentYear}</h3>
           <ul>
             {edges
