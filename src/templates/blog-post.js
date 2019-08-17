@@ -17,7 +17,6 @@ class BlogPostTemplate extends React.Component {
     const { frontmatter = {} } = post || {}
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const imageCredit = get(frontmatter, 'image_credit')
-    console.log(frontmatter)
     const { next, prev } = this.props.pageContext
 
     return (
