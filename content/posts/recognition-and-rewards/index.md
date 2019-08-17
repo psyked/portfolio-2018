@@ -1,33 +1,30 @@
 ---
 path: /blog/recognition-and-rewards/
-layout: "post"
-title: "Recognition and Rewards"
-description: "Incentivising gratitude in the workplace"
-url: "https://medium.com/comparethemarket/recognition-and-rewards-899434d5bda2"
-image: "1*NxKaG9HNtdzjS5jkKPevwA.jpeg"
-src: "https://cdn-images-1.medium.com/max/1200/1*NxKaG9HNtdzjS5jkKPevwA.jpeg"
-author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
+layout: 'post'
+title: 'Recognition and Rewards'
+description: 'Incentivising gratitude in the workplace'
+url: 'https://medium.com/comparethemarket/recognition-and-rewards-899434d5bda2'
+image: '1*NxKaG9HNtdzjS5jkKPevwA.jpeg'
+src: 'https://cdn-images-1.medium.com/max/1200/1*NxKaG9HNtdzjS5jkKPevwA.jpeg'
+author: 'https://medium.com/@psyked'
+type: 'article'
+card: 'summary_large_image'
 published_time: 2018-12-04T13:44:59.927Z
-creator: "@psyked"
-parsely-link: "https://medium.com/comparethemarket/recognition-and-rewards-899434d5bda2"
+creator: '@psyked'
+parsely-link: 'https://medium.com/comparethemarket/recognition-and-rewards-899434d5bda2'
 tags:
-- Workplace Culture
-- Recognition Rewards
-- Software Development
-- Workplace Relations
-- Life At Ctm
+  - Workplace Culture
+  - Recognition Rewards
+  - Software Development
+  - Workplace Relations
+  - Life At Ctm
 date: 2018-12-04T13:44:59.927Z
+image_credit: '[rawpixel](https://unsplash.com/photos/fbgFbOTOWz4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/happyness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)'
 ---
 
 Being recognised and rewarded for your efforts in the workplace is important, as is taking the time to recognise and reward others. Taking the time to deliver a direct, verbal expression of gratitude can mean a lot to its recipient, but adding a tangible reward makes it even better.
 
 Common sense says gratitude and appreciation for their efforts makes people feel happier. Science says happier people are more resilient, more motivated and more productive. Being included in a happy environment makes people happy.
-
-![](1*NxKaG9HNtdzjS5jkKPevwA.jpeg)
-
-Photo by [rawpixel](https://unsplash.com/photos/fbgFbOTOWz4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/happyness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Taking time to express gratitude to others is a mindset that doesn’t seem very common, that is to say it’s not a habit that many people naturally have. Perhaps it’s a cultural thing, but as gratitude is a cornerstone of happiness, it makes sense for a business to encourage a culture of gratitude and peer recognition in the workplace.
 
@@ -54,7 +51,7 @@ The process was manually operated, with a little oversight and approval from lin
 At [Deeson,](https://www.deeson.co.uk/) we used an app called [HeyTaco!](https://www.heytaco.chat/) to express gratitude, with a reward up for grabs each week for the top Taco recipients.
 
 [**HeyTaco!**  
-_Boost engagement with our fun and unique team building tool for recognition, appreciation, and rewards._www.heytaco.chat](https://www.heytaco.chat "https://www.heytaco.chat")[](https://www.heytaco.chat)
+\_Boost engagement with our fun and unique team building tool for recognition, appreciation, and rewards.\_www.heytaco.chat](https://www.heytaco.chat 'https://www.heytaco.chat')[](https://www.heytaco.chat)
 
 HeyTaco! is a Slack integration, and each day everyone in the company had a budget of five Tacos (🌮) which they could elect to award to someone else in the company.
 

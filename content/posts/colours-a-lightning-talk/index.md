@@ -7,10 +7,7 @@ url: 'https://medium.com/comparethemarket/colours-a-lightning-talk-%EF%B8%8F-80d
 image: '1*sLQprE7Kw6UKNsNsE1UEeA.png'
 src: 'https://cdn-images-1.medium.com/max/1200/1*sLQprE7Kw6UKNsNsE1UEeA.png'
 author: 'https://medium.com/@psyked'
-type: 'article'
-card: 'summary_large_image'
 published_time: 2018-09-24T12:32:50.599Z
-creator: '@psyked'
 parsely-link: 'https://medium.com/comparethemarket/colours-a-lightning-talk-%EF%B8%8F-80d209d58d3c'
 tags:
   - Front End Development

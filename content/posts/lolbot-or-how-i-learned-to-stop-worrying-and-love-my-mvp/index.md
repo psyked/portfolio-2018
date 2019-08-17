@@ -7,8 +7,6 @@ url: 'https://medium.com/@psyked_james/lolbot-or-how-i-learned-to-stop-worrying-
 image: 1*l1TNV0hQXW2y4HnQnFsfMA.png
 src: 'https://cdn-images-1.medium.com/max/1200/1*l1TNV0hQXW2y4HnQnFsfMA.png'
 author: 'https://medium.com/@psyked_james'
-type: 'article'
-card: 'summary_large_image'
 published_time: 2015-04-05T23:42:54.971Z
 creator: '@psyked_james'
 tags:

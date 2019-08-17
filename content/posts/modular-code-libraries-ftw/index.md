@@ -8,7 +8,6 @@ image: 1*pZ9iKrsUlMQIo_isecaj0A.png
 src: 'https://cdn-images-1.medium.com/max/1200/1*pZ9iKrsUlMQIo_isecaj0A.png'
 author: 'https://medium.com/@psyked'
 published_time: 2017-01-12T09:07:00.606Z
-creator: '@psyked'
 tags:
   - Medium
   - JavaScript

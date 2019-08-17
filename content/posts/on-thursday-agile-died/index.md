@@ -8,7 +8,6 @@ image: 1*6mETQpHyVEKLEWLE4NTqyw.jpeg
 src: 'https://cdn-images-1.medium.com/max/1200/1*6mETQpHyVEKLEWLE4NTqyw.jpeg'
 author: 'https://medium.com/@psyked'
 published_time: 2016-05-25T07:36:02.250Z
-creator: '@psyked'
 tags:
   - Medium
   - Agile

@@ -6,8 +6,6 @@ description: "Much like the ‘original 7', recognising and understanding ‘the
 url: 'https://medium.com/@psyked_james/the-6-deadly-sins-of-unit-testing-6b60d79b7238'
 image: 1*EdvNML9-fMAhW7yrrntxWA.jpeg
 author: 'https://medium.com/@psyked_james'
-type: 'article'
-card: 'summary_large_image'
 published_time: 2014-09-28T21:27:41.662Z
 creator: '@psyked_james'
 date: 2014-09-28T21:27:41.662Z

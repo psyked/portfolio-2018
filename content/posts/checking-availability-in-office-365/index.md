@@ -4,13 +4,9 @@ layout: 'post'
 title: 'Checking Availability in Office 365'
 description: 'How to check for meeting room availability using the (beta) Office 365 Graph API.'
 url: 'https://medium.com/comparethemarket/checking-availability-in-office-365-7a5d01690d65'
-image: 'https://cdn-images-1.medium.com/max/1200/1*xxKgPqB6Hkmx6y3gJS8LwA.jpeg'
-src: 'https://cdn-images-1.medium.com/max/1200/1*xxKgPqB6Hkmx6y3gJS8LwA.jpeg'
+image: 1*xxKgPqB6Hkmx6y3gJS8LwA.jpeg
 author: 'https://medium.com/@psyked'
-type: 'article'
-card: 'summary_large_image'
 published_time: 2019-02-13T12:27:27.563Z
-creator: '@psyked'
 parsely-link: 'https://medium.com/comparethemarket/checking-availability-in-office-365-7a5d01690d65'
 tags:
   - API
@@ -18,13 +14,10 @@ tags:
   - Scheduling Software
   - Tech
 date: 2019-02-13T12:27:27.563Z
+image_credit: '[rawpixel](https://unsplash.com/photos/mcLpPD36-2k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/meeting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)'
 ---
 
 > Strange as it may seem this isn’t something that’s obvious to figure out, so allow me to save you half an hour of searching and just give you the answer.
-
-![](1*xxKgPqB6Hkmx6y3gJS8LwA.jpeg)
-
-Photo by [rawpixel](https://unsplash.com/photos/mcLpPD36-2k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/meeting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ### Background
 

@@ -7,7 +7,6 @@ url: 'https://medium.com/@psyked/testing-performance-speed-and-best-practices-wi
 image: 0*gOsG-4Rh7_nf219f.jpg
 author: 'https://medium.com/@psyked'
 published_time: 2017-01-28T20:31:07.000Z
-creator: '@psyked'
 tags:
   - Web Development
   - Performance Testing

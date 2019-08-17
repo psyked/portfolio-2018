@@ -7,15 +7,13 @@ url: 'https://medium.com/@psyked/rethinking-my-personal-website-5e591e78b261'
 image: '1*83xPh48eAhxdgQmOIH-9jQ.jpeg'
 src: 'https://cdn-images-1.medium.com/max/1200/1*83xPh48eAhxdgQmOIH-9jQ.jpeg'
 author: 'https://medium.com/@psyked'
-type: 'article'
-card: 'summary_large_image'
 published_time: 2018-07-29T19:41:59.179Z
-creator: '@psyked'
 parsely-link: 'https://medium.com/@psyked/rethinking-my-personal-website-5e591e78b261'
 tags:
   - Blogging
   - Gatsbyjs
 date: 2018-07-29T19:41:59.179Z
+image_credit: '[rawpixel](https://unsplash.com/photos/flhzHp-F814?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/thinking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)'
 ---
 
 #### Then & Now
@@ -27,10 +25,6 @@ Today the barrier to entry for publishing content on the web is much lower, ther
 I feel that I _must_ have my own website, running on my own domain, because I’m a web developer. The question I’ve been asking though is:
 
 > What is the purpose of my website?
-
-![](1*83xPh48eAhxdgQmOIH-9jQ.jpeg)
-
-Photo by [rawpixel](https://unsplash.com/photos/flhzHp-F814?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/thinking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 #### Blog, Portfolio, or Profile?
 

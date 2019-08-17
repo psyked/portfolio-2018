@@ -16,6 +16,8 @@ class BlogPostTemplate extends React.Component {
       post || {}
     const { frontmatter = {} } = post || {}
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
+    const imageCredit = get(frontmatter, 'image_credit')
+    console.log(frontmatter)
     const { next, prev } = this.props.pageContext
 
     return (
@@ -38,7 +40,7 @@ class BlogPostTemplate extends React.Component {
             />
           )}
         </Helmet>
-        <Banner {...frontmatter} />
+        <Banner {...frontmatter} imageCreditMarkdown={imageCredit} />
         <div className="bodyContent">
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr className="endPost" />
@@ -77,6 +79,7 @@ export const pageQuery = graphql`
           }
         }
         description
+        image_credit
       }
     }
   }

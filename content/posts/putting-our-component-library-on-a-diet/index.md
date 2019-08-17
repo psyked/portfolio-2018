@@ -1,27 +1,26 @@
 ---
-path: /blog/putting-our-component-library-on-a-diet-88aee7f457a/
-layout: "post"
-title: "Putting our Component library on a diet."
-description: "Performance matters, and “Houston, we have a problem.”"
-url: "https://medium.com/comparethemarket/putting-our-component-library-on-a-diet-88aee7f457a"
-image: "1*-urAq0XXMQ4RSLRAiP600Q.jpeg"
-src: "https://cdn-images-1.medium.com/max/1200/1*-urAq0XXMQ4RSLRAiP600Q.jpeg"
-author: "https://medium.com/@psyked"
-type: "article"
-card: "summary_large_image"
+path: /blog/putting-our-component-library-on-a-diet/
+layout: 'post'
+title: 'Putting our Component library on a diet.'
+description: 'Performance matters, and “Houston, we have a problem.”'
+url: 'https://medium.com/comparethemarket/putting-our-component-library-on-a-diet-88aee7f457a'
+image: '1*-urAq0XXMQ4RSLRAiP600Q.jpeg'
+src: 'https://cdn-images-1.medium.com/max/1200/1*-urAq0XXMQ4RSLRAiP600Q.jpeg'
+author: 'https://medium.com/@psyked'
+type: 'article'
+card: 'summary_large_image'
 published_time: 2018-11-06T16:49:11.453Z
-creator: "@psyked"
-parsely-link: "https://medium.com/comparethemarket/putting-our-component-library-on-a-diet-88aee7f457a"
+creator: '@psyked'
+parsely-link: 'https://medium.com/comparethemarket/putting-our-component-library-on-a-diet-88aee7f457a'
 tags:
-- JavaScript
-- Rollup
-- Webpack
-- Front End Development
-- Tech
+  - JavaScript
+  - Rollup
+  - Webpack
+  - Front End Development
+  - Tech
 date: 2018-11-06T16:49:11.453Z
+image_credit: '[Bernard Hermant](https://unsplash.com/photos/bSpqe48INMg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/balloon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)'
 ---
-
-Photo by [Bernard Hermant](https://unsplash.com/photos/bSpqe48INMg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/balloon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 A shared set of components is a great idea, so long as using those components doesn’t bloat your client applications. This is a brief tale of how we got it wrong, what the cause of our issues was, and how we fixed it.
 
@@ -46,7 +45,7 @@ The indicative performance impact of this single file — as shown in the We
 > Generally speaking, the majority of website performance issues are Front-End problems, and not hardware or network issues.
 
 [**the Performance Golden Rule**  
-_Yesterday I did a workshop at Google Ventures for some of their portfolio companies. I didn’t know how much performance…_www.stevesouders.com](https://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/ "https://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/")[](https://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/)
+\_Yesterday I did a workshop at Google Ventures for some of their portfolio companies. I didn’t know how much performance…\_www.stevesouders.com](https://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/ 'https://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/')[](https://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/)
 
 This single file is actually a React application which renders the whole page. It is render-blocking, meaning that it must be downloaded and parsed by the browser before anything on the page can display, and thus this one single file is one big problem for performance.
 
@@ -77,7 +76,7 @@ Photo by [Markus Spiske](https://unsplash.com/photos/466ENaLuhLY?utm_source=unsp
 All of this additional code for unused components is increasing our bundle size, but I had expected Webpack — with its native support for [dead code elimination](https://webpack.js.org/guides/tree-shaking/) — to automagically remove that unused library code and deliver a more optimised bundle.
 
 [**Reduce JavaScript Payloads with Tree Shaking | Web Fundamentals | Google Developers**  
-_Knowing where to begin optimizing your application's JavaScript can be daunting. If you're taking advantage of modern…_developers.google.com](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/ "https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/")[](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
+\_Knowing where to begin optimizing your application's JavaScript can be daunting. If you're taking advantage of modern…\_developers.google.com](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/ 'https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/')[](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 
 So, why didn’t it?
 
@@ -90,7 +89,7 @@ So, how to we build a tree-shakable library bundle?
 After a lot of experimenting with different options and configurations for Webpack, we eventually realised that it was ‘the wrong tool for the job’ when it came to building our bundle of library components. As a replacement we picked [rollup.js](https://rollupjs.org/guide/en), which amongst other perks is better at producing library bundles that supports dead code elimination.
 
 [**rollup.js**  
-_Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex…_rollupjs.org](https://rollupjs.org/guide/en "https://rollupjs.org/guide/en")[](https://rollupjs.org/guide/en)
+\_Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex…\_rollupjs.org](https://rollupjs.org/guide/en 'https://rollupjs.org/guide/en')[](https://rollupjs.org/guide/en)
 
 Our consumer applications still use Webpack to package our final React applications, but using rollup.js for our library bundles now means that when Webpack compiles its output, it’s able to tree shake our library code and eliminate the components that aren’t used.
 
@@ -120,10 +119,10 @@ Webpack isn’t a bad tool, but it has to be configured properly and used for th
 
 ### Key Takeaways
 
-*   Javascript syntax patterns, such as CommonJS, have different side effects when it comes to dead-code elimination in your code bundler.
-*   Webpack is good for bundling projects, but Rollup is better for libraries.
-*   You’re still going to need Babel, regardless of whether you’re working with Webpack or Rollup. It’s the Babel configuration which has the biggest effect on the outcome.
-*   Test, test and test again, and do it in an environment that is representative of your anticipated customers’ workspace.
+- Javascript syntax patterns, such as CommonJS, have different side effects when it comes to dead-code elimination in your code bundler.
+- Webpack is good for bundling projects, but Rollup is better for libraries.
+- You’re still going to need Babel, regardless of whether you’re working with Webpack or Rollup. It’s the Babel configuration which has the biggest effect on the outcome.
+- Test, test and test again, and do it in an environment that is representative of your anticipated customers’ workspace.
 
 ---
 

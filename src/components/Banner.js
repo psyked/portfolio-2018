@@ -3,6 +3,7 @@ import React from 'react'
 import Img from 'gatsby-image'
 import { format } from 'date-fns'
 import styled from 'styled-components'
+import ReactMarkdown from 'react-markdown'
 
 const Wrapper = styled.header`
   background: center center / cover hsl(240, 100%, 12%);
@@ -44,13 +45,32 @@ const ImageCredit = styled.figcaption`
   z-index: 2;
 `
 
-const Banner = ({ title, date, description, image, imageCredit, ...props }) => (
+const Banner = ({
+  title,
+  date,
+  description,
+  image,
+  imageCredit,
+  imageCreditMarkdown,
+  ...props
+}) => (
   <Wrapper style={{ minHeight: '320px' }} {...props}>
     {image && image.childImageSharp && (
       <ImageContainer>
         <ImageWrapper {...image.childImageSharp} />
         {!!imageCredit && (
           <ImageCredit>Cover image credit: {imageCredit}</ImageCredit>
+        )}
+        {!!imageCreditMarkdown && (
+          <ImageCredit>
+            Cover image credit:{' '}
+            <ReactMarkdown
+              source={imageCreditMarkdown}
+              renderers={{
+                paragraph: ({ children }) => <span>{children}</span>,
+              }}
+            />
+          </ImageCredit>
         )}
       </ImageContainer>
     )}

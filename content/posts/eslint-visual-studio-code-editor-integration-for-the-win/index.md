@@ -7,10 +7,7 @@ url: 'https://medium.com/comparethemarket/eslint-visual-studio-code-editor-integ
 image: '1*xsrntccR6nCD51Gr9zKwvg.png'
 src: 'https://cdn-images-1.medium.com/max/1200/1*xsrntccR6nCD51Gr9zKwvg.png'
 author: 'https://medium.com/@psyked'
-type: 'article'
-card: 'summary_large_image'
 published_time: 2018-10-18T09:31:36.220Z
-creator: '@psyked'
 parsely-link: 'https://medium.com/comparethemarket/eslint-visual-studio-code-editor-integration-for-the-win-1bcf38f6ccd4'
 tags:
   - JavaScript

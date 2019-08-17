@@ -4,13 +4,9 @@ layout: 'post'
 title: 'Inspired by Open Source.'
 description: 'Inner-sourcing at Compare the Market.'
 url: 'https://medium.com/comparethemarket/inspired-by-open-source-a0bedc17bd8b'
-image: 'https://cdn-images-1.medium.com/max/1200/1*RfedvHYZKGKGTxnkuNQ8gA.jpeg'
-src: 'https://cdn-images-1.medium.com/max/1200/1*RfedvHYZKGKGTxnkuNQ8gA.jpeg'
+image: 1*RfedvHYZKGKGTxnkuNQ8gA.jpeg
 author: 'https://medium.com/@psyked'
-type: 'article'
-card: 'summary_large_image'
 published_time: 2019-02-05T11:10:18.670Z
-creator: '@psyked'
 parsely-link: 'https://medium.com/comparethemarket/inspired-by-open-source-a0bedc17bd8b'
 tags:
   - Open Source

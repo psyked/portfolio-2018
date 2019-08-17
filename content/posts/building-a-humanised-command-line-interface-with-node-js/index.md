@@ -7,10 +7,7 @@ url: 'https://medium.com/comparethemarket/building-a-humanised-command-line-inte
 image: '1*h89l_KJR8w2NrzQXtPCAmw.jpeg'
 src: 'https://cdn-images-1.medium.com/max/1200/1*h89l_KJR8w2NrzQXtPCAmw.jpeg'
 author: 'https://medium.com/@psyked'
-type: 'article'
-card: 'summary_large_image'
 published_time: 2018-08-13T08:31:01.041Z
-creator: '@psyked'
 parsely-link: 'https://medium.com/comparethemarket/building-a-humanised-command-line-interface-with-node-js-d951273a3d94'
 tags:
   - JavaScript
@@ -19,9 +16,8 @@ tags:
   - User Experience
   - Tech
 date: 2018-08-13T08:31:01.041Z
+image_credit: '[Rock’n Roll Monkey](https://unsplash.com/photos/R4WCbazrD1g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/robot-face?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)'
 ---
-
-Photo by [Rock’n Roll Monkey](https://unsplash.com/photos/R4WCbazrD1g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/robot-face?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ### Background
 
