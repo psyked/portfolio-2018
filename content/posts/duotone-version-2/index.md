@@ -17,8 +17,6 @@ tags:
 date: 2018-03-20T23:01:53.855Z
 ---
 
-## Refactoring and enhancing an MVP
-
 If there’s one thing I’ve learnt from successful projects over the past few years it’s the value of identifying and building the Minimum Viable Product (MVP) and then enhancing it post-release.
 
 Keeping the project scope narrow allowed me to build and release [Duotone](https://psyked.github.io/duotone/) after a couple of evenings’ effort. [(Read my initial post about Duotone here.)](https://medium.com/@psyked/building-duotone-fc7e0d9a3b9e) I haven’t shown the source code to anyone though, because it’s not exactly portfolio-worthy. However now that the project is publicly-available I can start building up a backlog of enhancement tasks for the core product.
