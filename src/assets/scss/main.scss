@@ -104,6 +104,13 @@ main {
     @include poly-fluid-sizing("padding-right", (320px: 16px, 768px: 48px));
 }
 
+figcaption {
+    a {
+        --link-color: #FFEB3B;
+        --link-visited-color: #FFC107;
+    }
+}
+
 hr {
     @include fluid-type(margin-top, 20em, 70em, 2em, 4em);
     @include fluid-type(margin-bottom, 20em, 70em, 2em, 4em);
