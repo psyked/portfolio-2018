@@ -1,24 +1,18 @@
 ---
 path: /blog/hallmarks-of-a-modern-development-workflow-continuous-integration-deployment-811b2545be39/
-layout: "post"
-title: "Hallmarks of a Modern development workflow — Continuous Integration & Deployment"
-description: "Software Development is a creative process, and as such it’s important to minimise the things which can disrupt your flow."
-url: "https://medium.com/@psyked/hallmarks-of-a-modern-development-workflow-continuous-integration-deployment-811b2545be39"
+layout: 'post'
+title: 'Hallmarks of a Modern development workflow — Continuous Integration & Deployment'
+description: 'Software Development is a creative process, and as such it’s important to minimise the things which can disrupt your flow.'
+url: 'https://medium.com/@psyked/hallmarks-of-a-modern-development-workflow-continuous-integration-deployment-811b2545be39'
 image: 1*E1XjKEGR0WniQFa2W1IIeg.jpeg
-src: "https://cdn-images-1.medium.com/max/1200/1*E1XjKEGR0WniQFa2W1IIeg.jpeg"
-author: "https://medium.com/@psyked"
+src: 'https://cdn-images-1.medium.com/max/1200/1*E1XjKEGR0WniQFa2W1IIeg.jpeg'
+author: 'https://medium.com/@psyked'
 published_time: 2017-01-30T09:15:00.000Z
-creator: "@psyked"
+creator: '@psyked'
 date: 2017-01-30T09:15:00.000Z
 tags:
-- Medium
+  - Medium
 ---
-
-![](1*E1XjKEGR0WniQFa2W1IIeg.jpeg)
-
-# Hallmarks of a Modern development workflow — Continuous Integration & Deployment
-
-> _Software Development is a creative process, and as such it’s important to minimise the things which can disrupt your flow._
 
 A modern web development setup is one that harnesses the concepts of [Continuous Integration](https://www.thoughtworks.com/continuous-integration) and [Continuous Deployment](https://www.agilealliance.org/glossary/continuous-deployment/) to deliver the end result. Practically implementing these two concepts goes a long way to improving the efficiency of a project. Why? Well, it’s all about distractions.
 

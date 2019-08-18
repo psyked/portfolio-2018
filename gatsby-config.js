@@ -66,5 +66,6 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     'gatsby-plugin-dark-mode',
     'gatsby-plugin-favicon',
+    'gatsby-plugin-extract-image-colors',
   ],
 }

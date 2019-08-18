@@ -1,25 +1,21 @@
 ---
 path: /blog/poképroject-from-static-html-to-react-to-nuxt/
-layout: "post"
-title: "PokéProject: from Static HTML, to React, to Nuxt."
-description: "This is the story of my development journey with PokéProject. Hopefully this isn’t the complete story, and there’s much more to be told…"
-url: "https://medium.com/@psyked/pok%C3%A9project-from-static-html-to-react-to-nuxt-b6fbe42bab18"
+layout: 'post'
+title: 'PokéProject: from Static HTML, to React, to Nuxt.'
+# description: 'This is the story of my development journey with PokéProject. Hopefully this isn’t the complete story, and there’s much more to be told…'
+url: 'https://medium.com/@psyked/pok%C3%A9project-from-static-html-to-react-to-nuxt-b6fbe42bab18'
 image: 1*_ktZpY0rhoRFlnsM-7k8MA.png
-src: "https://cdn-images-1.medium.com/max/1200/1*_ktZpY0rhoRFlnsM-7k8MA.png"
-author: "https://medium.com/@psyked"
+src: 'https://cdn-images-1.medium.com/max/1200/1*_ktZpY0rhoRFlnsM-7k8MA.png'
+author: 'https://medium.com/@psyked'
 published_time: 2017-04-10T08:11:00.000Z
-creator: "@psyked"
+creator: '@psyked'
 tags:
-- JavaScript
-- React
-- Nuxt
-- Pokemon
+  - JavaScript
+  - React
+  - Nuxt
+  - Pokemon
 date: 2017-04-10T08:11:00.000Z
 ---
-
-![](1*_ktZpY0rhoRFlnsM-7k8MA.png)
-
-# PokéProject: from Static HTML, to React, to Nuxt.
 
 This is the story of my development journey with [PokéProject.](https://www.pokeproject.co.uk/) Hopefully this isn’t the complete story, and there’s much more to be told again in the future. This isn’t a tale of the perfect development lifecycle, and I’m sure that if I started this project from scratch again a fair number of alternate choices would have been made.
 
@@ -47,10 +43,10 @@ This was essentially the first phase of development — getting a prototype 
 
 When I say bigger and better things, I’m talking about a few key features that I felt were lacking with PokéProject, and were limiting its chances of success. These were primarily:
 
-*   Social Networking integration.
-*   The maintainability and long-term scalability of the source code.
-*   The limitations of my URL routing solution and the difficulty of deploying and maintaining it.
-*   The download size of the website and its data sources.
+- Social Networking integration.
+- The maintainability and long-term scalability of the source code.
+- The limitations of my URL routing solution and the difficulty of deploying and maintaining it.
+- The download size of the website and its data sources.
 
 Having focussed more on the prototype and shunning unfamiliar frameworks, it was becoming increasingly apparent that I was spending much more time developing solutions that others had already solved, rather than developing my own unique application features.
 

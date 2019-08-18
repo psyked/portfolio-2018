@@ -86,13 +86,9 @@ pre {
 }
 
 main {
-    margin: 0 auto;
-    max-width: 60em;
-    background: var(--bg);
-    padding-top:1em;
-    padding-bottom:1em;
+    // margin: 0 auto;
+    // max-width: 60em;
     // padding-top:68px;
-    transition: background .3s ease-in;
     // outline: 0.1em solid var(--fg);
 }
 
@@ -100,9 +96,25 @@ main {
     box-sizing: border-box;
     // margin: 0 auto;
     // max-width: 60em;
-
+    
     @include poly-fluid-sizing("padding-left", (320px: 16px, 768px: 48px));
     @include poly-fluid-sizing("padding-right", (320px: 16px, 768px: 48px));
+}
+
+.bodyContainer {
+    padding-left: calc((100vw - 60em) / 2);
+    padding-right: calc((100vw - 60em) / 2);
+    
+    .inner {
+        background: var(--bg);
+        padding-top: 1em;
+        padding-bottom: 1em;
+        transition: background .3s ease-in;
+    }
+}
+
+figure {
+    position: relative;
 }
 
 figcaption {
@@ -217,5 +229,11 @@ blockquote {
         right: .33em;
     }
 }
+
+// .gatsby-resp-image-wrapper {
+//     + .gatsby-resp-image-wrapper {
+//         width: 50%;
+//     }
+// }
 
 @import "./home";

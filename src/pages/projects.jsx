@@ -17,35 +17,38 @@ class Speaking extends Component {
 
     return (
       <Layout>
-        <div className="bodyContent">
-          <Helmet
-            htmlAttributes={{
-              lang: 'en',
-            }}
-          >
-            <title>{siteTitle}</title>
-            <meta name="description" content={siteDescription} />
-          </Helmet>
+        <Helmet
+          htmlAttributes={{
+            lang: 'en',
+          }}
+        >
+          <title>{siteTitle}</title>
+          <meta name="description" content={siteDescription} />
+        </Helmet>
+        <div className="bodyContainer">
+          <div className="inner">
+            <div className="bodyContent">
+              <header className="major">
+                <h2>Projects</h2>
+              </header>
 
-          <header className="major">
-            <h2>Projects</h2>
-          </header>
-
-          {projects.map(({ node: presentation }) => {
-            return (
-              <>
-                <section>
-                  <header>
-                    <h3>{presentation.frontmatter.title}</h3>
-                  </header>
-                  <main
-                    dangerouslySetInnerHTML={{ __html: presentation.html }}
-                  />
-                </section>
-                <hr />
-              </>
-            )
-          })}
+              {projects.map(({ node: presentation }) => {
+                return (
+                  <>
+                    <section>
+                      <header>
+                        <h3>{presentation.frontmatter.title}</h3>
+                      </header>
+                      <main
+                        dangerouslySetInnerHTML={{ __html: presentation.html }}
+                      />
+                    </section>
+                    <hr />
+                  </>
+                )
+              })}
+            </div>
+          </div>
         </div>
       </Layout>
     )

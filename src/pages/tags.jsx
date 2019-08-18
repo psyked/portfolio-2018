@@ -20,23 +20,27 @@ const TagsPage = ({
   },
 }) => (
   <Layout>
-    <div className="bodyContent">
-      <Helmet
-        title={title}
-        htmlAttributes={{
-          lang: 'en',
-        }}
-      />
-      <h1>Tags</h1>
-      <ul>
-        {group.map(tag => (
-          <li key={tag.fieldValue}>
-            <Link to={`/tag/${kebabCase(tag.fieldValue)}/`}>
-              {tag.fieldValue} ({tag.totalCount})
-            </Link>
-          </li>
-        ))}
-      </ul>
+    <div className="bodyContainer">
+      <div className="inner">
+        <div className="bodyContent">
+          <Helmet
+            title={title}
+            htmlAttributes={{
+              lang: 'en',
+            }}
+          />
+          <h1>Tags</h1>
+          <ul>
+            {group.map(tag => (
+              <li key={tag.fieldValue}>
+                <Link to={`/tag/${kebabCase(tag.fieldValue)}/`}>
+                  {tag.fieldValue} ({tag.totalCount})
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
     </div>
   </Layout>
 )

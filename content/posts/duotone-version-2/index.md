@@ -1,19 +1,19 @@
 ---
 path: /blog/duotone-version-2/
-layout: "post"
-title: "Duotone: Version 2"
-description: "Refactoring and enhancing an MVP"
-url: "https://medium.com/@psyked/version-2-bb6e7a08644d"
-image: 1*dfcatQafd-1zeFuKUnABPw.gif
-src: "https://cdn-images-1.medium.com/max/1200/1*dfcatQafd-1zeFuKUnABPw.gif"
-author: "https://medium.com/@psyked"
+layout: 'post'
+title: 'Duotone: Version 2'
+description: 'Refactoring and enhancing an MVP'
+url: 'https://medium.com/@psyked/version-2-bb6e7a08644d'
+image: 1*-mcN2nl3eJLzIYq5PCQi_g.png
+src: 'https://cdn-images-1.medium.com/max/1200/1*dfcatQafd-1zeFuKUnABPw.gif'
+author: 'https://medium.com/@psyked'
 published_time: 2018-03-20T23:01:53.855Z
-creator: "@psyked"
+creator: '@psyked'
 tags:
-- Medium
-- Software Development
-- Side Project
-- Duotone
+  - Medium
+  - Software Development
+  - Side Project
+  - Duotone
 date: 2018-03-20T23:01:53.855Z
 ---
 

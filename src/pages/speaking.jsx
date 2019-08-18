@@ -72,62 +72,75 @@ class Speaking extends Component {
           }
         />
 
-        <section>
-          {presentations.map(
-            ({
-              node: {
-                frontmatter: { title, presentedAt, tags },
-                html,
-              },
-            }) => {
-              return (
-                <>
-                  <hr />
-                  <Section>
-                    <header>
-                      <h3>{title}</h3>
-                    </header>
-                    <article dangerouslySetInnerHTML={{ __html: html }} />
-                    <footer>
-                      <p>
-                        Presented at:&nbsp;
-                        {presentedAt.map(({ name, date, link, recording }) => {
-                          return (
-                            <span key={name}>
-                              <a href={link}>
-                                {`${name}, ${format(
-                                  new Date(date),
-                                  'Do MMMM YYYY'
-                                )}`}
-                              </a>
-                              {!!recording && (
-                                <>
-                                  &nbsp;<a href={recording}>[View Recording]</a>
-                                </>
-                              )}
-                            </span>
-                          )
-                        })}
-                      </p>
-                      {tags && (
-                        <p>
-                          Tagged as:&nbsp;
-                          {tags.map((name, i) => [
-                            i > 0 && ', ',
-                            <Link key={name} to={`/tag/${name.toLowerCase()}`}>
-                              {name}
-                            </Link>,
-                          ])}
-                        </p>
-                      )}
-                    </footer>
-                  </Section>
-                </>
-              )
-            }
-          )}
-        </section>
-        <hr className="endPost" />
+        <div className="bodyContainer">
+          <div className="inner">
+            <section>
+              {presentations.map(
+                (
+                  {
+                    node: {
+                      frontmatter: { title, presentedAt, tags },
+                      html,
+                    },
+                  },
+                  index
+                ) => {
+                  return (
+                    <>
+                      {!!index && <hr />}
+                      <Section>
+                        <header>
+                          <h3>{title}</h3>
+                        </header>
+                        <article dangerouslySetInnerHTML={{ __html: html }} />
+                        <footer>
+                          <p>
+                            Presented at:&nbsp;
+                            {presentedAt.map(
+                              ({ name, date, link, recording }) => {
+                                return (
+                                  <span key={name}>
+                                    <a href={link}>
+                                      {`${name}, ${format(
+                                        new Date(date),
+                                        'Do MMMM YYYY'
+                                      )}`}
+                                    </a>
+                                    {!!recording && (
+                                      <>
+                                        &nbsp;
+                                        <a href={recording}>[View Recording]</a>
+                                      </>
+                                    )}
+                                  </span>
+                                )
+                              }
+                            )}
+                          </p>
+                          {tags && (
+                            <p>
+                              Tagged as:&nbsp;
+                              {tags.map((name, i) => [
+                                i > 0 && ', ',
+                                <Link
+                                  key={name}
+                                  to={`/tag/${name.toLowerCase()}`}
+                                >
+                                  {name}
+                                </Link>,
+                              ])}
+                            </p>
+                          )}
+                        </footer>
+                      </Section>
+                    </>
+                  )
+                }
+              )}
+            </section>
+            <hr className="endPost" />
+          </div>
+        </div>
       </Layout>
     )
   }

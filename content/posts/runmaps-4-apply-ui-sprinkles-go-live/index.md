@@ -17,10 +17,6 @@ tags:
 date: 2018-06-08T12:12:28.418Z
 ---
 
-# RunMaps #4: Apply UI Sprinkles & Go Live!
-
-## With all this effort spent building RunMaps, wouldn’t it be a shame to not share it with the world?
-
 For all its flaws, I’m happy to say that my first version of RunMaps is online for the world to see at [https://psyked.github.io/runmaps/](https://psyked.github.io/runmaps/)
 
 For posterity, here’s a couple of screenshots of the site as it currently stands, and scroll below for a little more about the reasoning behind all this fancy design work.

@@ -1,25 +1,21 @@
 ---
 path: /blog/3-hour-hacks/
-layout: "post"
-title: "3 hour hacks"
-description: "Here’s my next big idea."
-url: "https://medium.com/@psyked/3-hour-hacks-d22772439d04"
+layout: 'post'
+title: '3 hour hacks'
+description: 'Here’s my next big idea.'
+url: 'https://medium.com/@psyked/3-hour-hacks-d22772439d04'
 image: 1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg
-author: "https://medium.com/@psyked"
-creator: "@psyked"
+author: 'https://medium.com/@psyked'
+creator: '@psyked'
 tags:
-- Medium
-- Hackaday
-- Side Project
-- Inspiration
+  - Medium
+  - Hackaday
+  - Side Project
+  - Inspiration
 date: 2018-03-11T10:41:36.819Z
 ---
 
-## Here’s my next big idea.
-
 Most products seem to be an idea that you can knock up a prototype for in three hours, if you know what you’re doing.
-
-![](1*aAX-TP_pQloG9lQfL4xIOw@2x.jpeg)
 
 Even if you _don’t_ know what you’re doing you can learn an awful lot about a subject in that space of time.
 

@@ -127,96 +127,100 @@ class HomeIndex extends React.Component {
           <meta name="description" content={siteDescription} />
         </Helmet>
 
-        <article className="bodyContent" style={{ marginTop: '1em' }}>
-          <header
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-            }}
-          >
-            <h1 style={{ flex: '1' }}>Hi, I&apos;m James Ford.</h1>
-            <div
-              style={{
-                borderRadius: '50%',
-                fontSize: '0',
-                marginRight: '16px',
-              }}
-            >
-              <img
-                src={ProfileImage}
-                width="120"
-                height="120"
+        <div className="bodyContainer">
+          <div className="inner">
+            <article className="bodyContent" style={{ marginTop: '1em' }}>
+              <header
                 style={{
-                  borderRadius: '50%',
+                  display: 'flex',
+                  alignItems: 'center',
                 }}
-              />
-            </div>
-          </header>
-          <section>
-            <div>
-              <h2>Technical Lead at comparethemarket.com</h2>
-              <p>
-                I make things for the web, primarily with{' '}
-                <Link to={'/tag/react'}>React.</Link> This is my 'personal'
-                website, powered by Gatsby and hosted on GitHub Pages. It exists
-                to mirror any content I create elsewhere on the web.
-              </p>
-            </div>
-            <div>
-              <h3>Elsewhere, on social media;</h3>
-              <ul className="external-profiles">
-                <TwitterLink>
-                  <a href="//twitter.com/psyked">
-                    <span>
-                      <FaTwitter />
-                      Twitter
-                    </span>
-                  </a>
-                </TwitterLink>
-                <InstagramLink>
-                  <a href="//instagram.com/psyked">
-                    <span>
-                      <FaInstagram />
-                      Instagram
-                    </span>
-                  </a>
-                </InstagramLink>
-                <GitHubLink>
-                  <a href="//github.com/psyked">
-                    <span>
-                      <FaGithub />
-                      GitHub
-                    </span>
-                  </a>
-                </GitHubLink>
-                <LinkedInLink>
-                  <a href="//linkedin.com/in/jamesford">
-                    <span>
-                      <FaLinkedin />
-                      LinkedIn
-                    </span>
-                  </a>
-                </LinkedInLink>
-                <MediumLink>
-                  <a href="//medium.com/@psyked">
-                    <span>
-                      <FaMedium />
-                      Medium
-                    </span>
-                  </a>
-                </MediumLink>
-              </ul>
-            </div>
-          </section>
-        </article>
+              >
+                <h1 style={{ flex: '1' }}>Hi, I&apos;m James Ford.</h1>
+                <div
+                  style={{
+                    borderRadius: '50%',
+                    fontSize: '0',
+                    marginRight: '16px',
+                  }}
+                >
+                  <img
+                    src={ProfileImage}
+                    width="120"
+                    height="120"
+                    style={{
+                      borderRadius: '50%',
+                    }}
+                  />
+                </div>
+              </header>
+              <section>
+                <div>
+                  <h2>Technical Lead at comparethemarket.com</h2>
+                  <p>
+                    I make things for the web, primarily with{' '}
+                    <Link to={'/tag/react'}>React.</Link> This is my 'personal'
+                    website, powered by Gatsby and hosted on GitHub Pages. It
+                    exists to mirror any content I create elsewhere on the web.
+                  </p>
+                </div>
+                <div>
+                  <h3>Elsewhere, on social media;</h3>
+                  <ul className="external-profiles">
+                    <TwitterLink>
+                      <a href="//twitter.com/psyked">
+                        <span>
+                          <FaTwitter />
+                          Twitter
+                        </span>
+                      </a>
+                    </TwitterLink>
+                    <InstagramLink>
+                      <a href="//instagram.com/psyked">
+                        <span>
+                          <FaInstagram />
+                          Instagram
+                        </span>
+                      </a>
+                    </InstagramLink>
+                    <GitHubLink>
+                      <a href="//github.com/psyked">
+                        <span>
+                          <FaGithub />
+                          GitHub
+                        </span>
+                      </a>
+                    </GitHubLink>
+                    <LinkedInLink>
+                      <a href="//linkedin.com/in/jamesford">
+                        <span>
+                          <FaLinkedin />
+                          LinkedIn
+                        </span>
+                      </a>
+                    </LinkedInLink>
+                    <MediumLink>
+                      <a href="//medium.com/@psyked">
+                        <span>
+                          <FaMedium />
+                          Medium
+                        </span>
+                      </a>
+                    </MediumLink>
+                  </ul>
+                </div>
+              </section>
+            </article>
 
-        <hr />
+            <hr />
 
-        <section className="bodyContent">
-          <ReactMarkdown source={content} />
-        </section>
+            <section className="bodyContent">
+              <ReactMarkdown source={content} />
+            </section>
 
-        <hr className="endPost" />
+            <hr className="endPost" />
+          </div>
+        </div>
       </Layout>
     )
   }

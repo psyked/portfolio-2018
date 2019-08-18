@@ -16,19 +16,23 @@ const Tags = ({ pageContext, data }) => {
 
   return (
     <Layout>
-      <div className="bodyContent">
-        <Link to="/tags">All tags</Link>
-        <h1>{tagHeader}</h1>
-        <ul>
-          {edges.map(({ node }) => {
-            const { path, title } = node.frontmatter
-            return (
-              <li key={path}>
-                <Link to={path}>{title}</Link>
-              </li>
-            )
-          })}
-        </ul>
+      <div className="bodyContainer">
+        <div className="inner">
+          <div className="bodyContent">
+            <Link to="/tags">All tags</Link>
+            <h1>{tagHeader}</h1>
+            <ul>
+              {edges.map(({ node }) => {
+                const { path, title } = node.frontmatter
+                return (
+                  <li key={path}>
+                    <Link to={path}>{title}</Link>
+                  </li>
+                )
+              })}
+            </ul>
+          </div>
+        </div>
       </div>
     </Layout>
   )

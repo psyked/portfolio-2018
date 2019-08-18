@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
@@ -8,7 +8,7 @@ import Banner from '../components/Banner'
 
 const currentYear = new Date().getFullYear()
 
-class Blog extends React.Component {
+class Blog extends Component {
   render() {
     const {
       data: {
@@ -60,72 +60,78 @@ class Blog extends React.Component {
             </span>
           }
         />
-        <div className="bodyContent">
-          <h3>Posts from {currentYear}</h3>
-          <ul>
-            {edges
-              .filter(edge => !!edge.node.frontmatter.date)
-              .filter(
-                edge =>
-                  new Date(edge.node.frontmatter.date) >
-                  new Date(currentYear + '-01-01')
-              )
-              .map(edge => {
-                return (
-                  <li key={edge.node.id}>
-                    <Link to={edge.node.frontmatter.path}>
-                      {edge.node.frontmatter.title} (
-                      {edge.node.frontmatter.date})
-                    </Link>
-                  </li>
-                )
-              })}
-          </ul>
+        <div className="bodyContainer">
+          <div className="inner">
+            <div className="bodyContent">
+              <h3>Posts from {currentYear}</h3>
+              <ul>
+                {edges
+                  .filter(edge => !!edge.node.frontmatter.date)
+                  .filter(
+                    edge =>
+                      new Date(edge.node.frontmatter.date) >
+                      new Date(currentYear + '-01-01')
+                  )
+                  .map(edge => {
+                    return (
+                      <li key={edge.node.id}>
+                        <Link to={edge.node.frontmatter.path}>
+                          {edge.node.frontmatter.title} (
+                          {edge.node.frontmatter.date})
+                        </Link>
+                      </li>
+                    )
+                  })}
+              </ul>
 
-          <header className="major">
-            <h2>Blog Post Archive</h2>
-          </header>
+              <header className="major">
+                <h2>Blog Post Archive</h2>
+              </header>
 
-          <aside className="box">
-            <p>
-              This is a curated collection of published articles written by
-              myself. Some legacy blog posts that lack substantial unique
-              content have been culled. Some articles are copies that were
-              originally published elsewhere. Formatting may have changed and
-              assets or external resources may have been adversely affected by
-              the passage of time and the evolution of technology.
-            </p>
-          </aside>
+              <aside className="box">
+                <p>
+                  This is a curated collection of published articles written by
+                  myself. Some legacy blog posts that lack substantial unique
+                  content have been culled. Some articles are copies that were
+                  originally published elsewhere. Formatting may have changed
+                  and assets or external resources may have been adversely
+                  affected by the passage of time and the evolution of
+                  technology.
+                </p>
+              </aside>
 
-          {Object.keys(groupedPosts)
-            .filter(key => parseInt(key, 10) < currentYear)
-            .sort((a, b) => b - a)
-            .map(key => {
-              const { year, posts } = groupedPosts[key]
-              return (
-                <section key={year}>
-                  <h3>Posts from {year}</h3>
-                  <ul key={year}>
-                    {posts
-                      .filter(post => !!post.frontmatter.date)
-                      .filter(
-                        post =>
-                          new Date(post.frontmatter.date) <
-                          new Date(currentYear + '-01-01')
-                      )
-                      .map(post => {
-                        return (
-                          <li key={post.id}>
-                            <Link to={post.frontmatter.path}>
-                              {post.frontmatter.title} ({post.frontmatter.date})
-                            </Link>
-                          </li>
-                        )
-                      })}
-                  </ul>
-                </section>
-              )
-            })}
+              {Object.keys(groupedPosts)
+                .filter(key => parseInt(key, 10) < currentYear)
+                .sort((a, b) => b - a)
+                .map(key => {
+                  const { year, posts } = groupedPosts[key]
+                  return (
+                    <section key={year}>
+                      <h3>Posts from {year}</h3>
+                      <ul key={year}>
+                        {posts
+                          .filter(post => !!post.frontmatter.date)
+                          .filter(
+                            post =>
+                              new Date(post.frontmatter.date) <
+                              new Date(currentYear + '-01-01')
+                          )
+                          .map(post => {
+                            return (
+                              <li key={post.id}>
+                                <Link to={post.frontmatter.path}>
+                                  {post.frontmatter.title} (
+                                  {post.frontmatter.date})
+                                </Link>
+                              </li>
+                            )
+                          })}
+                      </ul>
+                    </section>
+                  )
+                })}
+            </div>
+          </div>
         </div>
       </Layout>
     )
@@ -165,6 +171,9 @@ export const pageQuery = graphql`
         fluid {
           ...GatsbyImageSharpFluid
         }
+      }
+      colors {
+        ...GatsbyImageColors
       }
     }
   }

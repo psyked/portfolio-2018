@@ -1,24 +1,19 @@
 ---
 path: /blog/scribbling-away-during-meetings/
-layout: "post"
-title: "Scribbling away during meetings."
-description: "I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered…"
-url: "https://medium.com/@psyked/scribbling-away-during-meetings-bf1c1a46f018"
+layout: 'post'
+title: 'Scribbling away during meetings.'
+description: 'I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered…'
+url: 'https://medium.com/@psyked/scribbling-away-during-meetings-bf1c1a46f018'
 image: 1*V8WgG38jMeJ2lITvnlLM5A.jpeg
-author: "https://medium.com/@psyked"
+image_credit: '[Image from Unsplash / William Iven](https://unsplash.com/search/sketch?photo=gcsNOsPEXfs)'
+author: 'https://medium.com/@psyked'
 published_time: 2017-01-24T18:49:23.000Z
-creator: "@psyked"
+creator: '@psyked'
 tags:
-- Design
-- Productivity
+  - Design
+  - Productivity
 date: 2017-01-24T18:49:23.000Z
 ---
-
-![](1*V8WgG38jMeJ2lITvnlLM5A.jpeg)
-
-[Image from Unsplash / William Iven](https://unsplash.com/search/sketch?photo=gcsNOsPEXfs)
-
-# Scribbling away during meetings.
 
 I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered a little while ago when I met people at conferences who were making visual notes, but it wasn’t until I really started needing to write extensive notes myself that I gave it a try.
 

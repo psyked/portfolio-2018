@@ -1279,6 +1279,10 @@
   version "12.6.9"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.6.9.tgz#ffeee23afdc19ab16e979338e7b536fdebbbaeaf"
 
+"@types/node@^10.12.18":
+  version "10.14.15"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.14.15.tgz#e8f7729b631be1b02ae130ff0b61f3e018000640"
+
 "@types/node@^7.0.11":
   version "7.10.7"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-7.10.7.tgz#8604623912010235185f1166c7a5a9aa7de9fcd8"
@@ -1327,6 +1331,81 @@
     "@types/node" "*"
     "@types/unist" "*"
     "@types/vfile-message" "*"
+
+"@vibrant/color@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/color/-/color-3.2.0-alpha.tgz#b00ae935a8d799a627370ed4004521b08322f150"
+
+"@vibrant/core@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/core/-/core-3.2.0-alpha.tgz#c7c49d491af880770ecf69bc076e50209e6b7222"
+  dependencies:
+    "@vibrant/color" "^3.2.0-alpha"
+    "@vibrant/generator" "^3.2.0-alpha"
+    "@vibrant/image" "^3.2.0-alpha"
+    "@vibrant/quantizer" "^3.2.0-alpha"
+    "@vibrant/types" "^3.2.0-alpha"
+    "@vibrant/worker" "^3.2.0-alpha"
+
+"@vibrant/generator-default@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/generator-default/-/generator-default-3.2.0-alpha.tgz#916dc03db426d14d80eed1d428d6f0dfcb959c82"
+  dependencies:
+    "@vibrant/color" "^3.2.0-alpha"
+    "@vibrant/generator" "^3.2.0-alpha"
+
+"@vibrant/generator@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/generator/-/generator-3.2.0-alpha.tgz#ac6fbcb23cc6f935a907710bd841555123af6a57"
+  dependencies:
+    "@vibrant/color" "^3.2.0-alpha"
+    "@vibrant/types" "^3.2.0-alpha"
+
+"@vibrant/image-browser@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/image-browser/-/image-browser-3.2.0-alpha.tgz#6d31fe8891ab545c7d1efd9b5e62af50b39f7abc"
+  dependencies:
+    "@vibrant/image" "^3.2.0-alpha"
+
+"@vibrant/image-node@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/image-node/-/image-node-3.2.0-alpha.tgz#c91c9bc1fde8e6a489518377cf852a69243759b1"
+  dependencies:
+    "@vibrant/image" "^3.2.0-alpha"
+    jimp "^0.6.0"
+
+"@vibrant/image@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/image/-/image-3.2.0-alpha.tgz#a49ce943ec8b7ec2607212b43c7f9367045a7d90"
+  dependencies:
+    "@vibrant/color" "^3.2.0-alpha"
+    "@vibrant/types" "^3.2.0-alpha"
+
+"@vibrant/quantizer-mmcq@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/quantizer-mmcq/-/quantizer-mmcq-3.2.0-alpha.tgz#aae55bc27e8a869d6057f950e418c7a00131f615"
+  dependencies:
+    "@vibrant/color" "^3.2.0-alpha"
+    "@vibrant/image" "^3.2.0-alpha"
+    "@vibrant/quantizer" "^3.2.0-alpha"
+
+"@vibrant/quantizer@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/quantizer/-/quantizer-3.2.0-alpha.tgz#894795d01fe6f6646cc127765aa6117742194661"
+  dependencies:
+    "@vibrant/color" "^3.2.0-alpha"
+    "@vibrant/image" "^3.2.0-alpha"
+    "@vibrant/types" "^3.2.0-alpha"
+
+"@vibrant/types@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/types/-/types-3.2.0-alpha.tgz#2210fa1df981886266a6c05a3845b41b51a544a0"
+
+"@vibrant/worker@^3.2.0-alpha":
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/@vibrant/worker/-/worker-3.2.0-alpha.tgz#395c3dd2b60ac1c115fafd29ad9bfa414cbaea8a"
+  dependencies:
+    "@vibrant/types" "^3.2.0-alpha"
 
 "@webassemblyjs/ast@1.7.11":
   version "1.7.11"
@@ -4927,6 +5006,13 @@ gatsby-plugin-dark-mode@^1.1.0:
   dependencies:
     prop-types "^15.5.7"
 
+gatsby-plugin-extract-image-colors@^0.0.13:
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-extract-image-colors/-/gatsby-plugin-extract-image-colors-0.0.13.tgz#dc08d1f7ea4f76b4f0aaae1c3f5696724477c168"
+  dependencies:
+    color "^3.1.1"
+    node-vibrant "^3.2.0-alpha"
+
 gatsby-plugin-favicon@^3.1.6:
   version "3.1.6"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-favicon/-/gatsby-plugin-favicon-3.1.6.tgz#f63f45c9af112bc13dbf4cb89e0445f72c0811ac"
@@ -6728,7 +6814,7 @@ jimp@^0.5.6:
     "@jimp/types" "^0.5.4"
     core-js "^2.5.7"
 
-jimp@^0.6.4:
+jimp@^0.6.0, jimp@^0.6.4:
   version "0.6.4"
   resolved "https://registry.yarnpkg.com/jimp/-/jimp-0.6.4.tgz#266c5777752a6edb4227792ef288198a1e99102f"
   dependencies:
@@ -7795,6 +7881,18 @@ node-sass@^4.12.0:
     sass-graph "^2.2.4"
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
+
+node-vibrant@^3.2.0-alpha:
+  version "3.2.0-alpha"
+  resolved "https://registry.yarnpkg.com/node-vibrant/-/node-vibrant-3.2.0-alpha.tgz#203edec713a8de9aad435977b5782ffbded7b72d"
+  dependencies:
+    "@types/node" "^10.12.18"
+    "@vibrant/core" "^3.2.0-alpha"
+    "@vibrant/generator-default" "^3.2.0-alpha"
+    "@vibrant/image-browser" "^3.2.0-alpha"
+    "@vibrant/image-node" "^3.2.0-alpha"
+    "@vibrant/quantizer-mmcq" "^3.2.0-alpha"
+    url "^0.11.0"
 
 noms@0.0.0:
   version "0.0.0"

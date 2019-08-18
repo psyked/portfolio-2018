@@ -13,12 +13,6 @@ tags:
 date: 2017-01-28T20:31:07.000Z
 ---
 
-# Testing Performance, Speed and Best Practices with Lighthouse
-
-> _Lighthouse is an open-source, automated tool for improving the quality of your web apps._
-
-![](0*gOsG-4Rh7_nf219f.jpg)
-
 Web Development is an ever changing landscape, and as such we use a variety of tools to evaluate what we do. Like many others with a vested interest in the web, Google has its own projects, and [Lighthouse](https://developers.google.com/web/tools/lighthouse/) is one of them.
 
 I find the Lighthouse tool _particularly_ interesting for two reasons — firstly because it looks at a few of the more recent specs like **Progressive Web Apps** and the difficult-to-evaluate concepts like perceived speed, and secondly because it’s developed by Google, which implies that it’s looking at the kind of website optimisations that Google cares about when indexing a website.

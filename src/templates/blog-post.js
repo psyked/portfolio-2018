@@ -40,11 +40,15 @@ class BlogPostTemplate extends React.Component {
           )}
         </Helmet>
         <Banner {...frontmatter} imageCreditMarkdown={imageCredit} />
-        <div className="bodyContent">
-          <div dangerouslySetInnerHTML={{ __html: post.html }} />
-          <hr className="endPost" />
-          <SourcePost url={url} />
-          <Tags tags={tags} />
+        <div className="bodyContainer">
+          <div className="inner">
+            <div className="bodyContent">
+              <div dangerouslySetInnerHTML={{ __html: post.html }} />
+              <hr className="endPost" />
+              <SourcePost url={url} />
+              <Tags tags={tags} />
+            </div>
+          </div>
         </div>
         <Tiles tiles={[next, prev]} />
       </Layout>
@@ -75,6 +79,9 @@ export const pageQuery = graphql`
             sizes(maxWidth: 630) {
               ...GatsbyImageSharpSizes
             }
+          }
+          colors {
+            ...GatsbyImageColors
           }
         }
         description
