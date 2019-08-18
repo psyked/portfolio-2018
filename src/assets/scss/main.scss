@@ -36,8 +36,9 @@ body {
     padding: 0;
     background: var(--bg);
     color:var(--text-color);
-    background-image: radial-gradient(var(--fg) 5%, transparent 0);
-    background-size: 1em 1em;
+    background-image: radial-gradient(var(--fg) 1px, transparent 0), radial-gradient(var(--fg) .5px, transparent 0), radial-gradient(var(--fg) .5px, transparent 0);
+    background-size: 1em 1em, 1em 1em, 1em 1em;
+    background-position: top left, 0 -.5em, -.5em 0;
     transition: background-color .3s ease-in, color .3s ease-in;
     
     &.dark {
