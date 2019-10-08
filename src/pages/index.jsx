@@ -11,9 +11,8 @@ import {
 } from 'react-icons/fa'
 
 import Layout from '../components/Layout'
+import Banner from '../components/Banner'
 import styled from 'styled-components'
-
-import ProfileImage from '../assets/images/profile-image.jpg'
 
 import ReactMarkdown from 'react-markdown'
 import content from 'raw-loader!../../README.md'
@@ -127,41 +126,19 @@ class HomeIndex extends React.Component {
           <meta name="description" content={siteDescription} />
         </Helmet>
 
+        <Banner title="James Ford" />
+
         <div className="bodyContainer">
           <div className="inner">
             <article className="bodyContent" style={{ marginTop: '1em' }}>
-              <header
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                }}
-              >
-                <h1 style={{ flex: '1' }}>Hi, I&apos;m James Ford.</h1>
-                <div
-                  style={{
-                    borderRadius: '50%',
-                    fontSize: '0',
-                    marginRight: '16px',
-                  }}
-                >
-                  <img
-                    src={ProfileImage}
-                    width="120"
-                    height="120"
-                    style={{
-                      borderRadius: '50%',
-                    }}
-                  />
-                </div>
-              </header>
               <section>
                 <div>
                   <h2>Technical Lead at comparethemarket.com</h2>
                   <p>
-                    I make things for the web, primarily with{' '}
-                    <Link to={'/tag/react'}>React.</Link> This is my 'personal'
-                    website, powered by Gatsby and hosted on GitHub Pages. It
-                    exists to mirror any content I create elsewhere on the web.
+                    I make things for the web, primarily with React. This is my
+                    portfolio website, powered by Gatsby and hosted on GitHub
+                    Pages. It exists to mirror any content that I create
+                    elsewhere on the web.
                   </p>
                 </div>
                 <div>

@@ -27,7 +27,7 @@ class Template extends React.Component {
 }
 
 Template.propTypes = {
-  children: PropTypes.oneOf(PropTypes.node, PropTypes.func),
+  children: PropTypes.oneOf([PropTypes.node, PropTypes.func]),
 }
 
 export default Template

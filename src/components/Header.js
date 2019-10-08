@@ -5,28 +5,23 @@ import styled from 'styled-components'
 import ThemeSwitch from './ThemeSwitch'
 
 const Header = styled.header`
-  max-width: 60em;
-  margin: 0 auto;
-  position: sticky;
-  z-index: 100;
   display: block;
-  margin-bottom: -68px;
-  padding-top: 0.5em;
+  background: hsl(240, 14%, 19%);
+  padding-left: calc((100vw - 60em) / 2);
+  padding-right: calc((100vw - 60em) / 2);
 `
 
 const Nav = styled.nav`
-  border-radius: 0.3em;
-  background: hsl(240, 14%, 19%);
+  max-width: 60em;
+  margin: 0 auto;
   padding: 0.5em 0.2em 0.5em 0.7em;
-  top: 0;
-  display: inline-block;
-  border: 1px solid var(--text-color);
+  width:100%;
+  display: block;
 `
 
 const MenuLink = styled(Link)`
   margin-right: 0.5em;
   padding: 0.4em;
-  margin-left: -0.4em;
 
   &,
   a {

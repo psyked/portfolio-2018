@@ -10,7 +10,6 @@ const Wrapper = styled.header`
   position: relative;
   padding-top: calc(68px + 2em);
   padding-bottom: 3em;
-  margin-top: -1em;
   padding-left: calc((100vw - 60em) / 2);
   padding-right: calc((100vw - 60em) / 2);
 `
