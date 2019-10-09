@@ -9,7 +9,13 @@ import '../assets/scss/main.scss'
 
 class Template extends React.Component {
   render() {
-    const { children } = this.props
+    const { children, keyColour } = this.props;
+
+    let colour;
+
+    if (keyColour && keyColour.muted) {
+      colour = keyColour.muted
+    }
 
     return (
       <>
@@ -20,7 +26,7 @@ class Template extends React.Component {
         />
         <Header />
         <main>{children}</main>
-        <Footer />
+        <Footer colour={colour} />
       </>
     )
   }
