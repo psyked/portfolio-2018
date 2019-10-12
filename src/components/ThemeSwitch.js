@@ -3,7 +3,7 @@ import { ThemeToggler } from 'gatsby-plugin-dark-mode'
 import styled from 'styled-components'
 
 const SwitchWrapper = styled.label`
-  background-color: #ddd;
+  background-color: white;
   border-radius: 18px;
   cursor: pointer;
   display: inline-block;
@@ -16,7 +16,7 @@ const SwitchWrapper = styled.label`
 `
 
 const Label = styled.span`
-  background: #ffd700 none repeat scroll 0 0;
+  background: goldenrod none repeat scroll 0 0;
   border-radius: inherit;
   display: block;
   font-size: 10px;
@@ -36,7 +36,7 @@ const Label = styled.span`
 `
 
 const Handle = styled.span`
-  background-color: #fff;
+  background-color: white;
   border-radius: 10px;
   height: 18px;
   left: 4px;
@@ -46,7 +46,7 @@ const Handle = styled.span`
   width: 18px;
 
   ::before {
-    background-color: #f9f9f9;
+    // background-color: black;
     border-radius: 6px;
     content: '';
     height: 12px;
@@ -65,11 +65,11 @@ const Input = styled.input`
   top: 0;
 
   :checked ~ ${Label} {
-    background: #eceeef none repeat scroll 0 0;
+    background: black none repeat scroll 0 0;
   }
 
   :checked ~ ${Handle} {
-    left: 40px;
+    left: 37px;
   }
 `
 
