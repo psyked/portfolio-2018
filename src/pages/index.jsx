@@ -37,11 +37,11 @@ class HomeIndex extends React.Component {
           image={image}
           imageCredit={
             <span>
-              <a href="https://unsplash.com/@davidclode?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
-                David Clode
+              <a href="https://unsplash.com/@lucistan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
+                Luca Upper
               </a>{' '}
               on{' '}
-              <a href="/t/wallpapers?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
+              <a href="/s/photos/colour?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
                 Unsplash
               </a>
             </span>
@@ -104,7 +104,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    image: file(relativePath: { eq: "david-clode-xNVPuHanjkM-unsplash.jpg" }) {
+    image: file(relativePath: { eq: "luca-upper-Z-4kOr93RCI-unsplash.jpg" }) {
       childImageSharp {
         # Specify a fluid image and fragment
         # The default maxWidth is 800 pixels
