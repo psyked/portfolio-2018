@@ -229,6 +229,10 @@ blockquote {
         bottom: 0;
         right: .33em;
     }
+
+    .dark & {
+        background: mix($highlight, $fg, 10%);
+    }
 }
 
 // .gatsby-resp-image-wrapper {
