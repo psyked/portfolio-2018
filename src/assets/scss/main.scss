@@ -79,10 +79,14 @@ h1 {
 }
 
 pre {
-    overflow: scroll;
+    // overflow: scroll;
     background: $bg-alt;
     padding: $margin-sm;
     margin: #{$margin-lg} #{-$margin-sm};
+
+    .dark & {
+        background: mix($bg-alt, $fg, 10%);
+    }
 }
 
 main {

@@ -4,4 +4,8 @@
     margin: 1em -2em;
     padding: 1em 2em;
     background: linear-gradient(to right, darken($bg-alt, 10%) 0, darken($bg-alt, 10%) 8px, $bg-alt 8px);
+
+    :global(.dark) & {
+        background: linear-gradient(to right, mix(darken($bg-alt, 10%), $fg, 10%) 0, mix(darken($bg-alt, 10%), $fg, 10%) 8px, mix($bg-alt, $fg, 10%) 8px);
+    }
 }
