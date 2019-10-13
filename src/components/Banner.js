@@ -29,8 +29,8 @@ const ImageContainer = styled.figure`
   top: 0;
   left: 0;
   width: 100%;
-  padding-left: calc((100vw - 60em) / 2);
-  padding-right: calc((100vw - 60em) / 2);
+  // padding-left: calc((100vw - 60em) / 2);
+  // padding-right: calc((100vw - 60em) / 2);
   height: 100%;
   overflow: hidden;
   margin:0;
