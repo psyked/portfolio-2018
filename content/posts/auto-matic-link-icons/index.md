@@ -2,10 +2,11 @@
 path: /blog/auto-matic-link-icons/
 layout: post
 title: Auto-matic Link Icons
+image: auto-matic-link-icons.png
 date: 2007-07-10T17:42:17Z
 tags:
-- css
-- icons
+  - css
+  - icons
 ---
 
 CSS 2.1 has many new wonderful capabilities, and I'm going to show you one of my latest tricks I've picked up - automatic link icons.
@@ -23,7 +24,6 @@ Here's a simple 'absolute' link selector - a\[href="http:"\] - this will target 
 Another operator we can use is $, which means 'ends with'. So a\[href$='.pdf'\] is any links that end with .pdf. Now we know how to automatically treat different links differently. Oh, and it works fine in all the most recent browsers (IE7, Firefox) And won't have any effect on browsers that don't understand the selectors, so its safe to use.
 
 Now, styling the links is really a matter of personal preference, (and your design), but I the infamous [famfamfam](http://www.famfamfam.com/) silk icon set will help you out here. Once you've got your icons, a little clever implimentation of styles will enable you to indent your link slightly to add you icon in as a background image. Thus;
-
 
 <script src="https://gist.github.com/1074526.js"> </script>
 

@@ -2,9 +2,10 @@
 path: /blog/exploring-the-flash-cs3-flvplayback-component/
 layout: post
 title: Exploring the Flash CS3 FLVPlayback component
+image: blog-post-flvplayback.jpg
 date: 2008-04-04T22:55:09Z
 tags:
-- flash
+  - flash
 ---
 
 The FLVPlayback component that comes with Flash CS3 has been given a bit of a facelift, you know. (Well, the AS3 one has anyway - the older AS2 version is still the same old Flash 8 one).
@@ -23,4 +24,4 @@ If you tried watching Flash Videos in large or FullScreen modes before, you migh
 
 ## Resources / sources;
 
-*   [Adobe : Using the FLVPlayback component with Flash Player 9 Update 3](http://www.adobe.com/devnet/flash/articles/flvplayback_fplayer9u3_02.html "Open link in a new window")
+- [Adobe : Using the FLVPlayback component with Flash Player 9 Update 3](http://www.adobe.com/devnet/flash/articles/flvplayback_fplayer9u3_02.html 'Open link in a new window')

@@ -2,12 +2,11 @@
 path: /blog/imagesizer-now-with-a-feedback-form/
 layout: post
 title: ImageSizer - now with a Feedback form!
+image: imagesizer043.jpg
 date: 2009-01-23T10:30:34Z
 tags:
-- imagesizer
+  - imagesizer
 ---
-
-![ImageSizer 0.4.3](imagesizer043.jpg)
 
 I'm a bit of a slave to my own ideas - why else would I spend my evenings knocking together a whole host of not-really-nessesary features for a simple application?  I have to many ideas I want to impliment and too little time to do it, so I'm also acutely aware that I tend to break things without realising, when I try and rush new features through.  Hopefully though, it'll all turn out ok in the end!
 

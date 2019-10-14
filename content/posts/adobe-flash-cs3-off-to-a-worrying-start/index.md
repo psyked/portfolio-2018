@@ -2,14 +2,15 @@
 path: /blog/adobe-flash-cs3-off-to-a-worrying-start/
 layout: post
 title: Adobe Flash CS3 - off to a worrying start?
+image: adobe-flash-9.png
 date: 2007-06-20T17:34:46Z
 tags:
-- flash
-- adobe
-- cs3
+  - flash
+  - adobe
+  - cs3
 ---
 
-![Adobe Flash CS3 Icon](adobe-flash-9.png)I'm afraid I'm only commenting on hearsay here, not actually firsthand experience. Because we still don't have Adobe Studio CS3 at work. Yes I know, a professional "New Media" agency doesn't have the latest and greatest software... shocking.
+I'm afraid I'm only commenting on hearsay here, not actually firsthand experience. Because we still don't have Adobe Studio CS3 at work. Yes I know, a professional "New Media" agency doesn't have the latest and greatest software... shocking.
 
 But anyway. People have been conversing / moaning / arguing on FlashCoders mailing list today, about how Flash CS3 weighs in at around 400mb and a 30min+ install time, compared to Flash 8's 110mb and less install time.
 

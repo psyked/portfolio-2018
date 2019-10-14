@@ -1,15 +1,15 @@
 ---
 path: /blog/automating-tasks-in-flex-builder-with-the-help-of-a-little-something-called-ant/
 layout: post
-title: Automating tasks in Flex Builder, with the help of a little something called
-  'ANT'.
+title: Automating tasks in Flex Builder, with the help of a little something called 'ANT'.
+image: anttasks.jpg
 date: 2009-12-04T09:00:57Z
 tags:
-- flex
-- ant
-- eclipse
-- flex-builder
-- ftp
+  - flex
+  - ant
+  - eclipse
+  - flex-builder
+  - ftp
 ---
 
 One of the great things about Flex Builder is that it's developed on top of the already existing [Eclipse IDE](http://www.eclipse.org/), and is itself just one of many uses the Eclipse project is put to.  Which means that many of the things you may want to do in your projects have already been explored by others.  One such thing is automated tasks.
@@ -30,15 +30,15 @@ Ok, so I haven't quite got the latter stuff worked out yet, but the time and has
 
 ANT is:
 
-*   A 'language' for defining and chaining a series of tasks together.
-*   XML-based - all of the tasks are stored in XML in a build file.  These roughly correspond to an XML representation of command-line style instructions.
-*   Has a number of simple operations supported - such as copying files, find & replace, but can also execute command-line instructions or be extended to support additional tasks (like FTP transfers).
+- A 'language' for defining and chaining a series of tasks together.
+- XML-based - all of the tasks are stored in XML in a build file.  These roughly correspond to an XML representation of command-line style instructions.
+- Has a number of simple operations supported - such as copying files, find & replace, but can also execute command-line instructions or be extended to support additional tasks (like FTP transfers).
 
 ### Links;
 
 Here’s a couple of useful links on how you can use ANT in conjunction with Flex Builder;
 
-*   [http://www.slideshare.net/dctrl/deploy-flex-with-apache-ant-presentation](http://www.slideshare.net/dctrl/deploy-flex-with-apache-ant-presentation)
-*   [http://dispatchevent.org/mims/ant-for-flex-part-1/](http://dispatchevent.org/mims/ant-for-flex-part-1/)
+- [http://www.slideshare.net/dctrl/deploy-flex-with-apache-ant-presentation](http://www.slideshare.net/dctrl/deploy-flex-with-apache-ant-presentation)
+- [http://dispatchevent.org/mims/ant-for-flex-part-1/](http://dispatchevent.org/mims/ant-for-flex-part-1/)
 
 I've misplaced my bookmarks for the rest, but I'll find them and post them when I can.  In the meantime, Google will serve as the path to enlightenment for those ready to walk the path...

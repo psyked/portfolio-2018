@@ -2,17 +2,18 @@
 path: /blog/open-screen-madness/
 layout: post
 title: Open Screen madness?
+image: open-screen.jpg
 date: 2008-05-01T23:48:57Z
 tags:
-- flash
-- flex
-- adobe
-- open-source
+  - flash
+  - flex
+  - adobe
+  - open-source
 ---
 
 Madness in a good way, of course. Like all those people who queue outside stores before the sales? That's the good kind of madness. That's the madness I mean. (And I couldn't think of a more interesting Post title, and apparently, provocative Post titles are good for readership)
 
-Adobe are at it again, it seems. You may remember that the [flex sdk went open-source](http://www.psyked.co.uk/adobe/flex/flex-goes-open-source-what-does-this-mean.htm "Open link in a new window") just over a year ago, and now the swf and flv formats themselves are going open source. Here is [the press-release](http://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html), and here's [the official site for the "Open Screen Project"](http://www.adobe.com/openscreenproject/ "Open link in a new window").
+Adobe are at it again, it seems. You may remember that the [flex sdk went open-source](http://www.psyked.co.uk/adobe/flex/flex-goes-open-source-what-does-this-mean.htm 'Open link in a new window') just over a year ago, and now the swf and flv formats themselves are going open source. Here is [the press-release](http://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html), and here's [the official site for the "Open Screen Project"](http://www.adobe.com/openscreenproject/ 'Open link in a new window').
 
 ![](open-screen.jpg)
 
@@ -30,13 +31,13 @@ Okay, this really goes hand-in-hand with the Open source - it just seems a logic
 
 ## 2 : Device porting.
 
-> "\[Adobe is\] also planning to publish the device porting layer APIs for the Flash Player." ([Ryan Stewart](http://blog.digitalbackcountry.com/ "Open link in a new window"))
+> "\[Adobe is\] also planning to publish the device porting layer APIs for the Flash Player." ([Ryan Stewart](http://blog.digitalbackcountry.com/ 'Open link in a new window'))
 
 This is a major step out from their normal territory. The rapid advancement of technological devices means that shiny new phone you've got isn't far off that old desktop machine you had 8 years ago. The XBox 360, Playstation 3, your Digital TV recorder - they've all got the oomph to run Flash. Hell, if Apple and Adobe would agree you'd have it on your iPhone.
 
 All that's lacking is support for whatever hardware / OS the device is running on. So if you imagine that Adobe would release some tools - any tools - and encourage other companies and manufacturers to develop their own specific versions of the Flash player, it shouldn't be long before we start seeing Flash everywhere.
 
-> "The project is dedicated to driving rich Internet experiences across televisions, personal computers, mobile devices, and consumer electronics." ([Press Release](http://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html "Open link in a new window"))
+> "The project is dedicated to driving rich Internet experiences across televisions, personal computers, mobile devices, and consumer electronics." ([Press Release](http://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html 'Open link in a new window'))
 
 I'd love a newer version of the Flash Player on my PS3, or a snazzy digi-box interface - or some Youtube flv's streaming directly to my phone. Now all we need is some companies /manufacturers to buy into it...
 
@@ -44,18 +45,18 @@ I'd love a newer version of the Flash Player on my PS3, or a snazzy digi-box int
 
 ![](sponsors.jpg)
 
-*   BBC
-*   Cisco
-*   Intel
-*   LG Electronics Inc.
-*   Motorola
-*   MTV Networks
-*   NBC Universal
-*   Nokia
-*   Samsung Electronics Co.
-*   Sony Ericsson
-*   Toshiba
-*   Verizon Wireless
+- BBC
+- Cisco
+- Intel
+- LG Electronics Inc.
+- Motorola
+- MTV Networks
+- NBC Universal
+- Nokia
+- Samsung Electronics Co.
+- Sony Ericsson
+- Toshiba
+- Verizon Wireless
 
 That's an impressive lineup. And I think it's safe to say that if these guys are supporting Adobe in this, looking at their industries, then they're going into it like an arms race. LG sure won't want Samsung to develop something impressive without having their own, just like Nokia, Motorola and Sony Ericsson won't want their competition developing a better Mobile Flash player. So perhaps the developments won't be as slow as I first thought.
 
@@ -75,9 +76,9 @@ Or are they just deploying countermeasures to stave off the EU competition commi
 
 ## External links / Sources
 
-*   [Adobe drops restrictions on SWF, FLV formats](http://www.mikechambers.com/blog/2008/05/01/adobe-drops-restrictions-on-swf-flv-formats/ "Permanent Link to Adobe drops restrictions on SWF, FLV formats")
-*   [Big news: Flash goes completely open!](http://aralbalkan.com/1332 "Permanent Link to ")
-*   [Adobe Announces Open Screen Project 2008](http://flashmobileblog.com/?p=91 "Permanent Link to ")
-*   [Adobe Open Screen Project - Open Specifications and Open Technology to Help Expand Flash Player Reach](http://blog.digitalbackcountry.com/?p=1404)
-*   [Adobe and Industry Leaders Establish Open Screen Project](http://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html)
-*   [Learn about Open Screen Project for designers and developers](http://www.adobe.com/openscreenproject/developers/)
+- [Adobe drops restrictions on SWF, FLV formats](http://www.mikechambers.com/blog/2008/05/01/adobe-drops-restrictions-on-swf-flv-formats/ 'Permanent Link to Adobe drops restrictions on SWF, FLV formats')
+- [Big news: Flash goes completely open!](http://aralbalkan.com/1332 'Permanent Link to ')
+- [Adobe Announces Open Screen Project 2008](http://flashmobileblog.com/?p=91 'Permanent Link to ')
+- [Adobe Open Screen Project - Open Specifications and Open Technology to Help Expand Flash Player Reach](http://blog.digitalbackcountry.com/?p=1404)
+- [Adobe and Industry Leaders Establish Open Screen Project](http://www.adobe.com/aboutadobe/pressroom/pressreleases/200804/050108AdobeOSP.html)
+- [Learn about Open Screen Project for designers and developers](http://www.adobe.com/openscreenproject/developers/)

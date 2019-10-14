@@ -2,18 +2,17 @@
 path: /blog/ie8-beta-goes-public-and-what-are-those-new-features/
 layout: post
 title: IE8 Beta goes public - and what are those new features?
+image: ie8beta.jpg
 date: 2008-12-18T08:46:44Z
 tags:
-- ie8
-- internet-explorer
-- microsoft
-- opensearch
-- openservice
+  - ie8
+  - internet-explorer
+  - microsoft
+  - opensearch
+  - openservice
 ---
 
 ### Or to be more specific, what the hell are the "Accelerators" and the "Web Slices"?
-
-![](ie8beta.jpg)
 
 You can download the Internet Explorer 8 Beta from [http://www.microsoft.com/windows/internet-explorer/beta/default.aspx](http://www.microsoft.com/windows/internet-explorer/beta/default.aspx).  Overall, it's quite an interesting update - and most noticeably it shows a distinct push on the innovation front.  Since I'm talking about it, I'll go over a few of the noticeable new features, and then get onto the specifics of the "accelerator" and "web slices" features.
 
@@ -31,13 +30,13 @@ It appears that Microsoft aren't content to just sit around poaching ideas from 
 
 Well, it seems like Accelerators are an enhanced form of the [OpenSearch](http://www.opensearch.org/Home) microformat - the one that powers that search box in the top right hand of Internet Explorer and Firefox.  Only now, with a bit of browser integration jiggery-pokery, you can have your search results accessible from the right-click menu of the browser.
 
-You can read all about the technology behind Accelerators (imaginatively called OpenService) at the MSDN site: [http://msdn.microsoft.com/en-us/library/cc304166(VS.85).aspx](http://msdn.microsoft.com/en-us/library/cc304166(VS.85).aspx)
+You can read all about the technology behind Accelerators (imaginatively called OpenService) at the MSDN site: [http://msdn.microsoft.com/en-us/library/cc304166(VS.85).aspx](<http://msdn.microsoft.com/en-us/library/cc304166(VS.85).aspx>)
 
 ### What are Web Slices?
 
 It looks like these are an enhanced form of the good old bookmark.  They certainly seem to appear in the same place as the good old bookmark.  What's different is that they have a preview window associated with them, and presumably from the development side of things you first have to make a stand-alone portion of the page that can be loaded (much like you would an AJAX page I guess) and then add the IE-specific browser integration stuff to your HTML pages.
 
-You can read the Microsoft Developer Network documentation and tutorials at: [http://msdn.microsoft.com/en-us/library/cc956158(VS.85).aspx](http://msdn.microsoft.com/en-us/library/cc956158(VS.85).aspx)
+You can read the Microsoft Developer Network documentation and tutorials at: [http://msdn.microsoft.com/en-us/library/cc956158(VS.85).aspx](<http://msdn.microsoft.com/en-us/library/cc956158(VS.85).aspx>)
 
 ### Demo:
 

@@ -2,17 +2,16 @@
 path: /blog/discovering-project-sprouts/
 layout: post
 title: 'Discovering: Project Sprouts'
+image: FF181.jpg
 date: 2011-07-22T09:49:53Z
 tags:
-- flash
-- project-sprouts
-- ruby
-- rubygems
+  - flash
+  - project-sprouts
+  - ruby
+  - rubygems
 ---
 
-*Project Sprouts ([http://projectsprouts.org/](http://projectsprouts.org/ "Open http://projectsprouts.org/ in a new window")) is something that I'm just starting to get into, following much encouragement from Mark, and a cool presentation from Simon Bailey ([http://www.newtriks.com/?tag=project-sprouts](http://www.newtriks.com/?tag=project-sprouts)).*
-
-![Sprouts](FF181.jpg)
+> _Project Sprouts ([http://projectsprouts.org/](http://projectsprouts.org/ 'Open http://projectsprouts.org/ in a new window')) is something that I'm just starting to get into, following much encouragement from Mark, and a cool presentation from Simon Bailey ([http://www.newtriks.com/?tag=project-sprouts](http://www.newtriks.com/?tag=project-sprouts))._
 
 ### What is Project Sprouts?
 
@@ -24,7 +23,7 @@ From a practical point-of-view, setting up new projects is a time-consuming pro
 
 ### How does it work?
 
-It’s all built on Ruby([http://www.ruby-lang.org/en/](http://www.ruby-lang.org/en/ "Open http://rubygems.org/ in a new window")) and uses RubyGems([http://rubygems.org/](http://rubygems.org/ "Open http://rubygems.org/ in a new window.")) – that’s all you need. No Flash Builder, no Adobe Creative Suite. Mac and *nix platforms have Ruby built in, I think. Windows PCs have to go download a Ruby installer([http://rubyinstaller.org/](http://rubyinstaller.org/ "Open http://rubyinstaller.org/ in a new window")).
+It’s all built on Ruby([http://www.ruby-lang.org/en/](http://www.ruby-lang.org/en/ 'Open http://rubygems.org/ in a new window')) and uses RubyGems([http://rubygems.org/](http://rubygems.org/ 'Open http://rubygems.org/ in a new window.')) – that’s all you need. No Flash Builder, no Adobe Creative Suite. Mac and \*nix platforms have Ruby built in, I think. Windows PCs have to go download a Ruby installer([http://rubyinstaller.org/](http://rubyinstaller.org/ 'Open http://rubyinstaller.org/ in a new window')).
 
 ### Sample code:
 

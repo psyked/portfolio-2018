@@ -2,9 +2,10 @@
 path: /blog/introducing-imagesizer-042/
 layout: post
 title: Introducing ImageSizer 0.4.2
+image: imagesizer042.jpg
 date: 2009-01-20T14:00:05Z
 tags:
-- imagesizer
+  - imagesizer
 ---
 
 Well, I'm a bit slack on the whole updates front - ImageSizer 0.4.0 and 0.4.1 have already slipped under the radar without a blog post - but with the latest release I thought I'd draw a little attention to it, not least because it fixes a bit an annoying bug that I introduced in version 0.4.1!

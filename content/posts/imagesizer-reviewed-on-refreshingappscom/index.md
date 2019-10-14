@@ -2,12 +2,11 @@
 path: /blog/imagesizer-reviewed-on-refreshingappscom/
 layout: post
 title: ImageSizer reviewed on RefreshingApps.com
+image: refreshingapps.jpg
 date: 2009-03-20T19:34:41Z
 tags:
-- imagesizer
+  - imagesizer
 ---
-
-[![Refreshing Apps Review](refreshingapps.jpg)
 
 ImageSizer has been reviewed over at RefreshingApps.com. It's a pretty good review, so go check it out at: [http://refreshingapps.com/showcase/app/imagesizer/](http://refreshingapps.com/showcase/app/imagesizer/). You can of course [download ImageSizer from the Adobe AIR Marketplace](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&offeringid=10740&marketplaceid=1), or via the install badge below;
 

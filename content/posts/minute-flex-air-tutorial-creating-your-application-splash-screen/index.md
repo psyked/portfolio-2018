@@ -2,15 +2,14 @@
 path: /blog/minute-flex-air-tutorial-creating-your-application-splash-screen/
 layout: post
 title: 10 minute Flex / AIR tutorial - Creating your Application Splash Screen.
+image: mysplashscreen.jpg
 date: 2008-11-26T15:30:10Z
 tags:
-- flex
-- air
-- splash-screen
-- tutorial
+  - flex
+  - air
+  - splash-screen
+  - tutorial
 ---
-
-![](mysplashscreen.jpg)
 
 Ah, the old splash screen - a familiar thing for anyone using Adobe products, I should imagine.
 
@@ -44,10 +43,10 @@ As Flex / AIR applications go, this is very basic.  We're using the default Win
 
 The main things to note are that:
 
-*   Our WindowedApplication has a cornerRadius of 0 - which removes the default rounded corners effect so we can use squared corners on our image.
-*   To make things more pretty I've added a Fade effect to the image on creationComplete.  - Note that the effect has to be added to the image or a container on the stage, rather than the applicationComplete function of the parent WindowedApplication component.
-*   The window is positioned on the users' scren with Script, rather than properties. - It gives a little more flexibility to do things like this with scripts rather than properties.
-*   To get the nice drop shadow effect, the drop shadow is actually on the png image.  Transparency is enabled by modifying the -app.xml settings of the main MXML file in Flex.
+- Our WindowedApplication has a cornerRadius of 0 - which removes the default rounded corners effect so we can use squared corners on our image.
+- To make things more pretty I've added a Fade effect to the image on creationComplete.  - Note that the effect has to be added to the image or a container on the stage, rather than the applicationComplete function of the parent WindowedApplication component.
+- The window is positioned on the users' scren with Script, rather than properties. - It gives a little more flexibility to do things like this with scripts rather than properties.
+- To get the nice drop shadow effect, the drop shadow is actually on the png image.  Transparency is enabled by modifying the -app.xml settings of the main MXML file in Flex.
 
 ### Technical Musings,
 
@@ -63,7 +62,7 @@ So my advice would be to make the applications' default class the splash screen,
 
 ### Source files:
 
-*   [Click here to download the Flex Project Archive.](http://uploads.psyked.co.uk/2008/11/splash-screen-demo.zip)
+- [Click here to download the Flex Project Archive.](http://uploads.psyked.co.uk/2008/11/splash-screen-demo.zip)
 
 ### Future Development...
 

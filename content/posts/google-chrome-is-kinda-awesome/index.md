@@ -2,19 +2,18 @@
 path: /blog/google-chrome-is-kinda-awesome/
 layout: post
 title: Google Chrome is kinda awesome...
+image: google-chrome.jpg
 date: 2008-09-10T13:58:27Z
 tags:
-- javascript
-- chrome
-- google
-- webkit
+  - javascript
+  - chrome
+  - google
+  - webkit
 ---
 
 If you've been living under a rock for the past week - or maybe just been on holiday - you might not've heard about Google's new web browser called [Google Chrome](http://www.google.com/chrome).  Chrome is a direct competitior to other browsers such as Internet Explorer, Firefox or Safari.
 
 ![](google-chrome.jpg)
-
-
 
 The first I heard about Google Chrome was on [Techcrunch](http://www.techcrunch.com/2008/09/01/first-public-screen-captures-of-google-chrome/) the day before it was revealed, and then one of the guys at work downloaded it the next day. News sources all over the place were raving about it - which just shows you the what a link on the homepage of Google can do.
 

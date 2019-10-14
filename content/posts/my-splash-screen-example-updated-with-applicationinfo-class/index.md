@@ -2,10 +2,11 @@
 path: /blog/my-splash-screen-example-updated-with-applicationinfo-class/
 layout: post
 title: My Splash Screen example - updated with ApplicationInfo class
+image: mysplashscreen2.jpg
 date: 2008-12-02T12:30:50Z
 tags:
-- air
-- applicationinfo
+  - air
+  - applicationinfo
 ---
 
 As I've been playing around with the ApplicationInfo class, I thought my Splash Screen stuff would be so much nicer if it were a little more... generic?

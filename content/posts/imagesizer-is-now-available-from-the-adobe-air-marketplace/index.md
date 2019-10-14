@@ -2,18 +2,19 @@
 path: /blog/imagesizer-is-now-available-from-the-adobe-air-marketplace/
 layout: post
 title: ImageSizer is now available from the Adobe AIR Marketplace!
+image: imagesizer.jpg
 date: 2009-02-13T08:51:27Z
 tags:
-- imagesizer
-- air
-- air-marketplace
+  - imagesizer
+  - air
+  - air-marketplace
 ---
 
 A couple of days ago Adobe relaunched the AIR Marketplace - the official repository of AIR applications available for download - and with it made things a lot more accessible for 'Publishers' to add their applications to the Marketplace.  I'm not really sure how you got your applications on the previous version of the marketplace, but now you just have to submit yourself as a publisher, get approved, and then submit your AIR application to the Marketplace (which also has to be approved).
 
 So I'm pleased to announce that ImageSizer is now [available from the Adobe AIR Marketplace](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&offeringid=10740&marketplaceid=1), and we even fixed a few bugs in the process.
 
-[![ImageSizer on the Adobe AIR Marketplace](imagesizer.jpg)
+![ImageSizer on the Adobe AIR Marketplace](imagesizer.jpg)
 
 ### Updates?  Updates you say?
 

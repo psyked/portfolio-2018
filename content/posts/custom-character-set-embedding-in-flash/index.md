@@ -2,10 +2,11 @@
 path: /blog/custom-character-set-embedding-in-flash/
 layout: post
 title: Custom character-set embedding in Flash
+image: customfontembedding.jpg
 date: 2008-03-25T22:13:11Z
 tags:
-- flash
-- fonts
+  - flash
+  - fonts
 ---
 
 You know those lovely font embedding options?
@@ -28,9 +29,10 @@ If you are bored with Flash taking ages to publish because you have (rather lazi
 
 This technique reduced my project publish time from 85 seconds to 22.
 
-var myString:String = " **!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNO**
+```actionscript
+var myString:String = " **!"#\$%&'()\*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNO**
 
-PQRSTUVWXYZ\[\\\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹
+PQRSTUVWXYZ\[\\\]^\_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹
 
 º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿAa
 
@@ -93,3 +95,4 @@ hexValue = "0" + hexValue;
 return hexValue
 
 }
+```

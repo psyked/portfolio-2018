@@ -2,6 +2,7 @@
 path: /blog/facebook-security/
 layout: post
 title: Facebook security?!
+image: facebook.jpg
 date: 2008-05-30T21:10:51Z
 ---
 
@@ -33,10 +34,9 @@ Oh, and of all the data that an application can extract, they can't get your e-m
 
 Once you're informations' out there, consider it insecure. And ready the privacy policy if you're worried about that kinda thing!
 
-References;
------------
+## References;
 
-*   [BBC News: BBC Exposes Facebook flaw](http://news.bbc.co.uk/1/hi/technology/7376738.stm)
-*   [BBC News: Identity 'at risk' on Facebook](http://news.bbc.co.uk/1/hi/programmes/click_online/7375772.stm)
-*   [Facebook Developer Wiki: Platform Policy](http://wiki.developers.facebook.com/index.php/Platform_Policy)
-*   [Facebook Developer Homepage](http://developers.facebook.com/get_started.php)
+- [BBC News: BBC Exposes Facebook flaw](http://news.bbc.co.uk/1/hi/technology/7376738.stm)
+- [BBC News: Identity 'at risk' on Facebook](http://news.bbc.co.uk/1/hi/programmes/click_online/7375772.stm)
+- [Facebook Developer Wiki: Platform Policy](http://wiki.developers.facebook.com/index.php/Platform_Policy)
+- [Facebook Developer Homepage](http://developers.facebook.com/get_started.php)

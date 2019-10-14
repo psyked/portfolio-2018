@@ -2,11 +2,12 @@
 path: /blog/talking-about-flex-gumbo-new-features/
 layout: post
 title: 'Talking about: Flex Gumbo - new features'
+image: flex4.jpg
 date: 2009-04-06T08:15:52Z
 tags:
-- flex
-- flex-4
-- gumbo
+  - flex
+  - flex-4
+  - gumbo
 ---
 
 After seeing [Andrew Shorten's](http://www.ashorten.com/) presentation on Flex 4 (Gumbo) and Flash Catalyst at [#FlashMidlands](http://www.flashmidlands.com/) this weekend, I thought it would be a good time to post a few Flex 4 links and a few thoughts.
@@ -47,5 +48,5 @@ Templates, templates templates.  Project templates are being introduced, but so
 
 Flex 4 is due for release in the latter quarter of this year.  Nothing specific, of course.  You can get hold of a work-in-progress version of Flex 4 from the Adobe opensource site, and find a few more resources here;
 
-*   Adobe Opensource - Flex SDK: [http://opensource.adobe.com/wiki/display/flexsdk/Gumbo](http://opensource.adobe.com/wiki/display/flexsdk/Gumbo)
-*   Flex Gumbo Language reference: [http://livedocs.adobe.com/flex/gumbo/langref/](http://livedocs.adobe.com/flex/gumbo/langref/)
+- Adobe Opensource - Flex SDK: [http://opensource.adobe.com/wiki/display/flexsdk/Gumbo](http://opensource.adobe.com/wiki/display/flexsdk/Gumbo)
+- Flex Gumbo Language reference: [http://livedocs.adobe.com/flex/gumbo/langref/](http://livedocs.adobe.com/flex/gumbo/langref/)

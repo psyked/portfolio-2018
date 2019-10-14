@@ -2,14 +2,13 @@
 path: /blog/i-found-one-of-my-old-uni-projects/
 layout: post
 title: I found one of my old uni projects...
+image: uniproject.jpg
 date: 2008-02-04T23:01:04Z
 tags:
-- actionscript
-- flash
-- university-projects
+  - actionscript
+  - flash
+  - university-projects
 ---
-
-![uniproject.jpg](uniproject.jpg)
 
 Submitted on 02/12/2005, this is pretty much my first attempt at full-on Actionscript programming. When the project started, I was having to look up things like 'functions' on Google to see what all those forums were talking about. This was definately my biggest step into the murky waters of flash programming, and one I'm pleased I took. 1189 lines of Actionscript later, and I had my (considerably adjusted from the inital spec) prototype.
 

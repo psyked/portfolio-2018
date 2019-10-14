@@ -2,6 +2,7 @@
 path: /blog/a-reason-why-photoshop-cs4-kicks-ass/
 layout: post
 title: A reason why Photoshop CS4 kicks ass
+image: contentawarescale.jpg
 date: 2009-01-28T09:02:54Z
 ---
 

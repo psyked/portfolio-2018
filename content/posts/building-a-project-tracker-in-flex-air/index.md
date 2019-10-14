@@ -5,12 +5,10 @@ title: Building a project tracker in Flex & AIR
 image: bugsummary.jpg
 date: 2009-01-29T09:08:10Z
 tags:
-- flex
-- air
-- subversion
+  - flex
+  - air
+  - subversion
 ---
-
-![Bug Tracking in Flex & AIR](bugsummary.jpg)
 
 Ok, this isn't going to be a tutorial - not yet anyways.  So many projects, so little time to write about them.
 

@@ -2,9 +2,10 @@
 path: /blog/imagesizer-updated-to-version-0310/
 layout: post
 title: ImageSizer - updated to version 0.3.10!
+image: imagesizer0310.jpg
 date: 2008-12-22T14:11:45Z
 tags:
-- imagesizer
+  - imagesizer
 ---
 
 I'll try not to be boring and post _every single time_ I make an update, but what the hell, I kinda like this update - even if it introduces nothing useful on the functionality front.

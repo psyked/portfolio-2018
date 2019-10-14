@@ -2,12 +2,11 @@
 path: /blog/adm-application-descriptor-manager/
 layout: post
 title: ADM - Application Descriptor Manager
+image: adm.jpg
 date: 2008-12-02T09:00:22Z
 tags:
-- adobe-air
+  - adobe-air
 ---
-
-[![adm](adm.jpg)](http://www.dehats.com/drupal/?q=node/55)
 
 [Application Descriptior Manager](http://www.dehats.com/drupal/?q=node/55) is another application like the [AIR Badger](http://www.gskinner.com/blog/archives/2008/09/beware_the_air.html) and [Icon Generator](http://clockmaker.jp/labs/air_icon/) \- a development tool, built in AIR, for developing AIR applications.  It's useful, functional and has reassuring touches like auto-backup, or version upgrade buttons.
 

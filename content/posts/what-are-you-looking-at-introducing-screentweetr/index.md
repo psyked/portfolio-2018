@@ -2,18 +2,19 @@
 path: /blog/what-are-you-looking-at-introducing-screentweetr/
 layout: post
 title: What are you looking at? (Introducing Screentweetr)
+image: screentweetr1.jpg
 date: 2009-06-19T08:31:17Z
 tags:
-- screentweetr
-- twitter
-- air
-- tweetphoto
-- twitpic
+  - screentweetr
+  - twitter
+  - air
+  - tweetphoto
+  - twitpic
 ---
 
 Screentweetr is my latest little side project; an AIR application for uploading desktop screenshots to twitter image services. You can download it now, from the [AIR Marketplace](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&marketplaceid=1&publisherid=10603&offeringid=13500).
 
-[![Screentweetr](screentweetr1.jpg)
+![Screentweetr](screentweetr1.jpg)
 
 ### So, what is Screentweetr?
 
@@ -43,4 +44,4 @@ Oh my, where do we start? Well, there's three key elements to the future develop
 
 ### Where can I download it?
 
-That's simple.  Screentweetr is available for [download from the Adobe AIR Marketplace](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&marketplaceid=1&publisherid=10603&offeringid=13500 "Click here to visit the AIR Marketplace to download Screentweetr.").  I'll get an install badge up on here soon, but for now, just go to the AIR Marketplace.
+That's simple.  Screentweetr is available for [download from the Adobe AIR Marketplace](http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&marketplaceid=1&publisherid=10603&offeringid=13500 'Click here to visit the AIR Marketplace to download Screentweetr.').  I'll get an install badge up on here soon, but for now, just go to the AIR Marketplace.

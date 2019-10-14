@@ -1,13 +1,13 @@
 ---
 path: /blog/resize-multiple-images-and-package-them-for-e-mail-transmission-introducing-imagesizer/
 layout: post
-title: Resize multiple images and package them for e-mail transmission - introducing
-  ImageSizer!
+title: Resize multiple images and package them for e-mail transmission - introducing ImageSizer!
+image: imagesizer1.jpg
 date: 2008-12-02T11:45:30Z
 tags:
-- imagesizer
-- air
-- fzip
+  - imagesizer
+  - air
+  - fzip
 ---
 
 Or should I say, _finally_ introducing ImageSizer.  If you've been here previously in the last couple of weeks, you might have noticed that a couple of links to an ImageSizer application have been floating around.  Back in September (at Flash on the Beach) [Mark](http://www.mmtdigital.co.uk/RVE31d5c7769e694a7cbc286c1c1b2c4fd8,,.aspx), our far-to-clever-for-his-own-good student showed me the inital work on an application he'd been working on for a couple of days - the subtley named ImageSizer.
@@ -15,8 +15,6 @@ Or should I say, _finally_ introducing ImageSizer.  If you've been here previou
 Two months later and I'm finally getting around to implimenting what I offered him then, that we'd post it online and see what people think.  Well, here it is.
 
 ![](imagesizer1.jpg)
-
-
 
 You can use the AIR Install Badge to install ImageSizer, or visit the [dedicated ImageSizer page.](http://www.psyked.co.uk/imagesizer-air-application)
 

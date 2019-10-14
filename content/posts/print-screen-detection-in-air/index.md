@@ -2,9 +2,10 @@
 path: /blog/print-screen-detection-in-air/
 layout: post
 title: Print Screen detection in AIR
+image: printscreenmonitor.jpg
 date: 2009-04-17T08:23:06Z
 tags:
-- air
+  - air
 ---
 
 Here's a little something I've been working on recently - Print Screen support in AIR. It has to be AIR because only AIR allows you to access the OS clipboard, and only AIR seems to have access to the full keyboard. There's a few things I've looked at and various snippets of code, so I'll cover them in roughly the order I figured it all out...
@@ -15,8 +16,8 @@ Here's a little something I've been working on recently - Print Screen support i
 
 This is actually easy enough - use the Clipboard class (available in AIR) .
 
-    import flash.desktop.Clipboard; 
-    import flash.desktop.ClipboardFormats; 
+    import flash.desktop.Clipboard;
+    import flash.desktop.ClipboardFormats;
     import flash.display.BitmapData;
 
     Clipboard.generalClipboard.getData(ClipboardFormats.BITMAP_ FORMAT) as BitmapData;
@@ -44,25 +45,25 @@ Here's a look at the implementation;
 
     private var monitor:PrintScreenMonitor
 
-    private function init():void { 
-        monitor = new PrintScreenMonitor(100); 
-        monitor.addEventListener(PrintScreenMonitorEvent.ADD\_SCREENSHOT, updateImage); 
-        monitor.addEventListener(PrintScreenMonitorEvent.CHANGE\_SCREENSHOT, updateImage); 
-        monitor.addEventListener(PrintScreenMonitorEvent.REMOVE_SCREENSHOT, removeImage); 
-        monitor.watch(); 
+    private function init():void {
+        monitor = new PrintScreenMonitor(100);
+        monitor.addEventListener(PrintScreenMonitorEvent.ADD\_SCREENSHOT, updateImage);
+        monitor.addEventListener(PrintScreenMonitorEvent.CHANGE\_SCREENSHOT, updateImage);
+        monitor.addEventListener(PrintScreenMonitorEvent.REMOVE_SCREENSHOT, removeImage);
+        monitor.watch();
     }
 
-    private function updateImage(e:PrintScreenMonitorEvent):void { 
-        image.data = e.bitmap; 
+    private function updateImage(e:PrintScreenMonitorEvent):void {
+        image.data = e.bitmap;
     }
 
-    private function removeImage(e:PrintScreenMonitorEvent):void { 
-        image.data = ""; 
-    } 
+    private function removeImage(e:PrintScreenMonitorEvent):void {
+        image.data = "";
+    }
 
 So, there's 3 events - the PrintScreenMonitorEvent is the same as a normal event with an additional bitmap parameter and contains a Bitmap object. Unless of course the event type is a REMOVE_SCREENSHOT event!  The only other problematic thing I've encountered is scope with the PrintScreenMonitor. The above example works, and there's a couple of downloadable examples here.
 
 ### Downloads / Samples.
 
-*   [Flex sample project.](http://www.psyked.co.uk/wp-content/uploads/2009/04/print_screen_monitor1.zip)
-*   [Actionscript classes as a zip file.](/wp-content/uploads/2009/04/AS3 Classes.zip)
+- [Flex sample project.](http://www.psyked.co.uk/wp-content/uploads/2009/04/print_screen_monitor1.zip)
+- [Actionscript classes as a zip file.](/wp-content/uploads/2009/04/AS3 Classes.zip)

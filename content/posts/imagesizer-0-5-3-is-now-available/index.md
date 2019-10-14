@@ -2,13 +2,14 @@
 path: /blog/imagesizer-0-5-3-is-now-available/
 layout: post
 title: ImageSizer 0.5.3 is now available!
+image: new-output-screen.jpg
 date: 2009-10-16T08:13:35Z
 tags:
-- imagesizer
-- adobe
-- adobe-air
-- alchemy
-- getsatisfaction
+  - imagesizer
+  - adobe
+  - adobe-air
+  - alchemy
+  - getsatisfaction
 ---
 
 Wow.  Because I'm so lazy at actually blogging about things, at least two full versions of ImageSizer have come and gone since my last post, so this is going to be a round-up of all of the cool things that've been introduced to ImageSizer recently.

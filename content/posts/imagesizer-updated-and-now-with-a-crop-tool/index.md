@@ -2,9 +2,10 @@
 path: /blog/imagesizer-updated-and-now-with-a-crop-tool/
 layout: post
 title: ImageSizer updated, and now with a Crop tool.
+image: imagesizer_main.jpg
 date: 2009-03-15T16:28:50Z
 tags:
-- imagesizer
+  - imagesizer
 ---
 
 ImageSizer is now up to version 0.4.6.  If you're paying attention to the number of updates I've been putting up here, that's a noticable jump from the last update, so I guess it's time for a roundup of all of the features that have been introduced in this, and the other recent updates I forgot to mention.

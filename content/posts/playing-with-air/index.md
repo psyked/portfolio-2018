@@ -2,11 +2,12 @@
 path: /blog/playing-with-air/
 layout: post
 title: Playing with Air...
+image: adobeairpost.jpg
 date: 2008-04-07T07:00:15Z
 tags:
-- air-applications
-- ansi
-- xml
+  - air-applications
+  - ansi
+  - xml
 ---
 
 I thought i'd do a little bit of serious work with Air - how about an application for converting text file formats? Well ok, it sounds boring, but it's a starting point. I'm not finished yet, but my deadline is pretty harsh (Wednesday, in fact!) so I'm hoping to have another update tomorrow, once I've ironed out a few remaining bugs (and removed the chance that the application will corrupt your files!)

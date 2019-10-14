@@ -2,9 +2,10 @@
 path: /blog/im-on-twitter/
 layout: post
 title: I'm on Twitter.
+image: twitter.jpg
 date: 2009-02-05T08:30:49Z
 tags:
-- twitter
+  - twitter
 ---
 
 Some might say slow on the uptake, some would argue that I'm not jumping on the bandwagon without considering where it's going.

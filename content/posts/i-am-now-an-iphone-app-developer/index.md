@@ -2,12 +2,11 @@
 path: /blog/i-am-now-an-iphone-app-developer/
 layout: post
 title: I am now an iPhone app developer.
+image: iphone-sauron.png
 date: 2010-05-25T21:47:28Z
 tags:
-- iphone
+  - iphone
 ---
-
-![](iphone-sauron.png)
 
 It's finally happened. My tithe to Apple has been paid, and my iPhone has arrived on my desk.
 

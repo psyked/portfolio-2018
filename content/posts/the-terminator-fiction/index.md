@@ -2,12 +2,9 @@
 path: /blog/the-terminator-fiction/
 layout: post
 title: 'The Terminator: Fiction?'
+image: terminator.jpg
 date: 2008-06-07T19:35:52Z
-tags:
-- bbci
 ---
-
-![](terminator.jpg)
 
 Surfing BBCi's interactive tv services, I couldn't help take notice of one ominous sounding news report - "Skynet military launch postponed" - yee gads! _Skynet_ ?!
 

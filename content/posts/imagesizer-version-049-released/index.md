@@ -2,11 +2,12 @@
 path: /blog/imagesizer-version-049-released/
 layout: post
 title: ImageSizer version 0.4.9 released!
+image: customchrome.jpg
 date: 2009-05-11T08:05:23Z
 tags:
-- imagesizer
-- custom-chrome
-- print-screen
+  - imagesizer
+  - custom-chrome
+  - print-screen
 ---
 
 It's been quite a while coming, but a new version of ImageSizer is now available. Here's a little look at what's new...
@@ -45,8 +46,8 @@ Crop information is now editable - you can type new figures into the box to manu
 
 Oh, future plans.  We think up new ideas faster than we can get around to them.  Here's some of the stuff we're planning to introduce very soon...
 
-*   Folder imports - we're going to introduce a mechanism for importing folders of images, rather than having to select images individually.
-*   Browse for folder - instead of restricting users to just a drag and drop interface, we're going to introduce other methods for importing files.
-*   System Tray / Dock icons - extended features and support for these icons.
-*   Performance settings - making them more configurable.
-*   and a few more grandiose plans...
+- Folder imports - we're going to introduce a mechanism for importing folders of images, rather than having to select images individually.
+- Browse for folder - instead of restricting users to just a drag and drop interface, we're going to introduce other methods for importing files.
+- System Tray / Dock icons - extended features and support for these icons.
+- Performance settings - making them more configurable.
+- and a few more grandiose plans...

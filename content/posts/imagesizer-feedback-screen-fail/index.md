@@ -2,9 +2,10 @@
 path: /blog/imagesizer-feedback-screen-fail/
 layout: post
 title: ImageSizer - feedback screen fail. :-/
+image: feedback-screen.jpg
 date: 2009-03-29T16:06:05Z
 tags:
-- imagesizer
+  - imagesizer
 ---
 
 This is a 'public service announcement'.  Basically, the ImageSizer feedback screen hasn't always been working.  If you've used it already to send your feedback, there's a good chance that the message wasn't delivered, regardless of the confirmation screen you may have seen.

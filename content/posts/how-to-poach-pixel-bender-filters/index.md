@@ -2,9 +2,10 @@
 path: /blog/how-to-poach-pixel-bender-filters/
 layout: post
 title: 'How to: poach Pixel Bender filters.'
+image: pixelbender.jpg
 date: 2009-02-12T08:28:04Z
 tags:
-- pixel-bender
+  - pixel-bender
 ---
 
 Pixel Bender is awesome - but I just haven't got into it yet, so I have no idea how to make my own useful or impressive filters.  Nevermind, there's always the [Pixel Bender Exchange](http://www.adobe.com/cfusion/exchange/index.cfm?event=productHome&exc=26) from Adobe.  Not enough?  Well, one thing I like about AIR applications is that - moreoften than not - there's a lot of raw source files available, if you know where to look.

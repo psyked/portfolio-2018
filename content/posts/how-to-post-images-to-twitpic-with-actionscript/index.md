@@ -2,18 +2,19 @@
 path: /blog/how-to-post-images-to-twitpic-with-actionscript/
 layout: post
 title: 'How to: Post images to TwitPic with Actionscript'
+image: twitpic.jpg
 date: 2009-07-05T20:22:23Z
 tags:
-- actionscript
-- twitter
-- twitpic
+  - actionscript
+  - twitter
+  - twitpic
 ---
 
 Uploading images to services like [TwitPic](http://twitpic.com/) is actually as easy as sending a HTTP POST request, which means its also pretty darned simple to upload something from Flash Player 10 or AIR. This is an example for AIR, but doing something similar in Flash Player 10 should also be possible - you just need to swap the references to the File class to FileReference.
 
 ![TwitPic](twitpic.jpg)
 
-So, how do we get our photos on TwitPic?  Well, let's check the API: [TwitPic API](http://twitpic.com/api.do). According to the API, it's just a case of posting an image file with additional parameters of **username**, **password** and if you like, **message**. And the upload location is pretty simple too - _http://twitpic.com/api/upload_ or _http://twitpic.com/api/uploadAndPost_. One for just uploading, and the other for posting things to your twitter feed at the same time.
+So, how do we get our photos on TwitPic?  Well, let's check the API: [TwitPic API](http://twitpic.com/api.do). According to the API, it's just a case of posting an image file with additional parameters of **username**, **password** and if you like, **message**. And the upload location is pretty simple too - *http://twitpic.com/api/upload* or _http://twitpic.com/api/uploadAndPost_. One for just uploading, and the other for posting things to your twitter feed at the same time.
 
 If you're posting automatically to twitter, TwitPic will automatically add the url to your image to the start of your tweet.
 
@@ -25,11 +26,11 @@ So, let's check out some basic code:
         urlVars.username = "username";
         urlVars.password = "password";
 
-    var urlRequest:URLRequest = new URLRequest("http://twitpic.com/api/upload"); 
-        urlRequest.method = URLRequestMethod.POST; 
+    var urlRequest:URLRequest = new URLRequest("http://twitpic.com/api/upload");
+        urlRequest.method = URLRequestMethod.POST;
         urlRequest.data = urlVars;
 
-    var file:File = File.desktopDirectory.resolvePath("test.jpg"); 
+    var file:File = File.desktopDirectory.resolvePath("test.jpg");
         file.upload(urlRequest, 'media');
 
 In a nutshell, that code will upload an image file (called "test.jpg") from the desktop, to TwitPic.
