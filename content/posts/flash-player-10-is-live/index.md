@@ -2,14 +2,13 @@
 path: /blog/flash-player-10-is-live/
 layout: post
 title: Flash Player 10 is Live
+image: player10.jpg
 date: 2008-10-15T12:20:15Z
 tags:
-- flash
+  - flash
 ---
 
 Yes, [Flash Player 10 is now live](http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash).
-
-[![](player10.jpg)
 
 I was a little surprised because I hadn't thought that Flash 10 was going to go live anytime soon - in fact I'm still not sure if CS4 is available yet.  Adobe seems to spend so much time hyping various things that I can't tell the difference anymore between the 'things that are coming' and 'things that are available'.
 

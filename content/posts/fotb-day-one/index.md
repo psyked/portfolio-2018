@@ -2,15 +2,14 @@
 path: /blog/fotb-day-one/
 layout: post
 title: 'FOTB: Day One'
+image: fotb1.jpg
 date: 2008-09-30T07:39:27Z
 tags:
-- flash
-- conferences
-- flash-on-the-beach
-- fotb
+  - flash
+  - conferences
+  - flash-on-the-beach
+  - fotb
 ---
-
-![](fotb1.jpg)
 
 Wow.  That's another day gone - its funny really, you feel like you've been here for ages based on what you've seen, but then you step back and realise it's only Monday.
 
