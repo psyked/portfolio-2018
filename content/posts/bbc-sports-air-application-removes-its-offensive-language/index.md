@@ -2,13 +2,14 @@
 path: /blog/bbc-sports-air-application-removes-its-offensive-language/
 layout: post
 title: BBC Sports' AIR Application removes its offensive language
+image: bbc-fixed.jpg
 date: 2008-08-05T15:39:07Z
 tags:
-- air
-- auto-updating
-- bbc
-- olympics
-- swearing
+  - air
+  - auto-updating
+  - bbc
+  - olympics
+  - swearing
 ---
 
 Well, that was fast (and rightly so).  This morning I posted about the [BBC Sports' Olympics AIR Application containing a text file of offensive language](http://www.psyked.co.uk/adobe/apollo/bbc-uses-air-to-install-a-list-of-swear-words-to-users-machines.htm) but now, roughly 1.5 hours after posting here, and 6.5 hours after it being initally posted, a new update has appeared for the Olympics AIR Application.

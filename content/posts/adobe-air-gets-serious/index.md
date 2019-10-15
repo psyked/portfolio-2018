@@ -2,6 +2,7 @@
 path: /blog/adobe-air-gets-serious/
 layout: post
 title: Adobe AIR gets serious?
+image: air11.jpg
 date: 2008-06-18T22:01:16Z
 ---
 
@@ -14,8 +15,6 @@ Aside from a few tweaks and general updates, and a few requested features making
 > Brazilian Portuguese, Chinese (Traditional and Simplified), French, German, Italian, Japanese, Korean, Russian and Spanish.
 
 Strangely enough, that's not very exciting. Well, I guess it makes up a large proportion of the target markets, and covers most of the character sets - but 10 languages seems a little low. Meh.
-
-
 
 Releasing a product (of this sort) to a global market - without multilingual support - seemed a bit strange, (or maybe it just highlighted how much we take for granted the features of established products), but now we have those important capabilities. Releasing AIR was always going to be a balancing act for Adobe - you want to release a market-ready product, but also get the product out of the realm of Beta.
 
@@ -45,6 +44,6 @@ On Windows, AIR applications can now be uninstalled even if AIR has already been
 
 ## Resources;
 
-*   [Get Adobe AIR 1.1](http://get.adobe.com/air/)
-*   [AIR for IT administrators](http://www.adobe.com/go/air1-1faq)
-*   [Adobe AIR 1.1 Release notes](http://www.adobe.com/go/air1-1faq)
+- [Get Adobe AIR 1.1](http://get.adobe.com/air/)
+- [AIR for IT administrators](http://www.adobe.com/go/air1-1faq)
+- [Adobe AIR 1.1 Release notes](http://www.adobe.com/go/air1-1faq)

@@ -2,14 +2,13 @@
 path: /blog/bbc-uses-air-to-install-a-list-of-swear-words-to-users-machines/
 layout: post
 title: BBC uses Adobe AIR to install a list of swear words to users machines.
+image: bbc-swear.jpg
 date: 2008-08-05T09:01:35Z
 tags:
-- bbc
-- olypmics
-- swearing
+  - bbc
+  - olypmics
+  - swearing
 ---
-
-![](bbc-swear.jpg)
 
 **James Cannings** from **MMT Digital** alerted me to this, and has written a post about it at: [http://www.mmtdigital.co.uk/monkeymagic](http://www.mmtdigital.co.uk/monkeymagic), and here's my thoughts on it:
 
@@ -33,7 +32,7 @@ From an efficiency (programatic) point of view, the text file has some truly odd
 
 If you’re going to search for the word ‘tosser’ then do a **regular expression** for the word ‘tosser’ – and perhaps a regular expression for the l33t-speak variant – don’t just search for these words:
 
-> “to$$ers, to**er, to55er, to55ers, tosser, tosser, tossers, tossurs”
+> “to\$\$ers, to\*\*er, to55er, to55ers, tosser, tosser, tossers, tossurs”
 
 Because a slight misspelling is going to get past, is it not?
 

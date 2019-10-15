@@ -2,13 +2,14 @@
 path: /blog/exempli-gratia-using-tweener/
 layout: post
 title: 'Exempli Gratia : Using Tweener'
+image: googelcode.jpg
 date: 2008-07-18T18:53:31Z
 tags:
-- flash
-- actionscript
-- animation
-- google-code
-- open-source
+  - flash
+  - actionscript
+  - animation
+  - google-code
+  - open-source
 ---
 
 > Tweener (caurina.transitions.Tweener) is a Class used to create tweenings and other transitions via ActionScript code for projects built on the Flash platform.
@@ -16,8 +17,6 @@ tags:
 To use Tweener in your projects, the first step is to download the class files that will work with your project from [the Google Code page for Tweener](http://code.google.com/p/tweener/), and then we'll get started.
 
 ## Download Tweener
-
-[![](googelcode.jpg)
 
 There are currently 3 versions of the Tweener class, one for (AS2) Flash player 7 & Flash Lite 2, one for (AS2) Flash Player 8, and one for (AS3) Flash Player 9. For which one you download is down to your project, but the interface and implimentation is pretty much the same across each of the versions.
 
@@ -56,15 +55,15 @@ Of course, if you're tweening with Actionscript, its damn likely that you'll wan
 
     Tweener.addTween(myMovie, {\_x:10, \_y:10, time:1, transition:"easeInOutQuad", onComplete:onCompleteHander});
 
-    function onCompleteHandler():Void { 
-        trace(this); 
+    function onCompleteHandler():Void {
+        trace(this);
     }
 
     Tweener.addTween(myMovie, {\_x:50, \_y:50, time:1, delay:1, transition: "easeInOutQuad", onComplete:onCompleteHanderTwo, onCompleteParams:\[myMovie\]});
 
-    function onCompleteHanderTwo(this:MovieClip):Void { 
-        trace(this); 
-    } 
+    function onCompleteHanderTwo(this:MovieClip):Void {
+        trace(this);
+    }
 
 Mercifully, the scope of the function isn't much changed when it's executed than when its declared, because of the way Tweener seems to work - and even if you are having scoping problems, the simplicity of adding parameters to your functions helps out a lot.
 
@@ -72,5 +71,5 @@ Anyway, that's about all I have to say about Tweener - it's great, and it really
 
 ## Resources
 
-*   [Tweener Documentation](http://hosted.zeh.com.br/tweener/docs/en-us/)
-*   [Tweener Tween Types Reference](http://hosted.zeh.com.br/tweener/docs/en-us/misc/transitions.html)
+- [Tweener Documentation](http://hosted.zeh.com.br/tweener/docs/en-us/)
+- [Tweener Tween Types Reference](http://hosted.zeh.com.br/tweener/docs/en-us/misc/transitions.html)

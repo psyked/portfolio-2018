@@ -2,12 +2,13 @@
 path: /blog/creating-outlook-calendar-events-through-http-links/
 layout: post
 title: Creating Outlook Calendar events through hyperlinks
+image: icalendar.jpg
 date: 2008-08-07T22:45:02Z
 tags:
-- html
-- http-link
-- icalendar
-- outlook
+  - html
+  - http-link
+  - icalendar
+  - outlook
 ---
 
 You mightn't think it was possible, the lack of implimentations you see for it on a day-to-day basis, but actually you can create Calendar events for a wide range of email / organiser clients using the iCalendar file format.
@@ -69,5 +70,5 @@ That really is it. It's an incredibly easy thing to customize - I'd really recom
 
 ## Resources
 
-*   [iCalendar information on Wikipedia](http://en.wikipedia.org/wiki/ICalendar)
-*   [iCalendar technical specification](http://tools.ietf.org/html/rfc2445)
+- [iCalendar information on Wikipedia](http://en.wikipedia.org/wiki/ICalendar)
+- [iCalendar technical specification](http://tools.ietf.org/html/rfc2445)
