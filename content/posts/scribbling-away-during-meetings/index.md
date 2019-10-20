@@ -2,7 +2,6 @@
 path: /blog/scribbling-away-during-meetings/
 layout: 'post'
 title: 'Scribbling away during meetings.'
-description: 'I’ve become quite keen on making what’s known as “sketch notes” during meetings and presentations. It’s something that I first encountered…'
 url: 'https://medium.com/@psyked/scribbling-away-during-meetings-bf1c1a46f018'
 image: 1*V8WgG38jMeJ2lITvnlLM5A.jpeg
 image_credit: '[Image from Unsplash / William Iven](https://unsplash.com/search/sketch?photo=gcsNOsPEXfs)'

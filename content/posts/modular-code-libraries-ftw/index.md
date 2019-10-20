@@ -16,11 +16,7 @@ tags:
 date: 2017-01-12T09:07:00.606Z
 ---
 
-![](1*pZ9iKrsUlMQIo_isecaj0A.png)
-
-# Modular Code Libraries FTW
-
-## Thanks to the fact that I work alongside a bunch of awesome people, today I’ve been introduced to the [date-fns](https://date-fns.org/) library, and it struck a chord with me because it the epitomises a way of thinking about creating manageable, maintainable source code.
+> Thanks to the fact that I work alongside a bunch of awesome people, today I’ve been introduced to the [date-fns](https://date-fns.org/) library, and it struck a chord with me because it the epitomises a way of thinking about creating manageable, maintainable source code.
 
 Code is ultimately a solution to a problem. As developers we’re constantly writing code, and the more code we write, the more experience we acquire, the better we get. A big advantage to having previously written code is in being able to reuse that same solution in the future. The advantage to using other people’s code, when it comes in the form of a library or a framework, is in being able to use their solutions without having to invest your own time in the fine details of a solution.
 

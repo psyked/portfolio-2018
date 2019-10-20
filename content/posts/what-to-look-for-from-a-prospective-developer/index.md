@@ -1,27 +1,22 @@
 ---
 path: /blog/what-to-look-for-from-a-prospective-developer/
-layout: "post"
-title: "What to look for from a (prospective) Developer"
-description: "I’ve been doing a lot of interviews recently so I thought I would share a little more information about what I’m looking for…"
-url: "https://medium.com/@psyked/what-to-look-for-from-a-prospective-developer-8ba2d9faa3d2"
+layout: 'post'
+title: 'What to look for from a (prospective) Developer'
+description: 'I’ve been doing a lot of interviews recently so I thought I would share a little more information about what I’m looking for…'
+url: 'https://medium.com/@psyked/what-to-look-for-from-a-prospective-developer-8ba2d9faa3d2'
 image: 1*XIoDTJDLJK54iGi45TPrxQ.jpeg
-author: "https://medium.com/@psyked"
-creator: "@psyked"
+image_credit: '[Ilya Pavlov / Unsplash](https://unsplash.com/search/developer?photo=OqtafYT5kTw)'
+author: 'https://medium.com/@psyked'
+creator: '@psyked'
 tags:
-- Programming
-- Web Development
-- Interviewing
-- Job Interview
+  - Programming
+  - Web Development
+  - Interviewing
+  - Job Interview
 date: 2017-01-10T09:12:00.566Z
 ---
 
-![](1*XIoDTJDLJK54iGi45TPrxQ.jpeg)
-
-Header image c/o [Ilya Pavlov / Unsplash](https://unsplash.com/search/developer?photo=OqtafYT5kTw)
-
-# What to look for from a (prospective) Developer
-
-## I’ve been doing a lot of interviews recently – at least one a month for a few months now – so I thought I would share a little more information about what I’m looking for, as a sort of snapshot of what it means to be a web developer in 2017.
+> I’ve been doing a lot of interviews recently – at least one a month for a few months now – so I thought I would share a little more information about what I’m looking for, as a sort of snapshot of what it means to be a web developer in 2017.
 
 #### Enthusiasm.
 
