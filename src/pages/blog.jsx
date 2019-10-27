@@ -83,7 +83,9 @@ class Blog extends Component {
                     )
                   })}
               </ul>
-
+            </div>
+            <hr />
+            <div className="bodyContent">
               <header className="major">
                 <h2>Blog Post Archive</h2>
               </header>
@@ -130,6 +132,7 @@ class Blog extends Component {
                     </section>
                   )
                 })}
+              <hr className="endPost" />
             </div>
           </div>
         </div>
