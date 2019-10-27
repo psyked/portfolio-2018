@@ -33,17 +33,20 @@ class HomeIndex extends React.Component {
         </Helmet>
 
         <Banner
-          title="James Ford"
+          title={
+            <>
+              <span className="label inverse" role="presentation">
+                name
+              </span>
+              James Ford
+            </>
+          }
           image={image}
           imageCredit={
             <span>
-              <a href="https://unsplash.com/@lucistan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
-                Luca Upper
+              <a href="https://www.instagram.com/benjamin_squire/">
+                Ben Squire
               </a>{' '}
-              on{' '}
-              <a href="/s/photos/colour?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
-                Unsplash
-              </a>
             </span>
           }
         />
@@ -53,12 +56,25 @@ class HomeIndex extends React.Component {
             <article className="bodyContent" style={{ marginTop: '1em' }}>
               <section>
                 <div>
-                  <h2>Technical Lead at comparethemarket.com</h2>
+                  <h2>
+                    <span className="label" role="presentation">
+                      job title
+                    </span>
+                    Technical Lead at comparethemarket.com
+                  </h2>
                   <p>
-                    I make things for the web, primarily with React. This is my
-                    portfolio website, powered by Gatsby and hosted on GitHub
-                    Pages. It exists to mirror any content that I create
-                    elsewhere on the web.
+                    <span className="label" role="presentation">
+                      biography
+                    </span>
+                    I make things for the web, currently with React.
+                  </p>
+                  <p>
+                    <span className="label" role="presentation">
+                      about this website
+                    </span>
+                    This is my portfolio website, powered by Gatsby and hosted
+                    using GitHub Pages. It exists to mirror any content that I
+                    create elsewhere on the web.
                   </p>
                 </div>
               </section>
@@ -67,6 +83,9 @@ class HomeIndex extends React.Component {
             <hr />
 
             <section className="bodyContent">
+              <span className="label" role="presentation">
+                README
+              </span>
               <ReactMarkdown source={content} />
             </section>
 
@@ -104,7 +123,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    image: file(relativePath: { eq: "luca-upper-Z-4kOr93RCI-unsplash.jpg" }) {
+    image: file(relativePath: { eq: "profile-photo.jpg" }) {
       childImageSharp {
         # Specify a fluid image and fragment
         # The default maxWidth is 800 pixels

@@ -239,6 +239,23 @@ blockquote {
     }
 }
 
+span.label {
+    font-size: 0.8rem;
+    color: var(--text-color);
+    display:block;
+    font-family: monospace;
+    font-weight: normal;
+    text-transform: uppercase;
+
+    &.inverse {
+        color: var(--bg);
+
+        .dark & {
+            color: var(--fg);
+        }
+    }
+}
+
 // .gatsby-resp-image-wrapper {
 //     + .gatsby-resp-image-wrapper {
 //         width: 50%;
