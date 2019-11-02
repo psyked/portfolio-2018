@@ -2,6 +2,8 @@
 path: 'speaking/delivering-js-at-scale'
 layout: 'presentation'
 title: 'Delivering JS at Scale'
+image: 'Leicester JS - Javascript at Scale.jpg'
+download: 'Leicester JS - Javascript at Scale.pdf'
 tags:
   - Delivery
 presentedAt:

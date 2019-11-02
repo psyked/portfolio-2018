@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Link from 'gatsby-link'
+import Img from 'gatsby-image'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import { format } from 'date-fns'
@@ -36,6 +37,26 @@ const padding = `& {
 
 const Section = styled.section`
   ${padding}
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  justify-content: flex-start;
+`
+
+const SectionContent = styled.div`
+  margin: -0.4em 0 0;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+`
+
+const Title = styled.h3`
+  margin-top: 0;
+`
+
+const ImageContainer = styled.div`
+  width: 25%;
+  margin-right: 2em;
 `
 
 class Speaking extends Component {
@@ -74,64 +95,100 @@ class Speaking extends Component {
 
         <div className="bodyContainer">
           <div className="inner">
+            <div className="bodyContent">
+              <header className="major">
+                {/* <h2>Projects</h2> */}
+                <p>Here's a list of stuff I'm currently talking about.</p>
+              </header>
+            </div>
+            <hr />
             <section>
               {presentations.map(
                 (
                   {
                     node: {
-                      frontmatter: { title, presentedAt, tags },
+                      frontmatter: { title, image, presentedAt, tags },
                       html,
                     },
                   },
                   index
                 ) => {
+                  const color =
+                    (image && image.colors && image.colors.vibrant) ||
+                    `transparent`
                   return (
                     <>
                       {!!index && <hr />}
-                      <Section>
-                        <header>
-                          <h3>{title}</h3>
-                        </header>
-                        <article dangerouslySetInnerHTML={{ __html: html }} />
-                        <footer>
-                          <p>
-                            Presented at:&nbsp;
-                            {presentedAt.map(
-                              ({ name, date, link, recording }) => {
-                                return (
-                                  <span key={name}>
-                                    <a href={link}>
-                                      {`${name}, ${format(
-                                        new Date(date),
-                                        'Do MMMM YYYY'
-                                      )}`}
-                                    </a>
-                                    {!!recording && (
-                                      <>
-                                        &nbsp;
-                                        <a href={recording}>[View Recording]</a>
-                                      </>
-                                    )}
-                                  </span>
-                                )
-                              }
+                      <Section
+                        hasImage={image && image.childImageSharp}
+                        // style={{
+                        //   borderColor: `${color}`,
+                        //   borderWidth: `0 .4em`,
+                        //   marginLeft: `-.4em`,
+                        //   marginRight: `-.4em`,
+                        //   borderStyle: `none solid`,
+                        //   marginTop: `-4em`,
+                        //   marginBottom: `-4em`,
+                        //   paddingTop: `4em`,
+                        //   paddingBottom: `4em`,
+                        // }}
+                      >
+                        {image && image.childImageSharp && (
+                          <ImageContainer>
+                            <Img {...image.childImageSharp} />
+                          </ImageContainer>
+                        )}
+                        <SectionContent>
+                          <header>
+                            <Title>{title}</Title>
+                          </header>
+                          <article>
+                            <section
+                              dangerouslySetInnerHTML={{ __html: html }}
+                            ></section>
+                          </article>
+                          <footer>
+                            <ul>
+                              Presented at:&nbsp;
+                              {presentedAt.map(
+                                ({ name, date, link, recording }) => {
+                                  return (
+                                    <li key={name}>
+                                      <a href={link}>
+                                        {`${name}, ${format(
+                                          new Date(date),
+                                          'Do MMMM YYYY'
+                                        )}`}
+                                      </a>
+                                      {!!recording && (
+                                        <>
+                                          &nbsp;
+                                          <a href={recording}>
+                                            [View Recording]
+                                          </a>
+                                        </>
+                                      )}
+                                    </li>
+                                  )
+                                }
+                              )}
+                            </ul>
+                            {tags && (
+                              <p>
+                                Tagged as:&nbsp;
+                                {tags.map((name, i) => [
+                                  i > 0 && ', ',
+                                  <Link
+                                    key={name}
+                                    to={`/tag/${name.toLowerCase()}`}
+                                  >
+                                    {name}
+                                  </Link>,
+                                ])}
+                              </p>
                             )}
-                          </p>
-                          {tags && (
-                            <p>
-                              Tagged as:&nbsp;
-                              {tags.map((name, i) => [
-                                i > 0 && ', ',
-                                <Link
-                                  key={name}
-                                  to={`/tag/${name.toLowerCase()}`}
-                                >
-                                  {name}
-                                </Link>,
-                              ])}
-                            </p>
-                          )}
-                        </footer>
+                          </footer>
+                        </SectionContent>
                       </Section>
                     </>
                   )
@@ -169,6 +226,16 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             path
             title
+            image {
+              childImageSharp {
+                sizes(maxWidth: 630) {
+                  ...GatsbyImageSharpSizes
+                }
+              }
+              colors {
+                ...GatsbyImageColors
+              }
+            }
             tags
             presentedAt {
               name

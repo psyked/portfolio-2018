@@ -2,6 +2,8 @@
 path: 'speaking/make-your-tools-work'
 layout: 'presentation'
 title: 'Make Your Tools Work'
+image: 'Make your tools work.png'
+download: 'Make your tools work.pdf'
 description: 'Specifically, make your tools work for you.'
 tags:
   - Development

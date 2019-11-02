@@ -2,6 +2,8 @@
 path: 'speaking/sharing-code-with-200-engineers'
 layout: 'presentation'
 title: 'Sharing code with 200 Engineers'
+image: 'React London Presentation June 2019.jpg'
+download: 'React London Presentation June 2019.pdf'
 tags:
   - Development
 presentedAt:

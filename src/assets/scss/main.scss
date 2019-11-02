@@ -1,259 +1,290 @@
-@import "./normalize";
-@import "./mixins";
-@import "./fluid-type";
-@import "./vars";
+@import './normalize';
+@import './mixins';
+@import './fluid-type';
+@import './vars';
 
 /* apply a natural box layout model to all elements, but allowing components to change */
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-*, *:before, *:after {
-    box-sizing: inherit;
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }
 
 html {
-    // @include fluid-type($min_width, $max_width, $min_font, $max_font);
-    font-family: 'Roboto', sans-serif;
+  // @include fluid-type($min_width, $max_width, $min_font, $max_font);
+  font-family: 'Roboto', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Open Sans', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
 }
 
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 body {
-    --bg: #fcfcfd;
-    --fg: #a0b1ba;
-    --text-color: hsl(240, 14%, 19%);
-    --link-color: #2962FF;
-    --link-visited-color: #6200EA;
-    
-    margin: 0;
-    padding: 0;
-    background: var(--bg);
-    color:var(--text-color);
-    background-image: radial-gradient(var(--fg) 1px, transparent 0), radial-gradient(var(--fg) .5px, transparent 0), radial-gradient(var(--fg) .5px, transparent 0);
-    background-size: 1em 1em, 1em 1em, 1em 1em;
-    background-position: top left, 0 -.5em, -.5em 0;
-    transition: background-color .3s ease-in, color .3s ease-in;
-    
-    &.dark {
-        --fg: #fcfcfd;
-        --bg: hsl(240, 14%, 19%);
-        --text-color: #fcfcfd;
-        --link-color: #FFEB3B;
-        --link-visited-color: #FFC107;
+  --bg: #fcfcfd;
+  --fg: #a0b1ba;
+  --text-color: hsl(240, 14%, 19%);
+  --link-color: #2962ff;
+  --link-visited-color: #6200ea;
 
-        background-image: radial-gradient(black 5%, transparent 0);
-    }
-    
-    a {
-        transition: color .3s ease-in;
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text-color);
+  background-image: radial-gradient(var(--fg) 1px, transparent 0),
+    radial-gradient(var(--fg) 0.5px, transparent 0),
+    radial-gradient(var(--fg) 0.5px, transparent 0);
+  background-size: 1em 1em, 1em 1em, 1em 1em;
+  background-position: top left, 0 -0.5em, -0.5em 0;
+  transition: background-color 0.3s ease-in, color 0.3s ease-in;
 
-        &:link,
-        &:active,
-        &:hover {
-            color:var(--link-color);
-        }
-        
-        &:visited {
-            color:var(--link-visited-color);
-        }
+  &.dark {
+    --fg: #fcfcfd;
+    --bg: hsl(240, 14%, 19%);
+    --text-color: #fcfcfd;
+    --link-color: #ffeb3b;
+    --link-visited-color: #ffc107;
+
+    background-image: radial-gradient(black 5%, transparent 0);
+  }
+
+  a {
+    transition: color 0.3s ease-in;
+
+    &:link,
+    &:active,
+    &:hover {
+      color: var(--link-color);
     }
+
+    &:visited {
+      color: var(--link-visited-color);
+    }
+  }
 }
 
 /* Single property */
 html {
-    @include fluid-type(font-size, 320px, 1366px, 16px, 18px);
+  @include fluid-type(font-size, 320px, 1366px, 16px, 18px);
 
-    line-height: 1.5;
+  line-height: 1.5;
 }
 
 /* Multiple properties with same values */
 h1 {
-    @include fluid-type(font-size, 20em, 70em, 2em, 3em);
+  @include fluid-type(font-size, 20em, 70em, 2em, 3em);
 }
 
 pre {
-    // overflow: scroll;
-    background: $bg-alt;
-    padding: $margin-sm;
-    margin: #{$margin-lg} #{-$margin-sm};
+  // overflow: scroll;
+  background: $bg-alt;
+  padding: $margin-sm;
+  margin: #{$margin-lg} #{-$margin-sm};
 
-    .dark & {
-        background: mix($bg-alt, $fg, 10%);
-    }
+  .dark & {
+    background: mix($bg-alt, $fg, 10%);
+  }
 }
 
 main {
-    // margin: 0 auto;
-    // max-width: 60em;
-    // padding-top:68px;
-    // outline: 0.1em solid var(--fg);
-    display:block;
+  // margin: 0 auto;
+  // max-width: 60em;
+  // padding-top:68px;
+  // outline: 0.1em solid var(--fg);
+  display: block;
 }
 
 .bodyContent {
-    box-sizing: border-box;
-    // margin: 0 auto;
-    // max-width: 60em;
-    
-    @include poly-fluid-sizing("padding-left", (320px: 16px, 768px: 48px));
-    @include poly-fluid-sizing("padding-right", (320px: 16px, 768px: 48px));
+  box-sizing: border-box;
+  // margin: 0 auto;
+  // max-width: 60em;
+
+  @include poly-fluid-sizing(
+    'padding-left',
+    (
+      320px: 16px,
+      768px: 48px,
+    )
+  );
+  @include poly-fluid-sizing(
+    'padding-right',
+    (
+      320px: 16px,
+      768px: 48px,
+    )
+  );
 }
 
 .bodyContainer {
-    padding-left: calc((100vw - 60em) / 2);
-    padding-right: calc((100vw - 60em) / 2);
-    
-    .inner {
-        background: var(--bg);
-        padding-top: 1em;
-        padding-bottom: 1em;
-        transition: background .3s ease-in;
-    }
+  padding-left: calc((100vw - 60em) / 2);
+  padding-right: calc((100vw - 60em) / 2);
+
+  .inner {
+    background: var(--bg);
+    padding-top: 1em;
+    padding-bottom: 1em;
+    transition: background 0.3s ease-in;
+  }
 }
 
 figure {
-    position: relative;
+  position: relative;
 }
 
 figcaption {
-    a {
-        --link-color: #FFEB3B;
-        --link-visited-color: #FFC107;
-    }
+  a {
+    --link-color: #ffeb3b;
+    --link-visited-color: #ffc107;
+  }
 }
 
 hr {
-    @include fluid-type(margin-top, 20em, 70em, 2em, 4em);
-    @include fluid-type(margin-bottom, 20em, 70em, 2em, 4em);
+  @include fluid-type(margin-top, 20em, 70em, 2em, 4em);
+  @include fluid-type(margin-bottom, 20em, 70em, 2em, 4em);
 
-    background: var(--fg);
-    border: 0;
-    height: 1px;
-    margin: 0 auto;
-    max-width: 60em;
-    overflow: visible;
-    text-align: center;
-    transition: background .3s ease-in;
-    
+  background: var(--fg);
+  border: 0;
+  height: 1px;
+  margin: 0 auto;
+  max-width: 60em;
+  overflow: visible;
+  text-align: center;
+  transition: background 0.3s ease-in;
+
+  &:after {
+    background: var(--bg);
+    content: '• • •';
+    display: inline-block;
+    font-size: 1.4em;
+    padding: 0 0.4em;
+    position: relative;
+    top: -0.7em;
+    transition: background 0.3s ease-in;
+  }
+
+  &:first-child {
+    margin-top: 0;
     &:after {
-        background: var(--bg);
-        content: "• • •";
-        display: inline-block;
-        font-size: 1.4em;
-        padding: 0 0.4em;
-        position: relative;
-        top: -0.7em;
-        transition: background .3s ease-in;
+      visibility: hidden;
     }
+  }
 
-    &:first-child {
-        margin-top: 0;
-        &:after {
-            visibility: hidden;
-        }
+  &.endPost {
+    background: $red;
+
+    &:after {
+      color: $red;
+      content: 'END';
+      font-size: 0.7em;
+      top: -1.2em;
     }
-
-    &.endPost {
-        background: $red;
-
-        &:after {
-            color: $red;
-            content: "END";
-            font-size: .7em;
-            top: -1.2em;
-        }
-    }
+  }
 }
 
 p {
-    & > .gatsby-resp-image-link {
-        width: calc(50% - .5em);
-        float: left;
-        
-        &:first-child {
-          margin-right: 1em;
-        }
-        
-        &:last-child {
-          &::after {
-            content: '';
-            display: block;
-            float: none;
-          }
-        }
-        
-        &:only-child {
-          float: none;
-          width: 100%;
-          margin-right: 0;
-        }
-      }
-      
-      & > img {
-        max-width: 100%;
-        width: auto;
-        margin: 0 auto;
+  & > .gatsby-resp-image-link {
+    width: calc(50% - 0.5em);
+    float: left;
+
+    &:first-child {
+      margin-right: 1em;
     }
+
+    &:last-child {
+      &::after {
+        content: '';
+        display: block;
+        float: none;
+      }
+    }
+
+    &:only-child {
+      float: none;
+      width: 100%;
+      margin-right: 0;
+    }
+  }
+
+  & > img {
+    max-width: 100%;
+    width: auto;
+    margin: 0 auto;
+  }
 }
 
 blockquote {
-    position: relative;
-    padding: 1em 3.33em;
-    margin: 1em 0;
-    background: mix($highlight, $bg, 10%);
-    font-style: italic;
-    
-    &::before {
-        content: "“";
-        font-style: normal;
-        font-family: serif;
-        font-weight: bold;
-        position: absolute;
-        font-size: 3em;
-        color: $highlight;
-        top: 0;
-        left: .33em;
-    }
-    
-    &::after {
-        content: "”";
-        font-style: normal;
-        font-family: serif;
-        font-weight: bold;
-        position: absolute;
-        font-size: 3em;
-        color: $highlight;
-        bottom: 0;
-        right: .33em;
-    }
+  position: relative;
+  padding: 1em 3.33em;
+  margin: 1em 0;
+  background: mix($highlight, $bg, 10%);
+  font-style: italic;
 
-    .dark & {
-        background: mix($highlight, $fg, 10%);
-    }
+  &::before {
+    content: '“';
+    font-style: normal;
+    font-family: serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 3em;
+    color: $highlight;
+    top: 0;
+    left: 0.33em;
+  }
+
+  &::after {
+    content: '”';
+    font-style: normal;
+    font-family: serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 3em;
+    color: $highlight;
+    bottom: 0;
+    right: 0.33em;
+  }
+
+  .dark & {
+    background: mix($highlight, $fg, 10%);
+  }
 }
 
 span.label {
-    font-size: 0.8rem;
-    color: var(--text-color);
-    display:block;
-    font-family: monospace;
-    font-weight: normal;
-    text-transform: uppercase;
+  font-size: 0.8rem;
+  color: var(--text-color);
+  display: block;
+  font-family: monospace;
+  font-weight: normal;
+  text-transform: uppercase;
 
-    &.inverse {
-        color: var(--bg);
+  &.inverse {
+    color: var(--bg);
 
-        .dark & {
-            color: var(--fg);
-        }
+    .dark & {
+      color: var(--fg);
     }
+  }
+}
+
+ul {
+  padding: 0;
+  margin: 1em 0;
+
+  li {
+    padding: 0;
+    margin: 0 0 0 40px;
+  }
 }
 
 // .gatsby-resp-image-wrapper {
@@ -262,4 +293,4 @@ span.label {
 //     }
 // }
 
-@import "./home";
+@import './home';

@@ -2,6 +2,8 @@
 path: 'speaking/inner-source-ecosystems'
 layout: 'presentation'
 title: 'Inner Source Ecosystems'
+image: 'Inner Sourcing Ecosystems.jpg'
+download: 'Inner Sourcing Ecosystems.pdf'
 tags:
   - Inner Source
 presentedAt:
