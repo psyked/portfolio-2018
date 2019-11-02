@@ -3,6 +3,8 @@ path: /blog/better-code-reviews/
 url: https://medium.com/swlh/better-code-reviews-44b181725c4d
 layout: post
 title: Better Code Reviews.
+description: Reducing fear and friction in the review process.
+image: 1_e_GcUPHFZitEAn0DUrp7FA.png
 date: 2019-09-03T06:40:11.169Z
 tags:
   - Code Review
@@ -12,13 +14,9 @@ tags:
   - Collaboration
 ---
 
-# Better Code Reviews.
-
-Reducing fear and friction in the review process.
-
 Code reviews are an essential part of developing software. And potentially one of the most challenging parts, because it involves exercising skills that aren’t necessary to write code, like diplomacy, tact and judgement.
 
-![](https://cdn-images-1.medium.com/max/2656/1*e_GcUPHFZitEAn0DUrp7FA.png)
+![](1_e_GcUPHFZitEAn0DUrp7FA.png)
 
 A problem that can be solved with code might only have one correct solution, but that solution can be written in many different ways. And many of those different ways satisfy other unwritten criteria, such as execution time, capacity for reuse, simplicity, comprehensibility, portability and consistency.
 
@@ -32,19 +30,19 @@ Code reviews are less about the solution and more about the shades of grey, and 
 
 Technical solutions are nice because they’re exact, precise and all aspects of them can be quantified. People solutions are complicated because they’re everything else.
 
-![](https://cdn-images-1.medium.com/max/2680/1*ZHwn8cArmOGrRm485LZldw.png)
+![](1_ZHwn8cArmOGrRm485LZldw.png)
 
 Code reviews are the point at which another person comes and looks at the code you’ve written, and picks out its flaws. Maybe the code you’ve written is too complex, maybe it’s too simple. Maybe your variable names aren’t consistent with the rest of the codebase, or it’s not [Object-Oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) enough or it’s not [Functional](https://en.wikipedia.org/wiki/Functional_programming) enough. Maybe, maybe, maybe.
 
 That’s the trouble with code reviews — they can be subjective, inconsistent in their scrutiny or based on unpredictable criteria.
 
-<iframe src="https://medium.com/media/c53a850c08cf61d4814feb67a7a190f3" frameborder=0></iframe>
+![](konmari-marie-kondo-spark-joy-T9KzHbWYlFtRFMH3HC.gif)
 
 ### Don’t stop reviewing!
 
 We shouldn’t do away with code reviews. Code reviews are an excellent tool for maintaining consistency and a shared understanding in a team. Code reviews are an essential part of software development, and they should be done in all directions — juniors reviewing seniors and vice versa.
 
-![](https://cdn-images-1.medium.com/max/2740/1*ybbr-iq5zv6LiTnOtGnzng.png)
+![](1_ybbr-iq5zv6LiTnOtGnzng.png)
 
 But code reviews can easily feel like personal attacks, which is why we have things like the [Prime Directive](https://retrospectivewiki.org/index.php?title=The_Prime_Directive):
 
@@ -62,7 +60,7 @@ Restricting feedback during a review isn’t an approach that’s likely to resu
 
 Broader criteria can reduce the surprise elements of a code review, but it can quickly become overly prescriptive about the way a problem is solved rather than defining what an acceptable solution looks like. Not only that, broadening the criteria for a task to include all possible measures of acceptable code runs the risk of creating impossible tasks for engineers to take on — solving the problem becomes too daunting, the feasibility of achieving certain criteria might be unknown at the beginning or impossible to satisfy, or the proposed solution is over-engineered and needlessly complex when a simpler solution would suffice.
 
-![](https://cdn-images-1.medium.com/max/2732/1*BtyDT7fENtRa5D-SmwS_fw.png)
+![](1_BtyDT7fENtRa5D-SmwS_fw.png)
 
 The best solution to the challenge of making code reviews better likely has nothing to do with what policy or process actually gets put into place to facilitate them. The technical solution is binary — it works, or it doesn’t — but the opinions and experiences of engineers vary, leading to unpredictable results and quality standards in reviews.
 
@@ -72,7 +70,7 @@ A code review has to be organic, as it’s an opportunity for all members of the
 
 The problem with having an organic approach to code reviews is that it seems to encourage purely functional commentary, which focuses only on the things that need to change, and not the elements which are good.
 
-![](https://cdn-images-1.medium.com/max/2204/1*2bcWexIZDKKmyIan9T1QHA.png)
+![](1_2bcWexIZDKKmyIan9T1QHA.png)
 
 If a code review is only about highlighting the negatives, the overall result is negative. It should have some positives as well. Focussing exclusively on the bad elements, and where changes are perceived to be needed only serves to highlight and exacerbate any underlying divisions in the team. And that’s bad. However well-meaning a review might be, it can be received as a personal attack. We’re human and we respond emotionally to attacks, and negative reviews given improperly sow dissent and can reinforce any underlying differences in age, experience, gender, seniority, organisational structure, culture or personality.
 
@@ -104,7 +102,7 @@ I don’t believe that better code reviews can be mandated by any change in proc
 
 - What else would I say if we were face-to-face?
 
-![](https://cdn-images-1.medium.com/max/2458/1*lVJzlGMYp6Jzn6AM3igZKA.png)
+![](1_lVJzlGMYp6Jzn6AM3igZKA.png)
 
 And that’s it. No magic formulas I’m afraid, just be a better human.
 
