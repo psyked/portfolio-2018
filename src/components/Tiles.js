@@ -4,11 +4,6 @@ import Link from 'gatsby-link'
 import Img from 'gatsby-image'
 import { format } from 'date-fns'
 
-// const Image = styled.img`   
-// width: 100%;
-//     height: 100%;
-//     object-fit: cover;`
-
 const ImageContainer = styled.aside`
     position: absolute;
     top: 0;
@@ -31,7 +26,6 @@ const Tile = styled.section`
 
     a, a:link, a:active, a:visited, a:hover {
         color: #fcfcfd;
-        // text-decoration: none;
     }
     
     h3, 
@@ -41,11 +35,13 @@ const Tile = styled.section`
 `
 
 const Title = styled.h3`
-        margin-top: 0;
-      `
-const DateLabel = styled.p`border-top: 1px solid $bg;
-            display: inline-block;
-        `
+    margin-top: 0;
+`
+
+const DateLabel = styled.p`
+    border-top: 1px solid $bg;
+    display: inline-block;
+`
 
 const TileContainer = styled.aside`
     width: 100%;
