@@ -2,11 +2,11 @@ import React from 'react'
 import styled from 'styled-components'
 
 import {
-    FaGithub,
-    FaTwitter,
-    FaInstagram,
-    FaMedium,
-    FaLinkedin,
+  FaGithub,
+  FaTwitter,
+  FaInstagram,
+  FaMedium,
+  FaLinkedin,
 } from 'react-icons/fa'
 
 const Overlay = styled.aside`
@@ -113,61 +113,60 @@ const InstagramLink = styled.li`
 `
 
 const Footer = (props) => (
-    <footer id="footer" style={{
-        backgroundColor: props.colour || 'hsla(240, 100%, 12%, 0.6)',
-        position: 'relative',
-        marginTop: '-1em',
-        padding: '1em 0 3em'
-    }}>
-        <Overlay />
-        <div className="bodyContainer" style={{ zIndex: 2, position: 'relative', color: 'white' }}>
-            <div className="bodyContent">
-                <h3>Elsewhere, on social media;</h3>
-                <ul className="external-profiles">
-                    <TwitterLink>
-                        <a href="//twitter.com/psyked">
-                            <span>
-                                <FaTwitter />
-                                Twitter
+  <footer id="footer" style={{
+    backgroundColor: props.colour || 'hsla(240, 100%, 12%, 0.6)',
+    position: 'relative',
+    padding: '1em 0 3em'
+  }}>
+    <Overlay />
+    <div className="bodyContainer" style={{ zIndex: 2, position: 'relative', color: 'white' }}>
+      <div className="bodyContent">
+        <h3>Elsewhere, on social media;</h3>
+        <ul className="external-profiles">
+          <TwitterLink>
+            <a href="//twitter.com/psyked">
+              <span>
+                <FaTwitter />
+                Twitter
                         </span>
-                        </a>
-                    </TwitterLink>
-                    <InstagramLink>
-                        <a href="//instagram.com/psyked">
-                            <span>
-                                <FaInstagram />
-                                Instagram
+            </a>
+          </TwitterLink>
+          <InstagramLink>
+            <a href="//instagram.com/psyked">
+              <span>
+                <FaInstagram />
+                Instagram
                         </span>
-                        </a>
-                    </InstagramLink>
-                    <GitHubLink>
-                        <a href="//github.com/psyked">
-                            <span>
-                                <FaGithub />
-                                GitHub
+            </a>
+          </InstagramLink>
+          <GitHubLink>
+            <a href="//github.com/psyked">
+              <span>
+                <FaGithub />
+                GitHub
                         </span>
-                        </a>
-                    </GitHubLink>
-                    <LinkedInLink>
-                        <a href="//linkedin.com/in/jamesford">
-                            <span>
-                                <FaLinkedin />
-                                LinkedIn
+            </a>
+          </GitHubLink>
+          <LinkedInLink>
+            <a href="//linkedin.com/in/jamesford">
+              <span>
+                <FaLinkedin />
+                LinkedIn
                         </span>
-                        </a>
-                    </LinkedInLink>
-                    <MediumLink>
-                        <a href="//medium.com/@psyked">
-                            <span>
-                                <FaMedium />
-                                Medium
+            </a>
+          </LinkedInLink>
+          <MediumLink>
+            <a href="//medium.com/@psyked">
+              <span>
+                <FaMedium />
+                Medium
                         </span>
-                        </a>
-                    </MediumLink>
-                </ul>
-            </div>
-        </div>
-    </footer>
+            </a>
+          </MediumLink>
+        </ul>
+      </div>
+    </div>
+  </footer>
 )
 
 export default Footer
