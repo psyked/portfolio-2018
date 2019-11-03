@@ -1,2 +1,0 @@
-webpackJsonp([0xef5e7447a6d0],{895:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---hacking-facebook-like-buttons-for-w-3-c-validation-in-html-5-86b4775ddc21e5f54d18.js.map

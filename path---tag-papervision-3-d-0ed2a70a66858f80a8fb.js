@@ -1,2 +1,0 @@
-webpackJsonp([69384188870443],{1594:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Kick-ass Papervision Reflections",path:"/blog/kick-ass-papervision-reflections/"}}}]}},pathContext:{tag:"papervision-3d"}}}});
-//# sourceMappingURL=path---tag-papervision-3-d-0ed2a70a66858f80a8fb.js.map

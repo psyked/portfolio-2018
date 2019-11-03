@@ -1,2 +1,0 @@
-webpackJsonp([0x8fbd8f2251c4],{1601:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Fluid widths in responsive websites.",path:"/blog/fluid-widths-in-responsive-websites-2a02499295d9/"}}},{node:{frontmatter:{title:"PokéProject Dev Diary: Day Five",path:"/blog/pok%C3%A9project-dev-diary-day-five-92859457a20a/"}}}]}},pathContext:{tag:"CSS"}}}});
-//# sourceMappingURL=path---tag-css-7a437a91a814dfb3d629.js.map

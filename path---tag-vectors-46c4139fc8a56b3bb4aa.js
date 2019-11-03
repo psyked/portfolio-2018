@@ -1,2 +1,0 @@
-webpackJsonp([0xf678df122245],{1845:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Free Vector Images",path:"/blog/free-vector-images/"}}},{node:{frontmatter:{title:"Vector Magic",path:"/blog/vector-magic/"}}}]}},pathContext:{tag:"vectors"}}}});
-//# sourceMappingURL=path---tag-vectors-46c4139fc8a56b3bb4aa.js.map

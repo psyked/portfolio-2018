@@ -1,2 +1,0 @@
-webpackJsonp([0x6b7940ff941e],{1632:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"IE8 Beta goes public - and what are those new features?",path:"/blog/ie8-beta-goes-public-and-what-are-those-new-features/"}}}]}},pathContext:{tag:"msdn"}}}});
-//# sourceMappingURL=path---tag-msdn-9e32ba004117a49268b1.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xebcd53bbe181],{1740:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Recognition and Rewards",path:"/blog/recognition-and-rewards/"}}},{node:{frontmatter:{title:"Culture of fear",path:"/blog/culture-of-fear/"}}},{node:{frontmatter:{title:"Duotone: Version 2",path:"/blog/duotone-version-2/"}}}]}},pathContext:{tag:"Software Development"}}}});
-//# sourceMappingURL=path---tag-software-development-029e34667b51bfd5a2e3.js.map

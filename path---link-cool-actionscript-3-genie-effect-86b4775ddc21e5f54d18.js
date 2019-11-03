@@ -1,2 +1,0 @@
-webpackJsonp([0x7975b55bff98],{952:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---link-cool-actionscript-3-genie-effect-86b4775ddc21e5f54d18.js.map

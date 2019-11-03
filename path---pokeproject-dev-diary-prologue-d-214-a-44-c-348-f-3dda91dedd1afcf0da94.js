@@ -1,2 +1,0 @@
-webpackJsonp([0x988b5dbaba29],{1385:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Psyked: James' Web Development website",author:"James Ford"}},markdownRemark:null},pathContext:{prev:{frontmatter:{path:"poképroject-from-static-html-to-react-to-nuxt-b6fbe42bab18",tags:null,title:"",date:null}},next:{frontmatter:{path:"poképroject-dev-diary-day-six-c263ef30fd0c",tags:null,title:"",date:null}}}}}});
-//# sourceMappingURL=path---pokeproject-dev-diary-prologue-d-214-a-44-c-348-f-3dda91dedd1afcf0da94.js.map

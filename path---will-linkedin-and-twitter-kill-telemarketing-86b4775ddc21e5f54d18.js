@@ -1,2 +1,0 @@
-webpackJsonp([0xaed3086ce11b],{1111:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---will-linkedin-and-twitter-kill-telemarketing-86b4775ddc21e5f54d18.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xf906e0a0b264],{1684:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Improving your website with Nibbler",path:"/blog/improving-your-website-with-nibbler/"}}}]}},pathContext:{tag:"nibbler"}}}});
-//# sourceMappingURL=path---tag-nibbler-4ab5965698f212d85a20.js.map

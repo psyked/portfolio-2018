@@ -1,2 +1,0 @@
-webpackJsonp([0x7d9c4683aa70],{1052:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---some-points-to-consider-when-building-air-apps-86b4775ddc21e5f54d18.js.map

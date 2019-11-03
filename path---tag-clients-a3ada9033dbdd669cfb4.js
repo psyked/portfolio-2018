@@ -1,2 +1,0 @@
-webpackJsonp([0xc9cd54adc090],{1586:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What the client sees... and what the developer sees...",path:"/blog/what-the-client-sees-and-what-the-developer-sees/"}}}]}},pathContext:{tag:"clients"}}}});
-//# sourceMappingURL=path---tag-clients-a3ada9033dbdd669cfb4.js.map

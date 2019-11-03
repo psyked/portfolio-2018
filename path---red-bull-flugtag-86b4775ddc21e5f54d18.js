@@ -1,2 +1,0 @@
-webpackJsonp([73577240027417],{1025:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---red-bull-flugtag-86b4775ddc21e5f54d18.js.map

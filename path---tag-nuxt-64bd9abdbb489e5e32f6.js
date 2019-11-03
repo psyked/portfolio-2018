@@ -1,2 +1,0 @@
-webpackJsonp([93140034147770],{1665:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"PokéProject: Adventures with LEGO® Bricks",path:"/blog/pokeproject-adventures-with-lego-r-bricks/"}}},{node:{frontmatter:{title:"PokéProject: from Static HTML, to React, to Nuxt.",path:"/blog/from-static-html-to-react-to-nuxt/"}}}]}},pathContext:{tag:"nuxt"}}}});
-//# sourceMappingURL=path---tag-nuxt-64bd9abdbb489e5e32f6.js.map

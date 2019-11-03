@@ -1,2 +1,0 @@
-webpackJsonp([0xc8ae9ed68a5],{1748:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject Dev Diary: Day Six",path:"/blog/pok%C3%A9project-dev-diary-day-six-c263ef30fd0c/"}}}]}},pathContext:{tag:"Ssl"}}}});
-//# sourceMappingURL=path---tag-ssl-eb33899da01c91b3933c.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([75590919120073],{1710:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"There Be Pixels!",path:"/blog/there-be-pixels/"}}}]}},pathContext:{tag:"pixels"}}}});
-//# sourceMappingURL=path---tag-pixels-1faf2fd1f571bd8c7744.js.map

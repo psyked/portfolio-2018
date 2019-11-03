@@ -1,2 +1,0 @@
-webpackJsonp([0x67cb7edea9da],{1376:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Psyked: James' Web Development website",author:"James Ford"}},markdownRemark:null},pathContext:{prev:{frontmatter:{path:"poképroject-adventures-with-lego-bricks-7f24c02f6d9d",tags:null,title:"",image:null,date:null}},next:{frontmatter:{path:"poképroject-adventures-with-lego-bricks-5ffefc875a8f",tags:null,title:"",image:null,date:null}}}}}});
-//# sourceMappingURL=path---pokeproject-adventures-with-lego-bricks-cd-9401091239-11d8aaaa97fe0df2bbbc.js.map

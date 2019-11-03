@@ -1,2 +1,0 @@
-webpackJsonp([1916985579139],{951:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---link-computer-mind-control-with-actionscript-3-0-86b4775ddc21e5f54d18.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xa78c2cb88bc6],{1547:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Explorative Prototyping",path:"/blog/explorative-prototyping/"}}}]}},pathContext:{tag:"hackathon"}}}});
-//# sourceMappingURL=path---tag-hackathon-d45eef6053dcd85ca22d.js.map

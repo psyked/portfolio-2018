@@ -1,2 +1,0 @@
-webpackJsonp([0xf9c5e7edd300],{1110:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---why-your-next-marketing-hire-should-be-a-robot-86b4775ddc21e5f54d18.js.map

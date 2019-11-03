@@ -1,2 +1,0 @@
-webpackJsonp([0xdf5851fa177],{1830:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Link: Actionscript 3 - Don’t User the Timer to Make Timers",path:"/blog/link-actionscript-3-dont-user-the-timer-to-make-timers/"}}}]}},pathContext:{tag:"timer"}}}});
-//# sourceMappingURL=path---tag-timer-c19846a8bbafaa1eedcb.js.map

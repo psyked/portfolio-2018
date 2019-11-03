@@ -1,2 +1,0 @@
-webpackJsonp([0xcf69b54284a],{1534:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Rethinking my “personal” website.",path:"/blog/rethinking-my-personal-website/"}}},{node:{frontmatter:{title:"Rethinking my “personal” website.",path:"/blog/rethinking-my-personal-website-5e591e78b261/"}}},{node:{frontmatter:{title:"PokéProject Dev Diary: Day Four",path:"/blog/poképroject-dev-diary-day-four/"}}}]}},pathContext:{tag:"Blogging"}}}});
-//# sourceMappingURL=path---tag-blogging-fbc7f9a98f81f65d711e.js.map

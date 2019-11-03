@@ -1,2 +1,0 @@
-webpackJsonp([63658409866041],{1101:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---webcam-face-detection-demo-now-with-source-86b4775ddc21e5f54d18.js.map

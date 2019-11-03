@@ -1,2 +1,0 @@
-webpackJsonp([0xebcd53bbe181],{1690:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Culture of fear",path:"/blog/culture-of-fear/"}}},{node:{frontmatter:{title:"Version 2",path:"/blog/version-2-bb6e7a08644d/"}}}]}},pathContext:{tag:"Software Development"}}}});
-//# sourceMappingURL=path---tag-software-development-ad89955a92a2f5bd593c.js.map

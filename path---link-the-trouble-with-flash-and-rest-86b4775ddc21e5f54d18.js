@@ -1,2 +1,0 @@
-webpackJsonp([0xb44821b1bf16],{973:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---link-the-trouble-with-flash-and-rest-86b4775ddc21e5f54d18.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([63541204576690],{1577:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Link: Advanced PDF eSeminar for ActionScript developers",path:"/blog/link-advanced-pdf-eseminar-for-actionscript-developers/"}}},{node:{frontmatter:{title:"Creating a PDF Widget on Acrobat.com",path:"/blog/creating-a-pdf-widget-on-acrobatcom/"}}}]}},pathContext:{tag:"pdf"}}}});
-//# sourceMappingURL=path---tag-pdf-38a9584708a518b53243.js.map

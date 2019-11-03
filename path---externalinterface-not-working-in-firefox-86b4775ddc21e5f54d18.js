@@ -1,2 +1,0 @@
-webpackJsonp([0x76df53b095f8],{834:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---externalinterface-not-working-in-firefox-86b4775ddc21e5f54d18.js.map

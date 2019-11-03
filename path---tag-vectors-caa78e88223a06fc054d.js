@@ -1,2 +1,0 @@
-webpackJsonp([0xf678df122245],{1780:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Vector Magic",path:"/blog/vector-magic/"}}}]}},pathContext:{tag:"vectors"}}}});
-//# sourceMappingURL=path---tag-vectors-caa78e88223a06fc054d.js.map

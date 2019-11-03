@@ -1,2 +1,0 @@
-webpackJsonp([88916232960065],{1463:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"PokéProject Dev Diary: Day Seven",path:"/blog/poképroject-dev-diary-day-seven-dc096bdac274/"}}}]}},pathContext:{tag:"Digital Marketing"}}}});
-//# sourceMappingURL=path---tag-digital-marketing-ec6bcb5fbde88dae9aea.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xaa0a7626bbd6],{1484:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Front End Web Development setup, with Visual Studio Code.",path:"/blog/my-visual-studio-code-setup/"}}}]}},pathContext:{tag:"development"}}}});
-//# sourceMappingURL=path---tag-development-17df0a6b74eaf2faa0ab.js.map

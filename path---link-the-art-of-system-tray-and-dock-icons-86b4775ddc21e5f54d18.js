@@ -1,2 +1,0 @@
-webpackJsonp([0x74f79be96205],{970:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---link-the-art-of-system-tray-and-dock-icons-86b4775ddc21e5f54d18.js.map

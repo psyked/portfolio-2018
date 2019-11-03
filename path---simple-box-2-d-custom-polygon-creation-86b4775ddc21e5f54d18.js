@@ -1,2 +1,0 @@
-webpackJsonp([0x84096bd5af79],{1045:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---simple-box-2-d-custom-polygon-creation-86b4775ddc21e5f54d18.js.map

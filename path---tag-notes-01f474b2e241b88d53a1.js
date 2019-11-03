@@ -1,2 +1,0 @@
-webpackJsonp([0xd12411cc146a],{1624:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Scribbling away during meetings.",path:"/blog/scribbling-away-during-meetings/"}}}]}},pathContext:{tag:"notes"}}}});
-//# sourceMappingURL=path---tag-notes-01f474b2e241b88d53a1.js.map

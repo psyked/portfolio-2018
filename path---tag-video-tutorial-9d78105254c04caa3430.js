@@ -1,2 +1,0 @@
-webpackJsonp([0x8a33c7ee0b88],{1846:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Video Tutorial Link(s): Getting started with Regex",path:"/blog/video-tutorial-links-getting-started-with-regex/"}}}]}},pathContext:{tag:"video-tutorial"}}}});
-//# sourceMappingURL=path---tag-video-tutorial-9d78105254c04caa3430.js.map

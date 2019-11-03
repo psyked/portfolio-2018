@@ -1,2 +1,0 @@
-webpackJsonp([21965407730235],{1622:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"09/04/08 Flash Player security update",path:"/blog/flash-player-security-update/"}}}]}},pathContext:{tag:"geturl"}}}});
-//# sourceMappingURL=path---tag-geturl-2c1a69c2edfb1381812b.js.map

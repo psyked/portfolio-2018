@@ -1,2 +1,0 @@
-webpackJsonp([0xa9fed404ad05],{1448:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"MMT Digital's 2010 Christmas Game",path:"/blog/mmt-digitals-2010-christmas-game/"}}},{node:{frontmatter:{title:"Christmas Games – Online & Downloadable",path:"/blog/christmas-games-online-downloadable/"}}}]}},pathContext:{tag:"christmas-games"}}}});
-//# sourceMappingURL=path---tag-christmas-games-7ce08a49fcc1c2cb4bed.js.map

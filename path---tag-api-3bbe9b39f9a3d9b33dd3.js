@@ -1,2 +1,0 @@
-webpackJsonp([61386369780819],{1429:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"AIR iPhone Application",path:"/blog/air-iphone-application/"}}}]}},pathContext:{tag:"api"}}}});
-//# sourceMappingURL=path---tag-api-3bbe9b39f9a3d9b33dd3.js.map

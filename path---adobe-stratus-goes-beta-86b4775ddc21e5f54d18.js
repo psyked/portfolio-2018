@@ -1,2 +1,0 @@
-webpackJsonp([0xb3ea5f0fe265],{757:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---adobe-stratus-goes-beta-86b4775ddc21e5f54d18.js.map

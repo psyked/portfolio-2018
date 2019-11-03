@@ -1,2 +1,0 @@
-webpackJsonp([0xd5deed73dc9a],{1649:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Moodstream - get inspired!",path:"/blog/moodstream-get-inspired/"}}},{node:{frontmatter:{title:"EveryStockPhoto",path:"/blog/everystockphoto/"}}},{node:{frontmatter:{title:"Stock Exchange",path:"/blog/stock-exchange/"}}}]}},pathContext:{tag:"stock-images"}}}});
-//# sourceMappingURL=path---tag-stock-images-88632535d1b51320bb5a.js.map

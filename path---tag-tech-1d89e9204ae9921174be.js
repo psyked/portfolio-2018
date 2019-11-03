@@ -1,2 +1,0 @@
-webpackJsonp([0x74659e29af77],{1760:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Colours: A lightning Talk ⚡️",path:"/blog/colours-a-lightning-talk-%EF%B8%8F-80d209d58d3c/"}}},{node:{frontmatter:{title:"Building a humanised command-line interface with Node.js",path:"/blog/building-a-humanised-command-line-interface-with-node-js-d951273a3d94/"}}}]}},pathContext:{tag:"Tech"}}}});
-//# sourceMappingURL=path---tag-tech-1d89e9204ae9921174be.js.map

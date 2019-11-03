@@ -1,2 +1,0 @@
-webpackJsonp([0xb9d32970f1db],{1493:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Duotone: Version 2",path:"/blog/duotone-version-2/"}}},{node:{frontmatter:{title:"Building “duotone”",path:"/blog/building-duotone-fc7e0d9a3b9e/"}}}]}},pathContext:{tag:"Duotone"}}}});
-//# sourceMappingURL=path---tag-duotone-87371f1e66ac2e414219.js.map

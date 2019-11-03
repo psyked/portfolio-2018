@@ -1,2 +1,0 @@
-webpackJsonp([0xc064f93ebe05],{1602:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Building “duotone”",path:"/blog/building-duotone-fc7e0d9a3b9e/"}}}]}},pathContext:{tag:"Nuxtjs"}}}});
-//# sourceMappingURL=path---tag-nuxtjs-9f74bef8374690a265b8.js.map

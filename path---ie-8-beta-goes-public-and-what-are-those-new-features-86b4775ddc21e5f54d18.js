@@ -1,2 +1,0 @@
-webpackJsonp([0xa7cf8a4560c0],{909:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---ie-8-beta-goes-public-and-what-are-those-new-features-86b4775ddc21e5f54d18.js.map

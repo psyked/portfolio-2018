@@ -1,2 +1,0 @@
-webpackJsonp([0xf77f64e804e6],{1115:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---x-3-video-tutorials-for-getting-started-with-degrafa-86b4775ddc21e5f54d18.js.map

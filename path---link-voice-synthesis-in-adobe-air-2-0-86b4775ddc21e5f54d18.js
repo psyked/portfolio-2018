@@ -1,2 +1,0 @@
-webpackJsonp([88332938870646],{977:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---link-voice-synthesis-in-adobe-air-2-0-86b4775ddc21e5f54d18.js.map

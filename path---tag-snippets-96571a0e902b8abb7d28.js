@@ -1,2 +1,0 @@
-webpackJsonp([0x5bdf3ff5ce4c],{1806:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Rotating BitmapData with Actionscript 3",path:"/blog/rotating-bitmapdata/"}}}]}},pathContext:{tag:"snippets"}}}});
-//# sourceMappingURL=path---tag-snippets-96571a0e902b8abb7d28.js.map

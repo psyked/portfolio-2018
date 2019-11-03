@@ -1,2 +1,0 @@
-webpackJsonp([46652450799311],{1376:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"ImageSizer 0.5.3 is now available!",path:"/blog/imagesizer-0-5-3-is-now-available/"}}},{node:{frontmatter:{title:"ADM - Application Descriptor Manager",path:"/blog/adm-application-descriptor-manager/"}}},{node:{frontmatter:{title:"Imagine the possibilities...",path:"/blog/imagine-the-possibilities/"}}}]}},pathContext:{tag:"adobe-air"}}}});
-//# sourceMappingURL=path---tag-adobe-air-cc7b5df331f29f7fdf5c.js.map

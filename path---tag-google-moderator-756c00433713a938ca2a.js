@@ -1,2 +1,0 @@
-webpackJsonp([21105365598301],{1571:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Got an idea for Flash book?",path:"/blog/got-an-idea-for-flash-book/"}}}]}},pathContext:{tag:"google-moderator"}}}});
-//# sourceMappingURL=path---tag-google-moderator-756c00433713a938ca2a.js.map

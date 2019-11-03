@@ -1,2 +1,0 @@
-webpackJsonp([0x6ac3a5ad665f],{1794:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Inspired by Open Source.",path:"/blog/inspired-by-open-source/"}}}]}},pathContext:{tag:"Workflow Automation"}}}});
-//# sourceMappingURL=path---tag-workflow-automation-b581f6e0f98448c54256.js.map

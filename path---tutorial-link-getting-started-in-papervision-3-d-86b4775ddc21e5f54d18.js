@@ -1,2 +1,0 @@
-webpackJsonp([0xd623cbda2304],{1080:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---tutorial-link-getting-started-in-papervision-3-d-86b4775ddc21e5f54d18.js.map

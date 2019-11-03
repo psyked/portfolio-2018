@@ -1,2 +1,0 @@
-webpackJsonp([94277166142102],{1502:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Building “duotone”",path:"/blog/building-duotone-fc7e0d9a3b9e/"}}},{node:{frontmatter:{title:"Scribbling away during meetings.",path:"/blog/scribbling-away-during-meetings-bf1c1a46f018/"}}},{node:{frontmatter:{title:"PokéProject Dev Diary: Day Two",path:"/blog/pokeproject-dev-diary-day-two-a6019e6cf0f0/"}}}]}},pathContext:{tag:"Design"}}}});
-//# sourceMappingURL=path---tag-design-a99c661761fa03435c9f.js.map

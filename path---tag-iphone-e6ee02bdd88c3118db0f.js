@@ -1,2 +1,0 @@
-webpackJsonp([0x8fdd64bc3c3b],{1567:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"An incomplete review of books on iPhone Development.",path:"/blog/an-incomplete-review-of-books-on-iphone-development/"}}},{node:{frontmatter:{title:"I am now an iPhone app developer.",path:"/blog/i-am-now-an-iphone-app-developer/"}}},{node:{frontmatter:{title:"AIR iPhone Application",path:"/blog/air-iphone-application/"}}}]}},pathContext:{tag:"iphone"}}}});
-//# sourceMappingURL=path---tag-iphone-e6ee02bdd88c3118db0f.js.map

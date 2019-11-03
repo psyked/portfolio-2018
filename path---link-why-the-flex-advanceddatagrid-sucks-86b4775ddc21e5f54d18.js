@@ -1,2 +1,0 @@
-webpackJsonp([0xcf256639341c],{978:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter - Forty by HTML5 UP",author:"Hunter Chang"}},markdownRemark:null},pathContext:{}}}});
-//# sourceMappingURL=path---link-why-the-flex-advanceddatagrid-sucks-86b4775ddc21e5f54d18.js.map
