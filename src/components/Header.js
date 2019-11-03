@@ -61,9 +61,9 @@ const HeaderComponent = props => (
         <MenuLink to="/blog/" activeClassName="active">
           Blog Archive
         </MenuLink>
-        <MenuLink to="/projects/" activeClassName="active">
+        {/* <MenuLink to="/projects/" activeClassName="active">
           Projects
-        </MenuLink>
+        </MenuLink> */}
         <MenuLink to="/speaking/" activeClassName="active">
           Public Speaking
         </MenuLink>
