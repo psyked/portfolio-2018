@@ -1,20 +1,22 @@
 ---
 path: /blog/culture-of-fear/
-title: "Culture of fear"
-url: "https://medium.com/@psyked/culture-of-fear-9850823040b0"
+layout: post
+title: 'Culture of fear'
+url: 'https://medium.com/@psyked/culture-of-fear-9850823040b0'
 image: 1*q9eE6JDx90bujWY6Da8lhQ.png
-description: "Yes, it’s a project from Hell, but who’s to blame?"
-author: "https://medium.com/@psyked"
-creator: "@psyked"
+description: 'Yes, it’s a project from Hell, but who’s to blame?'
+author: 'https://medium.com/@psyked'
+creator: '@psyked'
 date: 2018-03-29T13:19:47.428Z
 tags:
-- Medium
-- Software Development
-- Project Management
-- Software Engineering
-- Thought Leadership
-- Strategy
+  - Medium
+  - Software Development
+  - Project Management
+  - Software Engineering
+  - Thought Leadership
+  - Strategy
 ---
+
 ## Yes, it’s a project from Hell, but who’s to blame?
 
 This tale of a project from hell (from Twitter, above, [direct link to the original article](https://projectfailures.wordpress.com/2008/06/24/project-from-hell/)) got me thinking this past week.

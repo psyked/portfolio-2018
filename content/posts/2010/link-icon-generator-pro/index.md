@@ -2,10 +2,11 @@
 path: /blog/link-icon-generator-pro/
 layout: post
 title: 'Link: Icon Generator Pro'
+image: icon-generator-pro.png
 date: 2010-05-12T08:26:14Z
 tags:
-- air-marketplace
-- icons
+  - air-marketplace
+  - icons
 ---
 
 ![](icon-generator-pro.png)
