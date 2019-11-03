@@ -30,7 +30,7 @@ const Tile = styled.section`
     position: relative;
 
     a, a:link, a:active, a:visited, a:hover {
-        color: var(--bg);
+        color: #fcfcfd;
         // text-decoration: none;
     }
     
