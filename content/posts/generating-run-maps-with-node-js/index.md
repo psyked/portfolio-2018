@@ -131,13 +131,13 @@ GeoJSON generated from Mapbox Vector Tiles, and rendered as SVG by D3.js
 
 The output is an SVG image containing path elements and basic shapes, but at the moment it’s just a jumbled mess of geography, completely free of any styling to make the map actually readable. To make anything visible, I’ve added the some basic CSS styles, which the generated SVG inherits.
 
-path {  
- fill: none;  
- stroke: #000;  
- stroke-linejoin: round;  
- stroke-linecap: round;  
- stroke-width: .5px;  
-}
+    path {
+    fill: none;
+    stroke: #000;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-width: .5px;
+    }
 
 #### Rendering a half-decent map
 
@@ -145,18 +145,18 @@ It’s getting tantalisingly close, now that I can start recognising geography. 
 
 Fortunately the GeoJSON data still contains this information, and with a few tweaks to the D3 code I can generate SVG shapes with classes that reflect their type, and then start expanding the CSS stylesheet with styles like these:
 
-.river,.canal {  
- stroke-width: 2px;  
-}  
-.stream_intermittent,.track,.fence {  
- stroke-dasharray: 3, 3;  
-}  
-.river,.canal,.stream,.stream_intermittent,.drain,.ditch {  
- stroke: #1C8FE8;  
-}  
-.major_rail {  
- stroke: #F45B69;  
-}
+    .river,.canal {
+    stroke-width: 2px;
+    }
+    .stream_intermittent,.track,.fence {
+    stroke-dasharray: 3, 3;
+    }
+    .river,.canal,.stream,.stream_intermittent,.drain,.ditch {
+    stroke: #1C8FE8;
+    }
+    .major_rail {
+    stroke: #F45B69;
+    }
 
 With enough styles and tweaking, I can eventually produce an output map that’s way more aesthetically pleasing, like this:
 

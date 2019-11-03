@@ -4,10 +4,10 @@ layout: post
 title: Augmented Reality with Flash
 date: 2008-06-05T17:20:13Z
 tags:
-- flash
-- augmented-reality
-- papervision
-- webcam
+  - flash
+  - augmented-reality
+  - papervision
+  - webcam
 ---
 
 Here's another "wow" project - FLARToolKit (**FL**ash **A**ugmented **R**eality **ToolKit**)
