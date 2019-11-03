@@ -2,8 +2,6 @@
 path: 'speaking/delivering-js-at-scale'
 layout: 'presentation'
 title: 'Delivering JS at Scale'
-image: 'Leicester JS - Javascript at Scale.jpg'
-download: 'Leicester JS - Javascript at Scale.pdf'
 tags:
   - Delivery
 presentedAt:
@@ -11,6 +9,7 @@ presentedAt:
     date: 2019-03-21
     link: https://www.meetup.com/leicesterjs/events/259296374/
     recording: https://www.youtube.com/watch?v=wTIpkyw-8LU
+    download: 'Leicester JS - Javascript at Scale.pdf'
   - name: P3X
     date: 2019-10-31
   - name: DPiP
