@@ -50,9 +50,7 @@ const TileContainer = styled.aside`
     display: flex;
     flex-direction: row;
     justify-content: stretch;
-    // padding-top: 2em;
     padding-bottom: 0em;
-    // margin-bottom:-1em;
     background: hsl(240,100%,12%);
 `
 
@@ -67,35 +65,37 @@ const Blackout = styled.div`
 
 const Tiles = ({ tiles }) => {
   return (
-    <TileContainer>
-      {tiles &&
-        tiles
-          .filter(tile => !!tile)
-          .map((tile, index) => {
-            return (
-              <Tile key={index} >
-                <Link to={tile.frontmatter.path}>
-                  {tile.frontmatter.image &&
-                    tile.frontmatter.image.childImageSharp && (
-                      <ImageContainer>
-                        <Wrapper
-                          sizes={tile.frontmatter.image.childImageSharp.sizes}
-                        />
-                      </ImageContainer>
-                    )}
-                  <Blackout />
-                  <Title>{tile.frontmatter.title}</Title>
-                  <p>
-                    {tile.frontmatter.description}
-                  </p>
-                  <DateLabel>
-                    {format(new Date(tile.frontmatter.date), 'DD MMM YYYY')}
-                  </DateLabel>
-                </Link>
-              </Tile>
-            )
-          })}
-    </TileContainer>
+    <div className="bodyContainer">
+      <TileContainer>
+        {tiles &&
+          tiles
+            .filter(tile => !!tile)
+            .map((tile, index) => {
+              return (
+                <Tile key={index} >
+                  <Link to={tile.frontmatter.path}>
+                    {tile.frontmatter.image &&
+                      tile.frontmatter.image.childImageSharp && (
+                        <ImageContainer>
+                          <Wrapper
+                            sizes={tile.frontmatter.image.childImageSharp.sizes}
+                          />
+                        </ImageContainer>
+                      )}
+                    <Blackout />
+                    <Title>{tile.frontmatter.title}</Title>
+                    <p>
+                      {tile.frontmatter.description}
+                    </p>
+                    <DateLabel>
+                      {format(new Date(tile.frontmatter.date), 'DD MMM YYYY')}
+                    </DateLabel>
+                  </Link>
+                </Tile>
+              )
+            })}
+      </TileContainer>
+    </div>
   )
 }
 

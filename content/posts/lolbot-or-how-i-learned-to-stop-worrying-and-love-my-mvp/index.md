@@ -5,6 +5,7 @@ title: 'LOLBot or: How I Learned to Stop Worrying and Love my MVP'
 description: 'The ups and ups of adopting an MVP mentality for our Hackathon, and how it helped us achieve victory.'
 url: 'https://medium.com/@psyked_james/lolbot-or-how-i-learned-to-stop-worrying-and-love-my-mvp-7514ad67a5c9'
 image: 1*l1TNV0hQXW2y4HnQnFsfMA.png
+image_credit: '[Jonathunder 2010](http://commons.wikimedia.org/wiki/File:SoapboxRace.jpg)'
 src: 'https://cdn-images-1.medium.com/max/1200/1*l1TNV0hQXW2y4HnQnFsfMA.png'
 author: 'https://medium.com/@psyked_james'
 published_time: 2015-04-05T23:42:54.971Z
@@ -15,12 +16,6 @@ tags:
   - Agile
   - Development
 date: 2015-04-05T23:42:54.971Z
----
-
-# Project LOLBot or: How I Learned to Stop Worrying and Love My M.V.P.
-
-[Title image (c) 2010 Jonathunder](http://commons.wikimedia.org/wiki/File:SoapboxRace.jpg)
-
 ---
 
 > It’s recently been Hackathon time again at MMT Digital, which gave [@ben_squire](https://twitter.com/ben_squire) and myself ([@psyked](https://twitter.com/psyked)) a fantastic opportunity to work together on something completely different and fun. This time we developed [@\_lolbot\_](https://twitter.com/_lolbot_), our own friendly joke-telling robot.

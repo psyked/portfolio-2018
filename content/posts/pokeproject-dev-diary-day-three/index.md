@@ -1,19 +1,19 @@
 ---
 path: /blog/poképroject-dev-diary-day-three/
-layout: "post"
-title: "PokéProject Dev Diary: Day Three"
-description: "Changing the theme a bit, today has all been about data, APIs and data transformation."
-url: "https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-three-31afdf3e1302"
-image: 1*Jdy8DfU9xn_2jW8i8O3s6g.gif
-src: "https://cdn-images-1.medium.com/max/1200/1*Jdy8DfU9xn_2jW8i8O3s6g.gif"
-author: "https://medium.com/@psyked"
+layout: 'post'
+title: 'PokéProject Dev Diary: Day Three'
+description: 'Changing the theme a bit, today has all been about data, APIs and data transformation.'
+url: 'https://medium.com/@psyked/pok%C3%A9project-dev-diary-day-three-31afdf3e1302'
+image: 1*R01SfEw7eI36hn5NhgGh_g.png
+src: 'https://cdn-images-1.medium.com/max/1200/1*Jdy8DfU9xn_2jW8i8O3s6g.gif'
+author: 'https://medium.com/@psyked'
 published_time: 2016-09-17T13:21:53.274Z
-creator: "@psyked"
+creator: '@psyked'
 tags:
-- JavaScript
-- Nodejs
-- Agile
-- Pokemon
+  - JavaScript
+  - Nodejs
+  - Agile
+  - Pokemon
 date: 2016-09-17T13:21:53.274Z
 ---
 

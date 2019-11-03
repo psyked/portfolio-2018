@@ -11,10 +11,6 @@ creator: '@psyked_james'
 date: 2014-09-28T21:27:41.662Z
 ---
 
-# The 6 Deadly Sins of Unit Testing
-
----
-
 Not _all_ of the traditional ‘7 deadly sins’ that we know and love apply to such abstract concepts as Unit Testing, but a fair few of them _do_ apply and they plague us regularly in our efforts to create effective, useful tests for our source code. And much like the original 7, recognising and understanding ‘the enemy within’ helps us avoid falling into the same old traps.
 
 So without further ado, here’s my 6 Deadly Sins of Unit Testing:

@@ -14,29 +14,13 @@ tags:
   - Medium
 ---
 
-# If it’s not in Bitbucket,
-
-it doesn’t exist.
-
-## Reinforcing Development Best Practices
-
-with brutally **inflexible** rules.
-
----
-
 A fly-on-the-wall at the MMT Digital offices might occasionally hear mutterings along the lines of;
 
 > “If it’s not in Bitbucket, it doesn’t exist.”
 
 A phrase which, when uttered, roughly translates as _“what the heck are you doing? how am I supposed to work with this?”_ and essentially boils down to the belief that;
 
----
-
-#### Once you understand source control, you can’t
-
-fathom why you would ever work without it again.
-
----
+#### Once you understand source control, you can’t fathom why you would ever work without it again.
 
 _Source control_ is essentially the management of versions and changes to files. But why should we insist so strongly that everyone uses it?
 
