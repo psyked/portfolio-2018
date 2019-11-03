@@ -61,6 +61,7 @@ const Banner = ({
   image,
   imageCredit,
   imageCreditMarkdown,
+  timeToRead,
   ...props
 }) => {
   let background
@@ -116,7 +117,7 @@ const Banner = ({
           </div>
         )}
         {!!date && (
-          <aside>Published: {format(new Date(date), 'DD MMM YYYY')}</aside>
+          <aside>Published: {format(new Date(date), 'DD MMM YYYY')} {!!timeToRead && <> | {timeToRead} minute read</>}</aside>
         )}
       </div>
     </Wrapper>

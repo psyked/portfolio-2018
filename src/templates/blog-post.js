@@ -39,7 +39,7 @@ class BlogPostTemplate extends React.Component {
             />
           )}
         </Helmet>
-        <Banner {...frontmatter} imageCreditMarkdown={imageCredit} />
+        <Banner {...frontmatter} imageCreditMarkdown={imageCredit} timeToRead={post.timeToRead} />
         <div className="bodyContainer">
           <div className="inner">
             <div className="bodyContent">
@@ -69,6 +69,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       id
       html
+      timeToRead
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
