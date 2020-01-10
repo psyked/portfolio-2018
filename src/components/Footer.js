@@ -7,6 +7,7 @@ import {
   FaInstagram,
   FaMedium,
   FaLinkedin,
+  FaDev,
 } from 'react-icons/fa'
 
 const Overlay = styled.aside`
@@ -145,6 +146,14 @@ const Footer = (props) => (
                 <FaGithub />
                 GitHub
                         </span>
+            </a>
+          </GitHubLink>
+          <GitHubLink>
+            <a href="//dev.to/psyked">
+              <span>
+                <FaDev />
+                Dev.to
+              </span>
             </a>
           </GitHubLink>
           <LinkedInLink>
