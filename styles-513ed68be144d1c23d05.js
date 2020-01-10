@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{A06M:function(a,o,t){a.exports={tagsLabel:"tags-module--tagsLabel--1AV4E",tag:"tags-module--tag--3kCeK"}},wcMv:function(a,o,t){}}]);
+//# sourceMappingURL=styles-513ed68be144d1c23d05.js.map

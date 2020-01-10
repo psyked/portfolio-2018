@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/tags.module.scss"],"names":["module","exports"],"mappings":"8EACAA,EAAOC,QAAU,CAAC,UAAY,gCAAgC,IAAM,4B","file":"styles-513ed68be144d1c23d05.js","sourcesContent":["// extracted by mini-css-extract-plugin\nmodule.exports = {\"tagsLabel\":\"tags-module--tagsLabel--1AV4E\",\"tag\":\"tags-module--tag--3kCeK\"};"],"sourceRoot":""}
