@@ -88,7 +88,7 @@ const Tiles = ({ tiles }) => {
                       {tile.frontmatter.description}
                     </p>
                     <DateLabel>
-                      {format(new Date(tile.frontmatter.date), 'DD MMM YYYY')}
+                      {format(new Date(tile.frontmatter.date), 'DD MMM yyyy')}
                     </DateLabel>
                   </Link>
                 </Tile>

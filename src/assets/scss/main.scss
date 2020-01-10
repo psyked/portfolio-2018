@@ -43,11 +43,11 @@ body {
   padding: 0;
   background: var(--bg);
   color: var(--text-color);
-  background-image: radial-gradient(var(--fg) 1px, transparent 0),
-    radial-gradient(var(--fg) 0.5px, transparent 0),
-    radial-gradient(var(--fg) 0.5px, transparent 0);
-  background-size: 1em 1em, 1em 1em, 1em 1em;
-  background-position: top left, 0 -0.5em, -0.5em 0;
+  // background-image: radial-gradient(var(--fg) 1px, transparent 0),
+  //   radial-gradient(var(--fg) 0.5px, transparent 0),
+  //   radial-gradient(var(--fg) 0.5px, transparent 0);
+  // background-size: 1em 1em, 1em 1em, 1em 1em;
+  // background-position: top left, 0 -0.5em, -0.5em 0;
   transition: background-color 0.3s ease-in, color 0.3s ease-in;
 
   &.dark {
@@ -156,7 +156,7 @@ hr {
 
   background: var(--fg);
   border: 0;
-  height: 1px;
+  height: 0.1em;
   margin: 0 auto;
   max-width: 60em;
   overflow: visible;
@@ -284,6 +284,16 @@ ul {
   li {
     padding: 0;
     margin: 0 0 0 40px;
+  }
+}
+
+.image-group {
+  display:flex;
+
+  &.two-images {
+    .gatsby-resp-image-wrapper {
+      width:50%;
+    }
   }
 }
 

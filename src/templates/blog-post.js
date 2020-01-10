@@ -9,6 +9,11 @@ import Tags from '../components/Tags'
 import SourcePost from '../components/SourcePost'
 import Layout from '../components/Layout'
 
+// const doubleImageRegex = /<p>(<span\s*class="gatsby-resp-image-wrapper"[.\w\W]*?)<\/p>\s*<p>(<span\s*class="gatsby-resp-image-wrapper"[.\w\W]*?)<\/p>/gi
+const doubleImageRegex = /<p>(<span\s*class="gatsby-resp-image-wrapper"[\s\w\W]*?>)<\/p>[\s]*?<p>(<span\s*class="gatsby-resp-image-wrapper"[\s\w\W]*?>)<\/p>/gi
+
+const processedHTML = (html) => html.replace(doubleImageRegex, `<div class="image-group two-images">$1$2</div>`);
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark || {}
@@ -43,7 +48,7 @@ class BlogPostTemplate extends React.Component {
         <div className="bodyContainer">
           <div className="inner">
             <div className="bodyContent">
-              <div dangerouslySetInnerHTML={{ __html: post.html }} />
+              <div dangerouslySetInnerHTML={{ __html: processedHTML(post.html) }} />
               <hr className="endPost" />
               <SourcePost url={url} />
               <Tags tags={tags} />
@@ -72,7 +77,7 @@ export const pageQuery = graphql`
       timeToRead
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMMM DD, yyyy")
         tags
         url
         image {

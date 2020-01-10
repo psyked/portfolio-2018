@@ -157,7 +157,7 @@ class Speaking extends Component {
                                       <a href={link}>
                                         {`${name}, ${format(
                                           new Date(date),
-                                          'Do MMMM YYYY'
+                                          'Do MMMM yyyy'
                                         )}`}
                                       </a>
                                       {!!recording && (
@@ -223,7 +223,7 @@ export const pageQuery = graphql`
           excerpt(pruneLength: 250)
           html
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMMM DD, yyyy")
             path
             title
             image {

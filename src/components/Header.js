@@ -39,7 +39,6 @@ const MenuLink = styled(Link)`
   }
 
   &.active {
-    border-radius: 0.15em;
     background-color: hsl(346, 88%, 52%);
   }
 `
