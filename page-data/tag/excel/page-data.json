@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-tag-list-template-js","path":"/tag/excel/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Squiddler","path":"/blog/squiddler/"}}}]}},"pageContext":{"tag":"excel"}}}
+{"componentChunkName":"component---src-templates-tag-list-template-js","path":"/tag/excel/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"id":"00cd9012-e8d9-5692-8c6f-d2a2bc5ac49a","frontmatter":{"title":"Squiddler","path":"/blog/squiddler/"}}}]}},"pageContext":{"tag":"excel"}}}
