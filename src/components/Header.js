@@ -6,7 +6,7 @@ import ThemeSwitch from './ThemeSwitch'
 
 const Header = styled.header`
   display: block;
-  background: hsl(240, 14%, 19%);
+  // background: hsl(240, 14%, 19%);
   padding-left: calc((100vw - 60em) / 2);
   padding-right: calc((100vw - 60em) / 2);
 `
@@ -30,7 +30,7 @@ const MenuLink = styled(Link)`
     :active,
     :visited,
     :hover {
-      color: hsl(240, 14%, 99%);
+      color: var(--text-colour)
     }
   }
 
@@ -55,7 +55,7 @@ const HeaderComponent = props => (
     <Wrapper>
       <Nav>
         <MenuLink to="/" activeClassName="active" exact="true">
-          Home
+          Profile
         </MenuLink>
         <MenuLink to="/blog/" activeClassName="active">
           Blog Archive

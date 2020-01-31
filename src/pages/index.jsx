@@ -33,20 +33,18 @@ class HomeIndex extends React.Component {
         </Helmet>
 
         <Banner
-          title={
-            <>
-              <span className="label inverse" role="presentation">
-                name
-              </span>
-              James Ford
-            </>
-          }
+          title={<>James Ford</>}
           image={image}
           imageCredit={
             <span>
-              <a href="https://www.instagram.com/benjamin_squire/">
-                Ben Squire
+              Photo by{' '}
+              <a href="https://unsplash.com/@sandrokatalina?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
+                Sandro Katalina
               </a>{' '}
+              on{' '}
+              <a href="/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
+                Unsplash
+              </a>
             </span>
           }
         />
@@ -58,25 +56,45 @@ class HomeIndex extends React.Component {
                 <div>
                   <h2>
                     <span className="label" role="presentation">
-                      job title
+                      current job title:
                     </span>
                     Technical Lead at comparethemarket.com
                   </h2>
                   <p>
                     <span className="label" role="presentation">
-                      biography
+                      biography:
                     </span>
-                    I make things for the web, currently with React.
-                  </p>
-                  <p>
-                    <span className="label" role="presentation">
-                      about this website
-                    </span>
-                    This is my portfolio website, powered by Gatsby and hosted
-                    using GitHub Pages. It exists to mirror any content that I
-                    create elsewhere on the web.
+                    <span class="highlight">I make things for the web,</span>{' '}
+                    currently with React as my "weapon of choice." Prior to that
+                    I've built component libraries following the atomic design
+                    principles, JavaScript-based eBook readers, realtime
+                    competitive educational multiplayer HTML5 games, iOS and
+                    Android Apps, Flash games, desktop applications and
+                    run-of-the-mill websites.
                   </p>
                 </div>
+              </section>
+            </article>
+
+            <hr />
+
+            <article>
+              <section className="bodyContent">
+                <p>
+                  <span className="label" role="presentation">
+                    about this website:
+                  </span>
+                  This is my portfolio website, powered by Gatsby and hosted
+                  using GitHub Pages. It exists to mirror any content that I
+                  create elsewhere on the web, because it seems prudent to
+                  maintain a level of distrust of third party services.
+                </p>
+                <p>
+                  This website is designed with the intent to be fast,
+                  lightweight and accessible. It is primarily about the content
+                  and exploring what can be achieved with raw text and media
+                  files, rather than bespoke HTML.
+                </p>
               </section>
             </article>
 
@@ -123,7 +141,9 @@ export const pageQuery = graphql`
         }
       }
     }
-    image: file(relativePath: { eq: "profile-photo.jpg" }) {
+    image: file(
+      relativePath: { eq: "sandro-katalina-k1bO_VTiZSs-unsplash.jpg" }
+    ) {
       childImageSharp {
         # Specify a fluid image and fragment
         # The default maxWidth is 800 pixels
