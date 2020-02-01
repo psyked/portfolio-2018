@@ -132,7 +132,7 @@ class Blog extends Component {
                     </section>
                   )
                 })}
-              <hr className="endPost" />
+              {/* <hr className="endPost" /> */}
             </div>
           </div>
         </div>

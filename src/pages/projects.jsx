@@ -90,7 +90,7 @@ class Speaking extends Component {
                 </>
               )
             })}
-            <hr className="endPost" />
+            {/* <hr className="endPost" /> */}
           </div>
         </div>
       </Layout>

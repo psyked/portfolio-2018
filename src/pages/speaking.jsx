@@ -157,7 +157,7 @@ class Speaking extends Component {
                                       <a href={link}>
                                         {`${name}, ${format(
                                           new Date(date),
-                                          'Do MMMM yyyy'
+                                          'do MMMM yyyy'
                                         )}`}
                                       </a>
                                       {!!recording && (
@@ -195,7 +195,7 @@ class Speaking extends Component {
                 }
               )}
             </section>
-            <hr className="endPost" />
+            <hr />
           </div>
         </div>
       </Layout>

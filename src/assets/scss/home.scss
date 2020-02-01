@@ -1,32 +1,32 @@
-.external-profiles {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
+// .external-profiles {
+//     display: flex;
+//     list-style: none;
+//     margin: 0;
+//     padding: 0;
 
-    li {
-        display: flex;
-        flex: 1 1 auto;
-        margin: 0.5em;
-        padding: 1em 0.5em;
-        text-align: center;
-        border: .1em solid;
+//     li {
+//         display: flex;
+//         flex: 1 1 auto;
+//         margin: 0.5em;
+//         padding: 1em 0.5em;
+//         text-align: center;
+//         border: .1em solid;
 
-        &:first-child {
-            margin-left: 0;
-        }
+//         &:first-child {
+//             margin-left: 0;
+//         }
 
-        &:last-child {
-            margin-right: 0;
-        }
+//         &:last-child {
+//             margin-right: 0;
+//         }
 
-        a {
-            margin: auto;
-        }
+//         a {
+//             margin: auto;
+//         }
 
-        svg {
-            width: 100%;
-            height: 2em;
-        }
-    }
-}
+//         svg {
+//             width: 100%;
+//             height: 2em;
+//         }
+//     }
+// }

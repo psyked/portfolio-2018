@@ -49,9 +49,9 @@ body {
   //   radial-gradient(var(--fg) 0.5px, transparent 0);
   // background-size: 1em 1em, 1em 1em, 1em 1em;
   // background-position: top left, 0 -0.5em, -0.5em 0;
-  transition: background-color 0.3s ease-in, color 0.3s ease-in;
+  // transition: background-color 0.3s ease-in, color 0.3s ease-in;
 
-  &.dark {
+  @media (prefers-color-scheme: dark) {
     --fg: #fcfcfd;
     --bg: hsl(240, 14%, 19%);
     --text-color: #fcfcfd;
@@ -59,11 +59,11 @@ body {
     --link-color: #ffeb3b;
     --link-visited-color: #ffc107;
 
-    background-image: radial-gradient(black 5%, transparent 0);
+    // background-image: radial-gradient(black 5%, transparent 0);
   }
 
   a {
-    transition: color 0.3s ease-in;
+    // transition: color 0.3s ease-in;
 
     &:link,
     &:active,
@@ -137,7 +137,7 @@ main {
     background: var(--bg);
     padding-top: 1em;
     padding-bottom: 1em;
-    transition: background 0.3s ease-in;
+    // transition: background 0.3s ease-in;
   }
 }
 
@@ -163,7 +163,7 @@ hr {
   max-width: 60em;
   overflow: visible;
   text-align: center;
-  transition: background 0.3s ease-in;
+  // transition: background 0.3s ease-in;
 
   &:after {
     background: var(--bg);
@@ -173,7 +173,7 @@ hr {
     padding: 0 0.4em;
     position: relative;
     top: -0.7em;
-    transition: background 0.3s ease-in;
+    // transition: background 0.3s ease-in;
   }
 
   &:first-child {
@@ -313,4 +313,4 @@ ul {
 //     }
 // }
 
-@import './home';
+// @import './home';

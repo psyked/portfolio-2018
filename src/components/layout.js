@@ -27,6 +27,7 @@ class Template extends React.Component {
         <Header />
         <main>{children}</main>
         <Footer colour={colour} />
+        <hr className="endPost" />
       </>
     )
   }

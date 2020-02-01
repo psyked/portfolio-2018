@@ -33,13 +33,19 @@ const MenuLink = styled(Link)`
       color: var(--text-colour)
     }
   }
-
+  
   &:last-child {
     margin-right: 0;
   }
-
+  
   &.active {
     background-color: hsl(346, 88%, 52%);
+  }
+  
+  @media (prefers-color-scheme: light) {
+    &.active {
+      color: var(--text-color-inverse)
+    }
   }
 `
 
@@ -67,7 +73,7 @@ const HeaderComponent = props => (
           Public Speaking
         </MenuLink>
       </Nav>
-      <ThemeSwitch />
+      {/* <ThemeSwitch /> */}
     </Wrapper>
   </Header>
 )

@@ -21,113 +21,117 @@ const Overlay = styled.aside`
 `
 
 const TwitterLink = styled.li`
-  background: #00acee;
+  // background: #00acee;
 
-  a,
-  a:link,
-  a:active,
-  a:hover,
-  a:visited {
-    color: #ffffff;
-    text-decoration: none;
-  }
+  // a,
+  // a:link,
+  // a:active,
+  // a:hover,
+  // a:visited {
+  //   color: #ffffff;
+  //   text-decoration: none;
+  // }
 
-  a:hover {
-    text-decoration: underline;
-  }
+  // a:hover {
+  //   text-decoration: underline;
+  // }
 `
 
 const GitHubLink = styled.li`
-  background: #181818;
+  // background: #181818;
 
-  a,
-  a:link,
-  a:active,
-  a:hover,
-  a:visited {
-    color: #ffffff;
-    text-decoration: none;
-  }
+  // a,
+  // a:link,
+  // a:active,
+  // a:hover,
+  // a:visited {
+  //   color: #ffffff;
+  //   text-decoration: none;
+  // }
 
-  a:hover {
-    text-decoration: underline;
-  }
+  // a:hover {
+  //   text-decoration: underline;
+  // }
 `
 
 const LinkedInLink = styled.li`
-  background: #0077b5;
+  // background: #0077b5;
 
-  a,
-  a:link,
-  a:active,
-  a:hover,
-  a:visited {
-    color: #ffffff;
-    text-decoration: none;
-  }
+  // a,
+  // a:link,
+  // a:active,
+  // a:hover,
+  // a:visited {
+  //   color: #ffffff;
+  //   text-decoration: none;
+  // }
 
-  a:hover {
-    text-decoration: underline;
-  }
+  // a:hover {
+  //   text-decoration: underline;
+  // }
 `
 
 const MediumLink = styled.li`
-  background: #37b042;
+  // background: #37b042;
 
-  a,
-  a:link,
-  a:active,
-  a:hover,
-  a:visited {
-    color: #ffffff;
-    text-decoration: none;
-  }
+  // a,
+  // a:link,
+  // a:active,
+  // a:hover,
+  // a:visited {
+  //   color: #ffffff;
+  //   text-decoration: none;
+  // }
 
-  a:hover {
-    text-decoration: underline;
-  }
+  // a:hover {
+  //   text-decoration: underline;
+  // }
 `
 
 const InstagramLink = styled.li`
-  background: #d6249f;
-  background: radial-gradient(
-    circle at 30% 107%,
-    #fdf497 0%,
-    #fdf497 5%,
-    #fd5949 45%,
-    #d6249f 60%,
-    #285aeb 90%
-  );
+  // background: #d6249f;
+  // background: radial-gradient(
+  //   circle at 30% 107%,
+  //   #fdf497 0%,
+  //   #fdf497 5%,
+  //   #fd5949 45%,
+  //   #d6249f 60%,
+  //   #285aeb 90%
+  // );
 
-  a,
-  a:link,
-  a:active,
-  a:hover,
-  a:visited {
-    color: #ffffff;
-    text-decoration: none;
-  }
+  // a,
+  // a:link,
+  // a:active,
+  // a:hover,
+  // a:visited {
+  //   color: #ffffff;
+  //   text-decoration: none;
+  // }
 
-  a:hover {
-    text-decoration: underline;
-  }
+  // a:hover {
+  //   text-decoration: underline;
+  // }
 `
 
 const Footer = (props) => (
   <footer id="footer" style={{
-    backgroundColor: props.colour || 'hsla(240, 100%, 12%, 0.6)',
-    position: 'relative',
-    padding: '1em 0 3em'
+    // backgroundColor: props.colour || 'hsla(240, 100%, 12%, 0.6)',
+    // position: 'relative',
+    // padding: '1em 0 3em'
   }}>
-    <Overlay />
-    <div className="bodyContainer" style={{ zIndex: 2, position: 'relative', color: 'white' }}>
+    {/* <Overlay /> */}
+    <div className="bodyContainer" style={{
+      zIndex: 2,
+      position: 'relative',
+      //   color: 'white'
+    }}>
       <div className="bodyContent">
         <h3>Elsewhere, on social media;</h3>
         <ul className="external-profiles">
           <TwitterLink>
             <a href="//twitter.com/psyked">
               <span>
-                <FaTwitter />
+                <FaTwitter />{' '}
                 Twitter
                         </span>
             </a>
@@ -135,7 +139,7 @@ const Footer = (props) => (
           <InstagramLink>
             <a href="//instagram.com/psyked">
               <span>
-                <FaInstagram />
+                <FaInstagram />{' '}
                 Instagram
                         </span>
             </a>
@@ -143,7 +147,7 @@ const Footer = (props) => (
           <GitHubLink>
             <a href="//github.com/psyked">
               <span>
-                <FaGithub />
+                <FaGithub />{' '}
                 GitHub
                         </span>
             </a>
@@ -151,7 +155,7 @@ const Footer = (props) => (
           <GitHubLink>
             <a href="//dev.to/psyked">
               <span>
-                <FaDev />
+                <FaDev />{' '}
                 Dev.to
               </span>
             </a>
@@ -159,7 +163,7 @@ const Footer = (props) => (
           <LinkedInLink>
             <a href="//linkedin.com/in/jamesford">
               <span>
-                <FaLinkedin />
+                <FaLinkedin />{' '}
                 LinkedIn
                         </span>
             </a>
@@ -167,7 +171,7 @@ const Footer = (props) => (
           <MediumLink>
             <a href="//medium.com/@psyked">
               <span>
-                <FaMedium />
+                <FaMedium />{' '}
                 Medium
                         </span>
             </a>

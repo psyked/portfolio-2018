@@ -107,7 +107,7 @@ class HomeIndex extends React.Component {
               <ReactMarkdown source={content} />
             </section>
 
-            <hr className="endPost" />
+            {/* <hr className="endPost" /> */}
           </div>
         </div>
       </Layout>
