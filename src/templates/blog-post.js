@@ -10,7 +10,7 @@ import SourcePost from '../components/SourcePost'
 import Layout from '../components/Layout'
 
 // const doubleImageRegex = /<p>(<span\s*class="gatsby-resp-image-wrapper"[.\w\W]*?)<\/p>\s*<p>(<span\s*class="gatsby-resp-image-wrapper"[.\w\W]*?)<\/p>/gi
-const doubleImageRegex = /<p>(<span\s*class="gatsby-resp-image-wrapper"[\s\w\W]*?>)<\/p>[\s]*?<p>(<span\s*class="gatsby-resp-image-wrapper"[\s\w\W]*?>)<\/p>/gi
+const doubleImageRegex = /<p>(<span\s*class="gatsby-resp-image-wrapper"[\s\w\W]*?\/span>)<\/p>[\s]*?<p>(<span\s*class="gatsby-resp-image-wrapper"[\s\w\W]*?\/span>)<\/p>/gi
 
 const processedHTML = (html) => html.replace(doubleImageRegex, `<div class="image-group two-images">$1$2</div>`);
 
